@@ -1,0 +1,18 @@
+---
+layout: post
+title: Occupy at 10 with Astra Taylor
+permalink: https://www.thedigradio.com/podcast/occupy-at-10-with-astra-taylor/index.html
+post_id: 2033
+categories: 
+- Astra Taylor
+- Occupy Wall Street
+- Podcast
+- Social Movements
+- US History
+---
+
+It's Occupy Wall Street's tenth anniversary. Dan interviews Astra Taylor.
+
+Support The Dig at Patreon.com/TheDig and get our new weekly newsletter.
+
+Listen to other pods in the retrospective series https://rosalux.nyc/occupy/

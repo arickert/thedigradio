@@ -1,0 +1,18 @@
+---
+layout: post
+title: Transcript: What Now with Cornel West
+permalink: https://www.thedigradio.com/podcast/transcript-what-now-with-cornel-west/index.html
+post_id: 1872
+categories: 
+- Black Politics
+- Cornel West
+- Electoral Politics
+- Podcast
+---
+
+[Listen to Episode](http://<a class="btn btn-theme-primary" href="https://www.thedigradio.com/podcast/what-now-with-cornel-west/">Listen to Episode</a>)
+
+Dan interviews Cornel West on how to think about and act upon the world that this week presented to us.
+
+Read the full transcript from 
+[Jacobin](https://jacobinmag.com/2020/12/cornel-west-interview-bernie-black-lives-matter).

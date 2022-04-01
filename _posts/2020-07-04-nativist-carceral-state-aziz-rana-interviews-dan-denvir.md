@@ -1,0 +1,20 @@
+---
+layout: post
+title: Nativist Carceral State: Aziz Rana interviews Dan Denvir
+permalink: https://www.thedigradio.com/podcast/nativist-carceral-state-aziz-rana-interviews-dan-denvir/index.html
+post_id: 1716
+categories: 
+- Aziz Rana
+- Criminal Justice
+- Immigration
+- Podcast
+---
+
+Aziz Rana interviews Dan Denvir on how policing and mass incarceration became core features of the war on immigrants and on his book 
+All-American Nativism: How the Bipartisan War on Immigrants Explains Politics as We Know It.
+
+Please support this podcast wit $ at 
+[Patreon.com/TheDig](http://Patreon.com/TheDig)
+
+Buy Dan's book at 
+[versobooks.com/books/2858-all-american-nativism](http://versobooks.com/books/2858-all-american-nativism)

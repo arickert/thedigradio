@@ -1,0 +1,15 @@
+---
+layout: post
+title: Bonus Episode: Larry Krasner's Full Interview
+permalink: https://www.thedigradio.com/podcast/bonus-episode-larry-krasners-full-interview/index.html
+post_id: 647
+categories: 
+- Criminal Justice
+- Electoral Politics
+- Larry Krasner
+- Podcast
+- Racism
+---
+
+Here's Dan's full interview with civil rights attorney and Democratic nominee for Philadelphia District Attorney Larry Krasner. You heard some of it yesterdayon the first in a four-part series on mass incarceration that we are co-producing with Cited, a podcast out of the University of British Columbia. Sponsorship from Harvard Law's Fair Punishment Project (sign up for their newsletter:[http://eepurl.com/
+cZMccH](http://eepurl.com/cZMccH)) and The University of Washington Center for Human Rights.

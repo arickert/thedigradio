@@ -1,0 +1,14 @@
+---
+layout: post
+title: Alex Press on Collective Action to Fight Sexual Harassment
+permalink: https://www.thedigradio.com/podcast/alex-press-on-collective-action-to-fight-sexual-harassment/index.html
+post_id: 639
+categories: 
+- Alex Press
+- Feminism
+- Labor Movement
+- Organizing
+- Podcast
+---
+
+The exposure of Weinstein's predations has reignited widespread fury  over the longstanding problem of sexual harassment and  assault—especially in the workplace. Jacobin editor @alexnpress  discusses two new pieces she wrote on how dealing with these problems as  individuals only ends up harming individual women and why women must  organize to fight back. Thanks to our sponsors at Verso Books. Check  out Futures of Black Radicalism  https://www.versobooks.com/books/2438-futures-of-black-radicalism And  support as on Patreon.com/TheDig with some cash.

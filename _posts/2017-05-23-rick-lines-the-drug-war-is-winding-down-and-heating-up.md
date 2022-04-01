@@ -1,0 +1,12 @@
+---
+layout: post
+title: Rick Lines: The drug war is winding down and heating up
+permalink: https://www.thedigradio.com/podcast/rick-lines-the-drug-war-is-winding-down-and-heating-up/index.html
+post_id: 674
+categories: 
+- Criminal Justice
+- Podcast
+- Rick Lines
+---
+
+The drug war is winding down and heating up all at the same time. States are legalizing recreational weed while prosecutors around the country are charging dealers, including small-time ones, with murder when their drugs contribute to someone else’s fatal overdose; attorney Jeff Sessions has instructed US Attorneys to go to the max on severe mandatory minimum sentences. Rick Lines, executive director of Harm Reduction International, lays out what an alternative to the drug war should look like.

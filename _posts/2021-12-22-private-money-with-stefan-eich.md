@@ -1,0 +1,20 @@
+---
+layout: post
+title: Private Money with Stefan Eich
+permalink: https://www.thedigradio.com/podcast/private-money-with-stefan-eich/index.html
+post_id: 2089
+categories: 
+- Cryptocurrency
+- Finance
+- Neoliberalism
+- Podcast
+- Stefan Eich
+---
+
+Episode two of our two-part series on cryptocurrency: political theorist Stefan Eich on how crypto fits into Hayek's old neoliberal dream of private money and why that vision emerged in a new form in the wake of the 2008 financial crisis. 
+
+Read Stefan's article: static1.squarespace.com/static/5ae8a7b625bf02c0b85aec02/t/5c923c13eef1a1ce843836ff/1553087508427/Stefan+Eich%2C+Old+Utopias%2C+New+Tax+Havens+%282019%29.pdf 
+
+Support The Dig at Patreon.com/TheDig
+
+Check out We're Not Here to Entertain: Punk Rock, Ronald Reagan, and the Real Culture War of 1980s America by Kevin Mattson global.oup.com/academic/product/were-not-here-to-entertain-9780190908232

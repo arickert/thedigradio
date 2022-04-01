@@ -1,0 +1,18 @@
+---
+layout: post
+title: Revisiting Racecraft with Barbara and Karen Fields
+permalink: https://www.thedigradio.com/podcast/revisiting-racecraft-with-barbara-and-karen-fields/index.html
+post_id: 625
+categories: 
+- Barbara Fields
+- Karen Fields
+- Podcast
+- Racism
+---
+
+[View Transcript](https://www.jacobinmag.com/2018/01/racecraft-racism-barbara-karen-fields)
+
+
+A lengthy interview with historian Barbara Fields and sociologist Karen Fields on their seminal essay collection Racecraft: The Soul of Inequality in American Life. Dan talks to the sister scholars about the book; how Ta-Nehisi Coates’ primordialist view of white racism spells defeat; that racism serves the interest of capitalist class war, and endless debates over Rachel Dolezal distract us from that fact; and a whole ton more. This is over two hours, so you might want to bite it off on a few chunks, or on a long drive. Thanks to our sponsors at Verso. Check out Tear Gas: From the Battlefields of WWI to the Streets of Today by Anna Feigenbaum versobooks.com/books/2109-tear-gas And support your (favorite?) left-wing podcast at Patreon.com/TheDig
+
+ 

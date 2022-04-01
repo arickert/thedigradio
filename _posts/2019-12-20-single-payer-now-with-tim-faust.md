@@ -1,0 +1,18 @@
+---
+layout: post
+title: Single-Payer Now! with Tim Faust
+permalink: https://www.thedigradio.com/podcast/single-payer-now-with-tim-faust/index.html
+post_id: 1430
+categories: 
+- Healthcare
+- Podcast
+- Tim Faust
+---
+
+Why we need single-payer healthcare, why Medicare for All is suddenly at the center of debate, and why this is all part of a broader struggle for health justice. Dan interviews Tim Faust.
+
+Thanks to Verso. Check out their huge selection of left-wing titles at 
+[Patreon.com/TheDig](http://Patreon.com/TheDig)
+
+Please support this podcast with your money at 
+[Patreon.com/TheDig](http://Patreon.com/TheDig)

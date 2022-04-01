@@ -1,0 +1,19 @@
+---
+layout: post
+title: The Problem with the Problem with Appalachia
+permalink: https://www.thedigradio.com/podcast/the-problem-with-the-problem-with-appalachia/index.html
+post_id: 552
+categories: 
+- Economics
+- Elizabeth Catte
+- Media Bias
+- Podcast
+---
+
+For many, conservatives and liberals alike, Appalachia provides a skeleton key for interpreting changes in American politics that might otherwise be difficult to comprehend. But the way conservatives and liberals talk about Appalachia tells us a lot more about conservatives and liberals than it does about the region. Elizabeth Catte, the author of 
+, puts the region and representations of it in historical and political-economic context.
+
+Thanks to Verso Books, which has loads of great left-wing titles at www.versobooks.com. And thanks to University of California Press, which just published 
+ by Barbara Ransby ucpress.edu/book/9780520292710/making-all-black-lives-matter
+
+Support this podcast with money at Patreon.com/TheDig

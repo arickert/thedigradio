@@ -1,0 +1,13 @@
+---
+layout: post
+title: Thea Riofrancos: Left Power and Environmentalism in Ecuador
+permalink: https://www.thedigradio.com/podcast/thea-riofrancos-left-power-and-environmentalism-in-ecuador/index.html
+post_id: 666
+categories: 
+- Environment
+- Latin America
+- Podcast
+- Thea Riofrancos
+---
+
+In Ecuador, the left won reelection this year, after Alianza PAÍS candidate Lenin Moreno, former President Rafael Correa’s vice president, narrowly won election this year. It was a major victory given the crisis hitting the pink tide of left governments throughout the region. But it was perilously close to a loss. Correa accomplished a lot for the country’s poor majority but did so thanks to a commodity boom that has since gone bust, a strategy that put the left government in conflict with indigenous and environmental movements. Dan’s guest today is Thea Riofrancos, a political scientist at Providence College. Thanks to our supporters at nacla.org, the best source for left-wing analysis on Latin America.

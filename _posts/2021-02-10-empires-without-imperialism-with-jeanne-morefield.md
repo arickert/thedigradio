@@ -1,0 +1,24 @@
+---
+layout: post
+title: Empires Without Imperialism with Jeanne Morefield
+permalink: https://www.thedigradio.com/podcast/empires-without-imperialism-with-jeanne-morefield/index.html
+post_id: 1885
+categories: 
+- Imperialism and Foreign Policy
+- Jeanne Morefield
+- Liberalism
+- Podcast
+- Right-Wing Politics
+---
+
+Dan interviews Jeanne Morefield on her book 
+Empires Without Imperialism: Anglo-American Decline and the Politics of Deflection and how the disavowed wars have come home on the American Right. 
+
+Support this podcast at 
+[Patreon.com/TheDig](http://Patreon.com/TheDig)
+
+Join the Dig Book Club at 
+[thedigradio.com/dig-book-club](http://thedigradio.com/dig-book-club)
+
+Check out our vast archives at 
+[thedigradio.com](http://thedigradio.com)
