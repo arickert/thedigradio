@@ -1,10 +1,12 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
+title: The Dig
+tagline: The Dig
 url: https://getpoole.com
 paginate: 1
 baseurl: ""
 permalink: pretty
+
+
 
 # Gems
 plugins:
@@ -39,3 +41,9 @@ author:
 
 # Custom vars
 version: 3.0.0
+
+#pages
+pages:       
+  Options: '/2020/04/03/options/'
+  Introduction: '/2020/04/04/introduction/'
+  Archive: '/archive/'

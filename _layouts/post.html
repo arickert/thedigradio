@@ -1,10 +1,12 @@
 ---
 layout: default
+postflag: 0
 ---
 
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
+  <audio controls><source src="https://content.blubrry.com/thedig/The_Dig-EP_347-Pinkham-Mulder.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio>
   {{ content }}
 </article>
 
