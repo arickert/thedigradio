@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Contradictions with Eric Levitz
-permalink: https://www.thedigradio.com/podcast/contradictions-with-eric-levitz/index.html
+title: "Contradictions with Eric Levitz"
+permalink: podcast/contradictions-with-eric-levitz
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_181_-_Levitz.mp3
 post_id: 519
 categories: 
 - Electoral Politics

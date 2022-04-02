@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Beware Carceral Gun Control
-permalink: https://www.thedigradio.com/podcast/beware-carceral-gun-control/index.html
+title: "Beware Carceral Gun Control"
+permalink: podcast/beware-carceral-gun-control
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_55_-_Levin.mp3
 post_id: 646
 categories: 
 - Ben Levin

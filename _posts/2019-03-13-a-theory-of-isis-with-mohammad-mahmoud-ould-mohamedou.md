@@ -1,7 +1,8 @@
 ---
 layout: post
-title: A Theory of ISIS with Mohammad-Mahmoud Ould Mohamedou
-permalink: https://www.thedigradio.com/podcast/a-theory-of-isis-with-mohammad-mahmoud-ould-mohamedou/index.html
+title: "A Theory of ISIS with Mohammad-Mahmoud Ould Mohamedou"
+permalink: podcast/a-theory-of-isis-with-mohammad-mahmoud-ould-mohamedou
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_186_-_Mahmoud.mp3
 post_id: 514
 categories: 
 - Imperialism and Foreign Policy

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Asian America w/ Andy Liu, Jay Caspian Kang, & Tammy Kim
-permalink: https://www.thedigradio.com/podcast/asian-america-w-andy-liu-jay-caspian-kang-tammy-kim/index.html
+title: "Asian America w/ Andy Liu, Jay Caspian Kang, & Tammy Kim"
+permalink: podcast/asian-america-w-andy-liu-jay-caspian-kang-tammy-kim
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_300-TTSG.mp3
 post_id: 1935
 categories: 
 - Andy Liu

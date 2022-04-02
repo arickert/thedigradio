@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Populism's Power
-permalink: https://www.thedigradio.com/podcast/populisms-power/index.html
+title: "Populism's Power"
+permalink: podcast/populisms-power
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_176_-_GrattanRiofrancos.mp3
 post_id: 524
 categories: 
 - Laura Grattan

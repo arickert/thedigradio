@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Striketober
-permalink: https://www.thedigradio.com/podcast/striketober/index.html
+title: "Striketober"
+permalink: podcast/striketober
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_330-Striketober.mp3
 post_id: 2056
 categories: 
 - Alex Press

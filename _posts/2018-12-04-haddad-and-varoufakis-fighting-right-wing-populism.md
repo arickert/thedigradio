@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Haddad and Varoufakis Fighting Right-Wing Populism
-permalink: https://www.thedigradio.com/podcast/haddad-and-varoufakis-fighting-right-wing-populism/index.html
+title: "Haddad and Varoufakis Fighting Right-Wing Populism"
+permalink: podcast/haddad-and-varoufakis-fighting-right-wing-populism
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_167_-_HaddadVaroufakis.mp3
 post_id: 533
 categories: 
 - Economics

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Italian Situation with David Broder, Lorenzo Zamponi, and Marta Fana
-permalink: https://www.thedigradio.com/podcast/the-italian-situation-with-david-broder-lorenzo-zamponi-and-marta-fana/index.html
+title: "The Italian Situation with David Broder, Lorenzo Zamponi, and Marta Fana"
+permalink: podcast/the-italian-situation-with-david-broder-lorenzo-zamponi-and-marta-fana
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_205-Italy.mp3
 post_id: 1184
 categories: 
 - David Broder

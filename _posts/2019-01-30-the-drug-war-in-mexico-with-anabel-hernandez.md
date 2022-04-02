@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Drug War in Mexico with Anabel Hernández
-permalink: https://www.thedigradio.com/podcast/the-drug-war-in-mexico-with-anabel-hernandez/index.html
+title: "The Drug War in Mexico with Anabel Hernández"
+permalink: podcast/the-drug-war-in-mexico-with-anabel-hernandez
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_177_-_Hernandez.mp3
 post_id: 523
 categories: 
 - Anabel Hernández

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Yanis Varoufakis on the Economic Situation
-permalink: https://www.thedigradio.com/podcast/yanis-varoufakis-on-the-economic-situation/index.html
+title: "Yanis Varoufakis on the Economic Situation"
+permalink: podcast/yanis-varoufakis-on-the-economic-situation
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_269-Varoufakis.mp3
 post_id: 1744
 categories: 
 - Coronavirus

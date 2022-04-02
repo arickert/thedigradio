@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Right Riot with Nikhil Pal Singh and Joe Lowndes
-permalink: https://www.thedigradio.com/podcast/right-riot-with-nikhil-pal-singh-and-joe-lowndes/index.html
+title: "Right Riot with Nikhil Pal Singh and Joe Lowndes"
+permalink: podcast/right-riot-with-nikhil-pal-singh-and-joe-lowndes
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_288-Lowndes-Singh.mp3
 post_id: 1832
 categories: 
 - Donald Trump

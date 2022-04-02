@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Transcript: Bernie Sanders on Ocasio-Cortez: We're seeing it all over this country
-permalink: https://www.thedigradio.com/transcripts/transcript-bernie-sanders-on-ocasio-cortez-were-seeing-it-all-over-this-country/index.html
+title: "Transcript: Bernie Sanders on Ocasio-Cortez: We're seeing it all over this country"
+permalink: transcripts/transcript-bernie-sanders-on-ocasio-cortez-were-seeing-it-all-over-this-country
+audiolink: 
 post_id: 1313
 categories: 
 - Transcripts

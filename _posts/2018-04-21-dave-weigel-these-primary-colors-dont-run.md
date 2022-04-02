@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Dave Weigel: These Primary Colors Don’t Run
-permalink: https://www.thedigradio.com/podcast/dave-weigel-these-primary-colors-dont-run/index.html
+title: "Dave Weigel: These Primary Colors Don’t Run"
+permalink: podcast/dave-weigel-these-primary-colors-dont-run
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_104_-_Weigel.mp3
 post_id: 596
 categories: 
 - Dave Weigel

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Building a diverse working class movement to transform America
-permalink: https://www.thedigradio.com/podcast/building-a-diverse-working-class-movement-to-transform-america/index.html
+title: "Building a diverse working class movement to transform America"
+permalink: podcast/building-a-diverse-working-class-movement-to-transform-america
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP6_-_Nijmie.mov
 post_id: 695
 categories: 
 - Nijmie Dzurinko

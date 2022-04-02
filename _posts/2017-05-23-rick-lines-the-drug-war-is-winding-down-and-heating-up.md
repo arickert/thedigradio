@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Rick Lines: The drug war is winding down and heating up
-permalink: https://www.thedigradio.com/podcast/rick-lines-the-drug-war-is-winding-down-and-heating-up/index.html
+title: "Rick Lines: The drug war is winding down and heating up"
+permalink: podcast/rick-lines-the-drug-war-is-winding-down-and-heating-up
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_27_-_RickLines.mp3
 post_id: 674
 categories: 
 - Criminal Justice

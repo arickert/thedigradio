@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Hollow Center with Molly Ball and Eric Levitz
-permalink: https://www.thedigradio.com/podcast/the-hollow-center-with-molly-ball-and-eric-levitz/index.html
+title: "The Hollow Center with Molly Ball and Eric Levitz"
+permalink: podcast/the-hollow-center-with-molly-ball-and-eric-levitz
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_65_-_Ball-Levitz.mp3
 post_id: 636
 categories: 
 - Electoral Politics

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Struggle in Chile with Alondra Carrillo & Pablo Abufom
-permalink: https://www.thedigradio.com/podcast/the-struggle-in-chile-with-pablo-abufom-alondra-carrillo/index.html
+title: "The Struggle in Chile with Alondra Carrillo & Pablo Abufom"
+permalink: podcast/the-struggle-in-chile-with-pablo-abufom-alondra-carrillo
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_210-Chile.mp3
 post_id: 1259
 categories: 
 - Alondra Carrillo

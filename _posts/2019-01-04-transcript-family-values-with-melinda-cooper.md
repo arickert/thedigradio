@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Transcript: Family Values with Melinda Cooper
-permalink: https://www.thedigradio.com/transcripts/transcript-family-values-with-melinda-cooper/index.html
+title: "Transcript: Family Values with Melinda Cooper"
+permalink: transcripts/transcript-family-values-with-melinda-cooper
+audiolink: 
 post_id: 1345
 categories: 
 - Transcripts

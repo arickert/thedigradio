@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Transcript: MLK, Political Philosopher. With Tommie Shelby and Brandon Terry.
-permalink: https://www.thedigradio.com/transcripts/transcript-mlk-political-philosopher-with-tommie-shelby-and-brandon-terry/index.html
+title: "Transcript: MLK, Political Philosopher. With Tommie Shelby and Brandon Terry."
+permalink: transcripts/transcript-mlk-political-philosopher-with-tommie-shelby-and-brandon-terry
+audiolink: 
 post_id: 1325
 categories: 
 - Transcripts

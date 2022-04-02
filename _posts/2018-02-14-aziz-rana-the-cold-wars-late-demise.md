@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Aziz Rana: The Cold War’s Late Demise
-permalink: https://www.thedigradio.com/podcast/aziz-rana-the-cold-wars-late-demise/index.html
+title: "Aziz Rana: The Cold War’s Late Demise"
+permalink: podcast/aziz-rana-the-cold-wars-late-demise
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_88_-_Rana.mp3
 post_id: 612
 categories: 
 - Aziz Rana

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Financial Empire w/ Daniela Gabor & Ndongo Samba Sylla
-permalink: https://www.thedigradio.com/podcast/financial-empire-w-daniela-gabor-ndongo-samba-sylla/index.html
+title: "Financial Empire w/ Daniela Gabor & Ndongo Samba Sylla"
+permalink: podcast/financial-empire-w-daniela-gabor-ndongo-samba-sylla
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_342-Sylla-Gabor.mp3
 post_id: 2110
 categories: 
 - Colonialism

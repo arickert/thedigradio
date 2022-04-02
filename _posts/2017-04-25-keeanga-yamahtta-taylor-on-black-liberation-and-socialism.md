@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Keeanga-Yamahtta Taylor on Black Liberation and Socialism
-permalink: https://www.thedigradio.com/podcast/keeanga-yamahtta-taylor-on-black-liberation-and-socialism/index.html
+title: "Keeanga-Yamahtta Taylor on Black Liberation and Socialism"
+permalink: podcast/keeanga-yamahtta-taylor-on-black-liberation-and-socialism
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_21_-_Taylor.mp3
 post_id: 680
 categories: 
 - Keeanga-Yamahtta Taylor

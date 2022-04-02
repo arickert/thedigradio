@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Charlene Carruthers: Fighting for Black Lives Under Trump
-permalink: https://www.thedigradio.com/podcast/charlene-carruthers-fighting-for-black-lives-under-trump/index.html
+title: "Charlene Carruthers: Fighting for Black Lives Under Trump"
+permalink: podcast/charlene-carruthers-fighting-for-black-lives-under-trump
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_14_-_Carruthers.mp3
 post_id: 687
 categories: 
 - Charlene Carruthers

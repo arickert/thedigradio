@@ -1,7 +1,8 @@
 ---
 layout: post
-title: A History of Neoliberalism with Quinn Slobodian
-permalink: https://www.thedigradio.com/podcast/a-history-of-neoliberalism-with-quinn-slobodian/index.html
+title: "A History of Neoliberalism with Quinn Slobodian"
+permalink: podcast/a-history-of-neoliberalism-with-quinn-slobodian
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_163_-_Slobodian.mp3
 post_id: 537
 categories: 
 - Podcast

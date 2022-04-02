@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Hammer and Hoe with Robin D.G. Kelley
-permalink: https://www.thedigradio.com/podcast/hammer-and-hoe-with-robin-d-g-kelley/index.html
+title: "Hammer and Hoe with Robin D.G. Kelley"
+permalink: podcast/hammer-and-hoe-with-robin-d-g-kelley
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_306-Kelley.mp3
 post_id: 1960
 categories: 
 - Black Politics

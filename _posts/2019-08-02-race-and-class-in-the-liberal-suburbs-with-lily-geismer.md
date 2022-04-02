@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Race and Class in the Liberal Suburbs with Lily Geismer
-permalink: https://www.thedigradio.com/podcast/race-and-class-in-the-liberal-suburbs-with-lily-geismer/index.html
+title: "Race and Class in the Liberal Suburbs with Lily Geismer"
+permalink: podcast/race-and-class-in-the-liberal-suburbs-with-lily-geismer
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_212-Geismer.mp3
 post_id: 1282
 categories: 
 - Lily Geismer

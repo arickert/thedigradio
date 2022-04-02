@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Green New Deal with Kate Aronoff
-permalink: https://www.thedigradio.com/podcast/the-green-new-deal-with-kate-aronoff/index.html
+title: "The Green New Deal with Kate Aronoff"
+permalink: podcast/the-green-new-deal-with-kate-aronoff
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_171_-_Aronoff-Green_New_Deal.mp3
 post_id: 529
 categories: 
 - Environment

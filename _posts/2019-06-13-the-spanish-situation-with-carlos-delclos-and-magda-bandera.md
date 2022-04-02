@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Spanish Situation with Carlos Delclós and Magda Bandera
-permalink: https://www.thedigradio.com/podcast/the-spanish-situation-with-carlos-delclos-and-magda-bandera/index.html
+title: "The Spanish Situation with Carlos Delclós and Magda Bandera"
+permalink: podcast/the-spanish-situation-with-carlos-delclos-and-magda-bandera
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_204-Spain.mp3
 post_id: 1138
 categories: 
 - Ada Colau

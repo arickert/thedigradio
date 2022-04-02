@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Against Idiocy with Kafui Attoh
-permalink: https://www.thedigradio.com/podcast/against-idiocy-with-kafui-attoh/index.html
+title: "Against Idiocy with Kafui Attoh"
+permalink: podcast/against-idiocy-with-kafui-attoh
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_190_-_Kafui.mp3
 post_id: 510
 categories: 
 - Kafui Attoh

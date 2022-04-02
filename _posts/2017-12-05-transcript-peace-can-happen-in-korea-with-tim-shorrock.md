@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Transcript: Peace Can Happen in Korea with Tim Shorrock
-permalink: https://www.thedigradio.com/transcripts/transcript-peace-can-happen-in-korea-with-tim-shorrock/index.html
+title: "Transcript: Peace Can Happen in Korea with Tim Shorrock"
+permalink: transcripts/transcript-peace-can-happen-in-korea-with-tim-shorrock
+audiolink: 
 post_id: 1333
 categories: 
 - Transcripts

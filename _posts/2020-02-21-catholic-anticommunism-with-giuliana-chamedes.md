@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Catholic Anticommunism with Giuliana Chamedes
-permalink: https://www.thedigradio.com/podcast/catholic-anticommunism-with-giuliana-chamedes/index.html
+title: "Catholic Anticommunism with Giuliana Chamedes"
+permalink: podcast/catholic-anticommunism-with-giuliana-chamedes
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_240-Chamedes.mp3
 post_id: 1460
 categories: 
 - Catholic Church

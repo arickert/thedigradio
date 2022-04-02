@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'White genocide' with George Ciccariello-Maher
-permalink: https://www.thedigradio.com/podcast/white-genocide-with-george-ciccariello-maher/index.html
+title: "'White genocide' with George Ciccariello-Maher"
+permalink: podcast/white-genocide-with-george-ciccariello-maher
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP10-_DRAFT2.mp3
 post_id: 691
 categories: 
 - Education

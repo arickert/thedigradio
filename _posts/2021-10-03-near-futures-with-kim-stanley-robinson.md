@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Near Futures with Kim Stanley Robinson
-permalink: https://www.thedigradio.com/podcast/near-futures-with-kim-stanley-robinson/index.html
+title: "Near Futures with Kim Stanley Robinson"
+permalink: podcast/near-futures-with-kim-stanley-robinson
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_324-KSR.mp3
 post_id: 2036
 categories: 
 - Environment

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Feminist International w/ Verónica Gago
-permalink: https://www.thedigradio.com/podcast/feminist-international-w-veronica-gago/index.html
+title: "Feminist International w/ Verónica Gago"
+permalink: podcast/feminist-international-w-veronica-gago
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_344-Gago.mp3
 post_id: 2119
 categories: 
 - Argentina

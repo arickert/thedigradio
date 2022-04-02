@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Trump didn't invent being terrible on immigration: César Cuauhtémoc García Hernández & Chris Newman.
-permalink: https://www.thedigradio.com/podcast/trump-didnt-invent-being-terrible-on-immigration-cesar-cuauhtemoc-garcia-hernandez-chris-newman/index.html
+title: "Trump didn't invent being terrible on immigration: César Cuauhtémoc García Hernández & Chris Newman."
+permalink: podcast/trump-didnt-invent-being-terrible-on-immigration-cesar-cuauhtemoc-garcia-hernandez-chris-newman
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_Episode_4_-_FINAL.mp3
 post_id: 697
 categories: 
 - César Cuauhtémoc García Hernández

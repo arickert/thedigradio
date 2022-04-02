@@ -1,7 +1,8 @@
 ---
 layout: post
-title: No Human Being Is Illegal with Mae Ngai
-permalink: https://www.thedigradio.com/podcast/no-human-being-is-illegal-with-mae-ngai/index.html
+title: "No Human Being Is Illegal with Mae Ngai"
+permalink: podcast/no-human-being-is-illegal-with-mae-ngai
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_98_-_Ngai.mp3
 post_id: 602
 categories: 
 - Immigration

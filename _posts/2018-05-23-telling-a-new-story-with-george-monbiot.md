@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Telling a New Story with George Monbiot
-permalink: https://www.thedigradio.com/podcast/telling-a-new-story-with-george-monbiot/index.html
+title: "Telling a New Story with George Monbiot"
+permalink: podcast/telling-a-new-story-with-george-monbiot
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_114_-_Monbiot.mp3
 post_id: 586
 categories: 
 - Electoral Politics

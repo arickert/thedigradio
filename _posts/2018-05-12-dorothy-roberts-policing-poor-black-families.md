@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Dorothy Roberts: Policing Poor Black Families
-permalink: https://www.thedigradio.com/podcast/dorothy-roberts-policing-poor-black-families/index.html
+title: "Dorothy Roberts: Policing Poor Black Families"
+permalink: podcast/dorothy-roberts-policing-poor-black-families
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_111_-_Roberts.mp3
 post_id: 589
 categories: 
 - Criminal Justice

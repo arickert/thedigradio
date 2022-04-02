@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Boots Riley on Sorry to Bother You and Communism
-permalink: https://www.thedigradio.com/podcast/boots-riley-on-sorry-to-bother-you-and-communism/index.html
+title: "Boots Riley on Sorry to Bother You and Communism"
+permalink: podcast/boots-riley-on-sorry-to-bother-you-and-communism
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_137_-_Boots.mp3
 post_id: 563
 categories: 
 - Boots Riley

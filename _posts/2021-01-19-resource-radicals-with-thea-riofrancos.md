@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Resource Radicals with Thea Riofrancos
-permalink: https://www.thedigradio.com/podcast/resource-radicals-with-thea-riofrancos/index.html
+title: "Resource Radicals with Thea Riofrancos"
+permalink: podcast/resource-radicals-with-thea-riofrancos
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_289-TRiofrancos.mp3
 post_id: 1836
 categories: 
 - Ecuador

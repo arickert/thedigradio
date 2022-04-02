@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Media War w/ Adam Johnson and Eric Levitz
-permalink: https://www.thedigradio.com/podcast/the-media-war-w-adam-johnson-and-eric-levitz/index.html
+title: "The Media War w/ Adam Johnson and Eric Levitz"
+permalink: podcast/the-media-war-w-adam-johnson-and-eric-levitz
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_319-MediaWar.mp3
 post_id: 2016
 categories: 
 - Adam Johnson

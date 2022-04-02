@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Child Casualties of the Border War
-permalink: https://www.thedigradio.com/podcast/child-casualties-of-the-border-war/index.html
+title: "Child Casualties of the Border War"
+permalink: podcast/child-casualties-of-the-border-war
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_122_-_3.mp3
 post_id: 578
 categories: 
 - Dara Lind

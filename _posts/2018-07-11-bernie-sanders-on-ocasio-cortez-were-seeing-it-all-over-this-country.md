@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Bernie Sanders on Ocasio-Cortez: We're seeing it all over this country
-permalink: https://www.thedigradio.com/podcast/bernie-sanders-on-ocasio-cortez-were-seeing-it-all-over-this-country/index.html
+title: "Bernie Sanders on Ocasio-Cortez: We're seeing it all over this country"
+permalink: podcast/bernie-sanders-on-ocasio-cortez-were-seeing-it-all-over-this-country
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_129_-_BernieAOC.mp3
 post_id: 571
 categories: 
 - Bernie Sanders

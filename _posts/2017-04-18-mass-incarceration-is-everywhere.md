@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Mass incarceration is everywhere
-permalink: https://www.thedigradio.com/podcast/mass-incarceration-is-everywhere/index.html
+title: "Mass incarceration is everywhere"
+permalink: podcast/mass-incarceration-is-everywhere
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_20_-_StoryCamp.mp3
 post_id: 681
 categories: 
 - Brett Story

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Comey Liberal Cop Fetish
-permalink: https://www.thedigradio.com/podcast/comey-liberal-cop-fetish/index.html
+title: "Comey Liberal Cop Fetish"
+permalink: podcast/comey-liberal-cop-fetish
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_106_-_Blanchfield.mp3
 post_id: 594
 categories: 
 - Criminal Justice

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Roxanne Dunbar-Ortiz on Indigenous History
-permalink: https://www.thedigradio.com/podcast/roxanne-dunbar-ortiz-on-indigenous-history/index.html
+title: "Roxanne Dunbar-Ortiz on Indigenous History"
+permalink: podcast/roxanne-dunbar-ortiz-on-indigenous-history
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_216-Dunbar-Ortiz.mp3
 post_id: 1350
 categories: 
 - Colonialism

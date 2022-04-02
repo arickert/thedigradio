@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Militant 70s Labor Movement You Never Heard of with Lane Windham
-permalink: https://www.thedigradio.com/podcast/the-militant-70s-labor-movement-you-never-heard-of-with-lane-windham/index.html
+title: "The Militant 70s Labor Movement You Never Heard of with Lane Windham"
+permalink: podcast/the-militant-70s-labor-movement-you-never-heard-of-with-lane-windham
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_83_-_Windham.mp3
 post_id: 617
 categories: 
 - Labor Movement

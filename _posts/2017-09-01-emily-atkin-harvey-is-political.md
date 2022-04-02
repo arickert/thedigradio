@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Emily Atkin: Harvey Is Political
-permalink: https://www.thedigradio.com/podcast/emily-atkin-harvey-is-political/index.html
+title: "Emily Atkin: Harvey Is Political"
+permalink: podcast/emily-atkin-harvey-is-political
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_44_-_Atkin.mp3
 post_id: 657
 categories: 
 - Emily Atkin

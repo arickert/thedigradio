@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Barbara Ransby on Black Lives Matter
-permalink: https://www.thedigradio.com/podcast/barbara-ransby-on-black-lives-matter/index.html
+title: "Barbara Ransby on Black Lives Matter"
+permalink: podcast/barbara-ransby-on-black-lives-matter
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_DIg_-_EP_164_-_Ransby.mp3
 post_id: 536
 categories: 
 - Barbara Ransby

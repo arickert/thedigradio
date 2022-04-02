@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Corey Robin on the Reactionaries' Minds Under Trump
-permalink: https://www.thedigradio.com/podcast/corey-robin-on-the-reactionaries-minds-under-trump/index.html
+title: "Corey Robin on the Reactionaries' Minds Under Trump"
+permalink: podcast/corey-robin-on-the-reactionaries-minds-under-trump
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP17-Robin.mp3
 post_id: 684
 categories: 
 - Corey Robin

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Hegemony How-To with Jonathan Matthew Smucker
-permalink: https://www.thedigradio.com/podcast/hegemony-how-to-with-jonathan-matthew-smucker/index.html
+title: "Hegemony How-To with Jonathan Matthew Smucker"
+permalink: podcast/hegemony-how-to-with-jonathan-matthew-smucker
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_183_-_Smucker.mp3
 post_id: 517
 categories: 
 - Jonathan Matthew Smucker

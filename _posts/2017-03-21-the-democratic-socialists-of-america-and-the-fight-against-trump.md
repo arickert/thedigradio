@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Democratic Socialists of America and the Fight Against Trump
-permalink: https://www.thedigradio.com/podcast/the-democratic-socialists-of-america-and-the-fight-against-trump/index.html
+title: "The Democratic Socialists of America and the Fight Against Trump"
+permalink: podcast/the-democratic-socialists-of-america-and-the-fight-against-trump
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_16_-_DSA.mp3
 post_id: 685
 categories: 
 - Maria Svart

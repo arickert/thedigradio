@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Private Money with Stefan Eich
-permalink: https://www.thedigradio.com/podcast/private-money-with-stefan-eich/index.html
+title: "Private Money with Stefan Eich"
+permalink: podcast/private-money-with-stefan-eich
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_337-Eich.mp3
 post_id: 2089
 categories: 
 - Cryptocurrency

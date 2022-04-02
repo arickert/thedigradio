@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Houston: A Segregated Disaster in a Segregated City
-permalink: https://www.thedigradio.com/podcast/houston-a-segregated-disaster-in-a-segregated-city/index.html
+title: "Houston: A Segregated Disaster in a Segregated City"
+permalink: podcast/houston-a-segregated-disaster-in-a-segregated-city
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_47_-_HoustonSpecial.mp3
 post_id: 654
 categories: 
 - Environment

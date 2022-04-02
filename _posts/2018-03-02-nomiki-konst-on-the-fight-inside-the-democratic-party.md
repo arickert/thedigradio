@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Nomiki Konst on the Fight Inside the Democratic Party
-permalink: https://www.thedigradio.com/podcast/nomiki-konst-on-the-fight-inside-the-democratic-party/index.html
+title: "Nomiki Konst on the Fight Inside the Democratic Party"
+permalink: podcast/nomiki-konst-on-the-fight-inside-the-democratic-party
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_91_-_Konst.mp3
 post_id: 609
 categories: 
 - Electoral Politics

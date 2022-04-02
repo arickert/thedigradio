@@ -1,7 +1,8 @@
 ---
 layout: post
-title: NYC DSA on the Ballot
-permalink: https://www.thedigradio.com/podcast/nyc-dsa-on-the-ballot/index.html
+title: "NYC DSA on the Ballot"
+permalink: podcast/nyc-dsa-on-the-ballot
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_246-NYC-DSA.mp3
 post_id: 1474
 categories: 
 - DSA

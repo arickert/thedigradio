@@ -1,7 +1,8 @@
 ---
 layout: post
-title: End of the Myth with Greg Grandin
-permalink: https://www.thedigradio.com/podcast/end-of-the-myth-with-greg-grandin/index.html
+title: "End of the Myth with Greg Grandin"
+permalink: podcast/end-of-the-myth-with-greg-grandin
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_187_-_Grandin.mp3
 post_id: 513
 categories: 
 - Greg Grandin

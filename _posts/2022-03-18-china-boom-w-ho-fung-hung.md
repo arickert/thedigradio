@@ -1,7 +1,8 @@
 ---
 layout: post
-title: China Boom w/ Ho-fung Hung
-permalink: https://www.thedigradio.com/podcast/china-boom-w-ho-fung-hung/index.html
+title: "China Boom w/ Ho-fung Hung"
+permalink: podcast/china-boom-w-ho-fung-hung
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_348-Hung.mp3
 post_id: 2161
 categories: 
 - Capitalism

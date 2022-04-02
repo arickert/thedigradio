@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Transcript: Glenn Greenwald: Surveillance Hypocrisy Amid Russiagate Mania
-permalink: https://www.thedigradio.com/transcripts/transcript-glenn-greenwald-surveillance-hypocrisy-amid-russiagate-mania/index.html
+title: "Transcript: Glenn Greenwald: Surveillance Hypocrisy Amid Russiagate Mania"
+permalink: transcripts/transcript-glenn-greenwald-surveillance-hypocrisy-amid-russiagate-mania
+audiolink: 
 post_id: 1328
 categories: 
 - Transcripts

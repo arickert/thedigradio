@@ -1,7 +1,8 @@
 ---
 layout: post
-title: We've Got People with Ryan Grim
-permalink: https://www.thedigradio.com/podcast/weve-got-people-with-ryan-grim/index.html
+title: "We've Got People with Ryan Grim"
+permalink: podcast/weve-got-people-with-ryan-grim
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_244-Grim.mp3
 post_id: 1472
 categories: 
 - Electoral Politics

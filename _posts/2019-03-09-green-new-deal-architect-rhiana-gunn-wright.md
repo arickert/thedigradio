@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Green New Deal Architect Rhiana Gunn-Wright
-permalink: https://www.thedigradio.com/podcast/green-new-deal-architect-rhiana-gunn-wright/index.html
+title: "Green New Deal Architect Rhiana Gunn-Wright"
+permalink: podcast/green-new-deal-architect-rhiana-gunn-wright
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_185_-_RGW.mp3
 post_id: 515
 categories: 
 - Environment

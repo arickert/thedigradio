@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Slavery's Hinterlands Symposium - May 2-4
-permalink: https://www.thedigradio.com/articles/slaverys-hinterlands-symposium-may-2-4/index.html
+title: "Slavery's Hinterlands Symposium - May 2-4"
+permalink: articles/slaverys-hinterlands-symposium-may-2-4
+audiolink: 
 post_id: 922
 categories: 
 - Articles

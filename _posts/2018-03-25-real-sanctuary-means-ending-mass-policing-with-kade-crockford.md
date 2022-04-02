@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Real Sanctuary Means Ending Mass Policing with Kade Crockford
-permalink: https://www.thedigradio.com/podcast/real-sanctuary-means-ending-mass-policing-with-kade-crockford/index.html
+title: "Real Sanctuary Means Ending Mass Policing with Kade Crockford"
+permalink: podcast/real-sanctuary-means-ending-mass-policing-with-kade-crockford
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_97_-_Crockford.mp3
 post_id: 603
 categories: 
 - Criminal Justice

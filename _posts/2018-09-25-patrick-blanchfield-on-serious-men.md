@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Patrick Blanchfield on Serious Men
-permalink: https://www.thedigradio.com/podcast/patrick-blanchfield-on-serious-men/index.html
+title: "Patrick Blanchfield on Serious Men"
+permalink: podcast/patrick-blanchfield-on-serious-men
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_150_-_BlanchfieldFear.mp3
 post_id: 550
 categories: 
 - Imperialism and Foreign Policy

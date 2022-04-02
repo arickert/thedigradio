@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The European Situation with Chris Bickerton and Jerome Roos
-permalink: https://www.thedigradio.com/podcast/the-european-situation-with-chris-bickerton-and-jerome-roos/index.html
+title: "The European Situation with Chris Bickerton and Jerome Roos"
+permalink: podcast/the-european-situation-with-chris-bickerton-and-jerome-roos
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_201-Europe1.mp3
 post_id: 1095
 categories: 
 - Brexit

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Capitalism with Michael Hardt
-permalink: https://www.thedigradio.com/podcast/capitalism-with-michael-hardt/index.html
+title: "Capitalism with Michael Hardt"
+permalink: podcast/capitalism-with-michael-hardt
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_231-Hardt.mp3
 post_id: 1427
 categories: 
 - Capitalism

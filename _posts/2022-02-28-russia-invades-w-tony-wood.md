@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Russia Invades w/ Tony Wood
-permalink: https://www.thedigradio.com/podcast/russia-invades-w-tony-wood/index.html
+title: "Russia Invades w/ Tony Wood"
+permalink: podcast/russia-invades-w-tony-wood
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_346-Wood.mp3
 post_id: 2128
 categories: 
 - Imperialism and Foreign Policy

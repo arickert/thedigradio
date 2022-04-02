@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Transcript: David Harvey on Capital
-permalink: https://www.thedigradio.com/transcripts/transcript-david-harvey-on-capital/index.html
+title: "Transcript: David Harvey on Capital"
+permalink: transcripts/transcript-david-harvey-on-capital
+audiolink: 
 post_id: 1319
 categories: 
 - Transcripts

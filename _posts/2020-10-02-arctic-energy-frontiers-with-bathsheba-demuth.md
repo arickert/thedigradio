@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Arctic Energy Frontiers with Bathsheba Demuth
-permalink: https://www.thedigradio.com/podcast/arctic-energy-frontiers-with-bathsheba-demuth/index.html
+title: "Arctic Energy Frontiers with Bathsheba Demuth"
+permalink: podcast/arctic-energy-frontiers-with-bathsheba-demuth
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_274-Demuth.mp3
 post_id: 1767
 categories: 
 - Bathsheba Demuth

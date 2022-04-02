@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Free Palestine with Noura Erakat
-permalink: https://www.thedigradio.com/podcast/free-palestine-with-noura-erakat/index.html
+title: "Free Palestine with Noura Erakat"
+permalink: podcast/free-palestine-with-noura-erakat
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_113_-_Erakat.mp3
 post_id: 587
 categories: 
 - Imperialism and Foreign Policy

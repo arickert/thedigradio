@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Lamb Is Not Enough. Three Leftist Women Run in Pennsylvania
-permalink: https://www.thedigradio.com/podcast/lamb-is-not-enough-three-leftist-women-run-in-pennsylvania/index.html
+title: "Lamb Is Not Enough. Three Leftist Women Run in Pennsylvania"
+permalink: podcast/lamb-is-not-enough-three-leftist-women-run-in-pennsylvania
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_95_-_PALeftWomen.mp3
 post_id: 605
 categories: 
 - Electoral Politics

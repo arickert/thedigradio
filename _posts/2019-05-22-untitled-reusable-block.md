@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Untitled Reusable Block
-permalink: https://www.thedigradio.com/podcast/untitled-reusable-block/index.html
+title: "Untitled Reusable Block"
+permalink: podcast/untitled-reusable-block
+audiolink: 
 post_id: 1009
 categories:  []
 ---

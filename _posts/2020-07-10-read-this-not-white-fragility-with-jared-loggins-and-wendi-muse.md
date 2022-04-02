@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Read This, Not White Fragility. With Jared Loggins and Wendi Muse.
-permalink: https://www.thedigradio.com/podcast/read-this-not-white-fragility-with-jared-loggins-and-wendi-muse/index.html
+title: "Read This, Not White Fragility. With Jared Loggins and Wendi Muse."
+permalink: podcast/read-this-not-white-fragility-with-jared-loggins-and-wendi-muse
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_263-Loggins-Muse.mp3
 post_id: 1718
 categories: 
 - Capitalism

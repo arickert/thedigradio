@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Kaniela Ing Is Fighting for Aloha
-permalink: https://www.thedigradio.com/podcast/kaniela-ing-is-fighting-for-aloha/index.html
+title: "Kaniela Ing Is Fighting for Aloha"
+permalink: podcast/kaniela-ing-is-fighting-for-aloha
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_134_-_Ing.mp3
 post_id: 566
 categories: 
 - Electoral Politics

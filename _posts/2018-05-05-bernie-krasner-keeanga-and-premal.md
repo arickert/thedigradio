@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Bernie, Krasner, Keeanga and Premal
-permalink: https://www.thedigradio.com/podcast/bernie-krasner-keeanga-and-premal/index.html
+title: "Bernie, Krasner, Keeanga and Premal"
+permalink: podcast/bernie-krasner-keeanga-and-premal
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_109_-_Sanders.mp3
 post_id: 591
 categories: 
 - Bernie Sanders

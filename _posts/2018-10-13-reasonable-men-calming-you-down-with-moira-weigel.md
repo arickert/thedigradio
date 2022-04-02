@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Reasonable Men Calming You Down with Moira Weigel
-permalink: https://www.thedigradio.com/podcast/reasonable-men-calming-you-down-with-moira-weigel/index.html
+title: "Reasonable Men Calming You Down with Moira Weigel"
+permalink: podcast/reasonable-men-calming-you-down-with-moira-weigel
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_154_-_MWeigel.mp3
 post_id: 546
 categories: 
 - Moira Weigel

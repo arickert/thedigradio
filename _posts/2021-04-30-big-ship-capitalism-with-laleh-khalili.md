@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Big Ship Capitalism with Laleh Khalili
-permalink: https://www.thedigradio.com/podcast/big-ship-capitalism-with-laleh-khalili/index.html
+title: "Big Ship Capitalism with Laleh Khalili"
+permalink: podcast/big-ship-capitalism-with-laleh-khalili
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_304-Khalili.mp3
 post_id: 1949
 categories: 
 - Capitalism

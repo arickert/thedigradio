@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Reclaiming Philadelphia
-permalink: https://www.thedigradio.com/podcast/reclaiming-philadelphia/index.html
+title: "Reclaiming Philadelphia"
+permalink: podcast/reclaiming-philadelphia
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_151_-_Reclaim.mp3
 post_id: 549
 categories: 
 - Amanda Mcillmurray

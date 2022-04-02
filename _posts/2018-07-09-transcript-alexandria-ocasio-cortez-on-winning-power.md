@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Transcript: Alexandria Ocasio-Cortez on Winning Power
-permalink: https://www.thedigradio.com/transcripts/transcript-alexandria-ocasio-cortez-on-winning-power/index.html
+title: "Transcript: Alexandria Ocasio-Cortez on Winning Power"
+permalink: transcripts/transcript-alexandria-ocasio-cortez-on-winning-power
+audiolink: 
 post_id: 1317
 categories: 
 - Transcripts

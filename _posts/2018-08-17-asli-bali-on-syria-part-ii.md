@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Aslı Bâli on Syria, Part II
-permalink: https://www.thedigradio.com/podcast/asli-bali-on-syria-part-ii/index.html
+title: "Aslı Bâli on Syria, Part II"
+permalink: podcast/asli-bali-on-syria-part-ii
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_140_-_BaliPartII.mp3
 post_id: 560
 categories: 
 - Aslı Bâli

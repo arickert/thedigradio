@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Russia Beyond Caricature
-permalink: https://www.thedigradio.com/podcast/russia-beyond-caricature/index.html
+title: "Russia Beyond Caricature"
+permalink: podcast/russia-beyond-caricature
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_141_-_Guillory.mp3
 post_id: 559
 categories: 
 - Europe

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 2020 with Briahna Gray, Dave Weigel and Waleed Shahid
-permalink: https://www.thedigradio.com/podcast/2020-with-briahna-gray-dave-weigel-and-waleed-shahid/index.html
+title: "2020 with Briahna Gray, Dave Weigel and Waleed Shahid"
+permalink: podcast/2020-with-briahna-gray-dave-weigel-and-waleed-shahid
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_180_-_2020.mp3
 post_id: 520
 categories: 
 - Briahna Gray

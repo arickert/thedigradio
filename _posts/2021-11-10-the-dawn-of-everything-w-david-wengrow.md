@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Dawn of Everything w/ David Wengrow
-permalink: https://www.thedigradio.com/podcast/the-dawn-of-everything-w-david-wengrow/index.html
+title: "The Dawn of Everything w/ David Wengrow"
+permalink: podcast/the-dawn-of-everything-w-david-wengrow
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_331-Wengrow.mp3
 post_id: 2059
 categories: 
 - David Wengrow

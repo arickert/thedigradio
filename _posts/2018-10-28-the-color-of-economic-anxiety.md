@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Color of Economic Anxiety
-permalink: https://www.thedigradio.com/podcast/the-color-of-economic-anxiety/index.html
+title: "The Color of Economic Anxiety"
+permalink: podcast/the-color-of-economic-anxiety
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_159_-_Jabali.mp3
 post_id: 541
 categories: 
 - Economics

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Empire's Workshop with Greg Grandin
-permalink: https://www.thedigradio.com/podcast/empires-workshop-with-greg-grandin/index.html
+title: "Empire's Workshop with Greg Grandin"
+permalink: podcast/empires-workshop-with-greg-grandin
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_312-Grandin.mp3
 post_id: 1977
 categories: 
 - Greg Grandin

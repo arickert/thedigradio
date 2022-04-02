@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Work Won't Love You Back with Sarah Jaffe
-permalink: https://www.thedigradio.com/podcast/work-wont-love-you-back-with-sarah-jaffe/index.html
+title: "Work Won't Love You Back with Sarah Jaffe"
+permalink: podcast/work-wont-love-you-back-with-sarah-jaffe
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_294-Jaffe.mp3
 post_id: 1909
 categories: 
 - Labor Movement

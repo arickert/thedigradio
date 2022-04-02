@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Hong Kong with Au Loong Yu
-permalink: https://www.thedigradio.com/podcast/hong-kong-with-au-loong-yu/index.html
+title: "Hong Kong with Au Loong Yu"
+permalink: podcast/hong-kong-with-au-loong-yu
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_238-AuLoong.mp3
 post_id: 1452
 categories: 
 - Asia

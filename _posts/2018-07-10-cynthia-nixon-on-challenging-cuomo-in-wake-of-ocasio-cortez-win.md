@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Cynthia Nixon on Challenging Cuomo in Wake of Ocasio-Cortez Win
-permalink: https://www.thedigradio.com/podcast/cynthia-nixon-on-challenging-cuomo-in-wake-of-ocasio-cortez-win/index.html
+title: "Cynthia Nixon on Challenging Cuomo in Wake of Ocasio-Cortez Win"
+permalink: podcast/cynthia-nixon-on-challenging-cuomo-in-wake-of-ocasio-cortez-win
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_128_-_Nixon.mp3
 post_id: 572
 categories: 
 - Cynthia Nixon

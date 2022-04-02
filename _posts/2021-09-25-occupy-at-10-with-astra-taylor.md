@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Occupy at 10 with Astra Taylor
-permalink: https://www.thedigradio.com/podcast/occupy-at-10-with-astra-taylor/index.html
+title: "Occupy at 10 with Astra Taylor"
+permalink: podcast/occupy-at-10-with-astra-taylor
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_323-Taylor.mp3
 post_id: 2033
 categories: 
 - Astra Taylor

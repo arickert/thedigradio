@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Organize to Win with Andres Celin and Rapheal Randall
-permalink: https://www.thedigradio.com/podcast/organize-to-win-with-andres-celin-and-rapheal-randall/index.html
+title: "Organize to Win with Andres Celin and Rapheal Randall"
+permalink: podcast/organize-to-win-with-andres-celin-and-rapheal-randall
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_268-YUC.mp3
 post_id: 1737
 categories: 
 - Andres Celin

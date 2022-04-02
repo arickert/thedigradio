@@ -1,7 +1,8 @@
 ---
 layout: post
-title: On the Clock with Emily Guendelsberger
-permalink: https://www.thedigradio.com/podcast/on-the-clock-with-emily-guendelsberger/index.html
+title: "On the Clock with Emily Guendelsberger"
+permalink: podcast/on-the-clock-with-emily-guendelsberger
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_213-Guendelsberger.mp3
 post_id: 1297
 categories: 
 - Capitalism

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Right-Wing Racism with Daniel Martinez HoSang & Joe Lowndes
-permalink: https://www.thedigradio.com/podcast/right-wing-racism-with-daniel-martinez-hosang-joe-lowndes/index.html
+title: "Right-Wing Racism with Daniel Martinez HoSang & Joe Lowndes"
+permalink: podcast/right-wing-racism-with-daniel-martinez-hosang-joe-lowndes
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_239-HoSangLowndes.mp3
 post_id: 1458
 categories: 
 - Daniel Martinez HoSang

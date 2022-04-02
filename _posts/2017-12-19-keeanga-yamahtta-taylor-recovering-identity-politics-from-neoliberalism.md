@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Keeanga-Yamahtta Taylor: Recovering Identity Politics from Neoliberalism
-permalink: https://www.thedigradio.com/podcast/keeanga-yamahtta-taylor-recovering-identity-politics-from-neoliberalism/index.html
+title: "Keeanga-Yamahtta Taylor: Recovering Identity Politics from Neoliberalism"
+permalink: podcast/keeanga-yamahtta-taylor-recovering-identity-politics-from-neoliberalism
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_76_-_KeeangaCombahee.mp3
 post_id: 624
 categories: 
 - Feminism

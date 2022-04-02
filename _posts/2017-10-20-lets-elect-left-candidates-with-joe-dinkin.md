@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Let's Elect Left Candidates with Joe Dinkin
-permalink: https://www.thedigradio.com/podcast/lets-elect-left-candidates-with-joe-dinkin/index.html
+title: "Let's Elect Left Candidates with Joe Dinkin"
+permalink: podcast/lets-elect-left-candidates-with-joe-dinkin
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_58_-_Dinkin.mp3
 post_id: 642
 categories: 
 - Electoral Politics

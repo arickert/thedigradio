@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Organize and Fight with Ilhan Omar
-permalink: https://www.thedigradio.com/podcast/organize-and-fight-with-ilhan-omar/index.html
+title: "Organize and Fight with Ilhan Omar"
+permalink: podcast/organize-and-fight-with-ilhan-omar
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_245-Omar.mp3
 post_id: 1470
 categories: 
 - Bernie Sanders

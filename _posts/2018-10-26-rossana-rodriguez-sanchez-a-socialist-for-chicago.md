@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Rossana Rodríguez-Sanchez, a Socialist for Chicago
-permalink: https://www.thedigradio.com/podcast/rossana-rodriguez-sanchez-a-socialist-for-chicago/index.html
+title: "Rossana Rodríguez-Sanchez, a Socialist for Chicago"
+permalink: podcast/rossana-rodriguez-sanchez-a-socialist-for-chicago
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_158_-_Rodriguez-Sanchez.mp3
 post_id: 542
 categories: 
 - Electoral Politics

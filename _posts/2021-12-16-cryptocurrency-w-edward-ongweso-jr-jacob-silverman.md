@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Cryptocurrency w/ Edward Ongweso Jr & Jacob Silverman
-permalink: https://www.thedigradio.com/podcast/cryptocurrency-w-edward-ongweso-jr-jacob-silverman/index.html
+title: "Cryptocurrency w/ Edward Ongweso Jr & Jacob Silverman"
+permalink: podcast/cryptocurrency-w-edward-ongweso-jr-jacob-silverman
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_336-Crypto.mp3
 post_id: 2084
 categories: 
 - Cryptocurrency

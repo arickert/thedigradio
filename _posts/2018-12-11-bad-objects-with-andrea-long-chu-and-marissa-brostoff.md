@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Bad Objects with Andrea Long Chu and Marissa Brostoff
-permalink: https://www.thedigradio.com/podcast/bad-objects-with-andrea-long-chu-and-marissa-brostoff/index.html
+title: "Bad Objects with Andrea Long Chu and Marissa Brostoff"
+permalink: podcast/bad-objects-with-andrea-long-chu-and-marissa-brostoff
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_168_-_ChuBrostoff.mp3
 post_id: 532
 categories: 
 - Andrea Long Chu

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Left Knows No Borders with Richard Seymour
-permalink: https://www.thedigradio.com/podcast/the-left-knows-no-borders-with-richard-seymour/index.html
+title: "The Left Knows No Borders with Richard Seymour"
+permalink: podcast/the-left-knows-no-borders-with-richard-seymour
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_166_-_Seymour.mp3
 post_id: 534
 categories: 
 - Immigration

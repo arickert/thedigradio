@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Transcript: Astra Taylor on Democracy
-permalink: https://www.thedigradio.com/transcripts/transcript-astra-taylor-on-democracy/index.html
+title: "Transcript: Astra Taylor on Democracy"
+permalink: transcripts/transcript-astra-taylor-on-democracy
+audiolink: 
 post_id: 1251
 categories: 
 - Transcripts

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Student-Debt Capitalism
-permalink: https://www.thedigradio.com/podcast/student-debt-capitalism/index.html
+title: "Student-Debt Capitalism"
+permalink: podcast/student-debt-capitalism
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_99_-_Zaloom.mp3
 post_id: 601
 categories: 
 - Caitlin Zaloom

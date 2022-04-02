@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Policing for the Market with Brenden Beck
-permalink: https://www.thedigradio.com/podcast/policing-for-the-market-with-brenden-beck/index.html
+title: "Policing for the Market with Brenden Beck"
+permalink: podcast/policing-for-the-market-with-brenden-beck
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_63_-_Beck.mp3
 post_id: 637
 categories: 
 - Brenden Beck

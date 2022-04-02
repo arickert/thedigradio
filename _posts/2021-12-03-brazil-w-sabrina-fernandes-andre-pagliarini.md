@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Brazil w/ Sabrina Fernandes & Andre Pagliarini
-permalink: https://www.thedigradio.com/podcast/brazil-w-sabrina-fernandes-andre-pagliarini/index.html
+title: "Brazil w/ Sabrina Fernandes & Andre Pagliarini"
+permalink: podcast/brazil-w-sabrina-fernandes-andre-pagliarini
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_334-Brazil.mp3
 post_id: 2077
 categories: 
 - Andre Pagliarini

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Counterculture to Cyberculture with Fred Turner
-permalink: https://www.thedigradio.com/podcast/counterculture-to-cyberculture-with-fred-turner/index.html
+title: "Counterculture to Cyberculture with Fred Turner"
+permalink: podcast/counterculture-to-cyberculture-with-fred-turner
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_299-Turner.mp3
 post_id: 1932
 categories: 
 - Fred Turner

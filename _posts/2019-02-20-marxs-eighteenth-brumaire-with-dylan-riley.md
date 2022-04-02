@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Marx's Eighteenth Brumaire with Dylan Riley
-permalink: https://www.thedigradio.com/podcast/marxs-eighteenth-brumaire-with-dylan-riley/index.html
+title: "Marx's Eighteenth Brumaire with Dylan Riley"
+permalink: podcast/marxs-eighteenth-brumaire-with-dylan-riley
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_182_-_Riley.mp3
 post_id: 518
 categories: 
 - Dylan Riley

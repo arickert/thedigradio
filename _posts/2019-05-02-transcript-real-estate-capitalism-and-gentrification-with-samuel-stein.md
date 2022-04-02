@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Transcript: Real Estate Capitalism and Gentrification with Samuel Stein
-permalink: https://www.thedigradio.com/transcripts/transcript-real-estate-capitalism-and-gentrification-with-samuel-stein/index.html
+title: "Transcript: Real Estate Capitalism and Gentrification with Samuel Stein"
+permalink: transcripts/transcript-real-estate-capitalism-and-gentrification-with-samuel-stein
+audiolink: 
 post_id: 1110
 categories: 
 - Economics

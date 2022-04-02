@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Labour's Brexit Bind with Grace Blakeley, Maya Goodfellow, and Richard Seymour
-permalink: https://www.thedigradio.com/podcast/labours-brexit-bind-with-grace-blakeley-maya-goodfellow-and-richard-seymour/index.html
+title: "Labour's Brexit Bind with Grace Blakeley, Maya Goodfellow, and Richard Seymour"
+permalink: podcast/labours-brexit-bind-with-grace-blakeley-maya-goodfellow-and-richard-seymour
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_202-UKpolitics.mp3
 post_id: 1098
 categories: 
 - Brexit

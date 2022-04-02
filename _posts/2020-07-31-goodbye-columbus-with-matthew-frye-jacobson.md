@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Goodbye Columbus with Matthew Frye Jacobson
-permalink: https://www.thedigradio.com/podcast/goodbye-columbus-with-matthew-frye-jacobson/index.html
+title: "Goodbye Columbus with Matthew Frye Jacobson"
+permalink: podcast/goodbye-columbus-with-matthew-frye-jacobson
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_266-Jacobson.mp3
 post_id: 1730
 categories: 
 - Matthew Frye Jacobson

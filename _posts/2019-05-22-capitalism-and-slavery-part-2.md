@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Capitalism and Slavery. Part 2.
-permalink: https://www.thedigradio.com/podcast/capitalism-and-slavery-part-2/index.html
+title: "Capitalism and Slavery. Part 2."
+permalink: podcast/capitalism-and-slavery-part-2
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_197-CapitalismSlavery2.mp3
 post_id: 1005
 categories: 
 - Akeia Benard

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The NAACP's Anti-Lynching Struggle with Megan Ming Francis
-permalink: https://www.thedigradio.com/podcast/the-naacps-anti-lynching-struggle-with-megan-ming-francis/index.html
+title: "The NAACP's Anti-Lynching Struggle with Megan Ming Francis"
+permalink: podcast/the-naacps-anti-lynching-struggle-with-megan-ming-francis
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_281-MMF.mp3
 post_id: 1796
 categories: 
 - Black Politics

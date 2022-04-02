@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Christy Thornton: Confronting the Neoliberal Narco-State in Mexico
-permalink: https://www.thedigradio.com/podcast/christy-thornton-confronting-the-neoliberal-narco-state-in-mexico/index.html
+title: "Christy Thornton: Confronting the Neoliberal Narco-State in Mexico"
+permalink: podcast/christy-thornton-confronting-the-neoliberal-narco-state-in-mexico
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_39_-_Thornton.mp3
 post_id: 663
 categories: 
 - Christy Thornton

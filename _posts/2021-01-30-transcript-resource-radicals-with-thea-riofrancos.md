@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Transcript: Resource Radicals with Thea Riofrancos
-permalink: https://www.thedigradio.com/transcripts/transcript-resource-radicals-with-thea-riofrancos/index.html
+title: "Transcript: Resource Radicals with Thea Riofrancos"
+permalink: transcripts/transcript-resource-radicals-with-thea-riofrancos
+audiolink: 
 post_id: 1844
 categories: 
 - Ecuador

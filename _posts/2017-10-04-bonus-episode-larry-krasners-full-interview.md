@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Bonus Episode: Larry Krasner's Full Interview
-permalink: https://www.thedigradio.com/podcast/bonus-episode-larry-krasners-full-interview/index.html
+title: "Bonus Episode: Larry Krasner's Full Interview"
+permalink: podcast/bonus-episode-larry-krasners-full-interview
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_53_-_Krasner.mp3
 post_id: 647
 categories: 
 - Criminal Justice

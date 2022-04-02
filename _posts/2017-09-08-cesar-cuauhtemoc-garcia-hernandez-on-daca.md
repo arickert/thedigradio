@@ -1,7 +1,8 @@
 ---
 layout: post
-title: César Cuauhtémoc García Hernández: On DACA
-permalink: https://www.thedigradio.com/podcast/cesar-cuauhtemoc-garcia-hernandez-on-daca/index.html
+title: "César Cuauhtémoc García Hernández: On DACA"
+permalink: podcast/cesar-cuauhtemoc-garcia-hernandez-on-daca
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_46_-Garci_a_Herna_ndez.mp3
 post_id: 655
 categories: 
 - César Cuauhtémoc García Hernández

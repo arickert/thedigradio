@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Climate Politics with Kate Aronoff
-permalink: https://www.thedigradio.com/podcast/climate-politics-with-kate-aronoff/index.html
+title: "Climate Politics with Kate Aronoff"
+permalink: podcast/climate-politics-with-kate-aronoff
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_310-Aronoff.mp3
 post_id: 1972
 categories: 
 - Environment

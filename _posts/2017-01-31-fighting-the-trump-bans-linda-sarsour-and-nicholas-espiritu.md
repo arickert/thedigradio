@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Fighting the Trump bans: Linda Sarsour and Nicholas Espíritu
-permalink: https://www.thedigradio.com/podcast/fighting-the-trump-bans-linda-sarsour-and-nicholas-espiritu/index.html
+title: "Fighting the Trump bans: Linda Sarsour and Nicholas Espíritu"
+permalink: podcast/fighting-the-trump-bans-linda-sarsour-and-nicholas-espiritu
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP9-_DRAFT1.mp3
 post_id: 692
 categories: 
 - Immigration

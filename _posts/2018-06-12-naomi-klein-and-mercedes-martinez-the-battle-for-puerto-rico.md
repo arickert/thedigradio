@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Naomi Klein and Mercedes Martínez: The Battle for Puerto Rico
-permalink: https://www.thedigradio.com/podcast/naomi-klein-and-mercedes-martinez-the-battle-for-puerto-rico/index.html
+title: "Naomi Klein and Mercedes Martínez: The Battle for Puerto Rico"
+permalink: podcast/naomi-klein-and-mercedes-martinez-the-battle-for-puerto-rico
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_120_-_KleinMartinez.mp3
 post_id: 580
 categories: 
 - Economics

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Two upcoming live Dig tapings in Providence!
-permalink: https://www.thedigradio.com/articles/two-upcoming-live-dig-tapings-in-providence/index.html
+title: "Two upcoming live Dig tapings in Providence!"
+permalink: articles/two-upcoming-live-dig-tapings-in-providence
+audiolink: 
 post_id: 936
 categories: 
 - Articles

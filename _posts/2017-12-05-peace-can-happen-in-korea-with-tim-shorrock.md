@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Peace Can Happen in Korea with Tim Shorrock
-permalink: https://www.thedigradio.com/podcast/peace-can-happen-in-korea-with-tim-shorrock/index.html
+title: "Peace Can Happen in Korea with Tim Shorrock"
+permalink: podcast/peace-can-happen-in-korea-with-tim-shorrock
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_73_-_Shorrock.mp3
 post_id: 627
 categories: 
 - Asia

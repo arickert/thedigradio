@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Visions of Freedom w/ Piero Gleijeses Part 1
-permalink: https://www.thedigradio.com/podcast/visions-of-freedom-w-piero-gleijeses-part-1/index.html
+title: "Visions of Freedom w/ Piero Gleijeses Part 1"
+permalink: podcast/visions-of-freedom-w-piero-gleijeses-part-1
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_332-Piero.mp3
 post_id: 2071
 categories: 
 - Africa

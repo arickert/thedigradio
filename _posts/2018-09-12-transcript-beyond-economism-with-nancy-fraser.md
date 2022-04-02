@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Transcript: Beyond Economism with Nancy Fraser
-permalink: https://www.thedigradio.com/transcripts/transcript-beyond-economism-with-nancy-fraser/index.html
+title: "Transcript: Beyond Economism with Nancy Fraser"
+permalink: transcripts/transcript-beyond-economism-with-nancy-fraser
+audiolink: 
 post_id: 1352
 categories: 
 - Transcripts

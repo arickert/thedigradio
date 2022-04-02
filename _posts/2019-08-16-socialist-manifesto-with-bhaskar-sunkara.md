@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Socialist Manifesto with Bhaskar Sunkara
-permalink: https://www.thedigradio.com/podcast/socialist-manifesto-with-bhaskar-sunkara/index.html
+title: "Socialist Manifesto with Bhaskar Sunkara"
+permalink: podcast/socialist-manifesto-with-bhaskar-sunkara
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_214-Bhaskar.mp3
 post_id: 1321
 categories: 
 - Bernie Sanders

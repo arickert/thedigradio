@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Our History Is the Future with Nick Estes
-permalink: https://www.thedigradio.com/podcast/our-history-is-the-future-with-nick-estes/index.html
+title: "Our History Is the Future with Nick Estes"
+permalink: podcast/our-history-is-the-future-with-nick-estes
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_207-Estes.mp3
 post_id: 1229
 categories: 
 - Environment

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Sarah Jones: Why Establishment Dems Punch "Alt-Left"
-permalink: https://www.thedigradio.com/podcast/sarah-jones-why-establishment-dems-punch-alt-left/index.html
+title: "Sarah Jones: Why Establishment Dems Punch Alt-Left"
+permalink: podcast/sarah-jones-why-establishment-dems-punch-alt-left
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_40_-Sarah_Jones.mp3
 post_id: 661
 categories: 
 - Electoral Politics

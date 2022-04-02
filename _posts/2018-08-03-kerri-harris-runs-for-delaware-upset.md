@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Kerri Harris Runs for Delaware Upset
-permalink: https://www.thedigradio.com/podcast/kerri-harris-runs-for-delaware-upset/index.html
+title: "Kerri Harris Runs for Delaware Upset"
+permalink: podcast/kerri-harris-runs-for-delaware-upset
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_136_-_Harris.mp3
 post_id: 564
 categories: 
 - Electoral Politics

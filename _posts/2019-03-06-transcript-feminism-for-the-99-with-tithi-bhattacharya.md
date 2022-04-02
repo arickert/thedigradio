@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Transcript: Feminism for the 99% with Tithi Bhattacharya
-permalink: https://www.thedigradio.com/transcripts/transcript-feminism-for-the-99-with-tithi-bhattacharya/index.html
+title: "Transcript: Feminism for the 99% with Tithi Bhattacharya"
+permalink: transcripts/transcript-feminism-for-the-99-with-tithi-bhattacharya
+audiolink: 
 post_id: 1300
 categories: 
 - Transcripts

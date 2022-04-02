@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Ayn Rand's Optimistic Cruelty with Lisa Duggan
-permalink: https://www.thedigradio.com/podcast/ayn-rands-optimistic-cruelty-with-lisa-duggan/index.html
+title: "Ayn Rand's Optimistic Cruelty with Lisa Duggan"
+permalink: podcast/ayn-rands-optimistic-cruelty-with-lisa-duggan
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_220-Duggan.mp3
 post_id: 1383
 categories: 
 - Ayn Rand

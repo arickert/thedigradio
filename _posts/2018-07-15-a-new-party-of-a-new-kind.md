@@ -1,7 +1,8 @@
 ---
 layout: post
-title: A New Party of a New Kind
-permalink: https://www.thedigradio.com/podcast/a-new-party-of-a-new-kind/index.html
+title: "A New Party of a New Kind"
+permalink: podcast/a-new-party-of-a-new-kind
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_131_-_AckermanAronoff.mp3
 post_id: 569
 categories: 
 - Electoral Politics

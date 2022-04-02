@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Trump Doctrine and Its Mandarin Detractors
-permalink: https://www.thedigradio.com/podcast/the-trump-doctrine-and-its-mandarin-detractors/index.html
+title: "The Trump Doctrine and Its Mandarin Detractors"
+permalink: podcast/the-trump-doctrine-and-its-mandarin-detractors
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_124_-_Wertheim.mp3
 post_id: 576
 categories: 
 - Imperialism and Foreign Policy

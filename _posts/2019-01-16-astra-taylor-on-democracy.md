@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Astra Taylor on Democracy
-permalink: https://www.thedigradio.com/podcast/astra-taylor-on-democracy/index.html
+title: "Astra Taylor on Democracy"
+permalink: podcast/astra-taylor-on-democracy
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_174_-_TaylorDemocracy.mp3
 post_id: 526
 categories: 
 - Alyssa Battistoni

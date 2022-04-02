@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Right to Have Rights Part II
-permalink: https://www.thedigradio.com/podcast/the-right-to-have-rights-part-ii/index.html
+title: "The Right to Have Rights Part II"
+permalink: podcast/the-right-to-have-rights-part-ii
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_108_-_DeGooyerTaylor.mp3
 post_id: 592
 categories: 
 - Astra Taylor

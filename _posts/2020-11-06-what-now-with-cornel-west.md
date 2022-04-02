@@ -1,7 +1,8 @@
 ---
 layout: post
-title: What Now with Cornel West
-permalink: https://www.thedigradio.com/podcast/what-now-with-cornel-west/index.html
+title: "What Now with Cornel West"
+permalink: podcast/what-now-with-cornel-west
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_279-West.mp3
 post_id: 1786
 categories: 
 - Black Politics

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: A Monstrous Tax Plan That Might Fail with Arthur Delaney
-permalink: https://www.thedigradio.com/podcast/a-monstrous-tax-plan-that-might-fail-with-arthur-delaney/index.html
+title: "A Monstrous Tax Plan That Might Fail with Arthur Delaney"
+permalink: podcast/a-monstrous-tax-plan-that-might-fail-with-arthur-delaney
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_69_-_Delaney.mp3
 post_id: 631
 categories: 
 - Arthur Delaney

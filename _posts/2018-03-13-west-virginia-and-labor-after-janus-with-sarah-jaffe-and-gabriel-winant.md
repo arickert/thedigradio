@@ -1,7 +1,8 @@
 ---
 layout: post
-title: West Virginia and Labor after Janus with Sarah Jaffe and Gabriel Winant
-permalink: https://www.thedigradio.com/podcast/west-virginia-and-labor-after-janus-with-sarah-jaffe-and-gabriel-winant/index.html
+title: "West Virginia and Labor after Janus with Sarah Jaffe and Gabriel Winant"
+permalink: podcast/west-virginia-and-labor-after-janus-with-sarah-jaffe-and-gabriel-winant
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_94_-_JaffeWinant.mp3
 post_id: 606
 categories: 
 - Gabriel Winant

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Uprising with Cathy Cohen, Jasson Perez, Malaika Jabali
-permalink: https://www.thedigradio.com/podcast/uprising-with-cathy-cohen-jasson-perez-malaika-jabali/index.html
+title: "Uprising with Cathy Cohen, Jasson Perez, Malaika Jabali"
+permalink: podcast/uprising-with-cathy-cohen-jasson-perez-malaika-jabali
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_259-BLM.mp3
 post_id: 1675
 categories: 
 - Black Politics

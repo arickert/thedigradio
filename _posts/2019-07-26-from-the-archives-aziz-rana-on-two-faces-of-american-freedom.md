@@ -1,7 +1,8 @@
 ---
 layout: post
-title: From the archives: Aziz Rana on Two Faces of American Freedom
-permalink: https://www.thedigradio.com/podcast/from-the-archives-aziz-rana-on-two-faces-of-american-freedom/index.html
+title: "From the archives: Aziz Rana on Two Faces of American Freedom"
+permalink: podcast/from-the-archives-aziz-rana-on-two-faces-of-american-freedom
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_211-Aziz.mp3
 post_id: 1278
 categories: 
 - Aziz Rana

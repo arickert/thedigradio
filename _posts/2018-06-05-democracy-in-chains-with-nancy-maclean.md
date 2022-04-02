@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Democracy in Chains with Nancy MacLean
-permalink: https://www.thedigradio.com/podcast/democracy-in-chains-with-nancy-maclean/index.html
+title: "Democracy in Chains with Nancy MacLean"
+permalink: podcast/democracy-in-chains-with-nancy-maclean
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_118_-_MacLean.mp3
 post_id: 582
 categories: 
 - Economics

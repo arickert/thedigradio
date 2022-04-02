@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Socialism
-permalink: https://www.thedigradio.com/podcast/socialism/index.html
+title: "Socialism"
+permalink: podcast/socialism
+audiolink: 
 post_id: 1145
 categories: 
 - Main Menu

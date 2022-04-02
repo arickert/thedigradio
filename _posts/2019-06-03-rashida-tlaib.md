@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Rashida Tlaib
-permalink: https://www.thedigradio.com/podcast/rashida-tlaib/index.html
+title: "Rashida Tlaib"
+permalink: podcast/rashida-tlaib
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_200-Tlaib.mp3
 post_id: 1093
 categories: 
 - Environmental Justice

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Subscribe to The Dig
-permalink: https://www.thedigradio.com/homepage-subscribe-box/index.html
+title: "Subscribe to The Dig"
+permalink: homepage-subscribe-box
+audiolink: 
 post_id: 77
 categories:  []
 ---

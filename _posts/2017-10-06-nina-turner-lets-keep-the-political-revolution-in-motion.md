@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Nina Turner: Let's Keep the Political Revolution In Motion
-permalink: https://www.thedigradio.com/podcast/nina-turner-lets-keep-the-political-revolution-in-motion/index.html
+title: "Nina Turner: Let's Keep the Political Revolution In Motion"
+permalink: podcast/nina-turner-lets-keep-the-political-revolution-in-motion
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_54_-Turner.mp3
 post_id: 645
 categories: 
 - Bernie Sanders

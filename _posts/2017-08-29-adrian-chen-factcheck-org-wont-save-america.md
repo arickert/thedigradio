@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Adrian Chen: Factcheck.org Won’t Save America
-permalink: https://www.thedigradio.com/podcast/adrian-chen-factcheck-org-wont-save-america/index.html
+title: "Adrian Chen: Factcheck.org Won’t Save America"
+permalink: podcast/adrian-chen-factcheck-org-wont-save-america
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_43_-_Chen.mp3
 post_id: 658
 categories: 
 - Adrian Chen

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: War on Terror w/ Spencer Ackerman Part 1
-permalink: https://www.thedigradio.com/podcast/war-on-terror-w-spencer-ackerman-part-1/index.html
+title: "War on Terror w/ Spencer Ackerman Part 1"
+permalink: podcast/war-on-terror-w-spencer-ackerman-part-1
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_320-Ackerman.mp3
 post_id: 2019
 categories: 
 - Afghanistan

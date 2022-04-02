@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Naomi Klein: No Is Not Enough
-permalink: https://www.thedigradio.com/podcast/naomi-klein-no-is-not-enough/index.html
+title: "Naomi Klein: No Is Not Enough"
+permalink: podcast/naomi-klein-no-is-not-enough
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_32_-_Klein.mp3
 post_id: 669
 categories: 
 - Naomi Klein

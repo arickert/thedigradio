@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Crashed with Adam Tooze
-permalink: https://www.thedigradio.com/podcast/crashed-with-adam-tooze/index.html
+title: "Crashed with Adam Tooze"
+permalink: podcast/crashed-with-adam-tooze
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_170_-Tooze.mp3
 post_id: 530
 categories: 
 - Adam Tooze

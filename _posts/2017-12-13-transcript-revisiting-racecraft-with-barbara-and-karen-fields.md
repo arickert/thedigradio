@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Transcript: Revisiting Racecraft with Barbara and Karen Fields
-permalink: https://www.thedigradio.com/transcripts/transcript-revisiting-racecraft-with-barbara-and-karen-fields/index.html
+title: "Transcript: Revisiting Racecraft with Barbara and Karen Fields"
+permalink: transcripts/transcript-revisiting-racecraft-with-barbara-and-karen-fields
+audiolink: 
 post_id: 1331
 categories: 
 - Transcripts

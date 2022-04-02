@@ -1,7 +1,8 @@
 ---
 layout: post
-title: From the archives: Beyond Economism with Nancy Fraser
-permalink: https://www.thedigradio.com/podcast/from-the-archives-beyond-economism-with-nancy-fraser/index.html
+title: "From the archives: Beyond Economism with Nancy Fraser"
+permalink: podcast/from-the-archives-beyond-economism-with-nancy-fraser
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_256-Fraser_rerun_.mp3
 post_id: 1532
 categories: 
 - Podcast

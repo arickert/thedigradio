@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Resisting the School-to-Prison Pipeline
-permalink: https://www.thedigradio.com/podcast/resisting-the-school-to-prison-pipeline/index.html
+title: "Resisting the School-to-Prison Pipeline"
+permalink: podcast/resisting-the-school-to-prison-pipeline
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_115_-_HoltzmanHall.mp3
 post_id: 585
 categories: 
 - Criminal Justice

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: We must end policing as we know it with Alex Vitale
-permalink: https://www.thedigradio.com/podcast/we-must-end-policing-as-we-know-it-with-alex-vitale/index.html
+title: "We must end policing as we know it with Alex Vitale"
+permalink: podcast/we-must-end-policing-as-we-know-it-with-alex-vitale
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_57_-_Vitale.mp3
 post_id: 643
 categories: 
 - Alex Vitale

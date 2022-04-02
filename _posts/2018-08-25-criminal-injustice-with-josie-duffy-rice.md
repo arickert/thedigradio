@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Criminal Injustice with Josie Duffy Rice
-permalink: https://www.thedigradio.com/podcast/criminal-injustice-with-josie-duffy-rice/index.html
+title: "Criminal Injustice with Josie Duffy Rice"
+permalink: podcast/criminal-injustice-with-josie-duffy-rice
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_142_-_Rice.mp3
 post_id: 558
 categories: 
 - Criminal Justice

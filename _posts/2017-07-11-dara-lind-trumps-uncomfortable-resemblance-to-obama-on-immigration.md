@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Dara Lind: Trump's uncomfortable resemblance to Obama on immigration
-permalink: https://www.thedigradio.com/podcast/dara-lind-trumps-uncomfortable-resemblance-to-obama-on-immigration/index.html
+title: "Dara Lind: Trump's uncomfortable resemblance to Obama on immigration"
+permalink: podcast/dara-lind-trumps-uncomfortable-resemblance-to-obama-on-immigration
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_34_-_DaraLind.mp3
 post_id: 667
 categories: 
 - Dara Lind

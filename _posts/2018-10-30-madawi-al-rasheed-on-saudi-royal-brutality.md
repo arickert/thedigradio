@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Madawi al-Rasheed on Saudi Royal Brutality
-permalink: https://www.thedigradio.com/podcast/madawi-al-rasheed-on-saudi-royal-brutality/index.html
+title: "Madawi al-Rasheed on Saudi Royal Brutality"
+permalink: podcast/madawi-al-rasheed-on-saudi-royal-brutality
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_160_-_alRasheed.mp3
 post_id: 540
 categories: 
 - Imperialism and Foreign Policy

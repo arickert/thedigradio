@@ -1,7 +1,8 @@
 ---
 layout: post
-title: World On Fire with Naomi Klein
-permalink: https://www.thedigradio.com/podcast/world-on-fire-with-naomi-klein/index.html
+title: "World On Fire with Naomi Klein"
+permalink: podcast/world-on-fire-with-naomi-klein
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_228-Klein.mp3
 post_id: 1413
 categories: 
 - Environment

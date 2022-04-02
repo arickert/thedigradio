@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Next Shift with Gabriel Winant
-permalink: https://www.thedigradio.com/podcast/next-shift-with-gabriel-winant/index.html
+title: "Next Shift with Gabriel Winant"
+permalink: podcast/next-shift-with-gabriel-winant
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_339-Winant.mp3
 post_id: 2101
 categories: 
 - Gabriel Winant

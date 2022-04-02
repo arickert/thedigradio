@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Ukraine w/ Volodymyr Ishchenko
-permalink: https://www.thedigradio.com/podcast/ukraine-w-volodymyr-ishchenko/index.html
+title: "Ukraine w/ Volodymyr Ishchenko"
+permalink: podcast/ukraine-w-volodymyr-ishchenko
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_341-Ishchenko.mp3
 post_id: 2108
 categories: 
 - Imperialism and Foreign Policy

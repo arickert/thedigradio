@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Revisiting Racecraft with Barbara and Karen Fields
-permalink: https://www.thedigradio.com/podcast/revisiting-racecraft-with-barbara-and-karen-fields-2/index.html
+title: "Revisiting Racecraft with Barbara and Karen Fields"
+permalink: podcast/revisiting-racecraft-with-barbara-and-karen-fields-2
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_295-Fields.mp3
 post_id: 1912
 categories: 
 - Podcast

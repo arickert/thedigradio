@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Alexandria Ocasio-Cortez on Winning Power
-permalink: https://www.thedigradio.com/podcast/alexandria-ocasio-cortez-on-winning-power/index.html
+title: "Alexandria Ocasio-Cortez on Winning Power"
+permalink: podcast/alexandria-ocasio-cortez-on-winning-power
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_127_-_AOC.mp3
 post_id: 573
 categories: 
 - Alexandria Ocasio-Cortez

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Browse by Guest
-permalink: https://www.thedigradio.com/browse-by-guest/index.html
+title: "Browse by Guest"
+permalink: browse-by-guest
+audiolink: 
 post_id: 111
 categories:  []
 ---

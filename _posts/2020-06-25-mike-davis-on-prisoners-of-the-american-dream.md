@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Mike Davis on Prisoners of the American Dream
-permalink: https://www.thedigradio.com/podcast/mike-davis-on-prisoners-of-the-american-dream/index.html
+title: "Mike Davis on Prisoners of the American Dream"
+permalink: podcast/mike-davis-on-prisoners-of-the-american-dream
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_261-Davis.mp3
 post_id: 1700
 categories: 
 - Labor Movement

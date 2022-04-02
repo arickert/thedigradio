@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Left Out of Spain’s National Question
-permalink: https://www.thedigradio.com/podcast/left-out-of-spains-national-question/index.html
+title: "Left Out of Spain’s National Question"
+permalink: podcast/left-out-of-spains-national-question
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_116_-_Barcelona.mp3
 post_id: 584
 categories: 
 - Bécquer Seguín

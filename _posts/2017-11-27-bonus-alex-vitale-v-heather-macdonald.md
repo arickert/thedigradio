@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Bonus: Alex Vitale v. Heather MacDonald
-permalink: https://www.thedigradio.com/podcast/bonus-alex-vitale-v-heather-macdonald/index.html
+title: "Bonus: Alex Vitale v. Heather MacDonald"
+permalink: podcast/bonus-alex-vitale-v-heather-macdonald
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_70_-_Vitale-V-MacDonald.mp3
 post_id: 630
 categories: 
 - Alex Vitale

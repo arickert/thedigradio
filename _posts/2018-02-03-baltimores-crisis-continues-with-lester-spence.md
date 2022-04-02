@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Baltimore’s Crisis Continues with Lester Spence
-permalink: https://www.thedigradio.com/podcast/baltimores-crisis-continues-with-lester-spence/index.html
+title: "Baltimore’s Crisis Continues with Lester Spence"
+permalink: podcast/baltimores-crisis-continues-with-lester-spence
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_86_-_Spence.mp3
 post_id: 614
 categories: 
 - Criminal Justice

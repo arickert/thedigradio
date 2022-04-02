@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Interregnum w/ Aziz Rana, Nikhil Pal Singh, Wendy Brown
-permalink: https://www.thedigradio.com/podcast/interregnum-w-aziz-rana-nikhil-pal-singh-wendy-brown/index.html
+title: "Interregnum w/ Aziz Rana, Nikhil Pal Singh, Wendy Brown"
+permalink: podcast/interregnum-w-aziz-rana-nikhil-pal-singh-wendy-brown
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_338-Crisis.mp3
 post_id: 2098
 categories: 
 - Aziz Rana

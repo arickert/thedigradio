@@ -1,7 +1,8 @@
 ---
 layout: post
-title: A History of Human Caging with Kelly Lytle Hernández
-permalink: https://www.thedigradio.com/podcast/a-history-of-human-caging-with-kelly-lytle-hernandez/index.html
+title: "A History of Human Caging with Kelly Lytle Hernández"
+permalink: podcast/a-history-of-human-caging-with-kelly-lytle-hernandez
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_64_-_Lytle_Hernandez.mp3
 post_id: 634
 categories: 
 - Criminal Justice

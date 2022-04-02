@@ -1,7 +1,8 @@
 ---
 layout: post
-title: From the Archive
-permalink: https://www.thedigradio.com/from-the-archive/index.html
+title: "From the Archive"
+permalink: from-the-archive
+audiolink: 
 post_id: 102
 categories:  []
 ---

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Origins of the Opioid Crisis with Leo Beletsky
-permalink: https://www.thedigradio.com/podcast/the-origins-of-the-opioid-crisis-with-leo-beletsky/index.html
+title: "The Origins of the Opioid Crisis with Leo Beletsky"
+permalink: podcast/the-origins-of-the-opioid-crisis-with-leo-beletsky
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_71_-_Beletsky.mp3
 post_id: 629
 categories: 
 - Criminal Justice

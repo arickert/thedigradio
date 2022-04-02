@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Visions of Freedom: Maps
-permalink: https://www.thedigradio.com/visions-of-freedom-maps/index.html
+title: "Visions of Freedom: Maps"
+permalink: visions-of-freedom-maps
+audiolink: 
 post_id: 2062
 categories:  []
 ---

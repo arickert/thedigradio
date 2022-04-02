@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Afghanistan with Tariq Ali
-permalink: https://www.thedigradio.com/podcast/afghanistan-with-tariq-ali/index.html
+title: "Afghanistan with Tariq Ali"
+permalink: podcast/afghanistan-with-tariq-ali
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_325-Tariq.mp3
 post_id: 2039
 categories: 
 - Afghanistan

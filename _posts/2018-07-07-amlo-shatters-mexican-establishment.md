@@ -1,7 +1,8 @@
 ---
 layout: post
-title: AMLO Shatters Mexican Establishment
-permalink: https://www.thedigradio.com/podcast/amlo-shatters-mexican-establishment/index.html
+title: "AMLO Shatters Mexican Establishment"
+permalink: podcast/amlo-shatters-mexican-establishment
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_126_-_Thornton.mp3
 post_id: 574
 categories: 
 - Christy Thornton

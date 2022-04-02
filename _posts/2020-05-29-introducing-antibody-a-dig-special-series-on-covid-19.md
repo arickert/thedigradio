@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Introducing Antibody, a Dig special series on COVID-19
-permalink: https://www.thedigradio.com/podcast/introducing-antibody-a-dig-special-series-on-covid-19/index.html
+title: "Introducing Antibody, a Dig special series on COVID-19"
+permalink: podcast/introducing-antibody-a-dig-special-series-on-covid-19
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/Antibody_trailer.mp3
 post_id: 1553
 categories: 
 - Antibody

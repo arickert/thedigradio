@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Frances Fox Piven: Movements Still Matter
-permalink: https://www.thedigradio.com/podcast/frances-fox-piven-movements-still-matter/index.html
+title: "Frances Fox Piven: Movements Still Matter"
+permalink: podcast/frances-fox-piven-movements-still-matter
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_87_-Piven.mp3
 post_id: 613
 categories: 
 - Economics

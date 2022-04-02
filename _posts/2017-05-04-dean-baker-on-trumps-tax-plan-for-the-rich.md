@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Dean Baker on Trump's Tax Plan for the Rich
-permalink: https://www.thedigradio.com/podcast/dean-baker-on-trumps-tax-plan-for-the-rich/index.html
+title: "Dean Baker on Trump's Tax Plan for the Rich"
+permalink: podcast/dean-baker-on-trumps-tax-plan-for-the-rich
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_24_-_Baker.mp3
 post_id: 677
 categories: 
 - Dean Baker

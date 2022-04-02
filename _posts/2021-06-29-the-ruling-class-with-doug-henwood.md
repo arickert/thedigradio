@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Ruling Class with Doug Henwood
-permalink: https://www.thedigradio.com/podcast/the-ruling-class-with-doug-henwood/index.html
+title: "The Ruling Class with Doug Henwood"
+permalink: podcast/the-ruling-class-with-doug-henwood
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_313-Henwood.mp3
 post_id: 1980
 categories: 
 - Capitalism

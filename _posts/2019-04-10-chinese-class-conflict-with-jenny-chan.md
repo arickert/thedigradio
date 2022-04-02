@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chinese Class Conflict with Jenny Chan
-permalink: https://www.thedigradio.com/podcast/chinese-class-conflict-with-jenny-chan/index.html
+title: "Chinese Class Conflict with Jenny Chan"
+permalink: podcast/chinese-class-conflict-with-jenny-chan
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_191_-_Chan.mp3
 post_id: 509
 categories: 
 - Asia

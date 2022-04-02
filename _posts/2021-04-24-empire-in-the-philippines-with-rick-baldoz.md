@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Empire in the Philippines with Rick Baldoz
-permalink: https://www.thedigradio.com/podcast/empire-in-the-philippines-with-rick-baldoz/index.html
+title: "Empire in the Philippines with Rick Baldoz"
+permalink: podcast/empire-in-the-philippines-with-rick-baldoz
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_303-Baldoz.mp3
 post_id: 1947
 categories: 
 - Asia

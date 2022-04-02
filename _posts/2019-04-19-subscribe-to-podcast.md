@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Subscribe to Podcast
-permalink: https://www.thedigradio.com/subscribe-to-podcast/index.html
+title: "Subscribe to Podcast"
+permalink: subscribe-to-podcast
+audiolink: 
 post_id: 25
 categories:  []
 ---

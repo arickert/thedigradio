@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Cops and Counterinsurgency with Stuart Schrader
-permalink: https://www.thedigradio.com/podcast/cops-and-counterinsurgency-with-stuart-schrader/index.html
+title: "Cops and Counterinsurgency with Stuart Schrader"
+permalink: podcast/cops-and-counterinsurgency-with-stuart-schrader
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_265-Schrader.mp3
 post_id: 1727
 categories: 
 - Criminal Justice

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: David Harvey on Capital
-permalink: https://www.thedigradio.com/podcast/david-harvey-on-capital/index.html
+title: "David Harvey on Capital"
+permalink: podcast/david-harvey-on-capital
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_121_-_Harvey.mp3
 post_id: 579
 categories: 
 - David Harvey

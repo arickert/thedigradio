@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Yellow Vests with Danièle Obono and Jerome Roos
-permalink: https://www.thedigradio.com/podcast/yellow-vests-with-daniele-obono-and-jerome-roos/index.html
+title: "Yellow Vests with Danièle Obono and Jerome Roos"
+permalink: podcast/yellow-vests-with-daniele-obono-and-jerome-roos
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_169_-_ObonoRoos.mp3
 post_id: 531
 categories: 
 - Danièle Obono

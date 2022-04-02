@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Sawant on Socialism Against the Amazonification of Seattle
-permalink: https://www.thedigradio.com/podcast/sawant-on-socialism-against-the-amazonification-of-seattle/index.html
+title: "Sawant on Socialism Against the Amazonification of Seattle"
+permalink: podcast/sawant-on-socialism-against-the-amazonification-of-seattle
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_155_-_Sawant.mp3
 post_id: 545
 categories: 
 - Kshama Sawant

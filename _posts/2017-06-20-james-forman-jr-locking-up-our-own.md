@@ -1,7 +1,8 @@
 ---
 layout: post
-title: James Forman Jr.: Locking Up Our Own
-permalink: https://www.thedigradio.com/podcast/james-forman-jr-locking-up-our-own/index.html
+title: "James Forman Jr.: Locking Up Our Own"
+permalink: podcast/james-forman-jr-locking-up-our-own
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_31_-_Forman.mp3
 post_id: 670
 categories: 
 - Criminal Justice

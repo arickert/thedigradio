@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Russia Beyond Putin with Tony Wood
-permalink: https://www.thedigradio.com/podcast/russia-beyond-putin-with-tony-wood/index.html
+title: "Russia Beyond Putin with Tony Wood"
+permalink: podcast/russia-beyond-putin-with-tony-wood
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_206-Wood.mp3
 post_id: 1215
 categories: 
 - NATO

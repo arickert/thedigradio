@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Is Neoliberalism Over? With Nicole Aschoff
-permalink: https://www.thedigradio.com/podcast/is-neoliberalism-over-with-nicole-aschoff/index.html
+title: "Is Neoliberalism Over? With Nicole Aschoff"
+permalink: podcast/is-neoliberalism-over-with-nicole-aschoff
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_19_-_Aschoff.mp3
 post_id: 682
 categories: 
 - Economics

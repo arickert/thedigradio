@@ -1,7 +1,8 @@
 ---
 layout: post
-title: #AbolishDEA
-permalink: https://www.thedigradio.com/podcast/abolishdea/index.html
+title: "#AbolishDEA"
+permalink: podcast/abolishdea
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_149_-_BeletskyDEA.mp3
 post_id: 551
 categories: 
 - Criminal Justice

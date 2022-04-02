@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Why Democrats Fought Then Folded on DACA with Jeff Stein
-permalink: https://www.thedigradio.com/podcast/why-democrats-fought-then-folded-on-daca-with-jeff-stein/index.html
+title: "Why Democrats Fought Then Folded on DACA with Jeff Stein"
+permalink: podcast/why-democrats-fought-then-folded-on-daca-with-jeff-stein
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_84_-_Stein.mp3
 post_id: 616
 categories: 
 - Immigration

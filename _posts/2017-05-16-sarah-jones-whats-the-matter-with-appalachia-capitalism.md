@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Sarah Jones: What's the Matter with Appalachia? Capitalism
-permalink: https://www.thedigradio.com/podcast/sarah-jones-whats-the-matter-with-appalachia-capitalism/index.html
+title: "Sarah Jones: What's the Matter with Appalachia? Capitalism"
+permalink: podcast/sarah-jones-whats-the-matter-with-appalachia-capitalism
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_26_-_SarahJones.mp3
 post_id: 675
 categories: 
 - Economics

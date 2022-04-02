@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Young Lords with Johanna Fernández
-permalink: https://www.thedigradio.com/podcast/young-lords-with-johanna-fernandez/index.html
+title: "Young Lords with Johanna Fernández"
+permalink: podcast/young-lords-with-johanna-fernandez
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_264-Fernandez.mp3
 post_id: 1724
 categories: 
 - Black Politics

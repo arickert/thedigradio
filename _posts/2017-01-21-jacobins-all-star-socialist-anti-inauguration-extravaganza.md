@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Jacobin's All-Star Socialist Anti-Inauguration Extravaganza
-permalink: https://www.thedigradio.com/podcast/jacobins-all-star-socialist-anti-inauguration-extravaganza/index.html
+title: "Jacobin's All-Star Socialist Anti-Inauguration Extravaganza"
+permalink: podcast/jacobins-all-star-socialist-anti-inauguration-extravaganza
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP7.mp3
 post_id: 694
 categories: 
 - Anand Gopal

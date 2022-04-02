@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Radicalizing Jackson with Chokwe Antar Lumumba
-permalink: https://www.thedigradio.com/podcast/radicalizing-jackson-with-chokwe-antar-lumumba/index.html
+title: "Radicalizing Jackson with Chokwe Antar Lumumba"
+permalink: podcast/radicalizing-jackson-with-chokwe-antar-lumumba
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_105_-_Lumumba.mp3
 post_id: 595
 categories: 
 - Chokwe Antar Lumumba

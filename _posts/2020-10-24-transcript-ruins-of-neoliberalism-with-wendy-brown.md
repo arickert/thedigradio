@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Transcript: Ruins of Neoliberalism with Wendy Brown
-permalink: https://www.thedigradio.com/transcripts/transcript-ruins-of-neoliberalism-with-wendy-brown/index.html
+title: "Transcript: Ruins of Neoliberalism with Wendy Brown"
+permalink: transcripts/transcript-ruins-of-neoliberalism-with-wendy-brown
+audiolink: 
 post_id: 1861
 categories: 
 - Donald Trump

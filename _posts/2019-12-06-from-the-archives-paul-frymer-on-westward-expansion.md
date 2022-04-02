@@ -1,7 +1,8 @@
 ---
 layout: post
-title: From the archives: Paul Frymer on Westward Expansion
-permalink: https://www.thedigradio.com/podcast/from-the-archives-paul-frymer-on-westward-expansion/index.html
+title: "From the archives: Paul Frymer on Westward Expansion"
+permalink: podcast/from-the-archives-paul-frymer-on-westward-expansion
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_230-Frymer.mp3
 post_id: 1422
 categories: 
 - Indigenous Struggles

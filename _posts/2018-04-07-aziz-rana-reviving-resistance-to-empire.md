@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Aziz Rana: Reviving Resistance to Empire
-permalink: https://www.thedigradio.com/podcast/aziz-rana-reviving-resistance-to-empire/index.html
+title: "Aziz Rana: Reviving Resistance to Empire"
+permalink: podcast/aziz-rana-reviving-resistance-to-empire
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_100_-_Rana.mp3
 post_id: 600
 categories: 
 - Aziz Rana

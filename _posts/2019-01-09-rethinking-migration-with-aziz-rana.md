@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Rethinking Migration with Aziz Rana
-permalink: https://www.thedigradio.com/podcast/rethinking-migration-with-aziz-rana/index.html
+title: "Rethinking Migration with Aziz Rana"
+permalink: podcast/rethinking-migration-with-aziz-rana
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_173_-_Aziz_Migration.mp3
 post_id: 527
 categories: 
 - Aziz Rana

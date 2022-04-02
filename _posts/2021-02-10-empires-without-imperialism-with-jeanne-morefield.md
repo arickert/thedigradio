@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Empires Without Imperialism with Jeanne Morefield
-permalink: https://www.thedigradio.com/podcast/empires-without-imperialism-with-jeanne-morefield/index.html
+title: "Empires Without Imperialism with Jeanne Morefield"
+permalink: podcast/empires-without-imperialism-with-jeanne-morefield
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_292-Morefield.mp3
 post_id: 1885
 categories: 
 - Imperialism and Foreign Policy

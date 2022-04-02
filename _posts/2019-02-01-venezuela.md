@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Venezuela
-permalink: https://www.thedigradio.com/podcast/venezuela/index.html
+title: "Venezuela"
+permalink: podcast/venezuela
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_178_-_Venezuela.mp3
 post_id: 522
 categories: 
 - Alejandro Velasco

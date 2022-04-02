@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Stephen Wertheim: America Was Never Exceptional But We Used to Think It Was
-permalink: https://www.thedigradio.com/podcast/stephen-wertheim-america-was-never-exceptional-but-we-used-to-think-it-was/index.html
+title: "Stephen Wertheim: America Was Never Exceptional But We Used to Think It Was"
+permalink: podcast/stephen-wertheim-america-was-never-exceptional-but-we-used-to-think-it-was
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_49_-_Wertheim.mp3
 post_id: 652
 categories: 
 - Imperialism and Foreign Policy

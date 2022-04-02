@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Family Values with Melinda Cooper
-permalink: https://www.thedigradio.com/podcast/family-values-with-melinda-cooper/index.html
+title: "Family Values with Melinda Cooper"
+permalink: podcast/family-values-with-melinda-cooper
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_172_-_Cooper.mp3
 post_id: 528
 categories: 
 - Economics

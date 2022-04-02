@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Palestine and the Law with Noura Erakat
-permalink: https://www.thedigradio.com/podcast/palestine-and-the-law-with-noura-erakat/index.html
+title: "Palestine and the Law with Noura Erakat"
+permalink: podcast/palestine-and-the-law-with-noura-erakat
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_221-Noura.mp3
 post_id: 1393
 categories: 
 - Legal Theory

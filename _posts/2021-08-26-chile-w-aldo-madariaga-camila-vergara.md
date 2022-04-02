@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chile w/ Aldo Madariaga & Camila Vergara
-permalink: https://www.thedigradio.com/podcast/chile-w-aldo-madariaga-camila-vergara/index.html
+title: "Chile w/ Aldo Madariaga & Camila Vergara"
+permalink: podcast/chile-w-aldo-madariaga-camila-vergara
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_318-Chile.mp3
 post_id: 2011
 categories: 
 - Aldo Madariaga

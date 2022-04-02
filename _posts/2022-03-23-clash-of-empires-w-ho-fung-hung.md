@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Clash of Empires w/ Ho-fung Hung
-permalink: https://www.thedigradio.com/podcast/clash-of-empires-w-ho-fung-hung/index.html
+title: "Clash of Empires w/ Ho-fung Hung"
+permalink: podcast/clash-of-empires-w-ho-fung-hung
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_349-Hung.mp3
 post_id: 2165
 categories: 
 - China

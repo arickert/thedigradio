@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Jesus and John Wayne w/ Kristin Kobes Du Mez
-permalink: https://www.thedigradio.com/podcast/jesus-and-john-wayne-w-kristin-kobes-du-mez/index.html
+title: "Jesus and John Wayne w/ Kristin Kobes Du Mez"
+permalink: podcast/jesus-and-john-wayne-w-kristin-kobes-du-mez
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_317-DuMez.mp3
 post_id: 2007
 categories: 
 - Donald Trump

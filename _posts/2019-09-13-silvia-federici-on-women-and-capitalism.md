@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Silvia Federici on Women and Capitalism
-permalink: https://www.thedigradio.com/podcast/silvia-federici-on-women-and-capitalism/index.html
+title: "Silvia Federici on Women and Capitalism"
+permalink: podcast/silvia-federici-on-women-and-capitalism
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_218-Federici.mp3
 post_id: 1369
 categories: 
 - Capitalism

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Vaccine Apartheid Endures w/ Achal Prabhala
-permalink: https://www.thedigradio.com/podcast/vaccine-apartheid-endures-w-achal-prabhala/index.html
+title: "Vaccine Apartheid Endures w/ Achal Prabhala"
+permalink: podcast/vaccine-apartheid-endures-w-achal-prabhala
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_350-Prabhala.mp3
 post_id: 2172
 categories: 
 - Achal Prabhala

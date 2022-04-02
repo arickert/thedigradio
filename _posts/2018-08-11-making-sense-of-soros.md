@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Making Sense of Soros
-permalink: https://www.thedigradio.com/podcast/making-sense-of-soros/index.html
+title: "Making Sense of Soros"
+permalink: podcast/making-sense-of-soros
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_138_-_Bessner.mp3
 post_id: 562
 categories: 
 - Daniel Bessner

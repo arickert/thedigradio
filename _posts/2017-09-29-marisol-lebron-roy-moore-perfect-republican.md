@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Marisol LeBrón & Brandy Jensen: Puerto Rico, Austerian Disaster; Roy Moore, Perfect Republican
-permalink: https://www.thedigradio.com/podcast/marisol-lebron-roy-moore-perfect-republican/index.html
+title: "Marisol LeBrón & Brandy Jensen: Puerto Rico, Austerian Disaster; Roy Moore, Perfect Republican"
+permalink: podcast/marisol-lebron-roy-moore-perfect-republican
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_52_-_LeBron-Jensen.mp3
 post_id: 649
 categories: 
 - Brandy Jensen

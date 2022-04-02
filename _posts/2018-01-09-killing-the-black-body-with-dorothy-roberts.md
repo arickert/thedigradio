@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Killing the Black Body with Dorothy Roberts
-permalink: https://www.thedigradio.com/podcast/killing-the-black-body-with-dorothy-roberts/index.html
+title: "Killing the Black Body with Dorothy Roberts"
+permalink: podcast/killing-the-black-body-with-dorothy-roberts
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_79_-_Roberts.mp3
 post_id: 621
 categories: 
 - Dorothy Roberts

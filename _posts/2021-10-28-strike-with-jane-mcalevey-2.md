@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Strike! with Jane McAlevey
-permalink: https://www.thedigradio.com/podcast/strike-with-jane-mcalevey-2/index.html
+title: "Strike! with Jane McAlevey"
+permalink: podcast/strike-with-jane-mcalevey-2
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_328-McAlevey.mp3
 post_id: 2054
 categories: 
 - Podcast

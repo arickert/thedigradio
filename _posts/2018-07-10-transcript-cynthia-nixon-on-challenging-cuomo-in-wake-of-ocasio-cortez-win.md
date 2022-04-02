@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Transcript: Cynthia Nixon on Challenging Cuomo in Wake of Ocasio-Cortez Win
-permalink: https://www.thedigradio.com/transcripts/transcript-cynthia-nixon-on-challenging-cuomo-in-wake-of-ocasio-cortez-win/index.html
+title: "Transcript: Cynthia Nixon on Challenging Cuomo in Wake of Ocasio-Cortez Win"
+permalink: transcripts/transcript-cynthia-nixon-on-challenging-cuomo-in-wake-of-ocasio-cortez-win
+audiolink: 
 post_id: 1315
 categories: 
 - Transcripts

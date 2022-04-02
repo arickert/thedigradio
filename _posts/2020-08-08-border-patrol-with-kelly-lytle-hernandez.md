@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Border Patrol with Kelly Lytle Hernández
-permalink: https://www.thedigradio.com/podcast/border-patrol-with-kelly-lytle-hernandez/index.html
+title: "Border Patrol with Kelly Lytle Hernández"
+permalink: podcast/border-patrol-with-kelly-lytle-hernandez
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_267-KLH.mp3
 post_id: 1733
 categories: 
 - Border Patrol

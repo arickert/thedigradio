@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Why Socialism Wins in Chicago
-permalink: https://www.thedigradio.com/podcast/why-socialism-wins-in-chicago/index.html
+title: "Why Socialism Wins in Chicago"
+permalink: podcast/why-socialism-wins-in-chicago
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_188_-_Chicago.mp3
 post_id: 512
 categories: 
 - Electoral Politics

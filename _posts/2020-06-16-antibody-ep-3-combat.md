@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Antibody, Ep 3: Combat
-permalink: https://www.thedigradio.com/podcast/antibody-ep-3-combat/index.html
+title: "Antibody, Ep 3: Combat"
+permalink: podcast/antibody-ep-3-combat
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/Antibody_Ep_3.mp3
 post_id: 1686
 categories: 
 - Antibody

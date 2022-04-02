@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Bernie and Black Voters with Malaika Jabali and Wendi Muse
-permalink: https://www.thedigradio.com/podcast/bernie-and-black-voters-with-malaika-jabali-and-wendi-muse/index.html
+title: "Bernie and Black Voters with Malaika Jabali and Wendi Muse"
+permalink: podcast/bernie-and-black-voters-with-malaika-jabali-and-wendi-muse
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_199-JabaliMuse.mp3
 post_id: 1028
 categories: 
 - Bernie Sanders

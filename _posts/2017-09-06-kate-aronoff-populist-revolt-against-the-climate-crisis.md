@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Kate Aronoff: Populist Revolt Against The Climate Crisis
-permalink: https://www.thedigradio.com/podcast/kate-aronoff-populist-revolt-against-the-climate-crisis/index.html
+title: "Kate Aronoff: Populist Revolt Against The Climate Crisis"
+permalink: podcast/kate-aronoff-populist-revolt-against-the-climate-crisis
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_45_-_Aronoff.mp3
 post_id: 656
 categories: 
 - Environment

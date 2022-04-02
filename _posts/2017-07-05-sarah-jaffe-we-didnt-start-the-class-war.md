@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Sarah Jaffe: We Didn’t Start the Class War
-permalink: https://www.thedigradio.com/podcast/sarah-jaffe-we-didnt-start-the-class-war/index.html
+title: "Sarah Jaffe: We Didn’t Start the Class War"
+permalink: podcast/sarah-jaffe-we-didnt-start-the-class-war
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_33_-_Jaffe.mp3
 post_id: 668
 categories: 
 - Labor Movement

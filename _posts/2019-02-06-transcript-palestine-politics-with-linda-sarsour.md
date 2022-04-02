@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Transcript: Palestine Politics with Linda Sarsour
-permalink: https://www.thedigradio.com/transcripts/transcript-palestine-politics-with-linda-sarsour/index.html
+title: "Transcript: Palestine Politics with Linda Sarsour"
+permalink: transcripts/transcript-palestine-politics-with-linda-sarsour
+audiolink: 
 post_id: 1262
 categories: 
 - Transcripts

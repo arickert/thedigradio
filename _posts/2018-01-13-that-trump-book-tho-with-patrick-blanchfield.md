@@ -1,7 +1,8 @@
 ---
 layout: post
-title: That Trump Book Tho with Patrick Blanchfield
-permalink: https://www.thedigradio.com/podcast/that-trump-book-tho-with-patrick-blanchfield/index.html
+title: "That Trump Book Tho with Patrick Blanchfield"
+permalink: podcast/that-trump-book-tho-with-patrick-blanchfield
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_80_-_Blanchfield.mp3
 post_id: 620
 categories: 
 - Imperialism and Foreign Policy

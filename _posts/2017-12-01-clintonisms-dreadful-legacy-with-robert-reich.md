@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Clintonism's Dreadful Legacy with Robert Reich
-permalink: https://www.thedigradio.com/podcast/clintonisms-dreadful-legacy-with-robert-reich/index.html
+title: "Clintonism's Dreadful Legacy with Robert Reich"
+permalink: podcast/clintonisms-dreadful-legacy-with-robert-reich
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_72_-_Reich.mp3
 post_id: 628
 categories: 
 - Economics

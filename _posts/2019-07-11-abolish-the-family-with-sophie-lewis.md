@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Abolish the Family with Sophie Lewis
-permalink: https://www.thedigradio.com/podcast/abolish-the-family-with-sophie-lewis/index.html
+title: "Abolish the Family with Sophie Lewis"
+permalink: podcast/abolish-the-family-with-sophie-lewis
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_209-Lewis.mp3
 post_id: 1241
 categories: 
 - Capitalism

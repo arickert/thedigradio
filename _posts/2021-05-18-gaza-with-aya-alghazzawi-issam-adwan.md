@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Gaza with Aya Alghazzawi & Issam Adwan
-permalink: https://www.thedigradio.com/podcast/gaza-with-aya-alghazzawi-issam-adwan/index.html
+title: "Gaza with Aya Alghazzawi & Issam Adwan"
+permalink: podcast/gaza-with-aya-alghazzawi-issam-adwan
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_307-Gaza.mp3
 post_id: 1963
 categories: 
 - Aya Alghazzawi

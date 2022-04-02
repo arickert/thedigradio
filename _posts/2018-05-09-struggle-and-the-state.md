@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Struggle and the State
-permalink: https://www.thedigradio.com/podcast/struggle-and-the-state/index.html
+title: "Struggle and the State"
+permalink: podcast/struggle-and-the-state
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_110_-_Blanc-Diaz.mp3
 post_id: 590
 categories: 
 - Education

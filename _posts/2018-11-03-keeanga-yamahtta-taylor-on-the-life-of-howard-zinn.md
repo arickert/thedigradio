@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Keeanga-Yamahtta Taylor on the Life of Howard Zinn
-permalink: https://www.thedigradio.com/podcast/keeanga-yamahtta-taylor-on-the-life-of-howard-zinn/index.html
+title: "Keeanga-Yamahtta Taylor on the Life of Howard Zinn"
+permalink: podcast/keeanga-yamahtta-taylor-on-the-life-of-howard-zinn
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_161_-_KeeangaZinn.mp3
 post_id: 539
 categories: 
 - Keeanga-Yamahtta Taylor

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Troop Veneration and US Empire with Catherine Lutz
-permalink: https://www.thedigradio.com/podcast/troop-veneration-and-us-empire-with-catherine-lutz/index.html
+title: "Troop Veneration and US Empire with Catherine Lutz"
+permalink: podcast/troop-veneration-and-us-empire-with-catherine-lutz
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_78_-_Lutz.mp3
 post_id: 622
 categories: 
 - Catherine Lutz

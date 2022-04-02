@@ -1,7 +1,8 @@
 ---
 layout: post
-title: How China Escaped Shock Therapy w/ Isabella Weber
-permalink: https://www.thedigradio.com/podcast/how-china-escaped-shock-therapy-w-isabella-weber/index.html
+title: "How China Escaped Shock Therapy w/ Isabella Weber"
+permalink: podcast/how-china-escaped-shock-therapy-w-isabella-weber
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_315-Weber.mp3
 post_id: 1990
 categories: 
 - Capitalism

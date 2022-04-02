@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Newsletter
-permalink: https://www.thedigradio.com/newsletter/index.html
+title: "Newsletter"
+permalink: newsletter
+audiolink: 
 post_id: 2027
 categories:  []
 ---

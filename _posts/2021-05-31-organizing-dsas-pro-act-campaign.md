@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Organizing DSA's PRO Act Campaign
-permalink: https://www.thedigradio.com/podcast/organizing-dsas-pro-act-campaign/index.html
+title: "Organizing DSA's PRO Act Campaign"
+permalink: podcast/organizing-dsas-pro-act-campaign
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_309-DSA-PRO-Act.mp3
 post_id: 1968
 categories: 
 - Ashik Siddique

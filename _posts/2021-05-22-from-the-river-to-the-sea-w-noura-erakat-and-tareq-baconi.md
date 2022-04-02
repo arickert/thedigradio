@@ -1,7 +1,8 @@
 ---
 layout: post
-title: From the River to the Sea w/ Noura Erakat and Tareq Baconi
-permalink: https://www.thedigradio.com/podcast/from-the-river-to-the-sea-w-noura-erakat-and-tareq-baconi/index.html
+title: "From the River to the Sea w/ Noura Erakat and Tareq Baconi"
+permalink: podcast/from-the-river-to-the-sea-w-noura-erakat-and-tareq-baconi
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_308-Palestine.mp3
 post_id: 1965
 categories: 
 - Noura Erakat

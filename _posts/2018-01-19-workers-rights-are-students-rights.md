@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Workers' Rights Are Students' Rights
-permalink: https://www.thedigradio.com/podcast/workers-rights-are-students-rights/index.html
+title: "Workers' Rights Are Students' Rights"
+permalink: podcast/workers-rights-are-students-rights
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_82_-DannyTaylor.mp3
 post_id: 618
 categories: 
 - Danny Taylor

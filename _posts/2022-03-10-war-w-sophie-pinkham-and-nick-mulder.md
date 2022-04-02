@@ -1,7 +1,8 @@
 ---
 layout: post
-title: War w/ Sophie Pinkham and Nick Mulder
-permalink: https://www.thedigradio.com/podcast/war-w-sophie-pinkham-and-nick-mulder/index.html
+title: "War w/ Sophie Pinkham and Nick Mulder"
+permalink: podcast/war-w-sophie-pinkham-and-nick-mulder
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_347-Pinkham-Mulder.mp3
 post_id: 2147
 categories: 
 - Economics

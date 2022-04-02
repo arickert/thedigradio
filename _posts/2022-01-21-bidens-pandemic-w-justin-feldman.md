@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Biden's Pandemic w/ Justin Feldman
-permalink: https://www.thedigradio.com/podcast/bidens-pandemic-w-justin-feldman/index.html
+title: "Biden's Pandemic w/ Justin Feldman"
+permalink: podcast/bidens-pandemic-w-justin-feldman
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_340-Feldman.mp3
 post_id: 2104
 categories: 
 - Joe Biden

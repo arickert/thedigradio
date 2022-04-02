@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Lessons from the New Left with Max Elbaum
-permalink: https://www.thedigradio.com/podcast/lessons-from-the-new-left-with-max-elbaum/index.html
+title: "Lessons from the New Left with Max Elbaum"
+permalink: podcast/lessons-from-the-new-left-with-max-elbaum
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_153_-_Elbaum.mp3
 post_id: 547
 categories: 
 - Max Elbaum

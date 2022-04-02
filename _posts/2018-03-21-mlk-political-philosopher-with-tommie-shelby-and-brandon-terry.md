@@ -1,7 +1,8 @@
 ---
 layout: post
-title: MLK, Political Philosopher. With Tommie Shelby and Brandon Terry.
-permalink: https://www.thedigradio.com/podcast/mlk-political-philosopher-with-tommie-shelby-and-brandon-terry/index.html
+title: "MLK, Political Philosopher. With Tommie Shelby and Brandon Terry."
+permalink: podcast/mlk-political-philosopher-with-tommie-shelby-and-brandon-terry
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_96_-_ShelbyTerry.mp3
 post_id: 604
 categories: 
 - Brandon Terry

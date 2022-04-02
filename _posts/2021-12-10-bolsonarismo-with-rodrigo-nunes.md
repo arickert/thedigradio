@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Bolsonarismo with Rodrigo Nunes
-permalink: https://www.thedigradio.com/podcast/bolsonarismo-with-rodrigo-nunes/index.html
+title: "Bolsonarismo with Rodrigo Nunes"
+permalink: podcast/bolsonarismo-with-rodrigo-nunes
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_335-Nunes.mp3
 post_id: 2080
 categories: 
 - Brazil

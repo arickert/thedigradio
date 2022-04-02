@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Petro-Capitalism with Timothy Mitchell Part I
-permalink: https://www.thedigradio.com/podcast/petro-capitalism-with-timothy-mitchell-part-i/index.html
+title: "Petro-Capitalism with Timothy Mitchell Part I"
+permalink: podcast/petro-capitalism-with-timothy-mitchell-part-i
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_101_-_Mitchell-1.mp3
 post_id: 599
 categories: 
 - Economics

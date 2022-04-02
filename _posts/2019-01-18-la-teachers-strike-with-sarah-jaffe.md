@@ -1,7 +1,8 @@
 ---
 layout: post
-title: LA Teachers Strike with Sarah Jaffe
-permalink: https://www.thedigradio.com/podcast/la-teachers-strike-with-sarah-jaffe/index.html
+title: "LA Teachers Strike with Sarah Jaffe"
+permalink: podcast/la-teachers-strike-with-sarah-jaffe
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_175_-_JaffeUTLA.mp3
 post_id: 525
 categories: 
 - Education

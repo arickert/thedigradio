@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Philly Black Power with Matthew Countryman
-permalink: https://www.thedigradio.com/podcast/philly-black-power-with-matthew-countryman/index.html
+title: "Philly Black Power with Matthew Countryman"
+permalink: podcast/philly-black-power-with-matthew-countryman
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_270-Countryman.mp3
 post_id: 1752
 categories: 
 - Black Politics

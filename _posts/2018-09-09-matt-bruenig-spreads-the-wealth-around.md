@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Matt Bruenig Spreads the Wealth Around
-permalink: https://www.thedigradio.com/podcast/matt-bruenig-spreads-the-wealth-around/index.html
+title: "Matt Bruenig Spreads the Wealth Around"
+permalink: podcast/matt-bruenig-spreads-the-wealth-around
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_146_-_BruenigSWF.mp3
 post_id: 554
 categories: 
 - Economics

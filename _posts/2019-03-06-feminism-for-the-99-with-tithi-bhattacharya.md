@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Feminism for the 99% with Tithi Bhattacharya
-permalink: https://www.thedigradio.com/podcast/feminism-for-the-99-with-tithi-bhattacharya/index.html
+title: "Feminism for the 99% with Tithi Bhattacharya"
+permalink: podcast/feminism-for-the-99-with-tithi-bhattacharya
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_184_-_Tithi.mp3
 post_id: 516
 categories: 
 - Feminism

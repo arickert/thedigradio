@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Destruction of Black Wealth with Ryan Cooper
-permalink: https://www.thedigradio.com/podcast/the-destruction-of-black-wealth-with-ryan-cooper/index.html
+title: "The Destruction of Black Wealth with Ryan Cooper"
+permalink: podcast/the-destruction-of-black-wealth-with-ryan-cooper
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_74_-_Cooper.mp3
 post_id: 626
 categories: 
 - Economics

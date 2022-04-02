@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Transcript: Keeanga-Yamahtta Taylor on the Life of Howard Zinn
-permalink: https://www.thedigradio.com/transcripts/transcript-keeanga-yamahtta-taylor-on-the-life-of-howard-zinn/index.html
+title: "Transcript: Keeanga-Yamahtta Taylor on the Life of Howard Zinn"
+permalink: transcripts/transcript-keeanga-yamahtta-taylor-on-the-life-of-howard-zinn
+audiolink: 
 post_id: 1307
 categories: 
 - Transcripts

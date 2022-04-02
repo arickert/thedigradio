@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Inflation Politics with Tim Barker
-permalink: https://www.thedigradio.com/podcast/inflation-politics-with-tim-barker/index.html
+title: "Inflation Politics with Tim Barker"
+permalink: podcast/inflation-politics-with-tim-barker
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_316-Barker.mp3
 post_id: 1993
 categories: 
 - Economics

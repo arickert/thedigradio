@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Black Left with Charisse Burden-Stelly
-permalink: https://www.thedigradio.com/podcast/black-left-with-charisse-burden-stelly/index.html
+title: "Black Left with Charisse Burden-Stelly"
+permalink: podcast/black-left-with-charisse-burden-stelly
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_301-Burden-Stelly.mp3
 post_id: 1942
 categories: 
 - Black Politics

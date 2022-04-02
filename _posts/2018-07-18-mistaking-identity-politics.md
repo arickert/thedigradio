@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Mistaking Identity Politics
-permalink: https://www.thedigradio.com/podcast/mistaking-identity-politics/index.html
+title: "Mistaking Identity Politics"
+permalink: podcast/mistaking-identity-politics
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_132_-_Haider.mp3
 post_id: 568
 categories: 
 - Asad Haider

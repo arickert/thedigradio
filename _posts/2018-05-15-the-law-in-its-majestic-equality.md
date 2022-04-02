@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Law in Its Majestic Equality
-permalink: https://www.thedigradio.com/podcast/the-law-in-its-majestic-equality/index.html
+title: "The Law in Its Majestic Equality"
+permalink: podcast/the-law-in-its-majestic-equality
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_112_-_kapczynski.mp3
 post_id: 588
 categories: 
 - Amy Kapczynski

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Julia Salazar Brings Socialist Insurgency to Brooklyn
-permalink: https://www.thedigradio.com/podcast/julia-salazar-brings-socialist-insurgency-to-brooklyn/index.html
+title: "Julia Salazar Brings Socialist Insurgency to Brooklyn"
+permalink: podcast/julia-salazar-brings-socialist-insurgency-to-brooklyn
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_130_-_Salazar.mp3
 post_id: 570
 categories: 
 - Electoral Politics

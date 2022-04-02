@@ -1,7 +1,8 @@
 ---
 layout: post
-title: A Post-Janus Plan for Labor
-permalink: https://www.thedigradio.com/podcast/a-post-janus-plan-for-labor/index.html
+title: "A Post-Janus Plan for Labor"
+permalink: podcast/a-post-janus-plan-for-labor
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_133_-_Maisano.mp3
 post_id: 567
 categories: 
 - Chris Maisano

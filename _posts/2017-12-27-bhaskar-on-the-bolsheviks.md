@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Bhaskar on the Bolsheviks
-permalink: https://www.thedigradio.com/podcast/bhaskar-on-the-bolsheviks/index.html
+title: "Bhaskar on the Bolsheviks"
+permalink: podcast/bhaskar-on-the-bolsheviks
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_77_-_Sunkara.mp3
 post_id: 623
 categories: 
 - Bhaskar Sunkara

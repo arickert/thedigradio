@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Global Vaccine Apartheid with Achal Prabhala
-permalink: https://www.thedigradio.com/podcast/global-vaccine-apartheid-with-achal-prabhala/index.html
+title: "Global Vaccine Apartheid with Achal Prabhala"
+permalink: podcast/global-vaccine-apartheid-with-achal-prabhala
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_298-Prabhala.mp3
 post_id: 1922
 categories: 
 - Achal Prabhala

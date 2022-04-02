@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Problem with the Problem with Appalachia
-permalink: https://www.thedigradio.com/podcast/the-problem-with-the-problem-with-appalachia/index.html
+title: "The Problem with the Problem with Appalachia"
+permalink: podcast/the-problem-with-the-problem-with-appalachia
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_148_-_Catte.mp3
 post_id: 552
 categories: 
 - Economics

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Alejandro Velasco: Explaining Venezuela's crisis
-permalink: https://www.thedigradio.com/podcast/alejandro-velasco-explaining-venezuelas-crisis/index.html
+title: "Alejandro Velasco: Explaining Venezuela's crisis"
+permalink: podcast/alejandro-velasco-explaining-venezuelas-crisis
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_36_-_Velasco.mp3
 post_id: 665
 categories: 
 - Alejandro Velasco

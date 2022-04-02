@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Big Scary 'S' Word w/ Yael Bridge
-permalink: https://www.thedigradio.com/podcast/the-big-scary-s-word-w-yael-bridge/index.html
+title: "The Big Scary 'S' Word w/ Yael Bridge"
+permalink: podcast/the-big-scary-s-word-w-yael-bridge
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_326-Bridge.mp3
 post_id: 2046
 categories: 
 - Podcast

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Astra Taylor on Socialism, Democracy, Liberalism
-permalink: https://www.thedigradio.com/podcast/astra-taylor-on-socialism-democracy-liberalism/index.html
+title: "Astra Taylor on Socialism, Democracy, Liberalism"
+permalink: podcast/astra-taylor-on-socialism-democracy-liberalism
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-208-Taylor.mp3
 post_id: 1234
 categories: 
 - Astra Taylor

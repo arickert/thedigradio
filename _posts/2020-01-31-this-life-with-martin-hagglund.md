@@ -1,7 +1,8 @@
 ---
 layout: post
-title: This Life with Martin Hägglund
-permalink: https://www.thedigradio.com/podcast/this-life-with-martin-hagglund/index.html
+title: "This Life with Martin Hägglund"
+permalink: podcast/this-life-with-martin-hagglund
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_237-Hagglund.mp3
 post_id: 1446
 categories: 
 - Martin Hägglund

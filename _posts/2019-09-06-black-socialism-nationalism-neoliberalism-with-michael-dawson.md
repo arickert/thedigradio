@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Black Socialism, Nationalism, Neoliberalism with Michael Dawson
-permalink: https://www.thedigradio.com/podcast/black-socialism-nationalism-neoliberalism-with-michael-dawson/index.html
+title: "Black Socialism, Nationalism, Neoliberalism with Michael Dawson"
+permalink: podcast/black-socialism-nationalism-neoliberalism-with-michael-dawson
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_217-Dawson.mp3
 post_id: 1366
 categories: 
 - Capitalism

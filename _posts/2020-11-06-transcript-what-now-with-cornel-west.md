@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Transcript: What Now with Cornel West
-permalink: https://www.thedigradio.com/podcast/transcript-what-now-with-cornel-west/index.html
+title: "Transcript: What Now with Cornel West"
+permalink: podcast/transcript-what-now-with-cornel-west
+audiolink: 
 post_id: 1872
 categories: 
 - Black Politics

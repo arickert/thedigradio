@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Invisible Hands w/ Kim Phillips-Fein
-permalink: https://www.thedigradio.com/podcast/invisible-hands-w-kim-phillips-fein/index.html
+title: "Invisible Hands w/ Kim Phillips-Fein"
+permalink: podcast/invisible-hands-w-kim-phillips-fein
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_345-Phillips-Fein.mp3
 post_id: 2124
 categories: 
 - Kim Phillips-Fein

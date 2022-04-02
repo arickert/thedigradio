@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Race or Class? Bad Question. With Nikhil Pal Singh.
-permalink: https://www.thedigradio.com/podcast/race-or-class-bad-question-with-nikhil-pal-singh/index.html
+title: "Race or Class? Bad Question. With Nikhil Pal Singh."
+permalink: podcast/race-or-class-bad-question-with-nikhil-pal-singh
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_145_-_NPS.mp3
 post_id: 555
 categories: 
 - Economics

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Dave Weigel: What the media doesn't get about the left
-permalink: https://www.thedigradio.com/podcast/dave-weigel-what-the-media-doesnt-get-about-the-left/index.html
+title: "Dave Weigel: What the media doesn't get about the left"
+permalink: podcast/dave-weigel-what-the-media-doesnt-get-about-the-left
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_15-Weigel.mp3
 post_id: 686
 categories: 
 - Dave Weigel

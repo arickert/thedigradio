@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Doug Henwood on DSA
-permalink: https://www.thedigradio.com/podcast/doug-henwood-on-dsa/index.html
+title: "Doug Henwood on DSA"
+permalink: podcast/doug-henwood-on-dsa
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_198-Henwood.mp3
 post_id: 1019
 categories: 
 - Doug Henwood

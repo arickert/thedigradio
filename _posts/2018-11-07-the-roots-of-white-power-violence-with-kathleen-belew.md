@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Roots of White Power Violence with Kathleen Belew
-permalink: https://www.thedigradio.com/podcast/the-roots-of-white-power-violence-with-kathleen-belew/index.html
+title: "The Roots of White Power Violence with Kathleen Belew"
+permalink: podcast/the-roots-of-white-power-violence-with-kathleen-belew
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_162_-_Belew.mp3
 post_id: 538
 categories: 
 - Kathleen Belew

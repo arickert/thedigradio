@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Matt Bruenig on Why Welfare is Great and Why We Need More
-permalink: https://www.thedigradio.com/podcast/matt-bruenig-on-why-welfare-is-great-and-why-we-need-more/index.html
+title: "Matt Bruenig on Why Welfare is Great and Why We Need More"
+permalink: podcast/matt-bruenig-on-why-welfare-is-great-and-why-we-need-more
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP18-Bruenig.mp3
 post_id: 683
 categories: 
 - Economics

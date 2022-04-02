@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Petro-Imperialism with Timothy Mitchell Part II
-permalink: https://www.thedigradio.com/podcast/petro-imperialism-with-timothy-mitchell-part-ii/index.html
+title: "Petro-Imperialism with Timothy Mitchell Part II"
+permalink: podcast/petro-imperialism-with-timothy-mitchell-part-ii
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_102_-_Mitchell2.mp3
 post_id: 598
 categories: 
 - Economics

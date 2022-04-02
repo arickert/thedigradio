@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Jeff Sessions' Brutal Legacy
-permalink: https://www.thedigradio.com/podcast/jeff-sessions-brutal-legacy/index.html
+title: "Jeff Sessions' Brutal Legacy"
+permalink: podcast/jeff-sessions-brutal-legacy
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_165_-_Joseph.mp3
 post_id: 535
 categories: 
 - Criminal Justice

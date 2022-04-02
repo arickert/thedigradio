@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Liza Featherstone on the Fight Against Lean-In Feminism
-permalink: https://www.thedigradio.com/podcast/liza-featherstone-on-the-fight-against-lean-in-feminism/index.html
+title: "Liza Featherstone on the Fight Against Lean-In Feminism"
+permalink: podcast/liza-featherstone-on-the-fight-against-lean-in-feminism
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_25_-_Featherstone.mp3
 post_id: 676
 categories: 
 - Feminism

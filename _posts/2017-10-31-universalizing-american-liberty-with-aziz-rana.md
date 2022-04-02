@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Universalizing American Liberty with Aziz Rana
-permalink: https://www.thedigradio.com/podcast/universalizing-american-liberty-with-aziz-rana/index.html
+title: "Universalizing American Liberty with Aziz Rana"
+permalink: podcast/universalizing-american-liberty-with-aziz-rana
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_62_-_Rana.mp3
 post_id: 638
 categories: 
 - Aziz Rana

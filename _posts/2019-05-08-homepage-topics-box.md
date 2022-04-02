@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Browse by Topic
-permalink: https://www.thedigradio.com/homepage-topics-box/index.html
+title: "Browse by Topic"
+permalink: homepage-topics-box
+audiolink: 
 post_id: 92
 categories:  []
 ---

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Daniel Denvir interviewed by Astra Taylor
-permalink: https://www.thedigradio.com/podcast/daniel-denvir-interviewed-by-astra-taylor/index.html
+title: "Daniel Denvir interviewed by Astra Taylor"
+permalink: podcast/daniel-denvir-interviewed-by-astra-taylor
+audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_236-Denvir.mp3
 post_id: 1442
 categories: 
 - Astra Taylor

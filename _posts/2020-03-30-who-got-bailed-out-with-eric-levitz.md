@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Who Got Bailed Out with Eric Levitz
-permalink: https://www.thedigradio.com/podcast/who-got-bailed-out-with-eric-levitz/index.html
+title: "Who Got Bailed Out with Eric Levitz"
+permalink: podcast/who-got-bailed-out-with-eric-levitz
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_249-Levitz.mp3
 post_id: 1483
 categories: 
 - Coronavirus

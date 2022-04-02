@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Latest Episode
-permalink: https://www.thedigradio.com/latest-episode/index.html
+title: "Latest Episode"
+permalink: latest-episode
+audiolink: 
 post_id: 55
 categories:  []
 ---

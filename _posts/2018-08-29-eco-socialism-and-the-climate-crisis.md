@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Eco-Socialism and the Climate Crisis
-permalink: https://www.thedigradio.com/podcast/eco-socialism-and-the-climate-crisis/index.html
+title: "Eco-Socialism and the Climate Crisis"
+permalink: podcast/eco-socialism-and-the-climate-crisis
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_143_-_Blockadia.mp3
 post_id: 557
 categories: 
 - Ashley Dawson

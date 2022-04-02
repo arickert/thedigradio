@@ -1,7 +1,8 @@
 ---
 layout: post
-title: A New Poor People’s Campaign with Nijmie Dzurinko
-permalink: https://www.thedigradio.com/podcast/a-new-poor-peoples-campaign-with-nijmie-dzurinko/index.html
+title: "A New Poor People’s Campaign with Nijmie Dzurinko"
+permalink: podcast/a-new-poor-peoples-campaign-with-nijmie-dzurinko
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_81_-_Dzurinko2.mp3
 post_id: 619
 categories: 
 - Economics

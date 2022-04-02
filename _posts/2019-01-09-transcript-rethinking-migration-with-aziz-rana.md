@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Transcript: Rethinking Migration with Aziz Rana
-permalink: https://www.thedigradio.com/transcripts/transcript-rethinking-migration-with-aziz-rana/index.html
+title: "Transcript: Rethinking Migration with Aziz Rana"
+permalink: transcripts/transcript-rethinking-migration-with-aziz-rana
+audiolink: 
 post_id: 1285
 categories: 
 - Transcripts

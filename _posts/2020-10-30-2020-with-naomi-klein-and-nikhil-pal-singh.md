@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 2020 with Naomi Klein and Nikhil Pal Singh
-permalink: https://www.thedigradio.com/podcast/2020-with-naomi-klein-and-nikhil-pal-singh/index.html
+title: "2020 with Naomi Klein and Nikhil Pal Singh"
+permalink: podcast/2020-with-naomi-klein-and-nikhil-pal-singh
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_278-NK-NPS.mp3
 post_id: 1782
 categories: 
 - Electoral Politics

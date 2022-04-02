@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Glenn Greenwald: Surveillance Hypocrisy Amid Russiagate Mania
-permalink: https://www.thedigradio.com/podcast/glenn-greenwald-surveillance-hypocrisy-amid-russiagate-mania/index.html
+title: "Glenn Greenwald: Surveillance Hypocrisy Amid Russiagate Mania"
+permalink: podcast/glenn-greenwald-surveillance-hypocrisy-amid-russiagate-mania
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_90_-_Greenwald.mp3
 post_id: 610
 categories: 
 - Glenn Greenwald

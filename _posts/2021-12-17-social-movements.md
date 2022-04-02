@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Social Movements
-permalink: https://www.thedigradio.com/podcast/social-movements/index.html
+title: "Social Movements"
+permalink: podcast/social-movements
+audiolink: 
 post_id: 1155
 categories: 
 - Main Menu

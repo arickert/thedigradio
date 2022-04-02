@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Building an American Empire with Paul Frymer
-permalink: https://www.thedigradio.com/podcast/building-an-american-empire-with-paul-frymer/index.html
+title: "Building an American Empire with Paul Frymer"
+permalink: podcast/building-an-american-empire-with-paul-frymer
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_85_-_Frymer.mp3
 post_id: 615
 categories: 
 - Indigenous Struggles

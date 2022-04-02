@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Stop Whore Stigma with Melissa Gira Grant
-permalink: https://www.thedigradio.com/podcast/stop-whore-stigma-with-melissa-gira-grant/index.html
+title: "Stop Whore Stigma with Melissa Gira Grant"
+permalink: podcast/stop-whore-stigma-with-melissa-gira-grant
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_135_-_GrantSESTA.mp3
 post_id: 565
 categories: 
 - Feminism

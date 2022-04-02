@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Part One: The Story Behind America's Mass Incarceration Experiment
-permalink: https://www.thedigradio.com/podcast/part-one-the-story-behind-americas-mass-incarceration-experiment/index.html
+title: "Part One: The Story Behind America's Mass Incarceration Experiment"
+permalink: podcast/part-one-the-story-behind-americas-mass-incarceration-experiment
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/Dig-Cited-MassInOne.mp3
 post_id: 648
 categories: 
 - Criminal Justice

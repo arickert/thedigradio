@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Lisa Duggan on the Open Secret of Sexual Assault
-permalink: https://www.thedigradio.com/podcast/lisa-duggan-on-the-open-secret-of-sexual-assault/index.html
+title: "Lisa Duggan on the Open Secret of Sexual Assault"
+permalink: podcast/lisa-duggan-on-the-open-secret-of-sexual-assault
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_152_-_Duggan.mp3
 post_id: 548
 categories: 
 - Feminism
