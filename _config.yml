@@ -1,9 +1,9 @@
 # Setup
 title: The Dig
 tagline: The Dig
-url: https://getpoole.com
+url: "localhost:4000"
 paginate: 1
-baseurl: ""
+baseurl: "localhost:4000"
 permalink: pretty
 
 
@@ -48,6 +48,8 @@ pages:
   Introduction: '/2020/04/04/introduction/'
   Archive: '/archive/'
   Categories: '/categories/'
+  Tags: 'tags/'
+
 
 
 # Archives
