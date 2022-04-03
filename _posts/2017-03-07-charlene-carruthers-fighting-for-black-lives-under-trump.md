@@ -5,10 +5,10 @@ permalink: podcast/charlene-carruthers-fighting-for-black-lives-under-trump
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_14_-_Carruthers.mp3
 post_id: 687
 categories: 
-- Charlene Carruthers
-- Podcast
 - Racism
 - Social Movements
+tags: 
+- Charlene Carruthers
 ---
 
 Fighting for Black Lives Under Trump

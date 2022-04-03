@@ -6,8 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 528
 categories: 
 - Economics
+tags: 
 - Melinda Cooper
-- Podcast
 ---
 
 [View Transcript](https://www.thedigradio.com/transcripts/transcript-family-values-with-melinda-cooper/)

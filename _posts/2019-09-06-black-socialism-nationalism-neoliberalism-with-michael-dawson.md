@@ -6,10 +6,10 @@ audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP
 post_id: 1366
 categories: 
 - Capitalism
-- Michael Dawson
 - Neoliberalism
-- Podcast
 - Racism
+tags: 
+- Michael Dawson
 ---
 
 Dan discusses the history of black politics in the US—left, nationalist, liberal, and neoliberal—with Michael Dawson.

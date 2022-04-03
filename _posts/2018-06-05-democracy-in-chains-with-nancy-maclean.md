@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 582
 categories: 
 - Economics
-- Nancy MacLean
-- Podcast
 - Political Theory
+tags: 
+- Nancy MacLean
 ---
 
 For libertarians, liberty means something different. It’s about liberty for property owners. And in their quest to preserve that absolute freedom for the ownership class—whether their assets be human slaves, factories or extractive industries—democracy must be curtailed and the power of the people must be checked and repressed.

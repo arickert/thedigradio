@@ -5,10 +5,10 @@ permalink: podcast/the-right-to-sex-with-amia-srinivasan
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_327-Amia.mp3
 post_id: 2049
 categories: 
-- Amia Srinivasan
 - Feminism
 - Gender
-- Podcast
+tags: 
+- Amia Srinivasan
 - Sex
 ---
 

@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 656
 categories: 
 - Environment
-- Kate Aronoff
-- Podcast
 - Social Movements
+tags: 
+- Kate Aronoff
 ---
 
 The devastation wreaked by Hurricane Harvey has made the denial of climate change all the more dangerous. But @KateAronoff says that mainstream liberals and environmental groups, touting cap-and-trade and business-friendly reforms, have put forward an agenda that can’t address the crisis and won’t mobilize the masses. We need a radical and transformative climate agenda.

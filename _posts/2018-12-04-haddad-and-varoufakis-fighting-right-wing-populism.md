@@ -7,9 +7,9 @@ post_id: 533
 categories: 
 - Economics
 - Europe
-- Fernando Haddad
 - Latin America
-- Podcast
+tags: 
+- Fernando Haddad
 - Yanis Varoufakis
 ---
 

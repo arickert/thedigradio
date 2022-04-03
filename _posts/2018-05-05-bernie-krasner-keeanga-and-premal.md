@@ -7,9 +7,9 @@ post_id: 591
 categories: 
 - Bernie Sanders
 - Criminal Justice
+tags: 
 - Keeanga-Yamahtta Taylor
 - Larry Krasner
-- Podcast
 - Premal Dharia
 ---
 

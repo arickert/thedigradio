@@ -7,9 +7,9 @@ post_id: 541
 categories: 
 - Economics
 - Electoral Politics
-- Malaika Jabali
-- Podcast
 - Racism
+tags: 
+- Malaika Jabali
 ---
 
 Recently, Dan spoke to Nikhil Pal Singh about the unfortunate and never-ending debate over whether it was economics or racism that got Trump elected. This is a sequel to that discussion: because what Malaika Jabali powerfully exposes in a 

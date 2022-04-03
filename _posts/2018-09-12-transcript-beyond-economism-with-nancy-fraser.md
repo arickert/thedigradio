@@ -4,7 +4,8 @@ title: "Transcript: Beyond Economism with Nancy Fraser"
 permalink: transcripts/transcript-beyond-economism-with-nancy-fraser
 audiolink: 
 post_id: 1352
-categories: 
+categories:  []
+tags: 
 - Transcripts
 ---
 

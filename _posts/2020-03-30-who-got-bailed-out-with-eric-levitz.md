@@ -7,8 +7,8 @@ post_id: 1483
 categories: 
 - Coronavirus
 - Donald Trump
+tags: 
 - Eric Levitz
-- Podcast
 ---
 
 Dan interviews New York magazine writer Eric Levitz on the big corporate bailout that gave workers precious little to survive the corona crisis.

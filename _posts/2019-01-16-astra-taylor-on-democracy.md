@@ -5,10 +5,10 @@ permalink: podcast/astra-taylor-on-democracy
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_174_-_TaylorDemocracy.mp3
 post_id: 526
 categories: 
+- Political Theory
+tags: 
 - Alyssa Battistoni
 - Astra Taylor
-- Podcast
-- Political Theory
 ---
 
 [Show Transcript](https://www.thedigradio.com/transcripts/transcript-astra-taylor-on-democracy/)

@@ -6,8 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1470
 categories: 
 - Bernie Sanders
+tags: 
 - Ilhan Omar
-- Podcast
 ---
 
 Pep talk time: Dan interviews Rep. Ilhan Omar to give us some perspective and prepare us for the fight ahead.

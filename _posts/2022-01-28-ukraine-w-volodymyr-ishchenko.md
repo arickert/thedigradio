@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 2108
 categories: 
 - Imperialism and Foreign Policy
-- Podcast
 - Russia
 - Ukraine
+tags: 
 - Volodymyr Ishchenko
 ---
 

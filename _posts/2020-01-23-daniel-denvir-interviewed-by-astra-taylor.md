@@ -5,10 +5,10 @@ permalink: podcast/daniel-denvir-interviewed-by-astra-taylor
 audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_236-Denvir.mp3
 post_id: 1442
 categories: 
+- Immigration
+tags: 
 - Astra Taylor
 - Daniel Denvir
-- Immigration
-- Podcast
 ---
 
 Daniel Denvir shamelessly interviewed on his own podcast by Astra Taylor about All-American Nativism.

@@ -7,7 +7,7 @@ post_id: 671
 categories: 
 - Electoral Politics
 - Europe
-- Podcast
+tags: 
 - Richard Seymour
 ---
 

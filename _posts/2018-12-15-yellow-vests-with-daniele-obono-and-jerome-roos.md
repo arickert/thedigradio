@@ -5,11 +5,11 @@ permalink: podcast/yellow-vests-with-daniele-obono-and-jerome-roos
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_169_-_ObonoRoos.mp3
 post_id: 531
 categories: 
-- Danièle Obono
 - Environment
 - Europe
+tags: 
+- Danièle Obono
 - Jerome Roos
-- Podcast
 ---
 
 There has been no greater exemplar of zombie neoliberalism in power than French President Emanuel Macron's imperial technocracy. Now, with the rise of the Yellow Vest (

@@ -7,8 +7,8 @@ post_id: 514
 categories: 
 - Imperialism and Foreign Policy
 - Middle East
+tags: 
 - Mohammad-Mahmoud Ould Mohamedou
-- Podcast
 ---
 
 Mohammad-Mahmoud Ould Mohamedou explains: it's not just that the War on Terror has warped American and European politics and society; it's that the War on Terror and Islamic terrorist groups like ISIS have become mutually-critical facets of a larger, more total global geo-political order. In other words, the terrorists and the national security states waging war against them are dependent upon one another, and together have created a more violent, divided and alienated world.

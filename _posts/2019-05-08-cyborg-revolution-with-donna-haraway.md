@@ -5,11 +5,11 @@ permalink: podcast/cyborg-revolution-with-donna-haraway
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_195_-_Haraway.mp3
 post_id: 505
 categories: 
-- Alyssa Battistoni
-- Donna Haraway
 - Environment
 - Feminism
-- Podcast
+tags: 
+- Alyssa Battistoni
+- Donna Haraway
 ---
 
 Donna Haraway's work defies disciplines, combining insights from both biology and feminist thought, and drawing on her own involvement in political projects organized around feminism and radical science. Haraway’s most recent book, 

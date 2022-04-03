@@ -7,7 +7,7 @@ post_id: 571
 categories: 
 - Bernie Sanders
 - Electoral Politics
-- Podcast
+tags:  []
 ---
 
 [View Transcript](https://www.jacobinmag.com/2018/07/bernie-sanders-interview-alexandria-ocasio-cortez)

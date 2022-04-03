@@ -7,8 +7,8 @@ post_id: 1780
 categories: 
 - Donald Trump
 - Neoliberalism
-- Podcast
 - Right-Wing Politics
+tags: 
 - Wendy Brown
 ---
 

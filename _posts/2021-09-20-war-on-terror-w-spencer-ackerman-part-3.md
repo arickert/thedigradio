@@ -10,7 +10,7 @@ categories:
 - Imperialism and Foreign Policy
 - Iraq War
 - Joe Biden
-- Podcast
+tags: 
 - Spencer Ackerman
 ---
 

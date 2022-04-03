@@ -5,10 +5,10 @@ permalink: podcast/asli-bali-on-syria-part-i
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_139_-_Bali.mp3
 post_id: 561
 categories: 
-- Aslı Bâli
 - Imperialism and Foreign Policy
 - Middle East
-- Podcast
+tags: 
+- Aslı Bâli
 ---
 
 Aslı Ü. Bâli joins Daniel for part one of a two-part interview on the Syrian Civil War and the murderously instrumentalized geopolitics that fuel it. Syrians continue to suffer and to die while various actors treat the conflict as a proxy for their own geopolitical ends; meanwhile, huge numbers of Syrian refugees languish in neighboring countries, and the much smaller number who have made their way to Europe and the United States have been utilized by a resurgent far-right to blame ordinary Syrians for violence rooted in the colonial operations of those very same countries that now insist on keeping the refugees out.

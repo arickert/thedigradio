@@ -6,8 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 651
 categories: 
 - Electoral Politics
+tags: 
 - Eve Peyser
-- Podcast
 ---
 
 For this Diglet, Dan and Eve discuss Hillary Clinton's new book What Happened. Eve also talks about spending time with Jill Stein recently, and argues that it's wrongheaded to blame Stein for Trump. Thanks to our supporters at University of California Press. Check out their new title How All Politics Became Reproductive Politics: From Welfare Reform to Foreclosure to Trump 

@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 650
 categories: 
 - Imperialism and Foreign Policy
-- Khaled Beydoun
-- Podcast
 - Racism
+tags: 
+- Khaled Beydoun
 ---
 
 Islamophobia is conventionally regarded as racist and bigoted views about Muslims expressed by ignorant individuals, including the one who somehow became president. But legal and critical race scholar 

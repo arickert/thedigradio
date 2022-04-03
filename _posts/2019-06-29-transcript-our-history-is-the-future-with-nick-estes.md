@@ -8,6 +8,7 @@ categories:
 - Environment
 - Imperialism and Foreign Policy
 - Indigenous Struggles
+tags: 
 - Nick Estes
 - Transcripts
 ---

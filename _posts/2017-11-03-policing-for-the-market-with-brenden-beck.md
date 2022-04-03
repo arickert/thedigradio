@@ -5,11 +5,11 @@ permalink: podcast/policing-for-the-market-with-brenden-beck
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_63_-_Beck.mp3
 post_id: 637
 categories: 
-- Brenden Beck
 - Criminal Justice
 - Economics
-- Podcast
 - Transportation and Cities
+tags: 
+- Brenden Beck
 ---
 
 Why have the size of American police departments grown so dramatically in recent decades, even as crime rates have fallen? One factor may have been the growing centrality of real estate for urban economies, according to a new article published in the journal 

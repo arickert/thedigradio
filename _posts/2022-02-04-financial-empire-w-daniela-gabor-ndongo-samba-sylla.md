@@ -6,12 +6,12 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 2110
 categories: 
 - Colonialism
-- Daniela Gabor
 - Economics
 - Finance
+tags: 
+- Daniela Gabor
 - Global Politics
 - Ndongo Samba Sylla
-- Podcast
 ---
 
 Olúfẹmi Táíwò guest hosts an interview with Daniela Gabor and Ndongo Samba Sylla on how financial power has shaped the global economic order from colonialism through Bretton Woods, the Washington Consensus, and today's Wall Street Consensus. 

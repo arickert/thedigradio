@@ -5,10 +5,10 @@ permalink: podcast/chile-w-aldo-madariaga-camila-vergara
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_318-Chile.mp3
 post_id: 2011
 categories: 
+- Chile
+tags: 
 - Aldo Madariaga
 - Camila Vergara
-- Chile
-- Podcast
 ---
 
 Dan interviews scholars Aldo Madariaga and Camila Vergara about how Chilean politics have been playing out since the massive popular uprisings that began in October 2019. 

@@ -6,8 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1972
 categories: 
 - Environment
+tags: 
 - Kate Aronoff
-- Podcast
 ---
 
 Journalist Kate Aronoff discusses climate policy and politics and her book Overheated: How Capitalism Broke the Planet—And How We Fight Back.

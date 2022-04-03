@@ -5,10 +5,10 @@ permalink: podcast/ayn-rands-optimistic-cruelty-with-lisa-duggan
 audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_220-Duggan.mp3
 post_id: 1383
 categories: 
-- Ayn Rand
 - Capitalism
+tags: 
+- Ayn Rand
 - Lisa Duggan
-- Podcast
 ---
 
 Lisa Duggan wrote a book that explains everything you need to know about Ayn Rand and why she became so enormously consequential so that you don't have to read Rand's work yourself. Mean Girl: Ayn Rand and the Culture of Greed is out now from University of California Press.

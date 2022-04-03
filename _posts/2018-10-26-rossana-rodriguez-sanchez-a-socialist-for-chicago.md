@@ -6,8 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 542
 categories: 
 - Electoral Politics
+tags: 
 - Micah Uetricht
-- Podcast
 - Rossana Rodríguez-Sanchez
 ---
 

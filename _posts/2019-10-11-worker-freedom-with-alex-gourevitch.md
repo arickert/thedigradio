@@ -5,10 +5,10 @@ permalink: podcast/worker-freedom-with-alex-gourevitch
 audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_222-Gourevitch.mp3
 post_id: 1396
 categories: 
-- Alex Gourevitch
 - Labor Movement
-- Podcast
 - Political Theory
+tags: 
+- Alex Gourevitch
 ---
 
 Dan interviews Alex Gourevitch about how 19th century US labor radicals remade the idea of freedom into a principle of working-class social transformation.

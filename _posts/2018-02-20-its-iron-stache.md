@@ -6,7 +6,7 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 611
 categories: 
 - Electoral Politics
-- Podcast
+tags: 
 - Randy Bryce
 ---
 

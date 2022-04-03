@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 552
 categories: 
 - Economics
-- Elizabeth Catte
 - Media Bias
-- Podcast
+tags: 
+- Elizabeth Catte
 ---
 
 For many, conservatives and liberals alike, Appalachia provides a skeleton key for interpreting changes in American politics that might otherwise be difficult to comprehend. But the way conservatives and liberals talk about Appalachia tells us a lot more about conservatives and liberals than it does about the region. Elizabeth Catte, the author of 

@@ -5,10 +5,10 @@ permalink: podcast/border-patrol-with-kelly-lytle-hernandez
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_267-KLH.mp3
 post_id: 1733
 categories: 
-- Border Patrol
 - Immigration
+tags: 
+- Border Patrol
 - Kelly Lytle Hernández
-- Podcast
 - Police
 ---
 

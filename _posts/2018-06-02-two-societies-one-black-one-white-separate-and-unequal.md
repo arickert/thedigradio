@@ -5,8 +5,8 @@ permalink: podcast/two-societies-one-black-one-white-separate-and-unequal
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_117_-_Vanessa.mp3
 post_id: 583
 categories: 
-- Podcast
 - Racism
+tags: 
 - Vanessa Bee
 ---
 

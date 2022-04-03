@@ -4,7 +4,8 @@ title: "Transcript: Peace Can Happen in Korea with Tim Shorrock"
 permalink: transcripts/transcript-peace-can-happen-in-korea-with-tim-shorrock
 audiolink: 
 post_id: 1333
-categories: 
+categories:  []
+tags: 
 - Transcripts
 ---
 

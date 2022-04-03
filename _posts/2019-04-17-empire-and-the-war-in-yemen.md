@@ -5,11 +5,11 @@ permalink: podcast/empire-and-the-war-in-yemen
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_192_-_Yemen.mp3
 post_id: 508
 categories: 
-- Adam Hanieh
-- Afrah Nasser
 - Imperialism and Foreign Policy
 - Middle East
-- Podcast
+tags: 
+- Adam Hanieh
+- Afrah Nasser
 - Stacey Philbrick Yadav
 ---
 

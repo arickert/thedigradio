@@ -6,10 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1700
 categories: 
 - Labor Movement
-- Mike Davis
-- Podcast
 - Racism
 - US History
+tags: 
+- Mike Davis
 ---
 
 Mike Davis on his classic book about why the US has long lacked strong socialist and labor politics. One recurrent answer: racism.

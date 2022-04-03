@@ -8,8 +8,8 @@ categories:
 - Imperialism and Foreign Policy
 - Media Bias
 - Middle East
+tags: 
 - Noura Erakat
-- Podcast
 ---
 
 Israel is massacring Palestinians daring to approach a fence that occupation forces have built to shore up an ethno-state founded on the principle of apartheid. Nothing could be more clear. But you wouldn't no that from the at best muddied coverage that prevails in mainstream media accounts. Dan’s guest  is Noura Erakat, a human rights attorney, professor at George Mason University and a powerful and eloquent voice challenging the anti-Palestine narrative—including, straight into the lion's den of TV news.

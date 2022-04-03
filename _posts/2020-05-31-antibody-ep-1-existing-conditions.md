@@ -4,9 +4,9 @@ title: "Antibody, Ep 1: Existing Conditions"
 permalink: podcast/antibody-ep-1-existing-conditions
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/Antibody_Episode_1.mp3
 post_id: 1665
-categories: 
+categories:  []
+tags: 
 - Antibody
-- Podcast
 ---
 
 Antibody is a new narrative series about how Covid-19 has changed everything and nothing at all.

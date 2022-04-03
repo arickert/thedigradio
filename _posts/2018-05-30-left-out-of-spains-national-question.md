@@ -5,12 +5,12 @@ permalink: podcast/left-out-of-spains-national-question
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_116_-_Barcelona.mp3
 post_id: 584
 categories: 
-- Bécquer Seguín
-- Carlos Delclós
 - Electoral Politics
 - Europe
+tags: 
+- Bécquer Seguín
+- Carlos Delclós
 - Kate Shea Baird
-- Podcast
 ---
 
 Spanish politics are complicated. Dan speaks to Carlos Delclós, Kate Shea Baird and Bécquer Seguín to help clarify the Catalan independence movement, the radical municipalist governments that now govern major Spanish cities including Barcelona, and the promise and problems of the left-wing party Podemos.

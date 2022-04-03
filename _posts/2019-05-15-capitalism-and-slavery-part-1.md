@@ -6,14 +6,14 @@ audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP
 post_id: 988
 categories: 
 - Capitalism
-- Christy Clark-Pujara
-- Emily Owens
 - Indigenous Struggles
-- Joanne Melish
-- Linford Fisher
-- Podcast
 - Racism
 - Slavery
+tags: 
+- Christy Clark-Pujara
+- Emily Owens
+- Joanne Melish
+- Linford Fisher
 ---
 
 Three interviews: historians Linford Fisher, Christy Clark-Pujara and Joanne Melish, and Emily Owens.

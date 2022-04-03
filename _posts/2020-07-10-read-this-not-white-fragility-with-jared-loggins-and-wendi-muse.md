@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1718
 categories: 
 - Capitalism
-- Jared Loggins
-- Podcast
 - Racism
+tags: 
+- Jared Loggins
 - Wendi Muse
 ---
 

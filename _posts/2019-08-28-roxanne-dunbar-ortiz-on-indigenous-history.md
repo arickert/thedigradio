@@ -7,7 +7,7 @@ post_id: 1350
 categories: 
 - Colonialism
 - Indigenous Struggles
-- Podcast
+tags: 
 - Roxanne Dunbar-Ortiz
 ---
 

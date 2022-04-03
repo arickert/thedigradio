@@ -5,12 +5,12 @@ permalink: podcast/catholic-anticommunism-with-giuliana-chamedes
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_240-Chamedes.mp3
 post_id: 1460
 categories: 
-- Catholic Church
 - Europe
-- Giuliana Chamedes
-- Podcast
 - Religion
 - Right-Wing Politics
+tags: 
+- Catholic Church
+- Giuliana Chamedes
 ---
 
 The Catholic Church was a powerful force throughout the first half of the 20th century. It was a force for right-wing reaction. That’s what Dan discusses today with Giuliana Chamedes, the author of the remarkable book 

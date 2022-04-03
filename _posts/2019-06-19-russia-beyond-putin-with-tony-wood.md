@@ -5,9 +5,9 @@ permalink: podcast/russia-beyond-putin-with-tony-wood
 audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_206-Wood.mp3
 post_id: 1215
 categories: 
-- NATO
-- Podcast
 - Russia
+tags: 
+- NATO
 - Tony Wood
 - Vladimir Putin
 ---

@@ -5,12 +5,12 @@ permalink: podcast/venezuela
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_178_-_Venezuela.mp3
 post_id: 522
 categories: 
-- Alejandro Velasco
-- Gabriel Hetland
 - Imperialism and Foreign Policy
 - Latin America
+tags: 
+- Alejandro Velasco
+- Gabriel Hetland
 - Naomi Schiller
-- Podcast
 ---
 
 Alejandro Velasco, Gabriel Hetland and Naomi Schiller on the profound economic, social, and political crisis in Venezuela. More than three million refugees and migrants have fled the country. Opposition figure Juan Guaidó has declared himself president. Trump and other right-wing leaders throughout the Americas quickly recognized him as just that. The US imposed new sanctions on Venezuela's oil and has hinted at the possibility of a military invasion. It's unclear what comes next, but foreign intervention would make an extremely bad situation catastrophic.

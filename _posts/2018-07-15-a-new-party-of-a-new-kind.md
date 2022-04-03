@@ -6,8 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 569
 categories: 
 - Electoral Politics
+tags: 
 - Kate Aronoff
-- Podcast
 - Seth Ackerman
 ---
 

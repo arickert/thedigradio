@@ -7,7 +7,7 @@ post_id: 1744
 categories: 
 - Coronavirus
 - Economics
-- Podcast
+tags: 
 - Yanis Varoufakis
 ---
 

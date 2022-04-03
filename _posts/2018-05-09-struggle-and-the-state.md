@@ -6,10 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 590
 categories: 
 - Education
-- Eric Blanc
 - Labor Movement
-- Podcast
 - Social Movements
+tags: 
+- Eric Blanc
 - Xiomara Caro Diaz
 ---
 

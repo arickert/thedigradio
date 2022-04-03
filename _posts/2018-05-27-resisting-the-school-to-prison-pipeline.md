@@ -6,10 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 585
 categories: 
 - Criminal Justice
+- Education
+tags: 
 - Dakota Hall
 - Dmitri Holtzman
-- Education
-- Podcast
 ---
 
 The steady pace of school massacres has revived calls to put more cops in school. And so atrocities committed by white students are exploited to make schools more like prisons, and ensure that the former remain a rapid-fire pipeline into the latter.

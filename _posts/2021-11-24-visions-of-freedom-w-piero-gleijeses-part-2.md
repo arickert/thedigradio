@@ -5,11 +5,11 @@ permalink: podcast/visions-of-freedom-w-piero-gleijeses-part-2
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_333-Piero.mp3
 post_id: 2074
 categories: 
+- Imperialism and Foreign Policy
+tags: 
 - Africa
 - Cuba
-- Imperialism and Foreign Policy
 - Piero Gleijeses
-- Podcast
 - South Africa
 ---
 

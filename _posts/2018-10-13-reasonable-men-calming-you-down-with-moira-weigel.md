@@ -5,9 +5,9 @@ permalink: podcast/reasonable-men-calming-you-down-with-moira-weigel
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_154_-_MWeigel.mp3
 post_id: 546
 categories: 
-- Moira Weigel
-- Podcast
 - The Discourse
+tags: 
+- Moira Weigel
 ---
 
 Today, we’re addressing one of the most obnoxious corners of the identity politics debate. And that is the corner occupied by Right Liberals who believe that any desire to change the world is a divisive symptom of maladjusted affluenza emanating from pampered college students. Moira Weigel discusses her 

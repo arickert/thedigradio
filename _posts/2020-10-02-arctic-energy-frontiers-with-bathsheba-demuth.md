@@ -5,13 +5,13 @@ permalink: podcast/arctic-energy-frontiers-with-bathsheba-demuth
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_274-Demuth.mp3
 post_id: 1767
 categories: 
-- Bathsheba Demuth
 - Environment
 - Indigenous Struggles
-- Podcast
 - Russia
-- Settler Colonialism
 - US History
+tags: 
+- Bathsheba Demuth
+- Settler Colonialism
 ---
 
 Bathsheba Demuth on her monumental book 

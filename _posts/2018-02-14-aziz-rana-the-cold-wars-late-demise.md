@@ -5,10 +5,10 @@ permalink: podcast/aziz-rana-the-cold-wars-late-demise
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_88_-_Rana.mp3
 post_id: 612
 categories: 
-- Aziz Rana
 - Electoral Politics
 - Imperialism and Foreign Policy
-- Podcast
+tags: 
+- Aziz Rana
 ---
 
 What if the Cold War only just ended in November 2016, as Donald Trump grotesquely encircled and then captured the presidency, finding it, to his surprise, unguarded? The Cold War proper, of course, ended with the collapse of the Soviet Union. But Aziz Rana, making his second Dig appearance, argues that it was a lot more than the conflict with the Evil Empire. It was a domestic order that, he writes in the latest issue of 

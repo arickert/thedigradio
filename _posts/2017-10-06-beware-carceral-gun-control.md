@@ -5,10 +5,10 @@ permalink: podcast/beware-carceral-gun-control
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_55_-_Levin.mp3
 post_id: 646
 categories: 
-- Ben Levin
 - Criminal Justice
-- Podcast
 - Racism
+tags: 
+- Ben Levin
 ---
 
 Prevailing debate obscures the fact that we already have a form of gun control in the United States. As legal scholar Ben Levin explains, the problem is that it’s a form of gun control that is mostly about locking up poor black men in huge numbers. The Left should demand a society without readily available weapons of war on the streets and a society without mass incarceration. Thanks to our supporters at University of California Press. Check out their new title 

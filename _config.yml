@@ -47,6 +47,8 @@ pages:
   Options: '/2020/04/03/options/'
   Introduction: '/2020/04/04/introduction/'
   Archive: '/archive/'
+  Categories: '/categories/'
+
 
 # Archives
 collections:

@@ -4,11 +4,11 @@ title: "Demystifying Big Tech with Meredith Whittaker"
 permalink: podcast/demystifying-big-tech-with-meredith-whittaker
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_273-Whittaker.mp3
 post_id: 1765
-categories: 
+categories:  []
+tags: 
 - Astra Taylor
 - Mass Incarceration
 - Meredith Whittaker
-- Podcast
 - Technology
 ---
 

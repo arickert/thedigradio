@@ -4,9 +4,9 @@ title: "Antibody, Ep 2: Making Contact"
 permalink: podcast/antibody-ep-2-making-contact
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/antibody_ep_2.mp3
 post_id: 1678
-categories: 
+categories:  []
+tags: 
 - Antibody
-- Podcast
 ---
 
 Antibody is a new narrative series about how Covid-19 has changed everything and nothing at all.

@@ -5,10 +5,10 @@ permalink: podcast/mlk-political-philosopher-with-tommie-shelby-and-brandon-terr
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_96_-_ShelbyTerry.mp3
 post_id: 604
 categories: 
-- Brandon Terry
-- Podcast
 - Political Theory
 - Racism
+tags: 
+- Brandon Terry
 - Tommie Shelby
 ---
 

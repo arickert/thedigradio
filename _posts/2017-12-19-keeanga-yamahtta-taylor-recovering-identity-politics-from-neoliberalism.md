@@ -6,10 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 624
 categories: 
 - Feminism
-- Keeanga-Yamahtta Taylor
-- Podcast
 - Political Theory
 - Racism
+tags: 
+- Keeanga-Yamahtta Taylor
 ---
 
 Keeanga-Yamahtta Taylor returns to The Dig to discuss her new book

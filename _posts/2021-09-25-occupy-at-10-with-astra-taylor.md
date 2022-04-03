@@ -5,11 +5,11 @@ permalink: podcast/occupy-at-10-with-astra-taylor
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_323-Taylor.mp3
 post_id: 2033
 categories: 
-- Astra Taylor
 - Occupy Wall Street
-- Podcast
 - Social Movements
 - US History
+tags: 
+- Astra Taylor
 ---
 
 It's Occupy Wall Street's tenth anniversary. Dan interviews Astra Taylor.

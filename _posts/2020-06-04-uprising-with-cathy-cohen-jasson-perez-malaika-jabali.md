@@ -6,11 +6,11 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1675
 categories: 
 - Black Politics
+- Organizing
+tags: 
 - Cathy Cohen
 - Jasson Perez
 - Malaika Jabali
-- Organizing
-- Podcast
 ---
 
 Dan interviews Cathy Cohen, Jasson Perez, and Malaika Jabali on this uprising, the conditions that made it possible, and where it might be headed.

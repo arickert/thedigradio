@@ -4,8 +4,8 @@ title: "Revisiting Racecraft with Barbara and Karen Fields"
 permalink: podcast/revisiting-racecraft-with-barbara-and-karen-fields-2
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_295-Fields.mp3
 post_id: 1912
-categories: 
-- Podcast
+categories:  []
+tags:  []
 ---
 
 We're taking a week off to play catch up and posting an early Dig episode from the archives that people keep returning to time and again: Barbara and Karen Fields on their book 

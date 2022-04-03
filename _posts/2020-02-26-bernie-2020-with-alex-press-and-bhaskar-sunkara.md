@@ -5,11 +5,11 @@ permalink: podcast/bernie-2020-with-alex-press-and-bhaskar-sunkara
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_241-Press-Sunkara.mp3
 post_id: 1463
 categories: 
-- Alex Press
 - Bernie Sanders
-- Bhaskar Sunkara
 - Electoral Politics
-- Podcast
+tags: 
+- Alex Press
+- Bhaskar Sunkara
 ---
 
 Live show with Jacobin's Bhaskar Sunkara and Alex Press in Cambridge, MA for Bernie 2020. Recorded the night of Nevada caucuses. 

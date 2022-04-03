@@ -5,9 +5,9 @@ permalink: podcast/the-dawn-of-everything-w-david-wengrow
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_331-Wengrow.mp3
 post_id: 2059
 categories: 
-- David Wengrow
 - Indigenous Struggles
-- Podcast
+tags: 
+- David Wengrow
 - World History
 ---
 

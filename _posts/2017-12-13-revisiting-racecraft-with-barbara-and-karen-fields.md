@@ -5,10 +5,10 @@ permalink: podcast/revisiting-racecraft-with-barbara-and-karen-fields
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_75_-_Fields.mp3
 post_id: 625
 categories: 
+- Racism
+tags: 
 - Barbara Fields
 - Karen Fields
-- Podcast
-- Racism
 ---
 
 [View Transcript](https://www.jacobinmag.com/2018/01/racecraft-racism-barbara-karen-fields)

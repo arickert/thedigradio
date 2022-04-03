@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1960
 categories: 
 - Black Politics
-- Podcast
-- Robin D.G. Kelley
 - US History
+tags: 
+- Robin D.G. Kelley
 ---
 
 Dan interviews historian Robin D.G. Kelley on his classic book 

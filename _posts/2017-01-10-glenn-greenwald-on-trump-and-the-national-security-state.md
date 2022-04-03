@@ -5,10 +5,10 @@ permalink: podcast/glenn-greenwald-on-trump-and-the-national-security-state
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_Episode_5_-_FINAL.mp3
 post_id: 696
 categories: 
-- Glenn Greenwald
 - Imperialism and Foreign Policy
 - Mass Surveillance
-- Podcast
+tags: 
+- Glenn Greenwald
 ---
 
 Presidents Bush and Obama both presided over an expansive War on Terror and a national security state with a lethal and global reach. Permanent war and warrantless snooping have become the bipartisan consensus backdrop of American politics—an immutable feature of everyday life rather than outrageous abuses to be resisted or, at least, debated. Soon, Donald Trump will become president, meaning that a man brazenly indifferent to the rule of law will be in charge of a killing and surveillance machinery that is already quite lawless. 

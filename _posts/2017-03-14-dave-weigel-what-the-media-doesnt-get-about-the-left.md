@@ -5,10 +5,10 @@ permalink: podcast/dave-weigel-what-the-media-doesnt-get-about-the-left
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_15-Weigel.mp3
 post_id: 686
 categories: 
-- Dave Weigel
 - Electoral Politics
 - Media Bias
-- Podcast
+tags: 
+- Dave Weigel
 ---
 
 On the Left, few forms of mainstream journalism are more detested than political reporting. It often substitutes the horse race for substance, dresses up conventional inside-the-Beltway wisdom as real analysis, and resorts to the false balance of he-said-she-said instead of establishing what is actually factual.

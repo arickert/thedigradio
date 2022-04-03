@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 688
 categories: 
 - Criminal Justice
-- Marie Gottschalk
-- Podcast
 - Racism
+tags: 
+- Marie Gottschalk
 ---
 
 Mass incarceration should be central to any analysis of American political economy. It's also a moral monstrosity. But before The New Jim Crow and anti-mass incarceration activists across the country loudly insisted this was the case, it received little attention.

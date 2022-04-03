@@ -6,10 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 605
 categories: 
 - Electoral Politics
-- Elizabeth Fiedler
-- Podcast
-- Sara Inammorato
 - Socialism
+tags: 
+- Elizabeth Fiedler
+- Sara Inammorato
 - Summer Lee
 ---
 

@@ -5,10 +5,12 @@ permalink: podcast/capitalism-and-slavery-part-2
 audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_197-CapitalismSlavery2.mp3
 post_id: 1005
 categories: 
-- Akeia Benard
-- Australia
 - Capitalism
 - Colonialism
+- Slavery
+tags: 
+- Akeia Benard
+- Australia
 - Crystal Eddins
 - Elon Cook Lee
 - England
@@ -16,9 +18,7 @@ categories:
 - India
 - Joey La Neve DeFrancesco
 - Marco McWilliams
-- Podcast
 - Seth Rockman
-- Slavery
 - Zachary Sell
 ---
 

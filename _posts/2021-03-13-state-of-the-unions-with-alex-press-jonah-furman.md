@@ -5,10 +5,10 @@ permalink: podcast/state-of-the-unions-with-alex-press-jonah-furman
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_296-Press-Furman.mp3
 post_id: 1915
 categories: 
+- Labor Movement
+tags: 
 - Alex Press
 - Jonah Furman
-- Labor Movement
-- Podcast
 ---
 
 Dan interviews 

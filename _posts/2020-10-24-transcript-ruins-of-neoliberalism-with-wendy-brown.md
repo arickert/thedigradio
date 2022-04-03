@@ -8,6 +8,7 @@ categories:
 - Donald Trump
 - Neoliberalism
 - Right-Wing Politics
+tags: 
 - Transcripts
 - Wendy Brown
 ---

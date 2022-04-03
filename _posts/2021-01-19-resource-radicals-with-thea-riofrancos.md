@@ -9,7 +9,7 @@ categories:
 - Environment
 - Indigenous Struggles
 - Latin America
-- Podcast
+tags: 
 - Thea Riofrancos
 ---
 

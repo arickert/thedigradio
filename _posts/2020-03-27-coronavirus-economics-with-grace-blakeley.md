@@ -7,8 +7,8 @@ post_id: 1480
 categories: 
 - Coronavirus
 - Economics
+tags: 
 - Grace Blakeley
-- Podcast
 ---
 
 Dan interviews Marxist economist Grace Blakeley on coronavirus economics.

@@ -7,10 +7,10 @@ post_id: 553
 categories: 
 - Economics
 - Marxism
-- Nancy Fraser
-- Podcast
 - Political Theory
 - Socialism
+tags: 
+- Nancy Fraser
 ---
 
 [View Transcript](https://www.thedigradio.com/transcripts/transcript-beyond-economism-with-nancy-fraser/)

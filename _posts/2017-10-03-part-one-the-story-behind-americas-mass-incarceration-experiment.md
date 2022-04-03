@@ -6,12 +6,12 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/Dig-Cited
 post_id: 648
 categories: 
 - Criminal Justice
-- Dwayne Betts
 - Electoral Politics
+- Racism
+tags: 
+- Dwayne Betts
 - Katherine Beckett
 - Larry Krasner
-- Podcast
-- Racism
 - Sam Fenn
 - Todd Clear
 ---

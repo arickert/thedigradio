@@ -5,11 +5,11 @@ permalink: podcast/empire-unhinged-with-asli-bali-aziz-rana
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_260-Ba_li-Rana.mp3
 post_id: 1683
 categories: 
-- Aslı Bâli
-- Aziz Rana
 - Coronavirus
 - Imperialism and Foreign Policy
-- Podcast
+tags: 
+- Aslı Bâli
+- Aziz Rana
 ---
 
 Dan interviews returning guests Aslı Bâli and Aziz Rana on the long history behind the crisis of American imperial legitimation that has become so manifest amid the pandemic.

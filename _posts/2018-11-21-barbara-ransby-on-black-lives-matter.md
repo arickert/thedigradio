@@ -5,10 +5,10 @@ permalink: podcast/barbara-ransby-on-black-lives-matter
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_DIg_-_EP_164_-_Ransby.mp3
 post_id: 536
 categories: 
-- Barbara Ransby
-- Podcast
 - Racism
 - Social Movements
+tags: 
+- Barbara Ransby
 ---
 
 Black Lives Matter is a poignant slogan and a powerful force for social transformation. It’s also shorthand for a huge array of organizations, mostly led by people that you've never heard of, working the daily hard grind of ordinary organizing that stitches together spectacular mass actions into a movement. That's the subject of the new book 

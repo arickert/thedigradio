@@ -5,11 +5,11 @@ permalink: podcast/organizing-dsas-pro-act-campaign
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_309-DSA-PRO-Act.mp3
 post_id: 1968
 categories: 
-- Ashik Siddique
 - Environment
-- Gustavo Gordillo
 - Labor Movement
-- Podcast
+tags: 
+- Ashik Siddique
+- Gustavo Gordillo
 - Sydney Ghazarian
 - Thea Riofrancos
 ---

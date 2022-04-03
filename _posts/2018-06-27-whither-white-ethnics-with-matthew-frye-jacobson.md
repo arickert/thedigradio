@@ -5,9 +5,9 @@ permalink: podcast/whither-white-ethnics-with-matthew-frye-jacobson
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_123_-_Jacobson.mp3
 post_id: 577
 categories: 
-- Matthew Frye Jacobson
-- Podcast
 - Racism
+tags: 
+- Matthew Frye Jacobson
 ---
 
 Everyone wants to know what's wrong with Appalachia. But beginning in the 1960s, it was "white ethics"—Italians, Irish, Polish, Jews and other non-WASPs—who broke from the New Deal coalition, embracing their Ellis Island immigrant roots in reaction to the Black Freedom struggle and, ultimately, Latin American migration. Dan’s guest today is Matthew Frye Jacobson, an historian at Yale and the author of Roots Too: White Ethnic Revival in Post–Civil Rights America, from Harvard University Press.

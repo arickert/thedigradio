@@ -5,10 +5,10 @@ permalink: podcast/asli-bali-on-syria-part-ii
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_140_-_BaliPartII.mp3
 post_id: 560
 categories: 
-- Aslı Bâli
 - Imperialism and Foreign Policy
 - Middle East
-- Podcast
+tags: 
+- Aslı Bâli
 ---
 
 Part two of a two-part interview with Aslı Bâli on the Syrian civil war and the larger geopolitical conflicts that shape the Middle East—with an emphasis on the role played the United States. During part one, which you should definitely listen to first, Bâli discussed the various powers sacrificing the lives of Syrian people in the pursuit of their perceived geopolitical and sectarian interests. In this installment, Bâli discusses the restrictive frames that dominates the American discussion over Syria, and then assesses the lack of a coherent heterodox left-wing foreign policy in the United States—something that we desperately need as the possibility of the left taking power becomes newly plausible.

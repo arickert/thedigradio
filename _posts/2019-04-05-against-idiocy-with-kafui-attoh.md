@@ -5,9 +5,9 @@ permalink: podcast/against-idiocy-with-kafui-attoh
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_190_-_Kafui.mp3
 post_id: 510
 categories: 
-- Kafui Attoh
-- Podcast
 - Transportation and Cities
+tags: 
+- Kafui Attoh
 ---
 
 Car dominance, public transit austerity, and the neoliberal political-economy within which both are embedded have fomented what Marx called 

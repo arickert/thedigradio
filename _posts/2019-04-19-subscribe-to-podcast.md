@@ -5,6 +5,7 @@ permalink: subscribe-to-podcast
 audiolink: 
 post_id: 25
 categories:  []
+tags:  []
 ---
 
 By subscribing to this podcast, you will automatically receive the latest episodes downloaded to your computer or portable device. Select the subscription method below that best fits your lifestyle.

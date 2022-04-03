@@ -6,8 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 519
 categories: 
 - Electoral Politics
+tags: 
 - Eric Levitz
-- Podcast
 ---
 
 Dan talks to Eric Levitz—who at 

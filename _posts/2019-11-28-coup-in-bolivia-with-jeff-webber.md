@@ -5,11 +5,11 @@ permalink: podcast/coup-in-bolivia-with-jeff-webber
 audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_229-Webber.mp3
 post_id: 1415
 categories: 
-- Bolivia
 - Indigenous Struggles
-- Jeff Webber
 - Latin America
-- Podcast
+tags: 
+- Bolivia
+- Jeff Webber
 ---
 
 Political scientist Jeff Webber discusses the coup against Evo Morales and the recent history of Bolivia. 

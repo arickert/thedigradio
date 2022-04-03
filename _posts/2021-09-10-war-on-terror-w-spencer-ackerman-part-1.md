@@ -6,10 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 2019
 categories: 
 - Afghanistan
-- George W. Bush
 - Imperialism and Foreign Policy
 - Iraq War
-- Podcast
+tags: 
+- George W. Bush
 ---
 
 Episode one of The Dig's three-part War on Terror series the with Spencer Ackerman: 9/11, bipartisan war fever, and George W. Bush.

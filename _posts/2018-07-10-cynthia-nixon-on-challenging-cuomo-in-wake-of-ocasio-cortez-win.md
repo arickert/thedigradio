@@ -5,9 +5,9 @@ permalink: podcast/cynthia-nixon-on-challenging-cuomo-in-wake-of-ocasio-cortez-w
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_128_-_Nixon.mp3
 post_id: 572
 categories: 
-- Cynthia Nixon
 - Electoral Politics
-- Podcast
+tags: 
+- Cynthia Nixon
 ---
 
 [View Transcript](https://www.jacobinmag.com/2018/07/cynthia-nixon-interview-cuomo-new-york-governor)

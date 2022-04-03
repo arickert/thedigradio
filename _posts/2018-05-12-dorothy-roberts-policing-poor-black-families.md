@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 589
 categories: 
 - Criminal Justice
-- Dorothy Roberts
-- Podcast
 - Racism
+tags: 
+- Dorothy Roberts
 ---
 
 Recent cases of horrific child abuse have elicited widespread media attention. What the media coverage often misses is what these incidents reveal about a two-tiered child protection system that systemically surveils, punishes and destroys poor black families while ignoring abuses perpetrated in affluent white homes.

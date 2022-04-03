@@ -7,9 +7,9 @@ post_id: 1796
 categories: 
 - Black Politics
 - Criminal Justice
-- Megan Ming Francis
-- Podcast
 - Social Movements
+tags: 
+- Megan Ming Francis
 ---
 
 Dan interviews political scientist Megan Ming Francis about the NAACP's struggle against racist violence in the teens and 20s and how it remade the criminal justice system and the civil rights movement alike.

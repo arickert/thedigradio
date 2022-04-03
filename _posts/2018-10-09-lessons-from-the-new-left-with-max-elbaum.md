@@ -5,10 +5,10 @@ permalink: podcast/lessons-from-the-new-left-with-max-elbaum
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_153_-_Elbaum.mp3
 post_id: 547
 categories: 
-- Max Elbaum
-- Podcast
 - Social Movements
 - Socialism
+tags: 
+- Max Elbaum
 ---
 
 Let’s ensure that the history of American socialism doesn’t repeat as farce. That’s one reason that Max Elbaum wrote 

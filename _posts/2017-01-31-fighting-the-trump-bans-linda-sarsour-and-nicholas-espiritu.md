@@ -6,10 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 692
 categories: 
 - Immigration
+- Social Movements
+tags: 
 - Linda Sarsour
 - Nicholas Espíritu
-- Podcast
-- Social Movements
 ---
 
 [if gte mso 9]><xml> <o:OfficeDocumentSettings> <o:AllowPNG /> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml><![endif] 

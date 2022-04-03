@@ -7,8 +7,8 @@ post_id: 690
 categories: 
 - Economics
 - Europe
+tags: 
 - Mark Blyth
-- Podcast
 ---
 
 Mark Blyth wasn't surprised by the rise of Donald Trump, nor Brexit, nor the crises spreading across Europe. He actually predicted them all. 

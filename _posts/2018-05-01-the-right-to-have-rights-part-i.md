@@ -5,10 +5,10 @@ permalink: podcast/the-right-to-have-rights-part-i
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_107_-_DeGooyerTaylorPart1.mp3
 post_id: 593
 categories: 
-- Astra Taylor
 - Immigration
-- Podcast
 - Political Theory
+tags: 
+- Astra Taylor
 - Stephanie DeGooyer
 ---
 

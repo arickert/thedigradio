@@ -5,9 +5,9 @@ permalink: podcast/organizing-now-with-sarah-jaffe-jasson-perez
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_251-SJ-JP.mp3
 post_id: 1510
 categories: 
-- Jasson Perez
 - Organizing
-- Podcast
+tags: 
+- Jasson Perez
 - Sarah Jaffe
 ---
 

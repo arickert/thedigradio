@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 636
 categories: 
 - Electoral Politics
+tags: 
 - Eric Levitz
 - Molly Ball
-- Podcast
 ---
 
 Centrist business elites believe in an America that doesn't exist. Two guests this episode: first, @mollyesque talks about her piece "On Safari in Trump's America" for 

@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 555
 categories: 
 - Economics
-- Nikhil Pal Singh
-- Podcast
 - Racism
+tags: 
+- Nikhil Pal Singh
 ---
 
 Nikhil Pal Singh on the unfortunate obsession shared by certain pundits, journalists and social scientists: definitively proving that Trump won because of racism, and racism alone. What drives so many people to dedicate so much time to arguing that either class or race or gender or whatever matters the most—or worse yet, matters exclusively? And what does "matter more" even mean? Plus, a lengthy Dan Denvir monologue on the identity politics debate on the socialist left.

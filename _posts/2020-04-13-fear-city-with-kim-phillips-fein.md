@@ -5,11 +5,11 @@ permalink: podcast/fear-city-with-kim-phillips-fein
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_252-KPF.mp3
 post_id: 1516
 categories: 
-- Kim Phillips-Fein
 - Neoliberalism
-- New York City
-- Podcast
 - US History
+tags: 
+- Kim Phillips-Fein
+- New York City
 ---
 
 Dan interviews historian Kim Phillips-Fein about her book Fear City: New York's Fiscal Crisis and the Rise of Austerity Politics and about how the destruction of social democracy made today's city where coronavirus is killing its poor and working-class people.

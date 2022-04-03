@@ -5,9 +5,9 @@ permalink: podcast/populisms-power
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_176_-_GrattanRiofrancos.mp3
 post_id: 524
 categories: 
-- Laura Grattan
-- Podcast
 - Political Theory
+tags: 
+- Laura Grattan
 - Thea Riofrancos
 ---
 

@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1786
 categories: 
 - Black Politics
-- Cornel West
 - Electoral Politics
-- Podcast
+tags: 
+- Cornel West
 ---
 
 Dan interviews Cornel West on how to think about and act upon the world that this week presented to us.

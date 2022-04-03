@@ -5,11 +5,11 @@ permalink: podcast/combat-liberalism-w-olufemi-taiwo-mindy-isser-zachary-hershma
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_302-CombatLibs.mp3
 post_id: 1944
 categories: 
+- Organizing
+- Socialism
+tags: 
 - Mindy Isser
 - Olúfẹ́mi Táíwò
-- Organizing
-- Podcast
-- Socialism
 - Zachary Hershman
 ---
 

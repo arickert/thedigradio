@@ -6,9 +6,10 @@ audiolink:
 post_id: 1110
 categories: 
 - Economics
+- Transportation and Cities
+tags: 
 - Samuel Stein
 - Transcripts
-- Transportation and Cities
 ---
 
 [Listen to Episode](https://www.thedigradio.com/podcast/real-estate-capitalism-and-gentrification-with-samuel-stein/)

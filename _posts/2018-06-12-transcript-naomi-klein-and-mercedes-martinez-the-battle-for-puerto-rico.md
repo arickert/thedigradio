@@ -4,7 +4,8 @@ title: "Transcript: Naomi Klein and Mercedes Martínez: The Battle for Puerto Ri
 permalink: transcripts/transcript-naomi-klein-and-mercedes-martinez-the-battle-for-puerto-rico
 audiolink: 
 post_id: 1323
-categories: 
+categories:  []
+tags: 
 - Transcripts
 ---
 

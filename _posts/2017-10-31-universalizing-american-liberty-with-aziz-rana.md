@@ -5,12 +5,12 @@ permalink: podcast/universalizing-american-liberty-with-aziz-rana
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_62_-_Rana.mp3
 post_id: 638
 categories: 
-- Aziz Rana
 - Imperialism and Foreign Policy
 - Indigenous Struggles
-- Podcast
 - Political Theory
 - Racism
+tags: 
+- Aziz Rana
 ---
 
 Aziz Rana discusses his pivotal book, 

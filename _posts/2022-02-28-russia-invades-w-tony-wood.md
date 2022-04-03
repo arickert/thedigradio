@@ -6,10 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 2128
 categories: 
 - Imperialism and Foreign Policy
-- Podcast
 - Russia
-- Tony Wood
 - Ukraine
+tags: 
+- Tony Wood
 ---
 
 Tony Wood returns to The Dig to discuss Russia’s invasion, what it reflects about Russian politics and geopolitics today and historically, and how the Left should be thinking about it all.

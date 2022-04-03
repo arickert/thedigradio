@@ -5,10 +5,10 @@ permalink: podcast/invisible-hands-w-kim-phillips-fein
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_345-Phillips-Fein.mp3
 post_id: 2124
 categories: 
-- Kim Phillips-Fein
-- Podcast
 - Right-Wing Politics
 - US History
+tags: 
+- Kim Phillips-Fein
 ---
 
 Dan interviews historian Kim Phillips-Fein on Invisible Hands: The Making of the Conservative Movement from the New Deal to Reagan.

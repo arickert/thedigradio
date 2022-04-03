@@ -8,8 +8,8 @@ categories:
 - Bernie Sanders
 - Black Politics
 - Electoral Politics
+tags: 
 - Malaika Jabali
-- Podcast
 - Wendi Muse
 ---
 

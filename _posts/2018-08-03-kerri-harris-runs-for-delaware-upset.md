@@ -6,8 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 564
 categories: 
 - Electoral Politics
+tags: 
 - Kerri Harris
-- Podcast
 ---
 
 If Kerri Evelyn Harris wins in Delaware, she will have knocked out an incumbent US Senator. And that would be a really big deal. Harris, a left candidate backed by Justice Democrats, is Dan's guest today. She is the latest candidate putting forward the bold proposition that in a democracy ordinary people should govern themselves—particularly since well-credentialed incumbents like her opponent, Senator Tom Carper, so often do the bidding of corporate interests.

@@ -6,9 +6,9 @@ audiolink:
 post_id: 1872
 categories: 
 - Black Politics
-- Cornel West
 - Electoral Politics
-- Podcast
+tags: 
+- Cornel West
 ---
 
 [Listen to Episode](http://<a class="btn btn-theme-primary" href="https://www.thedigradio.com/podcast/what-now-with-cornel-west/">Listen to Episode</a>)

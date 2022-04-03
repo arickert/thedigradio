@@ -5,9 +5,9 @@ permalink: podcast/the-italian-lefts-collapse-with-david-broder
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_125_-_Broder_.mp3
 post_id: 575
 categories: 
-- David Broder
 - Europe
-- Podcast
+tags: 
+- David Broder
 ---
 
 Today, we're talking about Italy, where a so-called "populist" alliance of the Five Star Movement and right-wing League just took over the government with anti-migrant and Euro-skeptic agenda. Dan's guest is David Broder, a historian of French and Italian communism and frequent contributor to Jacobin. The Five Star Movement was for a time welcomed by some on the left. But it’s not of the left; rather, it is a product of the Italian left’s collapse.

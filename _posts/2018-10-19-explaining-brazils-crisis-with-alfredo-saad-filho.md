@@ -5,9 +5,9 @@ permalink: podcast/explaining-brazils-crisis-with-alfredo-saad-filho
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_156_-_Saad-Filho.mp3
 post_id: 544
 categories: 
-- Alfredo Saad-Filho
 - Latin America
-- Podcast
+tags: 
+- Alfredo Saad-Filho
 ---
 
 [if gte mso 9]><xml> <o:OfficeDocumentSettings> <o:AllowPNG /> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml><![endif] 

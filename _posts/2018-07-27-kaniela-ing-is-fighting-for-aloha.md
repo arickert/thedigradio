@@ -6,8 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 566
 categories: 
 - Electoral Politics
+tags: 
 - Kaniela Ing
-- Podcast
 ---
 
 [View Transcript](https://www.jacobinmag.com/2018/08/kaniela-ing-hawaii-american-imperialism-elections)

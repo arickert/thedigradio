@@ -6,10 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1832
 categories: 
 - Donald Trump
+- Right-Wing Politics
+tags: 
 - Joe Lowndes
 - Nikhil Pal Singh
-- Podcast
-- Right-Wing Politics
 ---
 
 Nikhil Pal Singh and Joe Lowndes discuss and debate today's American Right: what sort of threat does the Far-Right pose? How does it relate to the Republican Party and to the neoliberal imperial Center? What does that mean for the Left?

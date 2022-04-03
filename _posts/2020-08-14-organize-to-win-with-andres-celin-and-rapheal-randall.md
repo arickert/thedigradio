@@ -5,9 +5,9 @@ permalink: podcast/organize-to-win-with-andres-celin-and-rapheal-randall
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_268-YUC.mp3
 post_id: 1737
 categories: 
-- Andres Celin
 - Organizing
-- Podcast
+tags: 
+- Andres Celin
 - Rapheal Randall
 - Youth
 ---

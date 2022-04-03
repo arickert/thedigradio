@@ -5,11 +5,11 @@ permalink: podcast/doug-henwood-on-dsa
 audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_198-Henwood.mp3
 post_id: 1019
 categories: 
-- Doug Henwood
 - DSA
 - Organizing
-- Podcast
 - Socialism
+tags: 
+- Doug Henwood
 ---
 
 DSA's explosive growth continues; it has already, in a few short years, become the center of a renewed American socialist movement. Dan interviews Doug Henwood, who recently published a lengthy article in The New Republic entitled "

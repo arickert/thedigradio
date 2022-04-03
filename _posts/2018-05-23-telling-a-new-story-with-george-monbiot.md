@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 586
 categories: 
 - Electoral Politics
-- George Monbiot
-- Podcast
 - Socialism
+tags: 
+- George Monbiot
 ---
 
 A laundry list of modest policy solutions is not enough, it turns out. It's not just that technocratic fixes-around-the-edges spectacularly fail to meet people's needs; in failing to articulate a big picture vision of how the world ought to be transformed, they fail to move people—either emotionally or, more concretely, to the polls.

@@ -12,7 +12,7 @@ categories:
 - Healthcare
 - Indigenous Struggles
 - Medicine
-- Podcast
+tags: 
 - Raj Patel
 - Rupa Marya
 ---

@@ -6,8 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1478
 categories: 
 - Coronavirus
+tags: 
 - Mike Davis
-- Podcast
 ---
 
 Dan interviews Mike Davis about everything we are all suddenly trying to figure out.

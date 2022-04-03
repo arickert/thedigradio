@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1993
 categories: 
 - Economics
-- Podcast
-- Tim Barker
 - US History
+tags: 
+- Tim Barker
 ---
 
 Inflation is once again at the center of political debate. Dan interviews Tim Barker to put monetary policy in its historical and class war context.

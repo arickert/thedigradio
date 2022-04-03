@@ -5,9 +5,9 @@ permalink: podcast/planet-to-win-with-thea-riofrancos-and-daniel-aldana-cohen
 audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_234-TR-DAC.mp3
 post_id: 1436
 categories: 
-- Daniel Aldana Cohen
 - Environment
-- Podcast
+tags: 
+- Daniel Aldana Cohen
 - Thea Riofrancos
 ---
 

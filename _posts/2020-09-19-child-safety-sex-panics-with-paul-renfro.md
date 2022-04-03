@@ -6,8 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1757
 categories: 
 - Criminal Justice
+tags: 
 - Paul Renfro
-- Podcast
 - Sex
 - The Family
 - Youth

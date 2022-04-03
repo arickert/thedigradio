@@ -6,7 +6,7 @@ audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP
 post_id: 1410
 categories: 
 - Colonialism
-- Podcast
+tags: 
 - Puerto Rico
 - Yarimar Bonilla
 ---

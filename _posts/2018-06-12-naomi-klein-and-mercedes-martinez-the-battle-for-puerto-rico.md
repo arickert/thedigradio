@@ -7,9 +7,9 @@ post_id: 580
 categories: 
 - Economics
 - Environment
+tags: 
 - Mercedes Martínez
 - Naomi Klein
-- Podcast
 ---
 
 [View Transcript](https://www.jacobinmag.com/2018/06/the-shock-doctrine-comes-to-puerto-rico)

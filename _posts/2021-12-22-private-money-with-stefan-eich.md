@@ -8,7 +8,7 @@ categories:
 - Cryptocurrency
 - Finance
 - Neoliberalism
-- Podcast
+tags: 
 - Stefan Eich
 ---
 

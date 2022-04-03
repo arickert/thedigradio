@@ -9,6 +9,7 @@ categories:
 - Environment
 - Indigenous Struggles
 - Latin America
+tags: 
 - Thea Riofrancos
 - Transcripts
 ---

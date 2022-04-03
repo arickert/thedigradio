@@ -5,13 +5,13 @@ permalink: podcast/jacobins-all-star-socialist-anti-inauguration-extravaganza
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP7.mp3
 post_id: 694
 categories: 
+- Socialism
+tags: 
 - Anand Gopal
 - Jeremy Scahill
 - Keeanga-Yamahtta Taylor
 - Naomi Klein
 - Owen Jones
-- Podcast
-- Socialism
 ---
 
 This week we re-broadcast 

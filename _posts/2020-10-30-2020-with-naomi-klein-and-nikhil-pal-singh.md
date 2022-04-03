@@ -6,10 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1782
 categories: 
 - Electoral Politics
+- Social Movements
+tags: 
 - Naomi Klein
 - Nikhil Pal Singh
-- Podcast
-- Social Movements
 ---
 
 What else to talk about right now other than everything about right now? Election, pandemic, BLM, climate, and how the left should think about and struggle with it all. Dan interviews Naomi Klein and Nikhil Pal Singh.

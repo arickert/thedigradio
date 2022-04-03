@@ -5,9 +5,9 @@ permalink: podcast/we-need-the-pro-act-with-jimmy-williams
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_297-Williams.mp3
 post_id: 1917
 categories: 
-- Jimmy Williams
 - Labor Movement
-- Podcast
+tags: 
+- Jimmy Williams
 ---
 
 Why we need the PRO Act with Jimmy Williams, General Vice President of the International Union of Painters and Allied Trades.

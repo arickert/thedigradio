@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1807
 categories: 
 - Identity Politics
-- Olúfẹ́mi Táíwò
 - Organizing
-- Podcast
+tags: 
+- Olúfẹ́mi Táíwò
 ---
 
 Prevailing identity politics norms call on people “listen to the most affected” or “centre the most marginalized." But this often works out quite badly in practice. Philosopher Olúfẹ́mi Táíwò on his brilliant essay 

@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1980
 categories: 
 - Capitalism
-- Doug Henwood
-- Podcast
 - US History
+tags: 
+- Doug Henwood
 ---
 
 Who governs? Upon closer inspection, the composition of the ruling class has undergone huge changes that are driving this political moment. Dan interviews Doug Henwood, the author of "Take Me to Your Leader," an extensive analysis of the changing composition of the ruling class published in 

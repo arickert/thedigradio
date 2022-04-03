@@ -7,8 +7,8 @@ post_id: 1369
 categories: 
 - Capitalism
 - Feminism
-- Podcast
 - Political Theory
+tags: 
 - Silvia Federici
 ---
 

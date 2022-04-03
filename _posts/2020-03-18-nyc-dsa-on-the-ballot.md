@@ -7,11 +7,11 @@ post_id: 1474
 categories: 
 - DSA
 - Electoral Politics
+- Organizing
+tags: 
 - Jabari Brisport
 - Marcela Mitaynes
-- Organizing
 - Phara Souffrant Forrest
-- Podcast
 - Samelys López
 ---
 

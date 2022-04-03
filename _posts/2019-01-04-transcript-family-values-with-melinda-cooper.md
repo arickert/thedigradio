@@ -4,7 +4,8 @@ title: "Transcript: Family Values with Melinda Cooper"
 permalink: transcripts/transcript-family-values-with-melinda-cooper
 audiolink: 
 post_id: 1345
-categories: 
+categories:  []
+tags: 
 - Transcripts
 ---
 

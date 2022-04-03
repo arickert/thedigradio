@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 521
 categories: 
 - Imperialism and Foreign Policy
-- Linda Sarsour
 - Middle East
-- Podcast
+tags: 
+- Linda Sarsour
 ---
 
 [View Transcript](https://www.thedigradio.com/transcripts/transcript-palestine-politics-with-linda-sarsour/)

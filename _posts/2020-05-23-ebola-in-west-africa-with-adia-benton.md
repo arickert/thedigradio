@@ -5,11 +5,11 @@ permalink: podcast/ebola-in-west-africa-with-adia-benton
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_258-Benton.mp3
 post_id: 1538
 categories: 
-- Adia Benton
-- Africa
 - Colonialism
 - Coronavirus
-- Podcast
+tags: 
+- Adia Benton
+- Africa
 - West Africa
 ---
 

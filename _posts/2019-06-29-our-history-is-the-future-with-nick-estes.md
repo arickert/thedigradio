@@ -8,8 +8,8 @@ categories:
 - Environment
 - Imperialism and Foreign Policy
 - Indigenous Struggles
+tags: 
 - Nick Estes
-- Podcast
 ---
 
 [View Transcript](https://www.thedigradio.com/transcripts/transcript-our-history-is-the-future-with-nick-estes/)

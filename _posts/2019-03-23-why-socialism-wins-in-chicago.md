@@ -6,11 +6,11 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 512
 categories: 
 - Electoral Politics
+- Socialism
+tags: 
 - Emma Tai
 - Micah Uetricht
 - Miles Kampf-Lassin
-- Podcast
-- Socialism
 ---
 
 Four of the five candidates endorsed by the Chicago Democratic Socialists of America either won outright or advanced to the runoff election on April 2, leading to talk of a Socialist Caucus on the city council. And other progressive candidates throughout the city knocked off corporate-friendly incumbents. Dan passes the mic to guest host Micah Uetricht for an interview with United Working Families Executive Director Emma Tai and 

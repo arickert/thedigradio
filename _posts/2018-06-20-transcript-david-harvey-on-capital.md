@@ -4,7 +4,8 @@ title: "Transcript: David Harvey on Capital"
 permalink: transcripts/transcript-david-harvey-on-capital
 audiolink: 
 post_id: 1319
-categories: 
+categories:  []
+tags: 
 - Transcripts
 ---
 

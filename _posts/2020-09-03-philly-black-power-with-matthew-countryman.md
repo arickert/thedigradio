@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1752
 categories: 
 - Black Politics
-- Matthew Countryman
-- Podcast
 - US History
+tags: 
+- Matthew Countryman
 ---
 
 Dan interviews historian Matthew Countryman on his book 

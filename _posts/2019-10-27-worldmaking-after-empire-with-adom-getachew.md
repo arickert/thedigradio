@@ -5,12 +5,12 @@ permalink: podcast/worldmaking-after-empire-with-adom-getachew
 audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_224-Adom-G.mp3
 post_id: 1402
 categories: 
-- Adom Getachew
-- Africa
 - Black Politics
 - Caribbean
 - Colonialism
-- Podcast
+tags: 
+- Adom Getachew
+- Africa
 ---
 
 Adom Getachew explains how anticolonial leaders from across the black Atlantic tried to not only cast off European rule but also end empire by constructing an egalitarian global political and economic order in its place. 

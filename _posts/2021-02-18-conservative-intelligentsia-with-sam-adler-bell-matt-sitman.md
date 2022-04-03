@@ -5,9 +5,9 @@ permalink: podcast/conservative-intelligentsia-with-sam-adler-bell-matt-sitman
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_293-AdlerBell-Sitman.mp3
 post_id: 1899
 categories: 
-- Matt Sitman
-- Podcast
 - Right-Wing Politics
+tags: 
+- Matt Sitman
 - Sam Adler-Bell
 ---
 

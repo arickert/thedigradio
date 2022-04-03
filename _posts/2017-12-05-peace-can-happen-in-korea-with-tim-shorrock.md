@@ -7,7 +7,7 @@ post_id: 627
 categories: 
 - Asia
 - Imperialism and Foreign Policy
-- Podcast
+tags: 
 - Tim Shorrock
 ---
 

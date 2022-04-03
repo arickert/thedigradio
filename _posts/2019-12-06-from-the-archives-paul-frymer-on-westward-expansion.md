@@ -6,8 +6,8 @@ audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP
 post_id: 1422
 categories: 
 - Indigenous Struggles
+tags: 
 - Paul Frymer
-- Podcast
 ---
 
 On the occasion of our third anniversary we are taking a break. Here's a classic on settler colonialism from our archives: Paul Frymer on 

@@ -5,11 +5,11 @@ permalink: podcast/the-social-question-with-gabriel-winant
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_287-Winant.mp3
 post_id: 1824
 categories: 
-- Gabriel Winant
 - Identity Politics
 - Labor Movement
-- Podcast
 - US History
+tags: 
+- Gabriel Winant
 ---
 
 Dan interviews historian and essayist Gabriel Winant on the social worlds that make US politics and how that sociality is rooted in the economy, carceral state, social media, religion, and more. Read these 

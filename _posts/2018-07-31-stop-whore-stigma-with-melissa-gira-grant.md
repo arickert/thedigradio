@@ -6,8 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 565
 categories: 
 - Feminism
+tags: 
 - Melissa Gira Grant
-- Podcast
 ---
 
 The SESTA/FOSTA law purportedly aims to curb sex trafficking. But as my guest Melissa Gira Grant explains, it actually denies sex workers access to online platforms to more safely conduct their business. It received just two "no" votes in the Senate: from Rand Paul and Ron Wyden. It's a problem of hegemony: prohibition has long been plain common sense. So, it's our job to change that. The first step is to make it clear that there is dissent, and that prohibition is self-evidently neither good policy nor good politics.

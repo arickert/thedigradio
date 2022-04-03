@@ -5,9 +5,9 @@ permalink: podcast/rethinking-migration-with-aziz-rana
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_173_-_Aziz_Migration.mp3
 post_id: 527
 categories: 
-- Aziz Rana
 - Immigration
-- Podcast
+tags: 
+- Aziz Rana
 ---
 
 [View Transcript](https://www.thedigradio.com/transcripts/transcript-rethinking-migration-with-aziz-rana/)

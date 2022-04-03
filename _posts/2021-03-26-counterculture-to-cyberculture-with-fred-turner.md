@@ -5,9 +5,9 @@ permalink: podcast/counterculture-to-cyberculture-with-fred-turner
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_299-Turner.mp3
 post_id: 1932
 categories: 
-- Fred Turner
 - Neoliberalism
-- Podcast
+tags: 
+- Fred Turner
 - Technology
 ---
 

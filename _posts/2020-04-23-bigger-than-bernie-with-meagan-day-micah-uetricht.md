@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1523
 categories: 
 - Bernie Sanders
+tags: 
 - Meagan Day
 - Micah Uetricht
-- Podcast
 ---
 
 Dan interviews Meagan Day and Micah Uetricht, the authors of Bigger Than Bernie: How We Go from the Sanders Campaign to Democratic Socialism, to assess the campaign and the way forward.

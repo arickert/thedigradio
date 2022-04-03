@@ -8,7 +8,7 @@ categories:
 - Economics
 - Environment
 - Imperialism and Foreign Policy
-- Podcast
+tags: 
 - Timothy Mitchell
 ---
 

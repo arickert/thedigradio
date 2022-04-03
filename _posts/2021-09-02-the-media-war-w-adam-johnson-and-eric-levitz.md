@@ -5,12 +5,12 @@ permalink: podcast/the-media-war-w-adam-johnson-and-eric-levitz
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_319-MediaWar.mp3
 post_id: 2016
 categories: 
-- Adam Johnson
 - Afghanistan
-- Eric Levitz
 - Imperialism and Foreign Policy
+tags: 
+- Adam Johnson
+- Eric Levitz
 - Media
-- Podcast
 ---
 
 Media critic Adam Johnson and New York Magazine's Eric Levitz on the media's warmongering attack on Biden's withdrawal of US troops from Afghanistan. 

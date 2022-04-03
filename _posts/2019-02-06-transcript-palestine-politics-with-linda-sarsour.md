@@ -4,7 +4,8 @@ title: "Transcript: Palestine Politics with Linda Sarsour"
 permalink: transcripts/transcript-palestine-politics-with-linda-sarsour
 audiolink: 
 post_id: 1262
-categories: 
+categories:  []
+tags: 
 - Transcripts
 ---
 

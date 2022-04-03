@@ -5,12 +5,12 @@ permalink: podcast/eco-socialism-and-the-climate-crisis
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_143_-_Blockadia.mp3
 post_id: 557
 categories: 
+- Environment
+- Socialism
+tags: 
 - Ashley Dawson
 - Audrea Lim
 - Daniel Aldana Cohen
-- Environment
-- Podcast
-- Socialism
 - Thea Riofrancos
 ---
 

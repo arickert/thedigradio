@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 699
 categories: 
 - Electoral Politics
+tags: 
 - Khalil Gibran Muhammad
 - Matt Karp
-- Podcast
 - Stephanie Coontz
 ---
 

@@ -7,8 +7,8 @@ post_id: 550
 categories: 
 - Imperialism and Foreign Policy
 - Media Bias
+tags: 
 - Patrick Blanchfield
-- Podcast
 ---
 
 Serious people in Washington are seduced by vapid and self-serving accounts of their savvy operation of the machinery of government—works like Bob Woodward's latest exercise in extended stenography 

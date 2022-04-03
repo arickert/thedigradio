@@ -6,8 +6,8 @@ audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP
 post_id: 1093
 categories: 
 - Environmental Justice
+tags: 
 - Palestine
-- Podcast
 - Rashida Tlaib
 ---
 

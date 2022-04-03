@@ -4,7 +4,8 @@ title: "Transcript: MLK, Political Philosopher. With Tommie Shelby and Brandon T
 permalink: transcripts/transcript-mlk-political-philosopher-with-tommie-shelby-and-brandon-terry
 audiolink: 
 post_id: 1325
-categories: 
+categories:  []
+tags: 
 - Transcripts
 ---
 

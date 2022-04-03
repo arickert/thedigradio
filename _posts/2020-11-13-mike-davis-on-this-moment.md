@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1788
 categories: 
 - Electoral Politics
-- Mike Davis
 - Organizing
-- Podcast
+tags: 
+- Mike Davis
 ---
 
 Dan interviews Mike Davis on what the election reveals about this US political moment and the way forward for the Left.

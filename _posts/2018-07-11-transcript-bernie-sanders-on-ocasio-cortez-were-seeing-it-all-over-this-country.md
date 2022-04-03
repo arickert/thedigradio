@@ -4,7 +4,8 @@ title: "Transcript: Bernie Sanders on Ocasio-Cortez: We're seeing it all over th
 permalink: transcripts/transcript-bernie-sanders-on-ocasio-cortez-were-seeing-it-all-over-this-country
 audiolink: 
 post_id: 1313
-categories: 
+categories:  []
+tags: 
 - Transcripts
 ---
 

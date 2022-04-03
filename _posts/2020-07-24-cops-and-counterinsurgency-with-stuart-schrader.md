@@ -7,7 +7,7 @@ post_id: 1727
 categories: 
 - Criminal Justice
 - Imperialism and Foreign Policy
-- Podcast
+tags: 
 - Police
 - Stuart Schrader
 ---

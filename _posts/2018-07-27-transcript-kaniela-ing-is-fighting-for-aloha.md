@@ -4,7 +4,8 @@ title: "Transcript: Kaniela Ing Is Fighting for Aloha"
 permalink: transcripts/transcript-kaniela-ing-is-fighting-for-aloha
 audiolink: 
 post_id: 1309
-categories: 
+categories:  []
+tags: 
 - Transcripts
 ---
 

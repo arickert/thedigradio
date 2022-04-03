@@ -5,9 +5,9 @@ permalink: podcast/goodbye-columbus-with-matthew-frye-jacobson
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_266-Jacobson.mp3
 post_id: 1730
 categories: 
-- Matthew Frye Jacobson
-- Podcast
 - Racism
+tags: 
+- Matthew Frye Jacobson
 - Settler Colonialism
 ---
 

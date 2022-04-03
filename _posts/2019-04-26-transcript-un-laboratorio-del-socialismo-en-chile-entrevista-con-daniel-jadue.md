@@ -5,8 +5,9 @@ permalink: transcripts/transcript-un-laboratorio-del-socialismo-en-chile-entrevi
 audiolink: 
 post_id: 1305
 categories: 
-- Daniel Jadue
 - Latin America
+tags: 
+- Daniel Jadue
 - Transcripts
 ---
 

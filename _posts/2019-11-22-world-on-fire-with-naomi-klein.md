@@ -6,8 +6,8 @@ audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP
 post_id: 1413
 categories: 
 - Environment
+tags: 
 - Naomi Klein
-- Podcast
 ---
 
 Dan interviews Naomi Klein on her new essay collection 

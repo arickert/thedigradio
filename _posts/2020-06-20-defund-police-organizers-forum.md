@@ -7,7 +7,7 @@ post_id: 1693
 categories: 
 - Criminal Justice
 - Organizing
-- Podcast
+tags: 
 - Police
 ---
 

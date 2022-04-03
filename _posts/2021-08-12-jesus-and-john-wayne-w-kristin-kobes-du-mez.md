@@ -7,10 +7,10 @@ post_id: 2007
 categories: 
 - Donald Trump
 - Gender
-- Kristin Kobes Du Mez
-- Podcast
 - Religion
 - US History
+tags: 
+- Kristin Kobes Du Mez
 ---
 
 Dan interviews historian Kristin Kobes Du Mez on her book 

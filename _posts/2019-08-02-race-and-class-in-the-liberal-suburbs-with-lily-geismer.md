@@ -5,10 +5,10 @@ permalink: podcast/race-and-class-in-the-liberal-suburbs-with-lily-geismer
 audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_212-Geismer.mp3
 post_id: 1282
 categories: 
-- Lily Geismer
 - Neoliberalism
-- Podcast
 - Racism
+tags: 
+- Lily Geismer
 - Segregation
 ---
 

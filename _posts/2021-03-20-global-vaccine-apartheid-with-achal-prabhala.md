@@ -5,11 +5,11 @@ permalink: podcast/global-vaccine-apartheid-with-achal-prabhala
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_298-Prabhala.mp3
 post_id: 1922
 categories: 
-- Achal Prabhala
-- Global Politics
 - Healthcare
 - Pandemic
-- Podcast
+tags: 
+- Achal Prabhala
+- Global Politics
 ---
 
 Astra Taylor interviews Achal Prabhala on emerging global vaccine apartheid: from the neoliberal turn handing the pharmaceutical industry global patents to today's government-funded vaccines put under private pharma control. 

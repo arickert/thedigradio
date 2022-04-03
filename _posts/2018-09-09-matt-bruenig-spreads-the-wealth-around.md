@@ -6,8 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 554
 categories: 
 - Economics
+tags: 
 - Matt Bruenig
-- Podcast
 ---
 
 What socialism should offer is freedom by way of power and democratic control over our polity and economy—and thus over our future as a society. Matt Bruenig has one 

@@ -5,9 +5,9 @@ permalink: podcast/keeanga-yamahtta-taylor-on-the-life-of-howard-zinn
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_161_-_KeeangaZinn.mp3
 post_id: 539
 categories: 
-- Keeanga-Yamahtta Taylor
-- Podcast
 - Socialism
+tags: 
+- Keeanga-Yamahtta Taylor
 ---
 
 [View Transcript](https://www.jacobinmag.com/2018/11/howard-zinns-life-on-the-frontlines)

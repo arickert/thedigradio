@@ -6,10 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1452
 categories: 
 - Asia
+tags: 
 - Au Loong Yu
 - China
 - Hong Kong
-- Podcast
 ---
 
 The protests have subsided but coronavirus has only created a deeper crisis for government legitimacy. Dan interviews long-time Hong Kong activist and writer Au Loong Yu.

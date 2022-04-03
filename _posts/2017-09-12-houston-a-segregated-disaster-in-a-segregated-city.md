@@ -6,11 +6,11 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 654
 categories: 
 - Environment
-- John Henneberger
-- Podcast
 - Racism
-- Robert Bullard
 - Transportation and Cities
+tags: 
+- John Henneberger
+- Robert Bullard
 - Tyina Steptoe
 ---
 

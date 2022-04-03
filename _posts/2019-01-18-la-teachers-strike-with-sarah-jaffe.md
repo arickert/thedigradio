@@ -8,7 +8,7 @@ categories:
 - Education
 - Labor Movement
 - Organizing
-- Podcast
+tags: 
 - Sarah Jaffe
 ---
 

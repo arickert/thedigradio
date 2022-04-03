@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 534
 categories: 
 - Immigration
-- Podcast
-- Richard Seymour
 - Socialism
+tags: 
+- Richard Seymour
 ---
 
 How unlucky it was for Angela Nagle to make her so-called left case against immigration the same week that Hillary Clinton reprised her neoliberal case for border crackdowns. In reality, solidarity with immigrant workers has long been a core tenant for much of the socialist left and labor movement, while neoliberalism, despite pretenses to the contrary, has always been implemented alongside repression. Dan interviews Richard Seymour, a founding editor of Salvage, who has done some excellent work on left politics and migration:

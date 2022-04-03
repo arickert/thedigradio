@@ -9,7 +9,7 @@ categories:
 - Imperialism and Foreign Policy
 - Iraq War
 - Obama
-- Podcast
+tags:  []
 ---
 
 Episode two of The Dig’s War on Terror trilogy with Spencer Ackerman: Obama, ISIS, and the Sustainable War.

@@ -5,10 +5,10 @@ permalink: podcast/end-of-the-myth-with-greg-grandin
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_187_-_Grandin.mp3
 post_id: 513
 categories: 
-- Greg Grandin
 - Immigration
 - Indigenous Struggles
-- Podcast
+tags: 
+- Greg Grandin
 ---
 
 American liberty has since its foundation relied upon the dispossession of indigenous people and Mexicans, upon African enslavement and, ultimately, upon the constant fleeing outward that created an empire that none dare call by its name. As historian Greg Grandin writes in 

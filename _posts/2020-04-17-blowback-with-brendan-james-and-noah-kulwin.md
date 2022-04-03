@@ -5,10 +5,10 @@ permalink: podcast/blowback-with-brendan-james-and-noah-kulwin
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_253-James-Kulwin.mp3
 post_id: 1521
 categories: 
-- Brendan James
 - Iraq War
+tags: 
+- Brendan James
 - Noah Kulwin
-- Podcast
 ---
 
 Dan interviews the makers of Blowback, a new podcast series telling the history of the Iraq War.

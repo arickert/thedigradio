@@ -7,8 +7,8 @@ post_id: 683
 categories: 
 - Economics
 - Healthcare
+tags: 
 - Matt Bruenig
-- Podcast
 ---
 
 Medicaid expansion saved Obamacare from repeal. There’s a lot to hate about Obamacare, but that expansion did something very good on a very large scale — and it made just enough Republicans very nervous about taking it away. It's an important lesson about economic policy generally: the more universal a program is, the greater the number of Americans who become advocates for its preservation — a fact conservatives know and fear thanks to Medicare and Social Security but that many liberals don't.

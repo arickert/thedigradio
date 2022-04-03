@@ -5,10 +5,10 @@ permalink: podcast/hindu-nationalism-with-achin-vanaik
 audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_223-Vanaik.mp3
 post_id: 1398
 categories: 
+- Right-Wing Politics
+tags: 
 - Achin Vanaik
 - India
-- Podcast
-- Right-Wing Politics
 ---
 
 Perhaps nowhere is the far right stronger than in India. There, the Bharatiya Janata Party, or BJP, continues in power under Prime Minister Narendra Modi after winning a huge victory in this year’s elections. The BJP, however, isn’t just a party. It’s the electoral wing of a Hindu nationalist movement that constitutes the largest and most organized far-right force on earth. A deep dive with Indian scholar Achin Vanaik.

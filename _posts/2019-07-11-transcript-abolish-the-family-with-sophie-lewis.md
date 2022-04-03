@@ -7,6 +7,7 @@ post_id: 1267
 categories: 
 - Capitalism
 - Feminism
+tags: 
 - Natalism
 - Sophie Lewis
 - Transcripts

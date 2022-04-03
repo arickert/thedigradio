@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 613
 categories: 
 - Economics
-- Frances Fox Piven
-- Podcast
 - Social Movements
+tags: 
+- Frances Fox Piven
 ---
 
 Four decades ago, Frances Fox Piven and her husband Richard Cloward published 

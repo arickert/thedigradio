@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 2036
 categories: 
 - Environment
+tags: 
 - Kim Stanley Robinson
 - literature
-- Podcast
 ---
 
 Kim Stanley Robinson on science fiction, climate crisis, Marxism, geo-engineering, political violence, green Keynesianism, and a lot more. Interviewed by guest host Daniel Aldana Cohen, who read 11 of Robinson’s books during the pandemic quarantine, running from Red Mars through The Ministry for the Future.

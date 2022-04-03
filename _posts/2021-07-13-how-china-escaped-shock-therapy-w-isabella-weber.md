@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1990
 categories: 
 - Capitalism
+tags: 
 - China
 - Isabella Weber
-- Podcast
 ---
 
 How China rejected neoliberal orthodoxy and became the new workshop of the world. Dan interviews economist Isabella Weber on her book How China Escaped Shock Therapy: The Market Reform Debate. 

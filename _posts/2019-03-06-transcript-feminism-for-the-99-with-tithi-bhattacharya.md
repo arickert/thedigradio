@@ -4,7 +4,8 @@ title: "Transcript: Feminism for the 99% with Tithi Bhattacharya"
 permalink: transcripts/transcript-feminism-for-the-99-with-tithi-bhattacharya
 audiolink: 
 post_id: 1300
-categories: 
+categories:  []
+tags: 
 - Transcripts
 ---
 

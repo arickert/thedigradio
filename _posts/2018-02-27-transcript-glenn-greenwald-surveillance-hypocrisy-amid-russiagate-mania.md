@@ -4,7 +4,8 @@ title: "Transcript: Glenn Greenwald: Surveillance Hypocrisy Amid Russiagate Mani
 permalink: transcripts/transcript-glenn-greenwald-surveillance-hypocrisy-amid-russiagate-mania
 audiolink: 
 post_id: 1328
-categories: 
+categories:  []
+tags: 
 - Transcripts
 ---
 

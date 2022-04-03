@@ -7,9 +7,9 @@ post_id: 1467
 categories: 
 - Bernie Sanders
 - Electoral Politics
+tags: 
 - Michael Brooks
 - Natalie Shure
-- Podcast
 ---
 
 A special pod ep from Sunday's live Boston canvass kickoff with Michael Brooks and Natalie Shure.

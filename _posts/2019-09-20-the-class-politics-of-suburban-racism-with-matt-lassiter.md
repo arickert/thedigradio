@@ -6,9 +6,9 @@ audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP
 post_id: 1373
 categories: 
 - Education
-- Matt Lassiter
-- Podcast
 - Racism
+tags: 
+- Matt Lassiter
 ---
 
 The history of suburbanite reactions to school integration in Atlanta and Charlotte reveal the class power underpinning both racism and the demolition of the New Deal order. Dan interviews Matt Lassiter, discussing suburbanite resistance to school busing, why Nixon's Silent Majority was the the product of a suburban strategy rather than a Southern one, and why the class base of all politics matters.

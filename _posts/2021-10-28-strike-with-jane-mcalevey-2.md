@@ -4,8 +4,8 @@ title: "Strike! with Jane McAlevey"
 permalink: podcast/strike-with-jane-mcalevey-2
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_328-McAlevey.mp3
 post_id: 2054
-categories: 
-- Podcast
+categories:  []
+tags:  []
 ---
 
 A Striketober episode from The Dig archives.

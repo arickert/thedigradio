@@ -6,10 +6,10 @@ audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP
 post_id: 1321
 categories: 
 - Bernie Sanders
-- Bhaskar Sunkara
 - Marxism
-- Podcast
 - Socialism
+tags: 
+- Bhaskar Sunkara
 ---
 
 Dan talks to 

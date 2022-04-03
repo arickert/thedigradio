@@ -7,10 +7,10 @@ post_id: 645
 categories: 
 - Bernie Sanders
 - Electoral Politics
-- Nina Turner
 - Organizing
-- Podcast
 - Social Movements
+tags: 
+- Nina Turner
 ---
 
 Former Ohio State Senator Nina Turner talks about being horrified by Trump, why single-payer is suddenly hot among likely 2020 Democratic contenders, and the work that Our Revolution is doing nationwide to fight the Democratic Party's neoliberal leadership. Thanks to our supporters at Verso Books, who just published 

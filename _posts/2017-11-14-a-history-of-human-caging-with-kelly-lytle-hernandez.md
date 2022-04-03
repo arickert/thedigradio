@@ -8,8 +8,8 @@ categories:
 - Criminal Justice
 - Immigration
 - Indigenous Struggles
+tags: 
 - Kelly Lytle Hernández
-- Podcast
 ---
 
 Historian Kelly Lytle Hernández tells the story of human caging in Los Angeles, from the Spanish Conquest to the mid-twentieth century, in her new book 

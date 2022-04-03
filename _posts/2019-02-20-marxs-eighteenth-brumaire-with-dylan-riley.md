@@ -5,10 +5,10 @@ permalink: podcast/marxs-eighteenth-brumaire-with-dylan-riley
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_182_-_Riley.mp3
 post_id: 518
 categories: 
-- Dylan Riley
 - Marxism
-- Podcast
 - Political Theory
+tags: 
+- Dylan Riley
 ---
 
 Dan discusses The Eighteenth Brumaire of Louis Bonaparte—Marx's take on revolution and reaction in mid-19th century France, the broader theories he develops about history and the relationship between politics and the class war, and how this all might apply to today—with political sociologist Dylan Riley.

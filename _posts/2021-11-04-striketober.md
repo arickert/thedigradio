@@ -5,11 +5,11 @@ permalink: podcast/striketober
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_330-Striketober.mp3
 post_id: 2056
 categories: 
+- Labor Movement
+tags: 
 - Alex Press
 - Gabriel Winant
 - Jonah Furman
-- Labor Movement
-- Podcast
 - Victor P. Bouzi
 ---
 

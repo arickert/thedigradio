@@ -6,11 +6,11 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1839
 categories: 
 - Asia
+- Religion
+tags: 
 - Fatima Bhutto
 - Media
 - Pakistan
-- Podcast
-- Religion
 ---
 
 Dan interviews author Fatima Bhutto on social media subjectivities; Pakistani history, politics, and identity; and her novel 

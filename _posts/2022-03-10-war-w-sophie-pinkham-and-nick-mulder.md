@@ -7,11 +7,11 @@ post_id: 2147
 categories: 
 - Economics
 - Imperialism and Foreign Policy
-- Nick Mulder
-- Podcast
 - Russia
-- Sophie Pinkham
 - Ukraine
+tags: 
+- Nick Mulder
+- Sophie Pinkham
 ---
 
 Sophie Pinkham and Nick Mulder on the war, its origins, how it’s being experienced by Ukrainians, Russians, Europeans, and Americans—and also its geopolitical and global economic ramifications, particularly sanctions. 

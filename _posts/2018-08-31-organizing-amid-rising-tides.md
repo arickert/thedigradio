@@ -5,10 +5,10 @@ permalink: podcast/organizing-amid-rising-tides
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_144_-_Rush.mp3
 post_id: 556
 categories: 
-- Elizabeth Rush
 - Environment
 - Organizing
-- Podcast
+tags: 
+- Elizabeth Rush
 ---
 
 Dan speaks to Elizabeth Rush, the author of 

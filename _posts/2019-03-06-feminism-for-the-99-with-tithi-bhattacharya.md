@@ -8,7 +8,7 @@ categories:
 - Feminism
 - Labor Movement
 - Organizing
-- Podcast
+tags: 
 - Tithi Bhattacharya
 ---
 

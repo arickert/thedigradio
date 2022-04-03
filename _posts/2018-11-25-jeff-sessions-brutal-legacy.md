@@ -6,10 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 535
 categories: 
 - Criminal Justice
-- George Joseph
 - Gun Culture
-- Podcast
 - Racism
+tags: 
+- George Joseph
 ---
 
 Guns in general, and American gun culture in particular, have created a horrific bloodbath. But much of the liberal gun control movement has, in concert with the NRA and Republican Right, worked to make the war on guns a central facet of mass incarceration. The upshot is that we have the worst of both worlds: a society flooded with guns, where the paradigmatic white "good guy with a gun" treasures his weapons as a bedrock constitutional right even as the supposed "bad guys with a gun," often black men with a felony record, are mercilessly prosecuted for carrying. Dan talks to reporter George Joseph, who has a 

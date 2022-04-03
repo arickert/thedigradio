@@ -5,9 +5,9 @@ permalink: podcast/amlo-shatters-mexican-establishment
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_126_-_Thornton.mp3
 post_id: 574
 categories: 
-- Christy Thornton
 - Latin America
-- Podcast
+tags: 
+- Christy Thornton
 ---
 
 Leftist Andrés Manuel López Obrador, or AMLO, won an overwhelming victory in Mexico's presidential election, shattering a corrupt, old party system that brought ordinary Mexicans rampant violence and economic immiseration. But AMLO faces powerful political and economic constraints once in office—including some of his own making. Dan's guest is Christy Thornton, a professor of sociology and Latin American studies at Johns Hopkins. During the last week, she was an election observer for the Scholar and Citizen Network for Democracy in Mexico.

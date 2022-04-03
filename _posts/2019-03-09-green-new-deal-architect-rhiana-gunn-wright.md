@@ -6,7 +6,7 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 515
 categories: 
 - Environment
-- Podcast
+tags: 
 - Rhiana Gunn-Wright
 ---
 

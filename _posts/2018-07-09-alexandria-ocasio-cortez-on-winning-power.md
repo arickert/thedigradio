@@ -5,10 +5,10 @@ permalink: podcast/alexandria-ocasio-cortez-on-winning-power
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_127_-_AOC.mp3
 post_id: 573
 categories: 
-- Alexandria Ocasio-Cortez
 - Electoral Politics
 - Media Bias
-- Podcast
+tags: 
+- Alexandria Ocasio-Cortez
 - Ryan Grim
 ---
 

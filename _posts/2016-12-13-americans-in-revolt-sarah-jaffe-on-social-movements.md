@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 698
 categories: 
 - Organizing
-- Podcast
-- Sarah Jaffe
 - Social Movements
+tags: 
+- Sarah Jaffe
 ---
 
 Journalist Sarah Jaffe's new book Necessary Trouble: Americans in Revolt chronicles the movements for economic and racial justice that will be at the forefront of the fight against Trump. Daniel interviewed Sarah before a live audience at AS220 in Providence, Rhode Island.

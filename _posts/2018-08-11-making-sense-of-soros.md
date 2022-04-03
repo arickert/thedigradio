@@ -5,10 +5,10 @@ permalink: podcast/making-sense-of-soros
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_138_-_Bessner.mp3
 post_id: 562
 categories: 
-- Daniel Bessner
-- Podcast
 - Political Theory
 - Racism
+tags: 
+- Daniel Bessner
 ---
 
 That right-wing people in the US and Europe have made George Soros the answer to so many troubling questions is not very surprising: he's a billionaire, he's Jewish and, unlike most of his cohort, he is an actual intellectual who spends much of his money on substantively progressive causes. Daniel Bessner's 

@@ -5,9 +5,9 @@ permalink: podcast/un-laboratorio-del-socialismo-en-chile-entrevista-con-daniel-
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_193_-_Jadue.mp3
 post_id: 507
 categories: 
-- Daniel Jadue
 - Latin America
-- Podcast
+tags: 
+- Daniel Jadue
 ---
 
 [View Transcript](https://www.jacobinmag.com/2019/04/communist-party-chile-left-governance-recoleta)

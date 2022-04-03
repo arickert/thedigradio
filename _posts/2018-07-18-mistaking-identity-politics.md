@@ -5,10 +5,10 @@ permalink: podcast/mistaking-identity-politics
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_132_-_Haider.mp3
 post_id: 568
 categories: 
-- Asad Haider
 - Feminism
-- Podcast
 - Racism
+tags: 
+- Asad Haider
 ---
 
 Checking your privilege. Invisible knapsacks. Intersectionality. In his new book from Verso, 

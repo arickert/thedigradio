@@ -7,7 +7,7 @@ post_id: 666
 categories: 
 - Environment
 - Latin America
-- Podcast
+tags: 
 - Thea Riofrancos
 ---
 

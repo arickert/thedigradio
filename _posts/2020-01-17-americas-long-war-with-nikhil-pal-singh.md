@@ -6,9 +6,9 @@ audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP
 post_id: 1438
 categories: 
 - Imperialism and Foreign Policy
-- Nikhil Pal Singh
-- Podcast
 - Racism
+tags: 
+- Nikhil Pal Singh
 ---
 
 The wars at home and abroad have always been connected. Dan interviews Nikhil Pal Singh on US attacks on Iran and the politics, history, and culture of American warmaking. 

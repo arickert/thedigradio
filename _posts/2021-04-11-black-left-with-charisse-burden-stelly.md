@@ -7,9 +7,9 @@ post_id: 1942
 categories: 
 - Black Politics
 - Capitalism
-- Charisse Burden-Stelly
-- Podcast
 - Socialism
+tags: 
+- Charisse Burden-Stelly
 ---
 
 Dan interviews Charisse Burden-Stelly on racial capitalism, the history of the US Black left, and the US government's Red Scare attacks on Black radicals.

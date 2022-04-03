@@ -5,11 +5,11 @@ permalink: podcast/david-harvey-on-capital
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_121_-_Harvey.mp3
 post_id: 579
 categories: 
-- David Harvey
 - Economics
 - Marxism
-- Podcast
 - Political Theory
+tags: 
+- David Harvey
 ---
 
 [View Transcript](https://www.jacobinmag.com/2018/07/karl-marx-capital-david-harvey)

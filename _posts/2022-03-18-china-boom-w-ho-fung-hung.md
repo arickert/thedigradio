@@ -6,10 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 2161
 categories: 
 - Capitalism
+- Imperialism and Foreign Policy
+tags: 
 - China
 - Ho-fung Hung
-- Imperialism and Foreign Policy
-- Podcast
 - World History
 ---
 

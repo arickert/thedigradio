@@ -6,10 +6,10 @@ audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP
 post_id: 1407
 categories: 
 - Capitalism
-- Mathew Lawrence
-- Podcast
 - Socialism
 - UK Labour Party
+tags: 
+- Mathew Lawrence
 ---
 
 Mathew Lawrence, founder and director of the left-wing UK think tank Common Wealth, explains why ownership must be socialized, what that might look like, and how to make it happen.

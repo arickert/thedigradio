@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1819
 categories: 
 - Economics
-- Melinda Cooper
-- Podcast
 - Political Theory
+tags: 
+- Melinda Cooper
 ---
 
 From The Dig archives: Dan interviews Melinda Cooper about her book, Family Values: Between Neoliberalism and the New Social Conservatism, which makes the case that neoliberalism and social conservatism have been consistent collaborators in creating an economy that redistributed wealth ruthlessly upwards with a risk-absorbing family at its privatized center. We'll be back next week with a new episode.

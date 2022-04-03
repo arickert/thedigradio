@@ -4,7 +4,8 @@ title: "Transcript: Cynthia Nixon on Challenging Cuomo in Wake of Ocasio-Cortez 
 permalink: transcripts/transcript-cynthia-nixon-on-challenging-cuomo-in-wake-of-ocasio-cortez-win
 audiolink: 
 post_id: 1315
-categories: 
+categories:  []
+tags: 
 - Transcripts
 ---
 

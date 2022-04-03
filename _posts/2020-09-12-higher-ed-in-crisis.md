@@ -5,10 +5,10 @@ permalink: podcast/higher-ed-in-crisis
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_271-HigherEd.mp3
 post_id: 1755
 categories: 
-- Daniel Bessner
 - Education
 - Neoliberalism
-- Podcast
+tags: 
+- Daniel Bessner
 - Simon Torracinta
 - Tithi Bhattacharya
 ---

@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 2104
 categories: 
 - Joe Biden
-- Justin Feldman
 - Pandemic
-- Podcast
+tags: 
+- Justin Feldman
 ---
 
 Epidemiologist Justin Feldman makes a comprehensive and devastating critique of Biden's pandemic response. 

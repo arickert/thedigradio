@@ -6,8 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 2080
 categories: 
 - Brazil
+tags: 
 - Jair Bolsonaro
-- Podcast
 - Rodrigo Nunes
 ---
 

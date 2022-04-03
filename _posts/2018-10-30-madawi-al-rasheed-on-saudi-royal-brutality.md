@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 540
 categories: 
 - Imperialism and Foreign Policy
-- Madawi al-Rasheed
 - Middle East
-- Podcast
+tags: 
+- Madawi al-Rasheed
 ---
 
 The brutality of the Saudi royal family had been hiding in plain sight. It was an open secret convenient to the political, media and business elites for whom the Kingdom means big business and an invaluable geostrategic proxy. But the brutal murder and dismemberment of a single 

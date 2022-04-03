@@ -5,12 +5,12 @@ permalink: podcast/asian-america-w-andy-liu-jay-caspian-kang-tammy-kim
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_300-TTSG.mp3
 post_id: 1935
 categories: 
-- Andy Liu
 - Asian Americans
 - Identity Politics
-- Jay Caspian Kang
-- Podcast
 - Racism
+tags: 
+- Andy Liu
+- Jay Caspian Kang
 - Tammy Kim
 ---
 

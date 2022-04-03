@@ -5,10 +5,10 @@ permalink: podcast/spain-part-ii-rajoy-falls
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_119_-_2.mp3
 post_id: 581
 categories: 
-- Carlos Delclós
 - Electoral Politics
 - Europe
-- Podcast
+tags: 
+- Carlos Delclós
 ---
 
 Last week, we posted an interview Dan recorded in Barcelona on Spanish politics—specifically the question of Catalan independence, and also the municipalist movement governing cities like Barcelona. What we didn't really talk much about was the fact that the conservative Spanish government of Mariano Rajoy was about to fall—which it did, just a few days later. So, Dan brought sociologist Carlos Delclós back for a follow-up interview.

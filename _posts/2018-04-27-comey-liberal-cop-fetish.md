@@ -6,8 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 594
 categories: 
 - Criminal Justice
+tags: 
 - Patrick Blanchfield
-- Podcast
 ---
 
 James Comey is liberal America’s favorite cop and now, as a result, a bestselling author as well. Patrick Blanchfield returns to talk about his Baffler review of Comey’s new book. It’s awful, of course. But it’s bad in productively revealing ways. Comey has become an icon of the liberal fetishization of the national security state as a bulwark against Trumpism—when it fact it is that very national security state and its rampant abuses that are deeply implicated in Trump’s rise. The elevation of police as a model of duty and leadership contrasted against Trump’s vulgar monstrosities renders invisible not only why Trump won but why he is so dangerous.

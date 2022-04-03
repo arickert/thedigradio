@@ -5,9 +5,9 @@ permalink: podcast/a-post-janus-plan-for-labor
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_133_-_Maisano.mp3
 post_id: 567
 categories: 
-- Chris Maisano
 - Labor Movement
-- Podcast
+tags: 
+- Chris Maisano
 ---
 
 Janus was an entirely expected and atrocious decision. The conservative business interests that successfully obliterated private sector unions hope it will do the same to their public-sector counterparts. Chris Maisano, a contributing editor at Jacobin, argues that labor has no choice but to return to its militant roots if it hopes to survive. In other words, to survive, labor has to fight for a lot more than mere survival.

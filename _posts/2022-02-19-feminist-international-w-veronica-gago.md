@@ -9,7 +9,7 @@ categories:
 - Feminism
 - Latin America
 - Neoliberalism
-- Podcast
+tags: 
 - Verónica Gago
 ---
 

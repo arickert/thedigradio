@@ -5,9 +5,9 @@ permalink: podcast/the-roots-of-white-power-violence-with-kathleen-belew
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_162_-_Belew.mp3
 post_id: 538
 categories: 
-- Kathleen Belew
-- Podcast
 - Racism
+tags: 
+- Kathleen Belew
 ---
 
 The man who carried out the massacre in Pittsburgh was apparently motivated by a belief that Jewish people were conspiring to destroy the white race by way of orchestrating mass immigration. It's a conspiracy theory with deep roots in America's violent white power movement and that today is echoed by Trump and 

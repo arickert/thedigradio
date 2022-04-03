@@ -6,9 +6,9 @@ audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP
 post_id: 1433
 categories: 
 - Electoral Politics
+tags: 
 - Heidi Sloan
 - Jessica Cisneros
-- Podcast
 - Stephen Smith
 ---
 
