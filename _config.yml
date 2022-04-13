@@ -47,8 +47,8 @@ pages:
   Options: '/2020/04/03/options/'
   Introduction: '/2020/04/04/introduction/'
   Archive: '/archive/'
-  Category: '/category/'
-  Tag: '/tag/'
+  Categories: '/categories/'
+  Guests: '/guests/'
 
 
 
