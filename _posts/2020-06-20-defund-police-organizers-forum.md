@@ -7,8 +7,8 @@ post_id: 1693
 categories: 
 - Criminal Justice
 - Organizing
-tags: 
 - Police
+tags:  []
 ---
 
 A Dig special. Zoom forum Dan hosted with leading defund police organizers from around the country. For more info:

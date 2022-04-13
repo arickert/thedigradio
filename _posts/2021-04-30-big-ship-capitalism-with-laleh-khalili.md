@@ -7,9 +7,9 @@ post_id: 1949
 categories: 
 - Capitalism
 - Middle East
+- Trade
 tags: 
 - Laleh Khalili
-- Trade
 ---
 
 Dan interviews Laleh Khalili on 

@@ -6,10 +6,11 @@ audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP
 post_id: 1215
 categories: 
 - Russia
-tags: 
 - NATO
-- Tony Wood
 - Vladimir Putin
+
+tags: 
+- Tony Wood
 ---
 
 Russia intervened and Trump is a criminal who committed obstruction of justice and is surrounded by constant criminality. But it's no doubt also true that this situation and the hawkish liberal response to it have dangerously damaged US-Russia relations. At the core of Western misunderstanding is the way we think about Vladimir Putin, which is what Dan is discussing today with Tony Wood, the author of 

@@ -4,11 +4,11 @@ title: "Race for Profit with Keeanga-Yamahtta Taylor"
 permalink: podcast/race-for-profit-with-keeanga-yamahtta-taylor
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_242-KYT.mp3
 post_id: 1465
-categories:  []
-tags: 
+categories: 
 - Housing
-- Keeanga-Yamahtta Taylor
 - Segregation
+tags: 
+- Keeanga-Yamahtta Taylor
 ---
 
 Dan interviews Keeanga-Yamahtta Taylor on her book 

@@ -6,10 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1737
 categories: 
 - Organizing
+- Youth
 tags: 
 - Andres Celin
 - Rapheal Randall
-- Youth
 ---
 
 A must-listen conversation on organizing to win with two extraordinary organizers from Philadelphia's Youth United for Change.

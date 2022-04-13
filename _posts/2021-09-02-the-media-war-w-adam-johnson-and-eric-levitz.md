@@ -7,10 +7,10 @@ post_id: 2016
 categories: 
 - Afghanistan
 - Imperialism and Foreign Policy
+- Media
 tags: 
 - Adam Johnson
 - Eric Levitz
-- Media
 ---
 
 Media critic Adam Johnson and New York Magazine's Eric Levitz on the media's warmongering attack on Biden's withdrawal of US troops from Afghanistan. 

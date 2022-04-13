@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: Episodes
 ---
 
 # Archive
@@ -12,7 +12,9 @@ Browse all posts by month and year.
   <h2>{{ yearMonth.name }}</h2>
   <ul>
     {% for post in yearMonth.items %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% unless post.title contains "Newsletter" or post.title contains "Transcript" %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endunless %}
     {% endfor %}
   </ul>
 {% endfor %}

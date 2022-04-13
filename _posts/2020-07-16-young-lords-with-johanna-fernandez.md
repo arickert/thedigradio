@@ -6,10 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1724
 categories: 
 - Black Politics
+- Latino Politics
 - US History
 tags: 
 - Johanna Fernández
-- Latino Politics
 ---
 
 This is an incredible moment to learn about the Young Lords from historian Johanna Fernández, the author of 

@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1932
 categories: 
 - Neoliberalism
+- Technology
 tags: 
 - Fred Turner
-- Technology
 ---
 
 How the 60s counterculture went on to make the techno-utopian ideology that suffuses our techno-dystopian reality. Dan interviews Fred Turner on his classic 

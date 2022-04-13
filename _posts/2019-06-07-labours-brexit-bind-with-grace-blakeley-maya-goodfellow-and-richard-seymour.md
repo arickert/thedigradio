@@ -5,9 +5,9 @@ permalink: podcast/labours-brexit-bind-with-grace-blakeley-maya-goodfellow-and-r
 audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_202-UKpolitics.mp3
 post_id: 1098
 categories: 
+- Brexit
 - UK Labour Party
 tags: 
-- Brexit
 - Grace Blakeley
 - Jeremy Corbyn
 - Maya Goodfellow

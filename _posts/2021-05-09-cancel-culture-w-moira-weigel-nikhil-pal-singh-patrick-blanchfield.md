@@ -1,14 +1,14 @@
 ---
 layout: post
-title: ""Cancel Culture" w/ Moira Weigel, Nikhil Pal Singh, Patrick Blanchfield"
+title: "Cancel Culture w/ Moira Weigel, Nikhil Pal Singh, Patrick Blanchfield"
 permalink: podcast/cancel-culture-w-moira-weigel-nikhil-pal-singh-patrick-blanchfield
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_305-Cancel.mp3
 post_id: 1953
 categories: 
 - The Discourse
-tags: 
 - Culture War
 - Internet
+tags: 
 - Moira Weigel
 - Nikhil Pal Singh
 - Patrick Blanchfield

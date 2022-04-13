@@ -5,9 +5,9 @@ permalink: podcast/ayn-rands-optimistic-cruelty-with-lisa-duggan
 audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_220-Duggan.mp3
 post_id: 1383
 categories: 
+- Ayn Rand
 - Capitalism
 tags: 
-- Ayn Rand
 - Lisa Duggan
 ---
 

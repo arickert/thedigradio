@@ -6,9 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 2059
 categories: 
 - Indigenous Struggles
+- World History
 tags: 
 - David Wengrow
-- World History
 ---
 
 Astra Taylor interviews archaeologist David Wengrow on The Dawn of Everything: A New History of Humanity, his new book co-authored with the late David Graeber. 

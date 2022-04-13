@@ -2,10 +2,7 @@
 layout: post
 title: "Building a diverse working class movement to transform America"
 permalink: podcast/building-a-diverse-working-class-movement-to-transform-america
-audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP6_-_Nijmie.mov
-54383673
-video/quicktime
-a:3:{s:8:"duration";i:3366;s:6:"author";s:37:"Daniel Denvir, from Jacobin magazine.";s:8:"explicit";i:1;}mp3
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP6_-_Nijmie.mp3
 post_id: 695
 categories: 
 - Social Movements

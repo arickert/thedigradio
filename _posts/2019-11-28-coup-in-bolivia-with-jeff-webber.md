@@ -5,10 +5,10 @@ permalink: podcast/coup-in-bolivia-with-jeff-webber
 audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_229-Webber.mp3
 post_id: 1415
 categories: 
+- Bolivia
 - Indigenous Struggles
 - Latin America
 tags: 
-- Bolivia
 - Jeff Webber
 ---
 

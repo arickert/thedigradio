@@ -6,9 +6,9 @@ audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-Ep
 post_id: 1342
 categories: 
 - Capitalism
+- Language
 tags: 
 - John Patrick Leary
-- Language
 ---
 
 Ordinary language is the sound of hegemony; it is also an archive of the struggles to overturn it. Language is an institution and a constantly emergent field of struggle; it is the product of power relations and it is also itself power relations. Dan interviews John Patrick Leary, the author of Keywords: The New Language of Capitalism.

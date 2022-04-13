@@ -6,11 +6,11 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 2172
 categories: 
 - Capitalism
+- Global Politics
 - Healthcare
 - Pandemic
 tags: 
 - Achal Prabhala
-- Global Politics
 ---
 
 Astra interviews Achal Prabhala on the lethal persistence of global vaccine apartheid. Moderna is selfishly refusing to share or even sell (license) its mRNA technology, leaving much of the world unprotected from the pandemic and incubating new variants.

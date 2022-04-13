@@ -6,10 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1777
 categories: 
 - Criminal Justice
+- El Salvador
 - Immigration
 - Latin America
 tags: 
-- El Salvador
 - Roberto Lovato
 ---
 

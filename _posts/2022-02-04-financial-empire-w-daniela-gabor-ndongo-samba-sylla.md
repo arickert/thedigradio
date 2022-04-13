@@ -8,9 +8,9 @@ categories:
 - Colonialism
 - Economics
 - Finance
+- Global Politics
 tags: 
 - Daniela Gabor
-- Global Politics
 - Ndongo Samba Sylla
 ---
 

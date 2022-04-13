@@ -6,10 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 2084
 categories: 
 - Cryptocurrency
+- Technology
 tags: 
 - Edward Ongweso Jr
 - Jacob Silverman
-- Technology
 ---
 
 Edward Ongweso Jr. and Jacob Silverman on cryptocurrency, NFTs, Elon Musk, the metaverse, meme stocks, and techno-utopianism amid the crushing reality of our neoliberal hellscape. The first in a two-episode series on crypto. 

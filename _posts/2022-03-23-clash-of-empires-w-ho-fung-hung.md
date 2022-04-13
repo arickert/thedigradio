@@ -5,11 +5,11 @@ permalink: podcast/clash-of-empires-w-ho-fung-hung
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_349-Hung.mp3
 post_id: 2165
 categories: 
+- China
 - Economics
+- Global Politics
 - Imperialism and Foreign Policy
 tags: 
-- China
-- Global Politics
 - Ho-fung Hung
 ---
 

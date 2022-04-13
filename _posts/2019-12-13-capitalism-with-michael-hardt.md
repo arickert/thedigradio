@@ -6,10 +6,10 @@ audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP
 post_id: 1427
 categories: 
 - Capitalism
+- Property
 - Social Movements
 tags: 
 - Michael Hardt
-- Property
 ---
 
 An interview on how the transformation of capitalism has changed the possibilities for anti-capitalist struggle with Michael Hardt, co-author with Antonio Negri of 

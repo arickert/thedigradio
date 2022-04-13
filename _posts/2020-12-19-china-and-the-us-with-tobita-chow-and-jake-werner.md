@@ -7,9 +7,9 @@ post_id: 1813
 categories: 
 - Asia
 - Capitalism
+- China
 - Imperialism and Foreign Policy
 tags: 
-- China
 - Jake Werner
 - Tobita Chow
 ---

@@ -4,12 +4,12 @@ title: "Demystifying Big Tech with Meredith Whittaker"
 permalink: podcast/demystifying-big-tech-with-meredith-whittaker
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_273-Whittaker.mp3
 post_id: 1765
-categories:  []
+categories: 
+- Technology
 tags: 
 - Astra Taylor
 - Mass Incarceration
 - Meredith Whittaker
-- Technology
 ---
 
 Guest host Astra Taylor interviews tech organizer and scholar Meredith Whittaker on the political economy of the tech leviathan that's remaking capitalism, empire, and the carceral state. 

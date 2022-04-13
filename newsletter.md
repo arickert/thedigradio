@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Newsletter
 ---
 
@@ -13,14 +13,16 @@ title: Newsletter
 
 <!-- Begin List Posts
 ================================================== -->
+
+
 <section class="recent-posts">
 <div class="section-title mt-2">
-    <h2>{{ page.title }}</span></h2>
-</div> -->
+    <h2>{{ page.title }}</h2>
+</div>
 <div class="row listrecent">
 
 {% for post in site.posts %}
-{% if post.categories contains newsletter %}
+{% if post.title contains page.title %}
     {% include postbox.html %}
 {% endif %}    
 

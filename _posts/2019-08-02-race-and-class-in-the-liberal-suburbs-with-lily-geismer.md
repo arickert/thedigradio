@@ -7,9 +7,9 @@ post_id: 1282
 categories: 
 - Neoliberalism
 - Racism
+- Segregation
 tags: 
 - Lily Geismer
-- Segregation
 ---
 
 Dan interviews Lily Geismer, the author of 

@@ -6,10 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1536
 categories: 
 - Coronavirus
+- Science
 tags: 
 - Frank Rosenthal
 - Nafis Hasan
-- Science
 ---
 
 Dan interviews Frank Rosenthal on the history of the radical science organization Science for the People and Nafis Hasan on everything about a left-wing politics of science.

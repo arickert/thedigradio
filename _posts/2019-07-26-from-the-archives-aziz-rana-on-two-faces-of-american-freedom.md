@@ -8,10 +8,10 @@ categories:
 - Immigration
 - Imperialism and Foreign Policy
 - Racism
+- Settler Colonialism
 - US History
 tags: 
 - Aziz Rana
-- Settler Colonialism
 ---
 
 Dan is taking his first week off ever in Dig history to finish his book. Here's a classic from deep in the archives: our first interview with Aziz Rana, on his book The Two Faces of American Freedom, aka episode 62. If you've already heard this one and are hungry for more content we've got everything organized by date, guest and topic at 

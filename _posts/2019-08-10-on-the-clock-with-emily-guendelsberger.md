@@ -6,9 +6,9 @@ audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP
 post_id: 1297
 categories: 
 - Capitalism
+- Technology
 tags: 
 - Emily Guendelsberger
-- Technology
 ---
 
 Jobs have in recent years gotten much worse for millions of service workers at Amazon, McDonalds and call centers. Dan interviews Emily Guendelsberger on her book On the Clock: What Low-Wage Work Did to Me and How It Drives America Insane.

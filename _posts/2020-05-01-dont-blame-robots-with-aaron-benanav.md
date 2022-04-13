@@ -5,11 +5,11 @@ permalink: podcast/dont-blame-robots-with-aaron-benanav
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_255-Benanav.mp3
 post_id: 1526
 categories: 
+- Automation
 - Capitalism
 - Coronavirus
 tags: 
 - Aaron Benanav
-- Automation
 ---
 
 Dan interviews Aaron Benanav, who argues that the problem isn't that robots are stealing our jobs but rather that capitalist growth is finding its limits and making jobs worse.

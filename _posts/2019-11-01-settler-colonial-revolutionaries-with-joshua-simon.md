@@ -6,10 +6,10 @@ audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP
 post_id: 1405
 categories: 
 - Latin America
+- Settler Colonialism
 - US History
 tags: 
 - Joshua Simon
-- Settler Colonialism
 ---
 
 The divide between Latin American and the United States was not always so evident. Across the hemisphere, creoles—the descendants of European settlers, born in the Americas—launched revolutions to cast off European rule and preserve their own elite position over black and indigenous people. Joshua Simon explains how rival settler-colonial projects became today's status quo of US dominance.

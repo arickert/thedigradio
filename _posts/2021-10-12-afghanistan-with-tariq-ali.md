@@ -7,8 +7,8 @@ post_id: 2039
 categories: 
 - Afghanistan
 - Imperialism and Foreign Policy
-tags: 
 - Pakistan
+tags: 
 - Tariq Ali
 ---
 

@@ -8,10 +8,10 @@ categories:
 - Environment
 - Indigenous Struggles
 - Russia
+- Settler Colonialism
 - US History
 tags: 
 - Bathsheba Demuth
-- Settler Colonialism
 ---
 
 Bathsheba Demuth on her monumental book 

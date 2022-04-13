@@ -6,10 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1885
 categories: 
 - Imperialism and Foreign Policy
+- Liberalism
 - Right-Wing Politics
 tags: 
 - Jeanne Morefield
-- Liberalism
 ---
 
 Dan interviews Jeanne Morefield on her book 

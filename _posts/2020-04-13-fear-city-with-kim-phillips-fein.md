@@ -6,10 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1516
 categories: 
 - Neoliberalism
+- New York City
 - US History
 tags: 
 - Kim Phillips-Fein
-- New York City
 ---
 
 Dan interviews historian Kim Phillips-Fein about her book Fear City: New York's Fiscal Crisis and the Rise of Austerity Politics and about how the destruction of social democracy made today's city where coronavirus is killing its poor and working-class people.
