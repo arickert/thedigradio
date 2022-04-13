@@ -14,12 +14,12 @@
         </div>
         {% endif %}
         <div class="card-body">
-            <small class="text-muted"><a href="{{ site.baseurl }}/category/{{ post.categories[0] | replace: " ","-" | replace: ".","-" | replace: "#","sharp" | downcase }}">{{ post.categories[0] }}</a></small>
+            <!-- <small class="text-muted"><a href="{{ site.baseurl }}/category/{{ post.categories[0] | replace: " ","-" | replace: ".","-" | replace: "#","sharp" | downcase }}">{{ post.categories[0] }}</a></small> -->
             <h2 class="card-title">
                 <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> {% if post.rating %}
-                <div class="mb-2 mt-2 font-weight-normal">
+                <!-- <div class="mb-2 mt-2 font-weight-normal">
                     {% include star_rating_postbox.html %}
-                </div>
+                </div> -->
                 {% endif %}
             </h2>
             <small class="text-muted">{{ post.date | date_to_string }}</small>

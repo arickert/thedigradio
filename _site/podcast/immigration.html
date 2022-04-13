@@ -52,14 +52,17 @@
           
           
           
+          <a class="page-link" href="/categories/">Categories</a>
           
           
           
+          <a class="page-link" href="/guests/">Guests</a>
           
           
           
           
           
+          <a class="page-link" href="/newsletter/">Newsletter</a>
           
           
           
@@ -897,6 +900,11 @@
           
           
           
+          
+          
+          
+          <a class="page-link" href="http://www.patreon.com/thedig">Support</a>
+
           <a href="/" title="Home">The Dig</a>
 
           <small>The Dig</small>
@@ -929,21 +937,21 @@
       <li>
         <a href="/2022/04/13/2021-05-09-cancel-culture-w-moira-weigel-nikhil-pal-singh-patrick-blanchfield/">
           
-          <small><time datetime="2022-04-13T01:08:47-04:00">13 Apr 2022</time></small>
+          <small><time datetime="2022-04-13T02:04:51-04:00">13 Apr 2022</time></small>
         </a>
       </li>
     
       <li>
         <a href="/2022/04/13/2017-08-18-sarah-jones-why-establishment-dems-punch-alt-left/">
           
-          <small><time datetime="2022-04-13T01:08:47-04:00">13 Apr 2022</time></small>
+          <small><time datetime="2022-04-13T02:04:51-04:00">13 Apr 2022</time></small>
         </a>
       </li>
     
       <li>
         <a href="/2022/04/13/2017-01-29-diane-ravitch-on-trump-devos-and-the-corporate-ed-reform-agenda/">
           
-          <small><time datetime="2022-04-13T01:08:47-04:00">13 Apr 2022</time></small>
+          <small><time datetime="2022-04-13T02:04:51-04:00">13 Apr 2022</time></small>
         </a>
       </li>
     
@@ -955,7 +963,7 @@
 
       <footer class="footer">
         <small>
-          &copy; <time datetime="2022-04-13T01:08:47-04:00">2022</time>. All rights reserved.
+          &copy; <time datetime="2022-04-13T02:04:51-04:00">2022</time>. All rights reserved.
         </small>
       </footer>
     </div>
