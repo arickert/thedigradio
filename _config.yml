@@ -1,9 +1,9 @@
 # Setup
 title: The Dig
 tagline: The Dig
-url: "localhost:4000"
+url: "arickert.github.io"
 paginate: 1
-baseurl: "localhost:4000"
+baseurl: ""
 permalink: pretty
 
 
