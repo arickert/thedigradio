@@ -3,7 +3,7 @@ title: The Dig
 tagline: The Dig
 url: "arickert.github.io"
 paginate: 1
-baseurl: /
+baseurl: "arickert.github.io"
 permalink: pretty
 
 
