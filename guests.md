@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Guests
+title: Tag
 ---
 
 <div id="archives">
