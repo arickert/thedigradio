@@ -3,7 +3,7 @@ title: The Dig
 tagline: The Dig
 url: "arickert.github.io"
 paginate: 1
-baseurl: ""
+baseurl: /
 permalink: pretty
 
 
@@ -48,7 +48,7 @@ pages:
   Introduction: '/2020/04/04/introduction/'
   Archive: '/archive/'
   Categories: '/category/'
-  Guests: '/guests/'
+  Guests: '/tags/'
 
 
 
