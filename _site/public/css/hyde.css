@@ -75,6 +75,16 @@ html {
   color: #fff;
 }
 
+.category-head1{
+  color:red
+}
+.category-head2{
+  color:blue
+}
+.category-head3{
+  color:peru
+}
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
@@ -97,6 +107,12 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
+}
+
+.icon-bar{
+  display:grid;
+  grid-template-columns: 25px 25px 25px 25px 25px;
+  gap:5px;
 }
 
 /* Sticky sidebar
