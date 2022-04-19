@@ -1,6 +1,190 @@
 [
   
     {
+      "title"    : "Newsletter9",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter9",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 8",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter8",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 7",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter7",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 6",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter6",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 5",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter5",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 4",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter4",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 3",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter3",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 23",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter23",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 22",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter22",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 21",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter21",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 20",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter20",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 2",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter2",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 19",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter19",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 18",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter18",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 17",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter17",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 16",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter16",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 15",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter15",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 14",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter14",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 13",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter13",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 12",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter12",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 11",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter11",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 10",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter10",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Newsletter 1",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter1",
+      "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
       "title"    : "Vaccine Apartheid Endures w/ Achal Prabhala",
       "category" : "",
       "tags"     : "Achal Prabhala",
@@ -222,14 +406,6 @@
       "tags"     : "Astra Taylor",
       "url"      : "//podcast/occupy-at-10-with-astra-taylor",
       "date"     : "2021-09-25 00:00:00 -0400"
-    } ,
-  
-    {
-      "title"    : "Newsletter",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "//newsletter",
-      "date"     : "2021-09-24 00:00:00 -0400"
     } ,
   
     {
@@ -798,14 +974,6 @@
       "tags"     : "",
       "url"      : "//podcast/antibody-ep-1-existing-conditions",
       "date"     : "2020-05-31 00:00:00 -0400"
-    } ,
-  
-    {
-      "title"    : "Introducing Antibody, a Dig special series on COVID-19",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "//podcast/introducing-antibody-a-dig-special-series-on-covid-19",
-      "date"     : "2020-05-29 00:00:00 -0400"
     } ,
   
     {

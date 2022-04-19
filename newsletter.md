@@ -23,7 +23,7 @@ title: Newsletter
 
 {% for post in site.posts %}
 {% if post.title contains page.title %}
-    {% include postbox.html %}
+    {% include postbox.md %}
 {% endif %}    
 
 {% endfor %}

@@ -4,16 +4,22 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
+  {% unless page.title contains "Newsletter" %}
   <span class="post-date">{{ page.date | date_to_string }}</span>
   <audio controls><source src="{{page.audiolink}}" type="audio/mpeg">Your browser does not support the audio tag.</audio>
-  {{ content }}
+  {% endunless %}
+    {{ content }}
+</div>
+
+
 </div>
 
 <div class="cats">
   Topics:
+  <i class="fa fa-camera-retro fa-lg"></i> 
   <ul class="cats">
     {% for category in page.categories %}
-    <a href="{{site.baseurl}}/category/{{category|slugify}}">{{category}}</a>
+      <a href="{{site.baseurl}}/category/{{category|slugify}}">{{category}}</a>
     {% endfor %}
   </ul>
 </div>
