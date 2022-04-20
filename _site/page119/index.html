@@ -34,7 +34,11 @@
   <body>
 
     <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div style="text-align:center" id="search-demo-container">
+    <input class="searchbar" type="search" id="search-input" placeholder="Search...">
+    <ul style="position:absolute; width:80%; text-align:left" id="results-container"></ul>
+  </div>
+  <div id="sidebar" class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
         <a href="/">
@@ -1931,11 +1935,87 @@
           
         
       
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
 
       <a class="sidebar-nav-item" href="https://www.patreon.com/thedig">Contribute</a>
       <!-- <span class="sidebar-nav-item">Currently v3.0.0</span> -->
     </nav>
-    <div class="icon-bar">
+    <div class="icon-bar" style="justify-content:center" >
        <a href="https://podcasts.apple.com/us/podcast/the-dig/id1043245989?mt=2&ls=1">
         <img wid  th="10" height="10" src="http://localhost:4000/assets/apple-touch-icon-precomposed.png">
       </a>
@@ -1954,10 +2034,7 @@
       </a>
     </div>
       
-    <div id="search-demo-container">
-      <input type="search" id="search-input" placeholder="search...">
-      <ul id="results-container"></ul>
-    </div>
+
 
     <!-- <p>&copy; 2022. All rights reserved.</p> -->
   </div>
@@ -1972,6 +2049,7 @@
       window.simpleJekyllSearch = new SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
+        sidebar: document.getElementById('sidebar'),
         json: 'http://localhost:4000/search.json',
         searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
@@ -2016,23 +2094,21 @@ Thanks for reading!
   
   <div class="post">
     <h1 class="post-title">
-      <a href="/podcast/empire-unhinged-with-asli-bali-aziz-rana">
-        Empire Unhinged with Aslı Bâli & Aziz Rana
+      <a href="/podcast/unforgetting-with-roberto-lovato">
+        Unforgetting with Roberto Lovato
       </a>
     </h1>
 
-    <span class="post-date">11 Jun 2020</span>
+    <span class="post-date">16 Oct 2020</span>
 
-    <p>Dan interviews returning guests Aslı Bâli and Aziz Rana on the long history behind the crisis of American imperial legitimation that has become so manifest amid the pandemic.</p>
+    <p>Roberto Lovato on 
+Unforgetting: A Memoir of Family, Migration, Gangs, and Revolution in the Americas. Growing up Salvadoran-American in The Mission, fighting with the FMLN in El Salvador, making sense of MS-13, weaving back together the pieces of a transnational history severed by borders and violence. Lovato retells El Salvador and US history through his family’s story.</p>
 
-<p>Some works by Bâli and Rana cited in this interview:</p>
-
-<p><a href="http://bostonreview.net/war-security-politics-global-justice/asl%C4%B1-u-b%C3%A2li-aziz-rana-sanctions-are-inhumane%E2%80%94now-and-always">bostonreview.net/war-security-politics-global-justice/asl%C4%B1-u-b%C3%A2li-aziz-rana-sanctions-are-inhumane%E2%80%94now-and-always</a></p>
-
-<p><a href="http://lawreview.uchicago.edu/publication/constitutionalism-and-american-imperial-imagination">lawreview.uchicago.edu/publication/constitutionalism-and-american-imperial-imagination</a></p>
-
-<p>Please support this podcast at 
+<p>Support this podcast at 
 <a href="http://Patreon.com/TheDig">Patreon.com/TheDig</a></p>
+
+<p>Join The Dig book club at 
+<a href="http://thedigradio.com/dig-book-club/">thedigradio.com/dig-book-club/</a></p>
 
   </div>
   

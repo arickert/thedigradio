@@ -34,7 +34,11 @@
   <body>
 
     <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div style="text-align:center" id="search-demo-container">
+    <input class="searchbar" type="search" id="search-input" placeholder="Search...">
+    <ul style="position:absolute; width:80%; text-align:left" id="results-container"></ul>
+  </div>
+  <div id="sidebar" class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
         <a href="/">
@@ -1931,11 +1935,87 @@
           
         
       
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
 
       <a class="sidebar-nav-item" href="https://www.patreon.com/thedig">Contribute</a>
       <!-- <span class="sidebar-nav-item">Currently v3.0.0</span> -->
     </nav>
-    <div class="icon-bar">
+    <div class="icon-bar" style="justify-content:center" >
        <a href="https://podcasts.apple.com/us/podcast/the-dig/id1043245989?mt=2&ls=1">
         <img wid  th="10" height="10" src="http://localhost:4000/assets/apple-touch-icon-precomposed.png">
       </a>
@@ -1954,10 +2034,7 @@
       </a>
     </div>
       
-    <div id="search-demo-container">
-      <input type="search" id="search-input" placeholder="search...">
-      <ul id="results-container"></ul>
-    </div>
+
 
     <!-- <p>&copy; 2022. All rights reserved.</p> -->
   </div>
@@ -1972,6 +2049,7 @@
       window.simpleJekyllSearch = new SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
+        sidebar: document.getElementById('sidebar'),
         json: 'http://localhost:4000/search.json',
         searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
@@ -2016,19 +2094,22 @@ Thanks for reading!
   
   <div class="post">
     <h1 class="post-title">
-      <a href="/podcast/the-italian-situation-with-david-broder-lorenzo-zamponi-and-marta-fana">
-        The Italian Situation with David Broder, Lorenzo Zamponi, and Marta Fana
+      <a href="/podcast/worker-freedom-with-alex-gourevitch">
+        Worker Freedom with Alex Gourevitch
       </a>
     </h1>
 
-    <span class="post-date">15 Jun 2019</span>
+    <span class="post-date">11 Oct 2019</span>
 
-    <p>There is perhaps no more depressing situation in Western Europe than that which prevails in Italy: a coalition government between the far-right Lega party and the now subordinate, bizarre, amorphously anti-corruption, internet-fetishist, pseudo-directly democratic Five Star Movement. In other words, Italian politics is dominated by a viciously racist anti-migrant politics; the left, along with most traditional forces, is in utter disarray. Today, Lega, led by Interior Minister Mateo Salvini, runs Italian politics. But the bad news is maybe also the good news: Salvini has not solved Italy’s deep rooted economic problems, and so it’s quite possible that the very same instability that abetted his rise will ultimately lead to his downfall. Dan interviews David Broder, Lorenzo Zamponi and Marta Fana.</p>
+    <p>Dan interviews Alex Gourevitch about how 19th century US labor radicals remade the idea of freedom into a principle of working-class social transformation.</p>
 
-<p>Thanks to Verso. Check out their massive left-wing book selection at 
-<a href="http://versobooks.com">versobooks.com</a></p>
+<p>If you want more on the debate over Lexit, which they only touched on briefly, check out this June interview with Chris Bickerton and Jerome Roos 
+<a href="http://www.thedigradio.com/podcast/the-european-situation-with-chris-bickerton-and-jerome-roos">www.thedigradio.com/podcast/the-european-situation-with-chris-bickerton-and-jerome-roos</a></p>
 
-<p>Support this podcast with your money at 
+<p>Thanks to Verso. Check out their huge selection of left-wing titles at 
+<a href="http://www.versobooks.com">www.versobooks.com</a></p>
+
+<p>Please support this podcast with money at 
 <a href="http://Patreon.com/TheDig">Patreon.com/TheDig</a></p>
 
   </div>

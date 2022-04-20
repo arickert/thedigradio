@@ -4,13 +4,184 @@
  <title>The Dig</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-04-19T15:59:26-04:00</updated>
+ <updated>2022-04-20T15:43:55-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2019/07/border-patrol-concentration-camps-alexandria-ocasio-cortez&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/04/trump-health-obamacare-welfare-medicaid-racism-republicans-democrats&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 9</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2022/03/cryptocurrency-bitcoin-speculative-asset-digitization-metaverse&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 8</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2018/07/electoral-rules-third-party-ballot-line-ocasio-cortez-dsa&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 7</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2022/02/cryptocurrency-democratize-monetary-policy-economics-banks-financial-system-bitcoin&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 6</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/11/trump-corey-robin-reactionary-mind-interview&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 5</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2022/03/brazil-pt-lula-bolsonaro-neoliberalism-far-right&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 4</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2021/10/tariq-ali-afghan-war-us-imperialism&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 3</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2021/08/capitalism-climate-crisis-global-green-new-deal-clean-energy-fossil-fuel-industry&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 2</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/09/hurricane-harvey-trump-climate-change&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 18</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2020/03/ilhan-omar-interview-bernie-sanders-climate&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 17</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2018/07/bernie-sanders-interview-alexandria-ocasio-cortez&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 16</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/09/daca-dreamers-trump-sessions-immigration-deportation&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 15</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/09/mexico-us-drug-war-trump-migrants-nafta&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 14</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2019/07/rashida-tlaib-detroit-palestine&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 13</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/05/black-lives-matter-baltimore-obama-racism-freddie-gray-election-whitelash&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 12</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/06/white-working-class-trump-appalachia-mining&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 11</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/09/hurricane-harvey-irma-global-warming-the-dig&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 10</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2022/03/russia-ukraine-putin-nato-us-war-empire&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Newsletter9</title>

@@ -34,7 +34,11 @@
   <body>
 
     <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div style="text-align:center" id="search-demo-container">
+    <input class="searchbar" type="search" id="search-input" placeholder="Search...">
+    <ul style="position:absolute; width:80%; text-align:left" id="results-container"></ul>
+  </div>
+  <div id="sidebar" class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
         <a href="/">
@@ -1931,11 +1935,87 @@
           
         
       
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
 
       <a class="sidebar-nav-item" href="https://www.patreon.com/thedig">Contribute</a>
       <!-- <span class="sidebar-nav-item">Currently v3.0.0</span> -->
     </nav>
-    <div class="icon-bar">
+    <div class="icon-bar" style="justify-content:center" >
        <a href="https://podcasts.apple.com/us/podcast/the-dig/id1043245989?mt=2&ls=1">
         <img wid  th="10" height="10" src="http://localhost:4000/assets/apple-touch-icon-precomposed.png">
       </a>
@@ -1954,10 +2034,7 @@
       </a>
     </div>
       
-    <div id="search-demo-container">
-      <input type="search" id="search-input" placeholder="search...">
-      <ul id="results-container"></ul>
-    </div>
+
 
     <!-- <p>&copy; 2022. All rights reserved.</p> -->
   </div>
@@ -1972,6 +2049,7 @@
       window.simpleJekyllSearch = new SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
+        sidebar: document.getElementById('sidebar'),
         json: 'http://localhost:4000/search.json',
         searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
@@ -2016,16 +2094,20 @@ Thanks for reading!
   
   <div class="post">
     <h1 class="post-title">
-      <a href="/podcast/haddad-and-varoufakis-fighting-right-wing-populism">
-        Haddad and Varoufakis Fighting Right-Wing Populism
+      <a href="/podcast/marxs-eighteenth-brumaire-with-dylan-riley">
+        Marx's Eighteenth Brumaire with Dylan Riley
       </a>
     </h1>
 
-    <span class="post-date">04 Dec 2018</span>
+    <span class="post-date">20 Feb 2019</span>
 
-    <p>On Saturday, Dan was in New York to interview Fernando Haddad and Yanis Varoufakis. Haddad is the former Workers Party mayor of São Paulo who recently lost Brazil’s presidential election to far-right candidate Jair Bolsonaro. Varoufakis was the Greek Finance minister who tried and failed to fight the Troika’s imposition of austerity and today is a leader of the Democracy in Europe Movement 2025. Unsurprisingly, their topic was the fight against right-wing populism.</p>
+    <p>Dan discusses The Eighteenth Brumaire of Louis Bonaparte—Marx’s take on revolution and reaction in mid-19th century France, the broader theories he develops about history and the relationship between politics and the class war, and how this all might apply to today—with political sociologist Dylan Riley.</p>
 
-<p>Thanks to Verso Books. Check out their huge selection of left-wing titles at www.versobooks.com</p>
+<p>Check out Dan’s recent 
+<a href="https://www.nytimes.com/2019/02/11/opinion/democrats-border-security-wall.html">NYT op-ed</a>The Case Against Border Security.</p>
+
+<p>Thanks to NACLA, reporting on the Americas since 1967. Check out their collection of articles on Latin American politics at 
+<a href="nacla.org">nacla.org</a>. And thanks, as always, to Verso. Check out their huge collection of left-wing titles at www.versobooks.com</p>
 
 <p>Please support this podcast with your money at Patreon.com/TheDig</p>
 

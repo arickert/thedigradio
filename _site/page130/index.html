@@ -34,7 +34,11 @@
   <body>
 
     <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div style="text-align:center" id="search-demo-container">
+    <input class="searchbar" type="search" id="search-input" placeholder="Search...">
+    <ul style="position:absolute; width:80%; text-align:left" id="results-container"></ul>
+  </div>
+  <div id="sidebar" class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
         <a href="/">
@@ -1931,11 +1935,87 @@
           
         
       
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
 
       <a class="sidebar-nav-item" href="https://www.patreon.com/thedig">Contribute</a>
       <!-- <span class="sidebar-nav-item">Currently v3.0.0</span> -->
     </nav>
-    <div class="icon-bar">
+    <div class="icon-bar" style="justify-content:center" >
        <a href="https://podcasts.apple.com/us/podcast/the-dig/id1043245989?mt=2&ls=1">
         <img wid  th="10" height="10" src="http://localhost:4000/assets/apple-touch-icon-precomposed.png">
       </a>
@@ -1954,10 +2034,7 @@
       </a>
     </div>
       
-    <div id="search-demo-container">
-      <input type="search" id="search-input" placeholder="search...">
-      <ul id="results-container"></ul>
-    </div>
+
 
     <!-- <p>&copy; 2022. All rights reserved.</p> -->
   </div>
@@ -1972,6 +2049,7 @@
       window.simpleJekyllSearch = new SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
+        sidebar: document.getElementById('sidebar'),
         json: 'http://localhost:4000/search.json',
         searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
@@ -2016,16 +2094,17 @@ Thanks for reading!
   
   <div class="post">
     <h1 class="post-title">
-      <a href="/podcast/organizing-now-with-sarah-jaffe-jasson-perez">
-        Organizing Now with Sarah Jaffe & Jasson Perez
+      <a href="/podcast/goodbye-columbus-with-matthew-frye-jacobson">
+        Goodbye Columbus with Matthew Frye Jacobson
       </a>
     </h1>
 
-    <span class="post-date">08 Apr 2020</span>
+    <span class="post-date">31 Jul 2020</span>
 
-    <p>Dan interviews veteran organizer Jasson Perez and journalist Sarah Jaffe on left organizing amid covid and where it might go.</p>
+    <p>Dan’s 2018 interview with Matthew Frye Jacobson on 
+Roots Too: White Ethnic Revival in Post–Civil Rights America. With a new intro from Dan on the Columbus myth and the politics of white ethnicity.</p>
 
-<p>Support this podcast at 
+<p>Support this podcast with money at 
 <a href="http://Patreon.com/TheDig">Patreon.com/TheDig</a></p>
 
   </div>

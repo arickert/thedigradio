@@ -34,7 +34,11 @@
   <body>
 
     <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div style="text-align:center" id="search-demo-container">
+    <input class="searchbar" type="search" id="search-input" placeholder="Search...">
+    <ul style="position:absolute; width:80%; text-align:left" id="results-container"></ul>
+  </div>
+  <div id="sidebar" class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
         <a href="/">
@@ -1931,11 +1935,87 @@
           
         
       
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
 
       <a class="sidebar-nav-item" href="https://www.patreon.com/thedig">Contribute</a>
       <!-- <span class="sidebar-nav-item">Currently v3.0.0</span> -->
     </nav>
-    <div class="icon-bar">
+    <div class="icon-bar" style="justify-content:center" >
        <a href="https://podcasts.apple.com/us/podcast/the-dig/id1043245989?mt=2&ls=1">
         <img wid  th="10" height="10" src="http://localhost:4000/assets/apple-touch-icon-precomposed.png">
       </a>
@@ -1954,10 +2034,7 @@
       </a>
     </div>
       
-    <div id="search-demo-container">
-      <input type="search" id="search-input" placeholder="search...">
-      <ul id="results-container"></ul>
-    </div>
+
 
     <!-- <p>&copy; 2022. All rights reserved.</p> -->
   </div>
@@ -1972,6 +2049,7 @@
       window.simpleJekyllSearch = new SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
+        sidebar: document.getElementById('sidebar'),
         json: 'http://localhost:4000/search.json',
         searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
@@ -2016,14 +2094,14 @@ Thanks for reading!
   
   <div class="post">
     <h1 class="post-title">
-      <a href="/podcast/americans-in-revolt-sarah-jaffe-on-social-movements">
-        Americans in Revolt: Sarah Jaffe on social movements
+      <a href="/podcast/neoliberal-vs-neofascist-in-france">
+        Neoliberal vs. Neofascist in France
       </a>
     </h1>
 
-    <span class="post-date">13 Dec 2016</span>
+    <span class="post-date">27 Apr 2017</span>
 
-    <p>Journalist Sarah Jaffe’s new book Necessary Trouble: Americans in Revolt chronicles the movements for economic and racial justice that will be at the forefront of the fight against Trump. Daniel interviewed Sarah before a live audience at AS220 in Providence, Rhode Island.</p>
+    <p>The Dig normally serves up ice cold, well-digested takes. Sometimes, however, something important happens and Dan finds someone who can help us understand it quickly. Last weekend’s election in France, which advanced the far-right National Front’s Marine Le Pen and neoliberal centrist Emmanuel Macron to a runoff, is one such event. Sebastian Budgen, an editor for Verso Books, a contributing editor at Jacobin, and a member of the editorial board at Historical Materialism, tells explains what’s up.</p>
 
   </div>
   

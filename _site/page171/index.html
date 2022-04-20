@@ -34,7 +34,11 @@
   <body>
 
     <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div style="text-align:center" id="search-demo-container">
+    <input class="searchbar" type="search" id="search-input" placeholder="Search...">
+    <ul style="position:absolute; width:80%; text-align:left" id="results-container"></ul>
+  </div>
+  <div id="sidebar" class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
         <a href="/">
@@ -1931,11 +1935,87 @@
           
         
       
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
 
       <a class="sidebar-nav-item" href="https://www.patreon.com/thedig">Contribute</a>
       <!-- <span class="sidebar-nav-item">Currently v3.0.0</span> -->
     </nav>
-    <div class="icon-bar">
+    <div class="icon-bar" style="justify-content:center" >
        <a href="https://podcasts.apple.com/us/podcast/the-dig/id1043245989?mt=2&ls=1">
         <img wid  th="10" height="10" src="http://localhost:4000/assets/apple-touch-icon-precomposed.png">
       </a>
@@ -1954,10 +2034,7 @@
       </a>
     </div>
       
-    <div id="search-demo-container">
-      <input type="search" id="search-input" placeholder="search...">
-      <ul id="results-container"></ul>
-    </div>
+
 
     <!-- <p>&copy; 2022. All rights reserved.</p> -->
   </div>
@@ -1972,6 +2049,7 @@
       window.simpleJekyllSearch = new SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
+        sidebar: document.getElementById('sidebar'),
         json: 'http://localhost:4000/search.json',
         searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
@@ -2016,23 +2094,22 @@ Thanks for reading!
   
   <div class="post">
     <h1 class="post-title">
-      <a href="/podcast/the-struggle-in-chile-with-pablo-abufom-alondra-carrillo">
-        The Struggle in Chile with Alondra Carrillo & Pablo Abufom
+      <a href="/podcast/coup-in-bolivia-with-jeff-webber">
+        Coup in Bolivia with Jeff Webber
       </a>
     </h1>
 
-    <span class="post-date">19 Jul 2019</span>
+    <span class="post-date">28 Nov 2019</span>
 
-    <p>Dan’s lengthy interview with two brilliant Chilean social movement organizers: Alondra Carrillo and Pablo Abufom. Carrillo organizes in the country’s massive feminist movement. Abufom works in the labor-backed movement for a just pension system.</p>
+    <p>Political scientist Jeff Webber discusses the coup against Evo Morales and the recent history of Bolivia.</p>
 
-<p>Read Dan’s interview with Daniel Jadue, the Communist mayor of Recoleta, 
-<a href="https://jacobinmag.com/2019/04/communist-party-chile-left-governance-recoleta">in 
-Jacobin</a>.</p>
+<p>Read “The Eighteenth Brumaire of Macho Camacho” by Jeff Webber and Forrest Hylton 
+<a href="http://www.versobooks.com/blogs/4493-the-eighteenth-brumaire-of-macho-camacho-jeffery-r-webber-with-forrest-hylton-on-the-coup-in-bolivia">www.versobooks.com/blogs/4493-the-eighteenth-brumaire-of-macho-camacho-jeffery-r-webber-with-forrest-hylton-on-the-coup-in-bolivia</a></p>
 
-<p>Thanks to Verso Books. Check out their huge selection of left-wing titles at 
-<a href="http://www.versobooks.com">www.versobooks.com</a></p>
+<p>Thanks to University of California Press. Check out their titles at 
+<a href="http://ucpress.edu">ucpress.edu</a></p>
 
-<p>Please support this podcast with your money at 
+<p>Support this podcast with money at 
 <a href="http://Patreon.com/TheDig">Patreon.com/TheDig</a></p>
 
   </div>

@@ -34,7 +34,11 @@
   <body>
 
     <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div style="text-align:center" id="search-demo-container">
+    <input class="searchbar" type="search" id="search-input" placeholder="Search...">
+    <ul style="position:absolute; width:80%; text-align:left" id="results-container"></ul>
+  </div>
+  <div id="sidebar" class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
         <a href="/">
@@ -1931,11 +1935,87 @@
           
         
       
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
 
       <a class="sidebar-nav-item" href="https://www.patreon.com/thedig">Contribute</a>
       <!-- <span class="sidebar-nav-item">Currently v3.0.0</span> -->
     </nav>
-    <div class="icon-bar">
+    <div class="icon-bar" style="justify-content:center" >
        <a href="https://podcasts.apple.com/us/podcast/the-dig/id1043245989?mt=2&ls=1">
         <img wid  th="10" height="10" src="http://localhost:4000/assets/apple-touch-icon-precomposed.png">
       </a>
@@ -1954,10 +2034,7 @@
       </a>
     </div>
       
-    <div id="search-demo-container">
-      <input type="search" id="search-input" placeholder="search...">
-      <ul id="results-container"></ul>
-    </div>
+
 
     <!-- <p>&copy; 2022. All rights reserved.</p> -->
   </div>
@@ -1972,6 +2049,7 @@
       window.simpleJekyllSearch = new SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
+        sidebar: document.getElementById('sidebar'),
         json: 'http://localhost:4000/search.json',
         searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
@@ -2016,37 +2094,14 @@ Thanks for reading!
   
   <div class="post">
     <h1 class="post-title">
-      <a href="/newsletter7">
-        Newsletter 7
+      <a href="/newsletterx">
+        Transcriptx
       </a>
     </h1>
 
     <span class="post-date">02 Apr 2022</span>
 
-    <p>Newsletter #7: The Immense Possibilities at the Heart of Our Past and Present, with David Wengrow</p>
-
-<p>by William Harris</p>
-
-<p>At a time when academia was becoming more and more hyper-specialized, the late David Graeber was a rare generalist. He was a committed activist and scholar who believed we could understand the kind of better society humans are capable of building by telling vast stories and asking daring questions about our lives together in the past, present, and future.</p>
-
-<p>This is what led him to become an anthropologist. He wanted to study existing social forms in all their diversity, from<a href="https://iupress.org/9780253219152/lost-people/">his doctoral fieldwork in rural Madagascar</a>to his polemic against<a href="https://www.simonandschuster.com/books/Bullshit-Jobs/David-Graeber/9781501143335">the braindead hellscape of twenty-first-century</a>“bullshit jobs,” while also writing expansive histories that show us how the world wasn’t always the way it is now — and therefore might be different in the future.</p>
-
-<p>After completing the monumental<a href="https://www.mhpbooks.com/books/debt/">Debt: The First 5,000 Years</a>, Graeber spent much of the last decade of his life researching an even more ambitious project alongside his friend and intellectual inspiration, the archaeologist<a href="https://www.ucl.ac.uk/archaeology/people/david-wengrow-professor-comparative-archaeology">David Wengrow</a>. The fruit of that research is a new co-authored 700-page epic by Wengrow and Graeber,<a href="https://us.macmillan.com/books/9780374157357">The Dawn of Everything: A New History of Humanity</a>— and also the subject of a mind-expanding new 
-episode ofThe Digguest-hosted by<a href="https://www.thedigradio.com/tag/astra-taylor/">Astra Taylor</a>.</p>
-
-<p>Listen toThe Dig’s interview with David Wengrow<a href="https://www.thedigradio.com/">here</a>.</p>
-
-<p>At its most sweeping, the mainstream view of human history goes something like this: we once lived in small, egalitarian hunter-gatherer bands. With the rise of agriculture, these bands gave way to complex forms of hierarchy, class structure, and bureaucracy. This is a myth, Wengrow argues. Exploring an incredible range of sources, from French Enlightenment texts to Native American folklore and understudied archaeological sites in Mexico and Ukraine, Wengrow and Graeber uncover a history of revolutionary contingency, in which slave-holding hunter-gatherer societies develop next to egalitarian ones, diverse regional social networks are replaced by the narrower social worlds of cities and nation-states, settlements full of palaces and temples are felled in favor of the large-scale construction of spacious social housing, and the seeds of the Enlightenment lie not in Europe but in the rich cultures of debate and persuasion found among Indigenous societies in the Americas.</p>
-
-<p>The real human story, Wengrow argues, is one of immense variation in social organization — and therefore one of immense possibility.</p>
-
-<p> </p>
-
-<p>Further Reading and Listening</p>
-
-<p>There have been numerous tributes to David Graeber written in the year since his death, all testifying to his brilliance, warmth, and importance to left thought. AtSalvage, James Meadway wrote one of<a href="https://salvage.zone/articles/acting-as-if-one-is-already-free-david-graebers-political-economy-and-the-strategic-impasse-of-the-left/">the most wide-ranging of these tributes</a>, which along with<a href="https://www.lrb.co.uk/the-paper/v34/n09/benjamin-kunkel/forgive-us-our-debts">Benjamin Kunkel’s review</a>ofDebtin theLondon Review of Booksserves as a great introduction to Graeber’s work. To explore further this week’s look into indigenous history in the Americas, check out guest host Astra Taylor’sDiginterview with<a href="https://www.thedigradio.com/podcast/roxanne-dunbar-ortiz-on-indigenous-history/">Roxanne Dunbar-Ortiz</a>.</p>
-
-<p> </p>
+    <p>https://jacobinmag.com/2022/03/cryptocurrency-bitcoin-speculative-asset-digitization-metaverse</p>
 
   </div>
   

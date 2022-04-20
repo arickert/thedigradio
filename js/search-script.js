@@ -300,6 +300,7 @@
       let options = {
         searchInput: null,
         resultsContainer: null,
+        sidebar: null, 
         json: [],
         success: Function.prototype,
         searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
@@ -384,10 +385,13 @@
     
       function emptyResultsContainer () {
         options.resultsContainer.innerHTML = ''
+        options.sidebar.style.visibility= "visible"
       }
     
       function appendToResultsContainer (text) {
         options.resultsContainer.innerHTML += text
+        options.sidebar.style.visibility= "hidden"
+
       }
     
       function registerInput () {

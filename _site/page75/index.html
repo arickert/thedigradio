@@ -34,7 +34,11 @@
   <body>
 
     <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div style="text-align:center" id="search-demo-container">
+    <input class="searchbar" type="search" id="search-input" placeholder="Search...">
+    <ul style="position:absolute; width:80%; text-align:left" id="results-container"></ul>
+  </div>
+  <div id="sidebar" class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
         <a href="/">
@@ -1931,11 +1935,87 @@
           
         
       
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
 
       <a class="sidebar-nav-item" href="https://www.patreon.com/thedig">Contribute</a>
       <!-- <span class="sidebar-nav-item">Currently v3.0.0</span> -->
     </nav>
-    <div class="icon-bar">
+    <div class="icon-bar" style="justify-content:center" >
        <a href="https://podcasts.apple.com/us/podcast/the-dig/id1043245989?mt=2&ls=1">
         <img wid  th="10" height="10" src="http://localhost:4000/assets/apple-touch-icon-precomposed.png">
       </a>
@@ -1954,10 +2034,7 @@
       </a>
     </div>
       
-    <div id="search-demo-container">
-      <input type="search" id="search-input" placeholder="search...">
-      <ul id="results-container"></ul>
-    </div>
+
 
     <!-- <p>&copy; 2022. All rights reserved.</p> -->
   </div>
@@ -1972,6 +2049,7 @@
       window.simpleJekyllSearch = new SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
+        sidebar: document.getElementById('sidebar'),
         json: 'http://localhost:4000/search.json',
         searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
@@ -2016,28 +2094,21 @@ Thanks for reading!
   
   <div class="post">
     <h1 class="post-title">
-      <a href="/podcast/global-vaccine-apartheid-with-achal-prabhala">
-        Global Vaccine Apartheid with Achal Prabhala
+      <a href="/podcast/chile-w-aldo-madariaga-camila-vergara">
+        Chile w/ Aldo Madariaga & Camila Vergara
       </a>
     </h1>
 
-    <span class="post-date">20 Mar 2021</span>
+    <span class="post-date">26 Aug 2021</span>
 
-    <p>Astra Taylor interviews Achal Prabhala on emerging global vaccine apartheid: from the neoliberal turn handing the pharmaceutical industry global patents to today’s government-funded vaccines put under private pharma control.</p>
+    <p>Dan interviews scholars Aldo Madariaga and Camila Vergara about how Chilean politics have been playing out since the massive popular uprisings that began in October 2019.</p>
 
-<p>Groups fighting global vaccine apartheid
-Public Citizen: citizen.org/topic/safe-affordable-drugs-devices/global-access-to-medicines
-MSF: msfaccess.org
-Prep4All: prep4all.org
-People’s Vaccine Alliance: peoplesvaccine.org</p>
+<p>Further reading: 
+jacobinlat.com/2021/06/19/el-neoliberalismo-atenta-contra-la-democracia-2
+newleftreview.org/sidecar/posts/burying-pinochet
+jacobinmag.com/2021/06/rene-rojas-interview-democracy-new-constitution-constituent-assembly-plebiscite-left-chile</p>
 
-<p>Recent work by Prabhala:
-nytimes.com/2020/12/07/opinion/covid-vaccines-patents.html
-nytimes.com/2021/02/05/opinion/covid-vaccines-china-russia.html
-theguardian.com/commentisfree/2020/oct/15/peoples-vaccine-coronavirus-covid-wto</p>
-
-<p>Support this podcast at Patreon.com/TheDig
-Join the Dig Book Club at thedigradio.com/dig-book-club</p>
+<p>Support The Dig at Patreon.com/TheDig and (soon) receive our weekly newsletter.</p>
 
   </div>
   

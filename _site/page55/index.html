@@ -34,7 +34,11 @@
   <body>
 
     <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div style="text-align:center" id="search-demo-container">
+    <input class="searchbar" type="search" id="search-input" placeholder="Search...">
+    <ul style="position:absolute; width:80%; text-align:left" id="results-container"></ul>
+  </div>
+  <div id="sidebar" class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
         <a href="/">
@@ -1931,11 +1935,87 @@
           
         
       
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
 
       <a class="sidebar-nav-item" href="https://www.patreon.com/thedig">Contribute</a>
       <!-- <span class="sidebar-nav-item">Currently v3.0.0</span> -->
     </nav>
-    <div class="icon-bar">
+    <div class="icon-bar" style="justify-content:center" >
        <a href="https://podcasts.apple.com/us/podcast/the-dig/id1043245989?mt=2&ls=1">
         <img wid  th="10" height="10" src="http://localhost:4000/assets/apple-touch-icon-precomposed.png">
       </a>
@@ -1954,10 +2034,7 @@
       </a>
     </div>
       
-    <div id="search-demo-container">
-      <input type="search" id="search-input" placeholder="search...">
-      <ul id="results-container"></ul>
-    </div>
+
 
     <!-- <p>&copy; 2022. All rights reserved.</p> -->
   </div>
@@ -1972,6 +2049,7 @@
       window.simpleJekyllSearch = new SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
+        sidebar: document.getElementById('sidebar'),
         json: 'http://localhost:4000/search.json',
         searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
@@ -2016,22 +2094,16 @@ Thanks for reading!
   
   <div class="post">
     <h1 class="post-title">
-      <a href="/podcast/the-media-war-w-adam-johnson-and-eric-levitz">
-        The Media War w/ Adam Johnson and Eric Levitz
+      <a href="/podcast/interregnum-w-aziz-rana-nikhil-pal-singh-wendy-brown">
+        Interregnum w/ Aziz Rana, Nikhil Pal Singh, Wendy Brown
       </a>
     </h1>
 
-    <span class="post-date">02 Sep 2021</span>
+    <span class="post-date">06 Jan 2022</span>
 
-    <p>Media critic Adam Johnson and New York Magazine’s Eric Levitz on the media’s warmongering attack on Biden’s withdrawal of US troops from Afghanistan.</p>
+    <p>Everyone feels bad right now because conditions are awful and the outlook is bleak. What is going on, and where might things be headed? How might we become unstuck from this interregnum? Dan interviews returning guests Aziz Rana, Nikhil Pal Singh, and Wendy Brown.</p>
 
-<p>Further reading: 
-nymag.com/intelligencer/2021/08/media-bias-biden-polls-approval-afghanistan-withdrawal.html
-thecolumn.substack.com/p/on-afghanistan-withdrawal-nyts-peter</p>
-
-<p>Sign up for Adam’s Substack: thecolumn.substack.com</p>
-
-<p>Support The Dig at Patreon.com/TheDig and get our (coming soon) weekly newsletter</p>
+<p>Support The Dig at Patreon.com/TheDig</p>
 
   </div>
   

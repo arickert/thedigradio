@@ -34,7 +34,11 @@
   <body>
 
     <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div style="text-align:center" id="search-demo-container">
+    <input class="searchbar" type="search" id="search-input" placeholder="Search...">
+    <ul style="position:absolute; width:80%; text-align:left" id="results-container"></ul>
+  </div>
+  <div id="sidebar" class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
         <a href="/">
@@ -1931,11 +1935,87 @@
           
         
       
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
 
       <a class="sidebar-nav-item" href="https://www.patreon.com/thedig">Contribute</a>
       <!-- <span class="sidebar-nav-item">Currently v3.0.0</span> -->
     </nav>
-    <div class="icon-bar">
+    <div class="icon-bar" style="justify-content:center" >
        <a href="https://podcasts.apple.com/us/podcast/the-dig/id1043245989?mt=2&ls=1">
         <img wid  th="10" height="10" src="http://localhost:4000/assets/apple-touch-icon-precomposed.png">
       </a>
@@ -1954,10 +2034,7 @@
       </a>
     </div>
       
-    <div id="search-demo-container">
-      <input type="search" id="search-input" placeholder="search...">
-      <ul id="results-container"></ul>
-    </div>
+
 
     <!-- <p>&copy; 2022. All rights reserved.</p> -->
   </div>
@@ -1972,6 +2049,7 @@
       window.simpleJekyllSearch = new SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
+        sidebar: document.getElementById('sidebar'),
         json: 'http://localhost:4000/search.json',
         searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
@@ -2016,15 +2094,16 @@ Thanks for reading!
   
   <div class="post">
     <h1 class="post-title">
-      <a href="/podcast/bonus-ending-the-war-on-drug-dealers">
-        Bonus: Ending the War on Drug Dealers
+      <a href="/podcast/keeanga-yamahtta-taylor-recovering-identity-politics-from-neoliberalism">
+        Keeanga-Yamahtta Taylor: Recovering Identity Politics from Neoliberalism
       </a>
     </h1>
 
-    <span class="post-date">23 Oct 2017</span>
+    <span class="post-date">19 Dec 2017</span>
 
-    <p>Dan was on a panel last week on ending the war on drug dealers at the Drug Policy Alliance conference in Atlanta.<br />
-The panel was moderated by asha bandele and included   Daryl Atkinson,  Constanza Sánchez Avilé,  Lyn  Ulbrich, Kemba Smith and Dan. Thanks for listening. Support us at patreon.com/TheDig</p>
+    <p>Keeanga-Yamahtta Taylor returns to The Dig to discuss her new book
+. Forty years ago, a group of black feminists coined the term “identity politics” in the Combahee River Collective Statement. For them, it was a way to identify the various ways that capitalism, racism, patriarchy, and homophobia created a set of interlocking oppressions. And the point of identifying how those systems operated together was not to create an itemized politics of particularity, as is too often the case today, but rather to create a framework for solidarity. Thanks to our sponsors at Verso Books. Check out
+and support this podcast with $ at Patreon.com/TheDig.</p>
 
   </div>
   

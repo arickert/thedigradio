@@ -34,7 +34,11 @@
   <body>
 
     <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div style="text-align:center" id="search-demo-container">
+    <input class="searchbar" type="search" id="search-input" placeholder="Search...">
+    <ul style="position:absolute; width:80%; text-align:left" id="results-container"></ul>
+  </div>
+  <div id="sidebar" class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
         <a href="/">
@@ -1931,11 +1935,87 @@
           
         
       
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
 
       <a class="sidebar-nav-item" href="https://www.patreon.com/thedig">Contribute</a>
       <!-- <span class="sidebar-nav-item">Currently v3.0.0</span> -->
     </nav>
-    <div class="icon-bar">
+    <div class="icon-bar" style="justify-content:center" >
        <a href="https://podcasts.apple.com/us/podcast/the-dig/id1043245989?mt=2&ls=1">
         <img wid  th="10" height="10" src="http://localhost:4000/assets/apple-touch-icon-precomposed.png">
       </a>
@@ -1954,10 +2034,7 @@
       </a>
     </div>
       
-    <div id="search-demo-container">
-      <input type="search" id="search-input" placeholder="search...">
-      <ul id="results-container"></ul>
-    </div>
+
 
     <!-- <p>&copy; 2022. All rights reserved.</p> -->
   </div>
@@ -1972,6 +2049,7 @@
       window.simpleJekyllSearch = new SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
+        sidebar: document.getElementById('sidebar'),
         json: 'http://localhost:4000/search.json',
         searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
@@ -2016,14 +2094,14 @@ Thanks for reading!
   
   <div class="post">
     <h1 class="post-title">
-      <a href="/podcast/dean-baker-on-trumps-tax-plan-for-the-rich">
-        Dean Baker on Trump's Tax Plan for the Rich
+      <a href="/podcast/adrian-chen-factcheck-org-wont-save-america">
+        Adrian Chen: Factcheck.org Won’t Save America
       </a>
     </h1>
 
-    <span class="post-date">04 May 2017</span>
+    <span class="post-date">29 Aug 2017</span>
 
-    <p>Why do Republicans only seem to care about deficits and debt when they’re trying to cut social welfare programs? Dan’s guest for this special episode is Dean Baker, co-director of the Center for Economic and Policy Research (CEPR). He discusses Trump’s regressive tax proposal and the GOP’s never ending efforts to redistribute wealth the super-rich.</p>
+    <p>Is the internet good or bad? The debate is more often than not a proxy for one about politics more generally and populism in particular. But the real issue with the internet is this: unaccountable businesses wield oligopoly power over the digital public sphere. Support us with some cash https://www.patreon.com/thedig And check out Adrian’s article http://www.newyorker.com/magazine/2017/09/04/the-fake-news-fallacy</p>
 
   </div>
   

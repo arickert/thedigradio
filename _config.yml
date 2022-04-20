@@ -51,7 +51,6 @@ pages:
   Guests: '/guests/'
 
 
-
 # Archives
 collections:
   archives:

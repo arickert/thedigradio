@@ -55,9 +55,10 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 1.25rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
+  height:25em;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -65,8 +66,9 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 13rem;
     text-align: left;
+    height:100%;
   }
 }
 
@@ -90,7 +92,15 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-size: 2.25rem;
+}
+
+.searchbar{
+  width:50%;
+  border-radius:11px;
+  height:29px;
+  padding:5px;
+  margin-bottom:15px;
 }
 
 /* Sidebar nav */
@@ -127,6 +137,9 @@ a.sidebar-nav-item:focus {
     right:  1rem;
     bottom: 1rem;
     left:   1rem;
+  }
+  .searchbar{
+    width:80%;
   }
 }
 
