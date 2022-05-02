@@ -16,9 +16,9 @@ title: Transcript
 
 
 <section class="recent-posts">
-<div class="section-title mt-2">
+<!-- <div class="section-title mt-2">
     <h2>Transcripts</h2>
-</div>
+</div> -->
 <div class="row listrecent">
 
 {% for post in site.posts %}

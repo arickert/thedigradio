@@ -32,7 +32,14 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  /* font-family: "Scala"; */
+  font-family:"Scala";
+
+  /* font-family: "PT Sans", Helvetica, Arial, sans-serif; */
+  /* font-family:"URW Giorgio W01 Normal"; */
+  font-size:16px;font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px; 
 }
 @media (min-width: 48em) {
   html {
@@ -43,6 +50,15 @@ html {
   html {
     font-size: 20px;
   }
+}
+
+@font-face {font-family: "Scala";
+  src: url("fonts/Scala.ttf");
+}
+
+@font-face{
+  font-family: "RoslynGothic";
+  src: url("fonts/RoslynGothicMedium2.ttf");
 }
 
 
@@ -66,9 +82,10 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 13rem;
+    width: 11rem;
     text-align: left;
     height:100%;
+    overflow:scroll
   }
 }
 
@@ -91,8 +108,10 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
-  font-size: 2.25rem;
+  font-weight:normal;
+  font-family:"Scala";
+  /* font-family: "Abril Fatface", serif; */
+  /* font-size: 2.25rem; */
 }
 
 .searchbar{
@@ -106,6 +125,7 @@ html {
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
+  margin-left:0.5rem;
 }
 .sidebar-nav-item {
   display: block;
@@ -121,7 +141,7 @@ a.sidebar-nav-item:focus {
 
 .icon-bar{
   display:grid;
-  grid-template-columns: 25px 25px 25px 25px 25px;
+  grid-template-columns: 25px 25px 25px 25px 25px 25px;
   gap:5px;
 }
 
@@ -135,11 +155,11 @@ a.sidebar-nav-item:focus {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
-    bottom: 1rem;
-    left:   1rem;
+    bottom: 0.4rem;
+    left:   0.5rem;
   }
   .searchbar{
-    width:80%;
+    width:90%;
   }
 }
 
