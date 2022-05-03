@@ -8,11 +8,7 @@ categories:
 - Antibody
 tags:  []
 ---
-
-Antibody is a narrative series about how Covid-19 has changed everything and nothing at all. 
-
 In this episode: 
-
 All Cops Are Idiots (featuring Kafui Attoh, you can buy his book here: 
 [ugapress.org/book/9780820354217/rights-in-transit](http://ugapress.org/book/9780820354217/rights-in-transit)) 
 

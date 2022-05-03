@@ -4,7 +4,7 @@
  <title>The Dig</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-05-03T14:24:20-04:00</updated>
+ <updated>2022-05-03T16:07:10-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -3089,11 +3089,8 @@ Antibody, which is like commie This American Life:
    <link href="http://localhost:4000/podcast/antibody-ep-3-combat"/>
    <updated>2020-06-16T00:00:00-04:00</updated>
    <id>http://localhost:4000/podcast/antibody-ep-3-combat</id>
-   <content type="html">&lt;p&gt;Antibody is a narrative series about how Covid-19 has changed everything and nothing at all.&lt;/p&gt;
-
-&lt;p&gt;In this episode:&lt;/p&gt;
-
-&lt;p&gt;All Cops Are Idiots (featuring Kafui Attoh, you can buy his book here: 
+   <content type="html">&lt;p&gt;In this episode: 
+All Cops Are Idiots (featuring Kafui Attoh, you can buy his book here: 
 &lt;a href=&quot;http://ugapress.org/book/9780820354217/rights-in-transit&quot;&gt;ugapress.org/book/9780820354217/rights-in-transit&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;A Few Basic Demands (produced by Chenjerai Kumanyika (
@@ -3154,11 +3151,8 @@ Antibody, which is like commie This American Life:
    <link href="http://localhost:4000/podcast/antibody-ep-2-making-contact"/>
    <updated>2020-06-08T00:00:00-04:00</updated>
    <id>http://localhost:4000/podcast/antibody-ep-2-making-contact</id>
-   <content type="html">&lt;p&gt;Antibody is a new narrative series about how Covid-19 has changed everything and nothing at all.&lt;/p&gt;
-
-&lt;p&gt;In this episode:&lt;/p&gt;
-
-&lt;p&gt;The Corner (featuring 
+   <content type="html">&lt;p&gt;In this episode:
+The Corner (featuring 
 &lt;a href=&quot;https://twitter.com/pablondlon?lang=en&quot;&gt;Pablo Alvarado&lt;/a&gt; and the 
 &lt;a href=&quot;https://ndlon.org/&quot;&gt;National Day Laborer Organizing Network&lt;/a&gt;)&lt;/p&gt;
 
@@ -3196,11 +3190,8 @@ Antibody, which is like commie This American Life:
    <link href="http://localhost:4000/podcast/antibody-ep-1-existing-conditions"/>
    <updated>2020-05-31T00:00:00-04:00</updated>
    <id>http://localhost:4000/podcast/antibody-ep-1-existing-conditions</id>
-   <content type="html">&lt;p&gt;Antibody is a new narrative series about how Covid-19 has changed everything and nothing at all.&lt;/p&gt;
-
-&lt;p&gt;In this episode:&lt;/p&gt;
-
-&lt;p&gt;Zoom Canvass (featuring 
+   <content type="html">&lt;p&gt;In this episode:
+Zoom Canvas (featuring 
 &lt;a href=&quot;https://nikilsaval.com/&quot;&gt;Nikil Saval&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;Hardwood Flesh (produced by 

@@ -14,13 +14,14 @@
         </div>
         {% endif %}
         <div class="card-body">
-            <h2 class="card-title">
+            <h3 class="card-title" style="margin-bottom:0">
                 <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-            </h2>
+            </h3>
             {% unless post.title contains "Newsletter" %}
-            <small class="text-muted">{{ post.date | date_to_string }}</small>
+            <small class="text-muted" style="color:#515151">{{ post.date | date_to_string }}</small>
             {% endunless %}
-            <h4 class="card-text mt-2">{{ post.excerpt | strip_html | truncatewords:35 }}</h4>
+            <br>
+            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >{{ post.excerpt | strip_html | truncatewords:35 }}</small>
         </div>
     </div>
 </div>

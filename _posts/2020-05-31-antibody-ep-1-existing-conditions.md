@@ -8,12 +8,8 @@ categories:
 - Antibody
 tags:  []
 ---
-
-Antibody is a new narrative series about how Covid-19 has changed everything and nothing at all.
-
 In this episode:
-
-Zoom Canvass (featuring 
+Zoom Canvas (featuring 
 [Nikil Saval](https://nikilsaval.com/))
 
 Hardwood Flesh (produced by 

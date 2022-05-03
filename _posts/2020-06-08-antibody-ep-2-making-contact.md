@@ -8,11 +8,7 @@ categories:
 - Antibody
 tags:  []
 ---
-
-Antibody is a new narrative series about how Covid-19 has changed everything and nothing at all.
-
 In this episode:
-
 The Corner (featuring 
 [Pablo Alvarado](https://twitter.com/pablondlon?lang=en) and the 
 [National Day Laborer Organizing Network](https://ndlon.org/))
