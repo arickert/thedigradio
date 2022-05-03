@@ -34,7 +34,7 @@
 html {
   /* font-family: "Scala"; */
   /* font-family:"Scala"; */
-  font-family: Courier, sans-serif;
+  font-family: "Scala";
   /* font-family: "PT Sans", Helvetica, Arial, sans-serif; */
   /* font-family:"URW Giorgio W01 Normal"; */
   font-size:16px;font-style:normal;
@@ -53,7 +53,7 @@ html {
 }
 
 @font-face {font-family: "Scala";
-  src: url("fonts/Scala.ttf");
+  src: url("fonts/CourierPrimeSans.ttf");
 }
 
 @font-face{
@@ -88,7 +88,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 12rem;
+    width: 11.6rem;
     text-align: left;
     height:100%;
     overflow:scroll
@@ -126,6 +126,10 @@ html {
   height:29px;
   padding:5px;
   margin-bottom:15px;
+}
+
+.searchbar:focus{
+    outline-width: 0;
 }
 
 /* Sidebar nav */
