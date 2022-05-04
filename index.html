@@ -8,7 +8,7 @@ title: Home
   <div class="section-title mt-2">
     <li style="font-size:2rem">
       <span style="color: #79AA9D;font-family: 'RoslynGothic';font-size: 5rem;">The Dig</span>
-         is Daniel Denvir's podcast on political economy, labor, imperialism, and immigration.
+         <span style="color:#9a9a9a"> is Daniel Denvir's podcast on political economy, labor, imperialism, and immigration.</span>
       </li>
   </div>
   <div class="row listrecent">
@@ -16,12 +16,13 @@ title: Home
   {% for post in site.posts limit:1 %}
     {% if post.audiolink != null %}
       <li style="font-size:2rem">
-        Click 
+        <span style="color:#9a9a9a">Click </span>
         <a href="{{post.permalink}}" style="color:#79AA9D">here</a>
-        to listen to the latest episode, featuring 
+        <span style="color:#9a9a9a">to listen to the latest episode, featuring 
         {% for tag in post.tags %}
             {{tag}}.
         {% endfor %}
+      </span>
       </li>
 
     {% else %}

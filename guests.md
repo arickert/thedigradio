@@ -2,6 +2,7 @@
 layout: page
 title: Guests
 ---
+<h1 class="page-title">{{ page.title }}</h1>
 
 <div id="archives">
 {% assign sortedPosts = site.tags | sort %}

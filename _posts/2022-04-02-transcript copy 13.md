@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Transcriptx"
+title: "Transcript: q"
 permalink: newsletterx
 audiolink: 
 post_id: 2027

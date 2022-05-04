@@ -4,7 +4,7 @@
  <title>The Dig</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-05-04T14:59:01-04:00</updated>
+ <updated>2022-05-04T17:37:13-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -55,446 +55,11 @@
  </entry>
  
  <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 9</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2022/03/cryptocurrency-bitcoin-speculative-asset-digitization-metaverse&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 8</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2018/07/electoral-rules-third-party-ballot-line-ocasio-cortez-dsa&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 7</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2022/02/cryptocurrency-democratize-monetary-policy-economics-banks-financial-system-bitcoin&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 6</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/11/trump-corey-robin-reactionary-mind-interview&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 5</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2022/03/brazil-pt-lula-bolsonaro-neoliberalism-far-right&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 4</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2021/10/tariq-ali-afghan-war-us-imperialism&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 3</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2021/08/capitalism-climate-crisis-global-green-new-deal-clean-energy-fossil-fuel-industry&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 2</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/09/hurricane-harvey-trump-climate-change&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 18</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2020/03/ilhan-omar-interview-bernie-sanders-climate&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 17</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2018/07/bernie-sanders-interview-alexandria-ocasio-cortez&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 16</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/09/daca-dreamers-trump-sessions-immigration-deportation&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 15</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/09/mexico-us-drug-war-trump-migrants-nafta&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 14</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2019/07/rashida-tlaib-detroit-palestine&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 13</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/05/black-lives-matter-baltimore-obama-racism-freddie-gray-election-whitelash&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 12</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/06/white-working-class-trump-appalachia-mining&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 11</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/09/hurricane-harvey-irma-global-warming-the-dig&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 10</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2022/03/russia-ukraine-putin-nato-us-war-empire&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Newsletter9</title>
-   <link href="http://localhost:4000/newsletter9"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/newsletter9</id>
-   <content type="html">&lt;p&gt;Newsletter #9: Brazilian President Jair Bolsonaro Is a “Major Threat to Life on the Planet”&lt;/p&gt;
-
-&lt;p&gt;By Micah Uetricht&lt;/p&gt;
-
-&lt;p&gt;Observing Brazil from the United States, especially during the Trump years, it was hard not to be struck with a sense of déjà vu. Watching populist far-right president Jair Bolsonaro often feels similar to watching former president Donald Trump: the corruption is so unabashed and complete, the incompetence so absurd, leftists often have remind themselves not to be distracted from the actual substance of their governance, a horror show of cruelty and misery that both men have inflicted upon their respective countries and the entire world.&lt;/p&gt;
-
-&lt;p&gt;But in Brazil, these horrors have come after some of the greatest advances for the poor and working class that any society on the planet has seen in the past half century or more, carried out under wildly popular Workers Party leader and former (and possibly future) Brazilian president Luiz Inácio Lula da Silva. In 2011, historian Perry Anderson called Lula “the most successful politician of his time.” &lt;/p&gt;
-
-&lt;p&gt;But the series of events that played out in Latin America’s largest country over the next few years were dizzying: Lula’s successor Dilma Roussef was impeached in what many deemed a “constitutional coup”; Bolsonaro won the presidency, producing a cavalcade of anti-working-class, homophobic and misogynist, ecological, and public-health disasters; and Lula was imprisoned for a year and a half on bogus corruption charges, a victim of a supposed anti-corruption campaign that was later revealed to be simply a tool of right-wing political warfare. &lt;/p&gt;
-
-&lt;p&gt;Brazil’s politics can be difficult for outsiders to understand. Luckily, for this episode, we have two Brazil scholars as our guides: Andre Pagliarini, a historian at Hampden-Sydney College, columnist at 
-, and author of a forthcoming book on Brazilian nationalism; and Sabrina Fernandes, a sociologist, postdoctoral fellow at the International Research Group on Authoritarianism and Counter-Strategies through the Rosa Luxemburg Stiftung, and lead editor for 
-.&lt;/p&gt;
-
-&lt;p&gt;Listen to’s interview with Pagliarini and Fernandes&lt;a href=&quot;https://www.thedigradio.com/podcast/brazil-w-sabrina-fernandes-andre-pagliarini/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Fernandes sums up Bolsonaro’s presidency succinctly: “He’s a major threat to life in the country and, if we consider geopolitical issues and ecological issues, to life on the planet,” &lt;/p&gt;
-
-&lt;p&gt;This episode is the first of two 
- episodes on Brazil and Bolsonaro. You can listen to the next episode on Bolsonarismo with Brazilian leftist scholar Rodrigo Nunes 
-&lt;a href=&quot;https://www.thedigradio.com/podcast/bolsonarismo-with-rodrigo-nunes/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;has covered Brazilian politics and history closely over the years. Subscribers can explore this vast archive 
-&lt;a href=&quot;https://jacobinmag.com/location/brazil&quot;&gt;here&lt;/a&gt;, and everyone can read Sabrina Fernandes’s piece “
-&lt;a href=&quot;https://www.jacobinmag.com/2021/08/jair-bolsonaro-brazil-law-and-order-far-right-politics&quot;&gt;Bolsonaro Is Criminalizing the Brazilian Left&lt;/a&gt;.” If you read Portuguese, you can also examine 
-&lt;a href=&quot;https://jacobin.com.br/&quot;&gt;&lt;/a&gt;. Andre Pagliarini’s most recent article for 
- is “
-&lt;a href=&quot;https://brazilian.report/opinion/2021/11/11/climate-negotiations-bolsonaro/&quot;&gt;Climate Negotiations With Bolsonaro a Lost Cause&lt;/a&gt;.” &lt;/p&gt;
-
-&lt;p&gt;For another 
-interview on Brazil, check out this 
-&lt;a href=&quot;https://www.thedigradio.com/podcast/explaining-brazils-crisis-with-alfredo-saad-filho/&quot;&gt;2018 interview with Alfredo Saad-Filho&lt;/a&gt;. And for those in search of a concise introduction to Brazilian history since the 1964 dictatorship, including the rise and fall of Lula and the ascent of Bolsonaro, you can’t do much better than Perry Anderson’s 
-&lt;a href=&quot;https://www.versobooks.com/books/3100-brazil-apart&quot;&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Newsletter 8</title>
-   <link href="http://localhost:4000/newsletter8"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/newsletter8</id>
-   <content type="html">&lt;p&gt;Newsletter #8: Cuba’s Key Role in Fighting Apartheid in Angola Is All but Forgotten Today&lt;/p&gt;
-
-&lt;p&gt;By Michal Schatz&lt;/p&gt;
-
-&lt;p&gt;The term “Cold War” is a misnomer. While open conflict never broke out between the United States and the Soviet Union directly in the roughly four decades after World War II, the two superpowers fought bloody proxy wars across the Global South, from Korea and Vietnam to Ethiopia and Southern Africa. Recent scholarship on decolonization in the twentieth century has shown that, contrary to conventional narratives which depict countries like Cuba as pawns working towards the Soviet Union’s ends in the Third World, the reality on the ground was far more complex. &lt;/p&gt;
-
-&lt;p&gt;In 
-’s most recent two-part interview, Piero Gleijeses discusses this complexity in examining Cuba’s role in the Angolan War, based on extensive interviews and archival research he conducted for 
-&lt;a href=&quot;https://uncpress.org/book/9781469628325/visions-of-freedom/&quot;&gt;&lt;/a&gt;.  &lt;/p&gt;
-
-&lt;p&gt;The protracted war in Angola became the key battleground for influence in Southern Africa between the US and the Soviet Union from the mid-1970s until just before the Soviet government’s collapse in 1991. Cuba, too, deployed troops to Angola in 1975 — the country’s largest overseas military deployment in its history — at the invitation of the Angolan government, then controlled by the socialist Popular Movement for the Liberation of Angola (MPLA). This was not Cuba’s first time supporting revolutionary forces in a decolonizing African country: Cuba had provided support to the Front National de Liberation (FLN) in Algeria in the early 1960s, as well as sent troops to the Congo. &lt;/p&gt;
-
-&lt;p&gt;Drawing on sources from US, South African, and Cuban archives, Gleijeses argues that Cuban involvement in these African conflicts was motivated, above all, by a commitment to anti-imperialism, revolutionary internationalism, and, in the case of Angola, what Fidel Castro referred to as “
-&lt;a href=&quot;https://www.lrb.co.uk/the-paper/v26/n16/piero-gleijeses/a-bone-in-the-throat&quot;&gt;the most beautiful cause&lt;/a&gt;”: anti-apartheid. &lt;/p&gt;
-
-&lt;p&gt;Listen to 
-’s two-part interview with Piero Gleijeses&lt;a href=&quot;https://www.thedigradio.com/podcast/visions-of-freedom-w-piero-gleijeses-part-1/&quot;&gt;here&lt;/a&gt;and&lt;a href=&quot;https://www.thedigradio.com/&quot;&gt;here&lt;/a&gt;. You can also check out&lt;a href=&quot;https://www.thedigradio.com/visions-of-freedom-maps/&quot;&gt;these maps&lt;/a&gt;as a visual reference. &lt;/p&gt;
-
-&lt;p&gt;Having learned from their experience in the Congo, which they entered unprepared in their attempt to support revolutionary forces there, the Cubans understood the political situation in Angola far better than the Soviet Union and frequently disagreed with the Soviets on strategy and action. Gleijeses demonstrates how the Cubans did not make the same mistake again: Cuba played a crucial role in preventing US-backed apartheid South Africa from conquering Angola.&lt;/p&gt;
-
-&lt;p&gt;This 
- interview also invites a discussion on socialist internationalism today. Since the collapse of the Soviet Union, the idea of an international socialist project has waned. Despite periodic outcries against US imperialism, the resurgence of today’s US left has overwhelmingly focused on domestic politics. Gleijeses’s work asks some key questions for today’s leftists: What should a global socialist movement look like? And what types of material commitments and sacrifices might it take from those of us in the heart of empire?&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;Cuba’s history and present are often wildly misrepresented in US popular media. For an accessible overview of Cuban history, 
-&lt;a href=&quot;https://jacobinmag.com/2021/09/cuban-revolution-castro-fidel-raul-socialism-soviet-ties-embargo-diaz-canel-protests-pandemic&quot;&gt;read this interview&lt;/a&gt; with historian Antoni Kapcia or 
-&lt;a href=&quot;https://blubrry.com/jacobin/80078107/long-reads-antoni-kapcia-on-revolutionary-cuba-and-the-legacy-of-the-castros/&quot;&gt;listen to it here&lt;/a&gt;. While Gleijeses’ book 
-&lt;a href=&quot;https://uncpress.org/book/9781469628325/visions-of-freedom/&quot;&gt;&lt;/a&gt; focuses specifically on Cuba’s foreign policy in relation to Angola, his previous book, 
-&lt;a href=&quot;https://uncpress.org/book/9780807854648/conflicting-missions/&quot;&gt;&lt;/a&gt;, tells the story of the country’s revolutionary internationalism in the first fifteen years after the revolution. To learn more about imperialism and foreign policy, past and present, check out 
-’s 
-&lt;a href=&quot;https://www.thedigradio.com/tag/imperialism-and-foreign-policy/&quot;&gt;vast interview archives&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Newsletter 7</title>
-   <link href="http://localhost:4000/newsletter7"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/newsletter7</id>
-   <content type="html">&lt;p&gt;Newsletter #7: The Immense Possibilities at the Heart of Our Past and Present, with David Wengrow&lt;/p&gt;
-
-&lt;p&gt;by William Harris&lt;/p&gt;
-
-&lt;p&gt;At a time when academia was becoming more and more hyper-specialized, the late David Graeber was a rare generalist. He was a committed activist and scholar who believed we could understand the kind of better society humans are capable of building by telling vast stories and asking daring questions about our lives together in the past, present, and future.&lt;/p&gt;
-
-&lt;p&gt;This is what led him to become an anthropologist. He wanted to study existing social forms in all their diversity, from&lt;a href=&quot;https://iupress.org/9780253219152/lost-people/&quot;&gt;his doctoral fieldwork in rural Madagascar&lt;/a&gt;to his polemic against&lt;a href=&quot;https://www.simonandschuster.com/books/Bullshit-Jobs/David-Graeber/9781501143335&quot;&gt;the braindead hellscape of twenty-first-century&lt;/a&gt;“bullshit jobs,” while also writing expansive histories that show us how the world wasn’t always the way it is now — and therefore might be different in the future.&lt;/p&gt;
-
-&lt;p&gt;After completing the monumental&lt;a href=&quot;https://www.mhpbooks.com/books/debt/&quot;&gt;Debt: The First 5,000 Years&lt;/a&gt;, Graeber spent much of the last decade of his life researching an even more ambitious project alongside his friend and intellectual inspiration, the archaeologist&lt;a href=&quot;https://www.ucl.ac.uk/archaeology/people/david-wengrow-professor-comparative-archaeology&quot;&gt;David Wengrow&lt;/a&gt;. The fruit of that research is a new co-authored 700-page epic by Wengrow and Graeber,&lt;a href=&quot;https://us.macmillan.com/books/9780374157357&quot;&gt;The Dawn of Everything: A New History of Humanity&lt;/a&gt;— and also the subject of a mind-expanding new 
-episode ofThe Digguest-hosted by&lt;a href=&quot;https://www.thedigradio.com/tag/astra-taylor/&quot;&gt;Astra Taylor&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Listen toThe Dig’s interview with David Wengrow&lt;a href=&quot;https://www.thedigradio.com/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;At its most sweeping, the mainstream view of human history goes something like this: we once lived in small, egalitarian hunter-gatherer bands. With the rise of agriculture, these bands gave way to complex forms of hierarchy, class structure, and bureaucracy. This is a myth, Wengrow argues. Exploring an incredible range of sources, from French Enlightenment texts to Native American folklore and understudied archaeological sites in Mexico and Ukraine, Wengrow and Graeber uncover a history of revolutionary contingency, in which slave-holding hunter-gatherer societies develop next to egalitarian ones, diverse regional social networks are replaced by the narrower social worlds of cities and nation-states, settlements full of palaces and temples are felled in favor of the large-scale construction of spacious social housing, and the seeds of the Enlightenment lie not in Europe but in the rich cultures of debate and persuasion found among Indigenous societies in the Americas.&lt;/p&gt;
-
-&lt;p&gt;The real human story, Wengrow argues, is one of immense variation in social organization — and therefore one of immense possibility.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;Further Reading and Listening&lt;/p&gt;
-
-&lt;p&gt;There have been numerous tributes to David Graeber written in the year since his death, all testifying to his brilliance, warmth, and importance to left thought. AtSalvage, James Meadway wrote one of&lt;a href=&quot;https://salvage.zone/articles/acting-as-if-one-is-already-free-david-graebers-political-economy-and-the-strategic-impasse-of-the-left/&quot;&gt;the most wide-ranging of these tributes&lt;/a&gt;, which along with&lt;a href=&quot;https://www.lrb.co.uk/the-paper/v34/n09/benjamin-kunkel/forgive-us-our-debts&quot;&gt;Benjamin Kunkel’s review&lt;/a&gt;ofDebtin theLondon Review of Booksserves as a great introduction to Graeber’s work. To explore further this week’s look into indigenous history in the Americas, check out guest host Astra Taylor’sDiginterview with&lt;a href=&quot;https://www.thedigradio.com/podcast/roxanne-dunbar-ortiz-on-indigenous-history/&quot;&gt;Roxanne Dunbar-Ortiz&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Newsletter 6</title>
-   <link href="http://localhost:4000/newsletter6"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/newsletter6</id>
-   <content type="html">&lt;p&gt;Newsletter #6: US Workers Are Pissed Off and Striking Back&lt;/p&gt;
-
-&lt;p&gt;By Michal Schatz&lt;/p&gt;
-
-&lt;p&gt;Is the United States in the middle of a strike wave? The question saturated news and social media throughout October, as US workers from disparate industries across the country did something very few workers have done in recent years: walked off the job.&lt;/p&gt;
-
-&lt;p&gt;We shouldn’t get too far ahead of ourselves in examining these walkoffs: relative to its historical corollaries like the Great Depression–era strikes that established the labor movement as we know it, or even the recent teachers strikes that kicked off in 2018, today’s strike wave is miniscule. Decades of neoliberal policies have gutted organized labor’s power and weakened workers’ strike muscles. But as Alex Press, Victor Bouzi, and Jonah Furman emphasize in this week’sDigepisode, the industrial actions sweeping the United States indicate a shift in workers’ sense of their own power.The urgent task for both union members and the Left is to understand what has led to this renewed worker confidence — and how to harness it to rebuild the labor movement.&lt;/p&gt;
-
-&lt;p&gt;Listen toThe Dig’sinterview with Alex Press, Victor Bouzi, and Jonah Furman&lt;a href=&quot;https://www.thedigradio.com/podcast/striketober/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;“Striketober” may be over, but the labor upsurge that kicked off last month isn’t: UAW members at John Deere shocked their management and union leaders when they&lt;a href=&quot;https://www.labornotes.org/2021/11/well-never-be-position-again-striking-deere-workers-hold-out-better-deal&quot;&gt;rejected a second tentative contract agreement&lt;/a&gt;on November 2; Kellogg’s workers are in their&lt;a href=&quot;https://jacobinmag.com/2021/11/kelloggs-strike-bctgm-union-tiered-contracts&quot;&gt;second month of striking&lt;/a&gt;; and over 30,000 workers at Kaiser are&lt;a href=&quot;https://www.jacobinmag.com/2021/11/kaiser-alliance-health-care-unions-two-tier-strike&quot;&gt;on the brink of a strike&lt;/a&gt;. As Gabriel Winant and Jonah Furman&lt;a href=&quot;https://theintercept.com/2021/10/17/john-deere-strike-labor-market/&quot;&gt;recently highlighted inThe Intercept&lt;/a&gt;, workers in entertainment, manufacturing, the food industry, and beyond are no longer willing to work exorbitant hours for minimal pay while their companies’ profits skyrocket. For John Deere, Kaiser, and Kellogg’s workers, today’s labor demands are not simply about immediate material gains, but about correcting neoliberal policies like two-tier wage systems that have weakened unions for three decades and made compensation worse for workers across the United States.&lt;/p&gt;
-
-&lt;p&gt;We’re far from any credible declaration of unions’ revitalization. But if labor is going to rebuild power, it will take much more of the kind of militant action we’ve seen in recent weeks.&lt;/p&gt;
-
-&lt;p&gt;Further Reading&lt;/p&gt;
-
-&lt;p&gt;This interview is the latest addition toThe Dig’s extensive archive of&lt;a href=&quot;https://www.thedigradio.com/tag/labor-movement/&quot;&gt;labor interviews&lt;/a&gt;. As&lt;a href=&quot;https://jacobinmag.com/2021/11/labor-beat-reporting-newspapers-journalism-unions&quot;&gt;Alex Press pointed out&lt;/a&gt;inJacobin, labor reporting largely disappeared from local and national media during the 1990s and 2000. But it has slowly been rebuilt in recent years, and the current strike surge has benefited from detailed reporting.&lt;/p&gt;
-
-&lt;p&gt;Jonah Furman has provided excellent coverage of the ongoing John Deere strike on&lt;a href=&quot;https://whogetsthebird.substack.com/&quot;&gt;his SubstackWho Gets the Bird?&lt;/a&gt;and forLabor Notes, most recently writing about how&lt;a href=&quot;https://www.labornotes.org/2021/11/well-never-be-position-again-striking-deere-workers-hold-out-better-deal&quot;&gt;workers forced Deere management back to the table&lt;/a&gt;. ForJacobin, Alex Press has written extensively about the International Alliance of Theatrical Stage Employees’ (IATSE) ongoing negotiations with the Alliance of Motion Picture and Television Producers (AMPTP), showing that even before Halyna Hutchins was horrifically killed on the set of Rust&lt;a href=&quot;https://www.jacobinmag.com/2021/10/halyna-hutchins-shooting-rust-iatse-alec-baldwin&quot;&gt;due to poor labor conditions&lt;/a&gt;,&lt;a href=&quot;https://jacobinmag.com/2021/10/iatse-television-film-industry-union-strike-rank-and-file-overwork&quot;&gt;many members were unsatisfied&lt;/a&gt;with the terms of AMPTP’s contract proposal. And inThe Nation, Dave Leshtz recently&lt;a href=&quot;https://www.thenation.com/article/activism/john-deere-strike-update/&quot;&gt;contextualized Deere workers’ fight in Iowa&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Newsletter 5</title>
-   <link href="http://localhost:4000/newsletter5"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/newsletter5</id>
-   <content type="html">&lt;p&gt;Newsletter #5: Desire Is Political, with Amia Srinivasan&lt;/p&gt;
-
-&lt;p&gt;by Maia Silber&lt;/p&gt;
-
-&lt;p&gt;Conversations about the politics of sex often focus on the presence or absence of consent. For feminist philosopher Amia Srinivasan, this is a profoundly inadequate framework — one that leaves us ill-prepared to interrogate the power dynamics that shape even the sex we freely choose, and suggests carceral remedies likely to harm society’s most vulnerable members.&lt;/p&gt;
-
-&lt;p&gt;Searching for alternatives, Srinivasan’s 
-The Right to Sex: Feminism in the Twenty-First Centuryreaches back to the “sex wars” of the 1970s, when feminists fiercely debated how power informs our desires. In those debates, she often finds more questions than answers. Can we treat sex as political without subjecting ourselves and others to an authoritarian moralism? Can we reject the sexual shaming so often weaponized against women, queer, and gender non-conforming people without succumbing to the fantasy that our desires are wholly natural?&lt;/p&gt;
-
-&lt;p&gt;In a wide-ranging conversation on 
-The Dig,Srinivasan brings these questions to bear on contemporary debates about sex on college campuses, pornography, and sex work. She argues, for instance, against critics who claim that teachers who enter consensual relationships with students don’t deserve our censure, while insisting that institutional responses do more to protect universities from liability than young people from abuse. She urges us to take seriously the power of pornography to shape not only sexual actions but also sexual affects and urges in harmful ways, even while recognizing the medium’s potential for inspiring radical modes of pleasure and sexual agency.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Listen to&lt;/strong&gt;
-&lt;strong&gt;The Dig&lt;/strong&gt;&lt;strong&gt;’s interview with Amia Srinivasan&lt;/strong&gt;
-&lt;a href=&quot;https://www.thedigradio.com/podcast/the-right-to-sex-with-amia-srinivasan/&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The titular essay in 
-The Right to Sexcontroversially examines the claims of “incel” (involuntarily celibate) men to sexual entitlement. While Srinivasan insists that there is no right to sex, she takes seriously incels’ contention that sexual attraction is distributed unequally along hierarchies of race, class, and conventional attractiveness.&lt;/p&gt;
-
-&lt;p&gt;Incels hypocritically lament the ways these hierarchies harm them even while they subscribe to their valorization of certain kinds of bodies: the rich, thin, white women they call “Stacys.” Srinivasan thinks that we can take inspiration instead from queer and Black women who have asked us to critically interrogate who and how we desire. For Srinivasan, this isn’t about repression — it’s about openness to the forms of sex and love that are blocked by our current power structures.&lt;/p&gt;
-
-&lt;p&gt;Further Reading and Listening&lt;/p&gt;
-
-&lt;p&gt;Srinivasan has examined some of the themes in this week’s episode in essays published in the 
-&lt;a href=&quot;https://www.newyorker.com/magazine/2021/09/13/who-lost-the-sex-wars&quot;&gt;New Yorker&lt;/a&gt;,the 
-&lt;a href=&quot;https://www.nytimes.com/2021/09/21/books/review-right-to-sex-amia-srinivasan.html&quot;&gt;New York Times&lt;/a&gt;,and the 
-&lt;a href=&quot;https://www.lrb.co.uk/the-paper/v40/n06/amia-srinivasan/does-anyone-have-the-right-to-sex&quot;&gt;London Review of Books&lt;/a&gt;.For more left-feminist thought on 
-The Dig,check out 
-&lt;a href=&quot;https://www.thedigradio.com/podcast/family-values-with-melinda-cooper-2/&quot;&gt;Melinda Cooper&lt;/a&gt; on the convergence of neoliberalism with “family values” social conservatism, 
-&lt;a href=&quot;https://www.thedigradio.com/podcast/abolish-the-family-with-sophie-lewis/&quot;&gt;Sophie Lewis&lt;/a&gt; on the global system of racialized labor exploitation that undergirds both the commercial surrogacy industry and “natural” reproduction, and 
-&lt;a href=&quot;https://www.thedigradio.com/podcast/beyond-economism-with-nancy-fraser/&quot;&gt;Nancy Fraser&lt;/a&gt; on why our analysis of capitalism needs to extend beyond the realm of production to the homes, schools, and hospitals that enable its functioning. Harkening back to feminism’s Second Wave, check out Barbara Erenreich’s 
-&lt;a href=&quot;https://www.jacobinmag.com/2018/07/socialist-feminism-barbara-ehrenreich&quot;&gt;canonical 1976 essay on socialist feminism&lt;/a&gt;, republished in 
-Jacobin with a new introduction.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Newsletter 4</title>
-   <link href="http://localhost:4000/newsletter4"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/newsletter4</id>
-   <content type="html">&lt;p&gt;Newsletter #4: The Long, Disastrous History of US Intervention in Afghanistan, with Tariq Ali&lt;/p&gt;
-
-&lt;p&gt;By Ben Feldman&lt;/p&gt;
-
-&lt;p&gt;“What is most important to the history of the world[:] The Taliban or the collapse of the Soviet Empire? A few crazed Muslims or the liberation of Central Europe and the end of the Cold War?” former National Security Advisor Zbigniew Brzezinski asked rhetorically in a 1998 interview. He was justifying the United States’ partnership with religious reactionaries, which helped lead the Soviets to overextend themselves financially and militarily, and hastened the collapse of America’s rival hegemon. Absent from Brzezinski’s musing was any mention of the Afghan people themselves. Whether in 1979, 1998, 2001, or 2021, Afghans are ignored by US-policymakers and media, trudged out only when their suffering can be used as a cudgel against those who oppose war and occupation.&lt;/p&gt;
-
-&lt;p&gt;In a collection of essays written over four decades, 
-&lt;a href=&quot;https://www.versobooks.com/books/3939-the-forty-year-war-in-afghanistan&quot;&gt;The Forty-Year War in Afghanistan: A Chronicle Foretold&lt;/a&gt; (Verso, November), Tariq Ali reconstructs the history of American intervention in  Afghanistan. Beginning with the Soviet invasion in 1979, the United States — with the help of Egypt, Saudi Arabia, and Pakistan — mobilized an international network of anti-Soviet Islamic fighters. In doing so, the U.S. and its Middle Eastern allies helped create a generation of militants whose “deracinated fanaticism” helped them to emerge from the second Afghan Civil War (1992-1996) as the dominant power in the country.&lt;/p&gt;
-
-&lt;p&gt;The Taliban’s rise was the unintended consequence of America’s Cold War foreign policy: decades of funding, training, and propping up right-wing forces throughout the world. Five years after the Taliban captured Kabul, they were swept out of power by the United States and its allies. What began as a war of revenge, a punishment for having harbored Osama Bin Laden — lasted twenty years, ending with the collapse of the Afghan National Security Forces and the Taliban’s retaking of Kabul on August 15, 2021. In the interim, a 
-&lt;a href=&quot;https://watson.brown.edu/costsofwar/figures/2021/WarDeathToll&quot;&gt;quarter of a million people lost their lives in Afghanistan and Pakistan&lt;/a&gt;, and 
-&lt;a href=&quot;https://watson.brown.edu/costsofwar/files/cow/imce/papers/2020/Displacement_Vine%20et%20al_Costs%20of%20War%202020%2009%2008.pdf&quot;&gt;some nine million Pakistanis and Afghans have been displaced&lt;/a&gt; by the War on Terror.&lt;/p&gt;
-
-&lt;p&gt;Ali’s essays illustrate how the Afghan people have borne the costs of imperialistic hubris, Cold War rivalry, and America’s post-9/11 need for vengeance. Throughout, the reader is reminded of a basic point that eludes so many journalists and politicians: the crises facing Afghanistan today are the product of decades of policies which prioritized the political needs of U.S. elites over the safety, security, and independence of the Afghan people.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Listen to&lt;/strong&gt;
-&lt;strong&gt;The Dig&lt;/strong&gt;&lt;strong&gt;’s interview with Tariq Ali&lt;/strong&gt;
-&lt;a href=&quot;https://www.thedigradio.com/podcast/afghanistan-with-tariq-ali/&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Further Reading&lt;/p&gt;
-
-&lt;p&gt;The end of America’s longest war occasioned numerous reflections, including recent pieces by Tariq Ali in 
-&lt;a href=&quot;https://newleftreview.org/sidecar/posts/debacle-in-afghanistan&quot;&gt;New Left Review&lt;/a&gt; and 
-&lt;a href=&quot;https://www.thenation.com/article/world/9-11-war-terror/&quot;&gt;The Nation&lt;/a&gt;. Challenging the post-hoc defense of the invasion of Afghanistan as a war to liberate women, 
-&lt;a href=&quot;https://www.newyorker.com/magazine/2021/09/13/the-other-afghan-women&quot;&gt;Anand Gopal&lt;/a&gt; writes about the experiences of Afghan women living outside of Kabul. In a conversation hosted by 
-&lt;a href=&quot;https://jewishcurrents.org/no-one-wants-to-listen-to-the-afghan-people/&quot;&gt;Jewish Currents&lt;/a&gt;,Marya Hannun and Mejgan Massoumi also center the experiences of Afghans, and in 
-&lt;a href=&quot;https://jacobinmag.com/2021/05/biden-administration-afghanistan-war-withdrawl-opium-us-military&quot;&gt;Jacobin&lt;/a&gt;,historian Alfred W. McCoy takes on the “
-&lt;a href=&quot;https://jacobinmag.com/2021/05/biden-administration-afghanistan-war-withdrawl-opium-us-military&quot;&gt;hubris of American empire&lt;/a&gt;.”&lt;/p&gt;
-
-&lt;p&gt;From 
-The Dig’s archives, check out 
-&lt;a href=&quot;https://www.thedigradio.com/podcast/the-media-war-w-adam-johnson-and-eric-levitz/&quot;&gt;Dan’s conversation with Adam Johnson and Eric Levitz&lt;/a&gt; on the media’s bloodthirsty offensive against the withdrawal of US troops from Afghanistan. For more on the War on Terror, listen to our interview with military historian 
-&lt;a href=&quot;https://www.thedigradio.com/podcast/andrew-bacevich-this-is-the-war-that-never-ends/&quot;&gt;Andrew Bacevich&lt;/a&gt; and the recent-three part interview with Spencer Ackerman 
-&lt;a href=&quot;https://www.thedigradio.com/podcast/war-on-terror-w-spencer-ackerman-part-1/&quot;&gt;here&lt;/a&gt;, 
-&lt;a href=&quot;https://www.thedigradio.com/podcast/war-on-terror-w-spencer-ackerman-part-2/&quot;&gt;here&lt;/a&gt;, and 
-&lt;a href=&quot;https://www.thedigradio.com/podcast/war-on-terror-w-spencer-ackerman-part-3/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Newsletter 3</title>
-   <link href="http://localhost:4000/newsletter3"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/newsletter3</id>
-   <content type="html">&lt;p&gt;Newsletter #3: Imagining Utopia in a Time of Climate Disaster with Kim Stanley Robinson&lt;/p&gt;
-
-&lt;p&gt;By William Harris&lt;/p&gt;
-
-&lt;p&gt;By now you’ve seen the signs, planted across the liberal meadows of our nation’s lawns with a solemn pledge: “In this house, we believe: science is real.” Framed by this oath, science becomes an apolitical set of facts blindly assented to — which then easily translates into yet more grist for the neverending culture war between rational Democrats and troglodytic Republicans.&lt;/p&gt;
-
-&lt;p&gt;How should today’s Left approach science? Few approach this question as thoughtfully as legendary science fiction writer Kim Stanley Robinson, hailed by the 
-New Yorkeras perhaps 
-&lt;a href=&quot;https://www.newyorker.com/books/page-turner/our-greatest-political-novelist&quot;&gt;“our greatest political novelist,”&lt;/a&gt; author of many books — from the 
-&lt;a href=&quot;https://www.penguinrandomhouse.com/series/ZMS/mars-trilogy&quot;&gt;Mars&lt;/a&gt; trilogy to 2019’s 
-&lt;a href=&quot;https://www.hachettebookgroup.com/titles/kim-stanley-robinson/the-ministry-for-the-future/9780316300162/&quot;&gt;Ministry for the Future&lt;/a&gt;—and our guest on a provocative new episode of 
-The Dighosted by pod-comrade and Berkeley sociologist Daniel Aldana Cohen.&lt;/p&gt;
-
-&lt;p&gt;For Robinson, science is a utopian project that the Left should claim. A “modest” way of knowing the world, importantly available to specialists but also to all of us, science lives out an always-incomplete story full of dynamic adaptation, democratic debate, and messy engagement with the material world. If science has historically been a project shot through by warring interests — too often colonial and corporate — one of these competing interests has been the idealist, Left-aligned objective of improving the world for all.&lt;/p&gt;
-
-&lt;p&gt;Robinson comes to these reflections as a novelist who’s spent his career telling stories that entwine ecology and social justice. We live amid climate disaster; for science, that means that now is a time when, in considering technological fixes to climate change, “it all has to be put on the table.” Controversially, he insists, that means rethinking ecological and political approaches from geo-engineering to nuclear energy to Green New Deal-prompted quantitative easing.&lt;/p&gt;
-
-&lt;p&gt;Robinson’s broad-tent openness to a range of scientific possibilities to save our planet also comes from his experience as a novelist. His novels play out possible futures and dramatize a range of leftist and scientific debates, giving narrative shape to our most pressing ecological and political questions. Amid a growing body of criticism indicting contemporary literature for its failure to come to imaginative terms with ecological disaster — from Amitav Ghosh’s 2016 book 
-&lt;a href=&quot;https://press.uchicago.edu/ucp/books/book/chicago/G/bo22265507.html&quot;&gt;The Great Derangement&lt;/a&gt; to Rithika Ramamurthy’s recent takedown of the 
-&lt;a href=&quot;https://www.thedriftmag.com/climate-anxiety/&quot;&gt;“Climate Anxiety Novel”&lt;/a&gt; — Robinson’s work stands out as compellingly original approaches to possible climate futures. His latest epic 
-Ministry for the Future imagines how a plausible “best-case scenario” under climate change future might come about, raising difficult questions of left ecological politics that he discusses with Cohen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Listen to 
-The Dig’s interview with Kim Stanley Robinson&lt;/strong&gt;
-&lt;a href=&quot;https://www.thedigradio.com/podcast/near-futures-with-kim-stanley-robinson/&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This episode joins an extensive archive of 
-Diginterviews on 
-&lt;a href=&quot;https://www.thedigradio.com/tag/environment/&quot;&gt;climate politics&lt;/a&gt;. Check out our conversation with Thea Riofrancos and Daniel Aldana Cohen on 
-&lt;a href=&quot;https://www.thedigradio.com/podcast/planet-to-win-with-thea-riofrancos-and-daniel-aldana-cohen/&quot;&gt;why we need a Green New Deal and how realistic yet imaginative narratives might help us get there&lt;/a&gt;, or our interview with Nick Estes on the 
-&lt;a href=&quot;https://www.thedigradio.com/podcast/our-history-is-the-future-with-nick-estes/&quot;&gt;long history of indigenous resistance to settler-colonial ecological devastation&lt;/a&gt;.For further reading on this episode’s themes, check out 
-Jacobin’s 
-&lt;a href=&quot;https://jacobinmag.com/series/green-new-deal&quot;&gt;ongoing Green New Deal series&lt;/a&gt;, a debate in 
-New Left Reviewon the ecological politics of growth versus degrowth summarized by Lola Seaton in 
-&lt;a href=&quot;https://newleftreview.org/issues/ii115/articles/lola-seaton-green-questions&quot;&gt;“Green Questions,”&lt;/a&gt; and two books: Holly Jean Buck’s work on left geo-engineering, 
-&lt;a href=&quot;https://www.versobooks.com/books/3091-after-geoengineering&quot;&gt;After Geoengineering: Climate Tragedy, Repair, and Restoration&lt;/a&gt;,and Fredric Jameson’s magisterial Marxist study of science fiction, 
-&lt;a href=&quot;https://www.versobooks.com/books/243-archaeologies-of-the-future&quot;&gt;Archaeologies of the Future: The Desire Called Utopia and Other Science Fictions&lt;/a&gt;,which concludes with a chapter on Kim Stanley Robinson’s 
-Marstrilogy.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Newsletter 23</title>
+   <title>Newsletter #23: A New Age of Empire, with Ho-fung Hung</title>
    <link href="http://localhost:4000/newsletter23"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
+   <updated>2022-04-24T00:00:00-04:00</updated>
    <id>http://localhost:4000/newsletter23</id>
-   <content type="html">&lt;p&gt;Newsletter #23: A New Age of Empire, with Ho-fung Hung&lt;/p&gt;
-
-&lt;p&gt;by William Harris&lt;/p&gt;
+   <content type="html">&lt;p&gt;by William Harris&lt;/p&gt;
 
 &lt;p&gt;I lived in Shanghai for a few years during the decade following the 2008 financial crash. This was a time in which Western journalists approached China with their mouths open. They gawked over GDP rates, the rise of preposterously large cities, the statistical delirium of a rising economy of 1.5 billion people, and the gauche ways China’s nouveau riche brandished their wealth. They gawked over rumblings of protest, and they gawked over how precarious it all seemed — how the real estate market teetered on the brink, how likely it was that this fantastical economic engine would sputter into collapse. &lt;/p&gt;
 
@@ -521,13 +86,11 @@ essay
  </entry>
  
  <entry>
-   <title>Newsletter 22</title>
+   <title>Newsletter #22: Capitalist China, with Ho-fung Hung</title>
    <link href="http://localhost:4000/newsletter22"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
+   <updated>2022-04-23T00:00:00-04:00</updated>
    <id>http://localhost:4000/newsletter22</id>
-   <content type="html">&lt;p&gt;Newsletter #22: Capitalist China, with Ho-fung Hung&lt;/p&gt;
-
-&lt;p&gt;By Mack Penner&lt;/p&gt;
+   <content type="html">&lt;p&gt;By Mack Penner&lt;/p&gt;
 
 &lt;p&gt;What an 
 &lt;a href=&quot;https://www.thedigradio.com/podcast/china-boom-w-ho-fung-hung/&quot;&gt;episode&lt;/a&gt;: in a little over an hour, Ho-fung Hung, author of 
@@ -573,13 +136,11 @@ essay
  </entry>
  
  <entry>
-   <title>Newsletter 21</title>
+   <title>Newsletter #21: A Left Internationalist Response to Russia’s Invasion of Ukraine, with Sophie Pinkham and Nick Mulder</title>
    <link href="http://localhost:4000/newsletter21"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
+   <updated>2022-04-22T00:00:00-04:00</updated>
    <id>http://localhost:4000/newsletter21</id>
-   <content type="html">&lt;p&gt;Newsletter #21: A Left Internationalist Response to Russia’s Invasion of Ukraine, with Sophie Pinkham and Nick Mulder&lt;/p&gt;
-
-&lt;p&gt;By Michal Schatz&lt;/p&gt;
+   <content type="html">&lt;p&gt;By Michal Schatz&lt;/p&gt;
 
 &lt;p&gt;Russia’s invasion of Ukraine has upended the global economy and thrown the future of the international political order into question. This new conjuncture raises key questions about foreign policy and internationalism that the US left has tended to subordinate to domestic issues.The 
 Dig’s&lt;a href=&quot;https://www.thedigradio.com/&quot;&gt;interview&lt;/a&gt;with Sophie Pinkham and Nick Mulder highlights what’s at stake in global politics at the moment — and makes clear why today’s Left must develop not only an anti-imperialist foreign policy agenda, but a positive vision for left internationalism.&lt;/p&gt;
@@ -632,13 +193,11 @@ Ischenko&lt;/a&gt;prior to the invasion continues to provide important insight.&
  </entry>
  
  <entry>
-   <title>Newsletter 20</title>
+   <title>Newsletter #20: Slapping Back the Invisible Hand, with Kim Phillips-Fein </title>
    <link href="http://localhost:4000/newsletter20"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
+   <updated>2022-04-21T00:00:00-04:00</updated>
    <id>http://localhost:4000/newsletter20</id>
-   <content type="html">&lt;p&gt;Newsletter #20: Slapping Back the Invisible Hand, with Kim Phillips-Fein&lt;/p&gt;
-
-&lt;p&gt;Over the past two years, the belief that left-wing activism is responsible for a surge of right-wing reaction has become a sort of catechism for talking heads and mainstream Democrats who insist that calls to “defund the police” are the single greatest threat to the Democratic Party’s political prospects. For want of immediate evidence, centrists intone sagely about the election of 1972, when George McGovern and his radical supporters pushed white, middle-class suburbanites into the arms of Richard Nixon.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Over the past two years, the belief that left-wing activism is responsible for a surge of right-wing reaction has become a sort of catechism for talking heads and mainstream Democrats who insist that calls to “defund the police” are the single greatest threat to the Democratic Party’s political prospects. For want of immediate evidence, centrists intone sagely about the election of 1972, when George McGovern and his radical supporters pushed white, middle-class suburbanites into the arms of Richard Nixon.&lt;/p&gt;
 
 &lt;p&gt;Kim Phillips-Fein’s 2009 bookInvisible 
 Hands: 
@@ -726,54 +285,11 @@ Geismer&lt;/a&gt;.&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>Newsletter 2</title>
-   <link href="http://localhost:4000/newsletter2"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/newsletter2</id>
-   <content type="html">&lt;p&gt;Newsletter #2: Occupy Paved the Way for Today’s Reborn Left&lt;/p&gt;
-
-&lt;p&gt;By Mia Schatz&lt;/p&gt;
-
-&lt;p&gt;It is hard today to remember the sense of desolation that plagued the American left a decade ago. Demoralized, disempowered, disorganized, the Left seemed to have no answer to the 2008 housing market crash and the Great Recession — until Occupy Wall Street.&lt;/p&gt;
-
-&lt;p&gt;Although the movement only lasted two months, Occupy left its mark on American politics, putting the potential for a meaningful left movement back on the map. In the years since, many participants have argued that Occupy failed: its horizontal structures didn’t work; it had no actionable demands; it was too white, too affluent, and unable to put a real dent in finance capital’s power. And yet, as Astra Taylor points out in this week’s episode of 
-The Dig, Occupy reframed American political discourse around class, laying the groundwork for the highly effective messaging of Bernie Sanders’s 2016 and 2020 presidential campaigns, and compelled both veteran and budding organizers to rethink a problem the Left had struggled with for years: power.&lt;/p&gt;
-
-&lt;p&gt;As Occupy faded, hundreds of former occupiers from across the country joined or formed organizations focused on housing, debt, healthcare, and climate change. Today, there is a growing American left energized not only by organizations like the Democratic Socialists of America and Black Lives Matter and stirrings in key parts of the labor movement, but also by left-aligned elected officials at national, state, and local levels who are challenging the power of capital.&lt;/p&gt;
-
-&lt;p&gt;Occupy offered critical lessons about how a political movement can build power without losing sight of its core principles. If, as Astra argues in this week’s interview, the Left of a decade ago was allergic to power and electoral politics, today’s Left has found the antidote in strong, well-organized institutions that are increasingly capable of holding its leaders accountable. These are essential questions that are still at the heart of left organizing today — and will only become more urgent as the post-Occupy left keeps growing.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Listen to 
-The Dig’s interview with Astra Taylor&lt;/strong&gt;
-&lt;a href=&quot;https://www.thedigradio.com/podcast/occupy-at-10-with-astra-taylor/&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Further Reading&lt;/p&gt;
-
-&lt;p&gt;Occupy’s recent tenth anniversary inspired a wave of reflections and analyses. During Occupy, media attention focused heavily on the demographic composition of occupiers. As Dan and Astra discuss, labor scholars Ruth Milkman, Penny Lewis, and Stephanie Luce 
-&lt;a href=&quot;https://media.sps.cuny.edu/filestore/1/5/7/1_a05051d2117901d/1571_92f562221b8041e.pdf&quot;&gt;interviewed occupiers on the ground at the New York occupation in Zuccotti Park&lt;/a&gt;. Sarah Jaffe, host of 
-Dissent’s 
-Belabored podcast, recently 
-&lt;a href=&quot;https://www.dissentmagazine.org/blog/belabored-the-legacy-of-occupy-wall-street&quot;&gt;interviewed Ruth Milkman and Nastaran Mohit&lt;/a&gt;, an organizer and one of the study’s interviewers, about their reflections on the movement a decade on. For 
-Jacobin, Doug Singsen reminds us of 
-&lt;a href=&quot;https://jacobinmag.com/2021/09/occupy-wall-street-ows-zuccotti-park-nyc-labor-movement-unions-collaboration&quot;&gt;unions’ critical and often underplayed role&lt;/a&gt; in various OWS occupations across the country, while Ross Barkan argues the 
-&lt;a href=&quot;https://jacobinmag.com/2021/09/occupy-wall-street-new-york-city-dsa-bloomberg-cuomo&quot;&gt;media was too quick to deem Occupy a failure&lt;/a&gt;.And questions still linger about Occupy’s most influential political currents. Former occupier and current Pennsylvania State Senator Nikil Saval and 
-Intercept columnist Natasha Lennard recently discussed 
-&lt;a href=&quot;https://www.thenation.com/article/activism/occupy-socialist-anarchist/&quot;&gt;whether Occupy was more socialist or anarchist in nature&lt;/a&gt; in 
-The Nation.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Newsletter 19</title>
+   <title>Newsletter #19: War in Ukraine on a Burning Planet, with Tony Wood</title>
    <link href="http://localhost:4000/newsletter19"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
+   <updated>2022-04-20T00:00:00-04:00</updated>
    <id>http://localhost:4000/newsletter19</id>
-   <content type="html">&lt;p&gt;Newsletter #19: War in Ukraine on a Burning Planet, with Tony Wood&lt;/p&gt;
-
-&lt;p&gt;By Mack Penner &lt;/p&gt;
+   <content type="html">&lt;p&gt;By Mack Penner &lt;/p&gt;
 
 &lt;p&gt;Developments from the war in Ukraine, ongoing for a week as I write this, are moving at a frenzied pace. Keeping up with the reporting seems to require hours of attention daily; keeping up with analysis of the war is at least equally challenging, as for every cogent and considered piece there are a great many more that are not worth the time of day. Which makes 
 ’s 
@@ -808,13 +324,11 @@ The Nation.&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>Newsletter 18</title>
+   <title>Newsletter #18: A Radical — and Popular — Feminism in Latin America and Around the World, with Verónica Gago</title>
    <link href="http://localhost:4000/newsletter18"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
+   <updated>2022-04-19T00:00:00-04:00</updated>
    <id>http://localhost:4000/newsletter18</id>
-   <content type="html">&lt;p&gt;Newsletter #18: A Radical — and Popular — Feminism in Latin America and Around the World, with Verónica Gago&lt;/p&gt;
-
-&lt;p&gt;by Maia Silber&lt;/p&gt;
+   <content type="html">&lt;p&gt;by Maia Silber&lt;/p&gt;
 
 &lt;p&gt;Left feminists in the Global North have long lamented the corporate cooptation of the movement’s mainstream, even as more radical visions of gender justice seem unable to reach beyond the academy. But in Argentina, an international feminist movement has emerged that is both massive in its popular reach and unabashed in its insistence on linking the struggle against patriarchy to struggles against colonialism and neoliberal capitalism. It offers a model for activists around the world who want to use feminist analysis and tactics not only to advance women’s status within the existing order, but to transform that order.&lt;/p&gt;
 
@@ -850,13 +364,11 @@ Caliban and the Witch.&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>Newsletter 17</title>
+   <title>Newsletter #17: The Maladies of Colonial Capitalism, with Raj Patel and Rupa Marya</title>
    <link href="http://localhost:4000/newsletter17"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
+   <updated>2022-04-18T00:00:00-04:00</updated>
    <id>http://localhost:4000/newsletter17</id>
-   <content type="html">&lt;p&gt;Newsletter #17: The Maladies of Colonial Capitalism, with Raj Patel and Rupa Marya&lt;/p&gt;
-
-&lt;p&gt;By Mack Penner &lt;/p&gt;
+   <content type="html">&lt;p&gt;By Mack Penner &lt;/p&gt;
 
 &lt;p&gt;As 
 ’s 
@@ -886,13 +398,11 @@ Caliban and the Witch.&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>Newsletter 16</title>
+   <title>Newsletter #16: The Real Story of What’s Happening in Ukraine, with Volodymyr Ishchenko</title>
    <link href="http://localhost:4000/newsletter16"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
+   <updated>2022-04-17T00:00:00-04:00</updated>
    <id>http://localhost:4000/newsletter16</id>
-   <content type="html">&lt;p&gt;Newsletter #16: The Real Story of What’s Happening in Ukraine, with Volodymyr Ishchenko&lt;/p&gt;
-
-&lt;p&gt;by William Harris&lt;/p&gt;
+   <content type="html">&lt;p&gt;by William Harris&lt;/p&gt;
 
 &lt;p&gt;You could be forgiven for being confused about what’s happening in Ukraine. On the one hand, unless you have an admirable ability to tune out the mainstream US press, you have heard that Russian President Vladimir Putin has amassed troops somewhere in the vicinity of the Ukrainian border, and that a Russian invasion is now imminent. On the other hand, if you 
 have been able to escape the insular punditry of these media narratives, you have perhaps heard the Ukrainian president say not only that war is not imminent, but also that the Biden administration should stop needlessly inciting tension and hysteria.&lt;/p&gt;
@@ -935,13 +445,11 @@ Diglistening, revisit
  </entry>
  
  <entry>
-   <title>Newsletter 15</title>
+   <title>Newsletter #15: Joe Biden Has Failed in His Fight Against Coronavirus, with Justin Feldman</title>
    <link href="http://localhost:4000/newsletter15"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
+   <updated>2022-04-16T00:00:00-04:00</updated>
    <id>http://localhost:4000/newsletter15</id>
-   <content type="html">&lt;p&gt;Newsletter #15: Joe Biden Has Failed in His Fight Against Coronavirus, with Justin Feldman&lt;/p&gt;
-
-&lt;p&gt;by Benjamin Feldman&lt;/p&gt;
+   <content type="html">&lt;p&gt;by Benjamin Feldman&lt;/p&gt;
 
 &lt;p&gt;Last January, Joe Biden entered office promising to win the war against coronavirus. Four months later, Center for Disease Control director Rachelle Wolensky announced that vaccinated Americans could take off their masks, and on July 4, Biden declared something like victory over the pandemic, telling the nation that “while the virus hasn’t been vanquished, … it no longer controls our lives, it no longer paralyzes our nation, and it’s within our power to make sure it never does so again.” In the months since that victory speech, tens of millions of Americans have been infected with the virus, and more than 250,000 have died. &lt;/p&gt;
 
@@ -968,13 +476,11 @@ interview with Justin Feldman&lt;a href=&quot;https://www.thedigradio.com/podcas
  </entry>
  
  <entry>
-   <title>Newsletter 14</title>
+   <title>Newsletter #14: Building Left Power in Disorienting Times, with Aziz Rana, Nikhil Pal Singh, and Wendy Brown</title>
    <link href="http://localhost:4000/newsletter14"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
+   <updated>2022-04-15T00:00:00-04:00</updated>
    <id>http://localhost:4000/newsletter14</id>
-   <content type="html">&lt;p&gt;Newsletter #14: Building Left Power in Disorienting Times, with Aziz Rana, Nikhil Pal Singh, and Wendy Brown&lt;/p&gt;
-
-&lt;p&gt;by William Harris&lt;/p&gt;
+   <content type="html">&lt;p&gt;by William Harris&lt;/p&gt;
 
 &lt;p&gt;What sort of times are we living through? As legal scholar Aziz Rana puts it in a blockbuster new 
 Diginterview that also features fellow 
@@ -1011,13 +517,11 @@ In the Ruins of Neoliberalismand
  </entry>
  
  <entry>
-   <title>Newsletter 13</title>
+   <title>Newsletter #13: A Path Forward for Workers in Rust Belt America, with Gabriel Winant</title>
    <link href="http://localhost:4000/newsletter13"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
+   <updated>2022-04-14T00:00:00-04:00</updated>
    <id>http://localhost:4000/newsletter13</id>
-   <content type="html">&lt;p&gt;Newsletter #13: A Path Forward for Workers in Rust Belt America, with Gabriel Winant&lt;/p&gt;
-
-&lt;p&gt;by Benjamin Feldman&lt;/p&gt;
+   <content type="html">&lt;p&gt;by Benjamin Feldman&lt;/p&gt;
 
 &lt;p&gt;Between the recognition of the Steel Workers Organizing Committee in 1937 and their 116-day strike in 1959, Pittsburgh’s steelworkers fought for — and won — health and disability insurance, pensions, consistent wage increases, and a slice of decency and dignity on the job. Sixty years later, steel is only Pittsburgh’s sixteenth largest employer, and roughly one out of every five workers in the Steel City works in health care or social assistance. &lt;/p&gt;
 
@@ -1049,13 +553,11 @@ Winant recently interviewed Alex Press, Jonah Furman, and Victor P. Bouzi
  </entry>
  
  <entry>
-   <title>Newsletter 12</title>
+   <title>Newsletter #12: Money Is Inherently Political, with Stefan Eich</title>
    <link href="http://localhost:4000/newsletter12"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
+   <updated>2022-04-13T00:00:00-04:00</updated>
    <id>http://localhost:4000/newsletter12</id>
-   <content type="html">&lt;p&gt;Newsletter #12: Money Is Inherently Political, with Stefan Eich&lt;/p&gt;
-
-&lt;p&gt;By Mack Penner &lt;/p&gt;
+   <content type="html">&lt;p&gt;By Mack Penner &lt;/p&gt;
 
 &lt;p&gt;For the truest believers, cryptocurrency promises utopia. Following Bitcoin founder Satoshi Nakamoto, their central claim is that decentralized currency beyond the control of states and banks promises a utopian economic life beyond politics. This is, of course, entirely false — and not just in the sense that crypto actually functions as yet another instrument for financial speculation. &lt;/p&gt;
 
@@ -1097,13 +599,11 @@ Winant recently interviewed Alex Press, Jonah Furman, and Victor P. Bouzi
  </entry>
  
  <entry>
-   <title>Newsletter 11</title>
+   <title>Newsletter #11: The False Promises of Cryptocurrency with Edward Ongweso, Jr. and Jacob Silverman</title>
    <link href="http://localhost:4000/newsletter11"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
+   <updated>2022-04-12T00:00:00-04:00</updated>
    <id>http://localhost:4000/newsletter11</id>
-   <content type="html">&lt;p&gt;Newsletter #11: The False Promises of Cryptocurrency with Edward Ongweso, Jr. and Jacob Silverman&lt;/p&gt;
-
-&lt;p&gt;by Maia Silber&lt;/p&gt;
+   <content type="html">&lt;p&gt;by Maia Silber&lt;/p&gt;
 
 &lt;p&gt;The global market in cryptocurrency currently has a market cap of more than $2 trillion. Celebrities from Kim Kardashian to Elon Musk to Spike Lee have touted the benefits of decentralized, digital forms of money, promising that they will democratize finance by freeing ordinary investors from the tyranny of Wall Street and central banks.&lt;/p&gt;
 
@@ -1137,13 +637,11 @@ and Ongweso’s in&lt;a href=&quot;https://www.vice.com/en/contributor/edward-on
  </entry>
  
  <entry>
-   <title>Newsletter 10</title>
+   <title>Newsletter #10: How Neoliberalism Creates Right-Wing Reaction, with Rodrigo Nunes</title>
    <link href="http://localhost:4000/newsletter10"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
+   <updated>2022-04-11T00:00:00-04:00</updated>
    <id>http://localhost:4000/newsletter10</id>
-   <content type="html">&lt;p&gt;Newsletter #10: How Neoliberalism Creates Right-Wing Reaction, with Rodrigo Nunes&lt;/p&gt;
-
-&lt;p&gt;By Mack Penner&lt;/p&gt;
+   <content type="html">&lt;p&gt;By Mack Penner&lt;/p&gt;
 
 &lt;p&gt;As far-right movements have proliferated across the globe, often on the strength of popular support significant enough to win elections, the relationship between neoliberalism and the politics of reaction has become an urgent problem for the Left. Decades of neoliberal governance, deeply undemocratic in their own right, have helped create an openly anti-democratic politics that is often hateful and violent.&lt;/p&gt;
 
@@ -1185,13 +683,469 @@ and Ongweso’s in&lt;a href=&quot;https://www.vice.com/en/contributor/edward-on
  </entry>
  
  <entry>
-   <title>Newsletter 1</title>
+   <title>Newsletter #9: Brazilian President Jair Bolsonaro Is a “Major Threat to Life on the Planet”</title>
+   <link href="http://localhost:4000/newsletter9"/>
+   <updated>2022-04-10T00:00:00-04:00</updated>
+   <id>http://localhost:4000/newsletter9</id>
+   <content type="html">&lt;p&gt;By Micah Uetricht&lt;/p&gt;
+
+&lt;p&gt;Observing Brazil from the United States, especially during the Trump years, it was hard not to be struck with a sense of déjà vu. Watching populist far-right president Jair Bolsonaro often feels similar to watching former president Donald Trump: the corruption is so unabashed and complete, the incompetence so absurd, leftists often have remind themselves not to be distracted from the actual substance of their governance, a horror show of cruelty and misery that both men have inflicted upon their respective countries and the entire world.&lt;/p&gt;
+
+&lt;p&gt;But in Brazil, these horrors have come after some of the greatest advances for the poor and working class that any society on the planet has seen in the past half century or more, carried out under wildly popular Workers Party leader and former (and possibly future) Brazilian president Luiz Inácio Lula da Silva. In 2011, historian Perry Anderson called Lula “the most successful politician of his time.” &lt;/p&gt;
+
+&lt;p&gt;But the series of events that played out in Latin America’s largest country over the next few years were dizzying: Lula’s successor Dilma Roussef was impeached in what many deemed a “constitutional coup”; Bolsonaro won the presidency, producing a cavalcade of anti-working-class, homophobic and misogynist, ecological, and public-health disasters; and Lula was imprisoned for a year and a half on bogus corruption charges, a victim of a supposed anti-corruption campaign that was later revealed to be simply a tool of right-wing political warfare. &lt;/p&gt;
+
+&lt;p&gt;Brazil’s politics can be difficult for outsiders to understand. Luckily, for this episode, we have two Brazil scholars as our guides: Andre Pagliarini, a historian at Hampden-Sydney College, columnist at 
+, and author of a forthcoming book on Brazilian nationalism; and Sabrina Fernandes, a sociologist, postdoctoral fellow at the International Research Group on Authoritarianism and Counter-Strategies through the Rosa Luxemburg Stiftung, and lead editor for 
+.&lt;/p&gt;
+
+&lt;p&gt;Listen to’s interview with Pagliarini and Fernandes&lt;a href=&quot;https://www.thedigradio.com/podcast/brazil-w-sabrina-fernandes-andre-pagliarini/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Fernandes sums up Bolsonaro’s presidency succinctly: “He’s a major threat to life in the country and, if we consider geopolitical issues and ecological issues, to life on the planet,” &lt;/p&gt;
+
+&lt;p&gt;This episode is the first of two 
+ episodes on Brazil and Bolsonaro. You can listen to the next episode on Bolsonarismo with Brazilian leftist scholar Rodrigo Nunes 
+&lt;a href=&quot;https://www.thedigradio.com/podcast/bolsonarismo-with-rodrigo-nunes/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;has covered Brazilian politics and history closely over the years. Subscribers can explore this vast archive 
+&lt;a href=&quot;https://jacobinmag.com/location/brazil&quot;&gt;here&lt;/a&gt;, and everyone can read Sabrina Fernandes’s piece “
+&lt;a href=&quot;https://www.jacobinmag.com/2021/08/jair-bolsonaro-brazil-law-and-order-far-right-politics&quot;&gt;Bolsonaro Is Criminalizing the Brazilian Left&lt;/a&gt;.” If you read Portuguese, you can also examine 
+&lt;a href=&quot;https://jacobin.com.br/&quot;&gt;&lt;/a&gt;. Andre Pagliarini’s most recent article for 
+ is “
+&lt;a href=&quot;https://brazilian.report/opinion/2021/11/11/climate-negotiations-bolsonaro/&quot;&gt;Climate Negotiations With Bolsonaro a Lost Cause&lt;/a&gt;.” &lt;/p&gt;
+
+&lt;p&gt;For another 
+interview on Brazil, check out this 
+&lt;a href=&quot;https://www.thedigradio.com/podcast/explaining-brazils-crisis-with-alfredo-saad-filho/&quot;&gt;2018 interview with Alfredo Saad-Filho&lt;/a&gt;. And for those in search of a concise introduction to Brazilian history since the 1964 dictatorship, including the rise and fall of Lula and the ascent of Bolsonaro, you can’t do much better than Perry Anderson’s 
+&lt;a href=&quot;https://www.versobooks.com/books/3100-brazil-apart&quot;&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Newsletter #8: Cuba’s Key Role in Fighting Apartheid in Angola Is All but Forgotten Today</title>
+   <link href="http://localhost:4000/newsletter8"/>
+   <updated>2022-04-09T00:00:00-04:00</updated>
+   <id>http://localhost:4000/newsletter8</id>
+   <content type="html">&lt;p&gt;By Michal Schatz&lt;/p&gt;
+
+&lt;p&gt;The term “Cold War” is a misnomer. While open conflict never broke out between the United States and the Soviet Union directly in the roughly four decades after World War II, the two superpowers fought bloody proxy wars across the Global South, from Korea and Vietnam to Ethiopia and Southern Africa. Recent scholarship on decolonization in the twentieth century has shown that, contrary to conventional narratives which depict countries like Cuba as pawns working towards the Soviet Union’s ends in the Third World, the reality on the ground was far more complex. &lt;/p&gt;
+
+&lt;p&gt;In 
+’s most recent two-part interview, Piero Gleijeses discusses this complexity in examining Cuba’s role in the Angolan War, based on extensive interviews and archival research he conducted for 
+&lt;a href=&quot;https://uncpress.org/book/9781469628325/visions-of-freedom/&quot;&gt;&lt;/a&gt;.  &lt;/p&gt;
+
+&lt;p&gt;The protracted war in Angola became the key battleground for influence in Southern Africa between the US and the Soviet Union from the mid-1970s until just before the Soviet government’s collapse in 1991. Cuba, too, deployed troops to Angola in 1975 — the country’s largest overseas military deployment in its history — at the invitation of the Angolan government, then controlled by the socialist Popular Movement for the Liberation of Angola (MPLA). This was not Cuba’s first time supporting revolutionary forces in a decolonizing African country: Cuba had provided support to the Front National de Liberation (FLN) in Algeria in the early 1960s, as well as sent troops to the Congo. &lt;/p&gt;
+
+&lt;p&gt;Drawing on sources from US, South African, and Cuban archives, Gleijeses argues that Cuban involvement in these African conflicts was motivated, above all, by a commitment to anti-imperialism, revolutionary internationalism, and, in the case of Angola, what Fidel Castro referred to as “
+&lt;a href=&quot;https://www.lrb.co.uk/the-paper/v26/n16/piero-gleijeses/a-bone-in-the-throat&quot;&gt;the most beautiful cause&lt;/a&gt;”: anti-apartheid. &lt;/p&gt;
+
+&lt;p&gt;Listen to 
+’s two-part interview with Piero Gleijeses&lt;a href=&quot;https://www.thedigradio.com/podcast/visions-of-freedom-w-piero-gleijeses-part-1/&quot;&gt;here&lt;/a&gt;and&lt;a href=&quot;https://www.thedigradio.com/&quot;&gt;here&lt;/a&gt;. You can also check out&lt;a href=&quot;https://www.thedigradio.com/visions-of-freedom-maps/&quot;&gt;these maps&lt;/a&gt;as a visual reference. &lt;/p&gt;
+
+&lt;p&gt;Having learned from their experience in the Congo, which they entered unprepared in their attempt to support revolutionary forces there, the Cubans understood the political situation in Angola far better than the Soviet Union and frequently disagreed with the Soviets on strategy and action. Gleijeses demonstrates how the Cubans did not make the same mistake again: Cuba played a crucial role in preventing US-backed apartheid South Africa from conquering Angola.&lt;/p&gt;
+
+&lt;p&gt;This 
+ interview also invites a discussion on socialist internationalism today. Since the collapse of the Soviet Union, the idea of an international socialist project has waned. Despite periodic outcries against US imperialism, the resurgence of today’s US left has overwhelmingly focused on domestic politics. Gleijeses’s work asks some key questions for today’s leftists: What should a global socialist movement look like? And what types of material commitments and sacrifices might it take from those of us in the heart of empire?&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Cuba’s history and present are often wildly misrepresented in US popular media. For an accessible overview of Cuban history, 
+&lt;a href=&quot;https://jacobinmag.com/2021/09/cuban-revolution-castro-fidel-raul-socialism-soviet-ties-embargo-diaz-canel-protests-pandemic&quot;&gt;read this interview&lt;/a&gt; with historian Antoni Kapcia or 
+&lt;a href=&quot;https://blubrry.com/jacobin/80078107/long-reads-antoni-kapcia-on-revolutionary-cuba-and-the-legacy-of-the-castros/&quot;&gt;listen to it here&lt;/a&gt;. While Gleijeses’ book 
+&lt;a href=&quot;https://uncpress.org/book/9781469628325/visions-of-freedom/&quot;&gt;&lt;/a&gt; focuses specifically on Cuba’s foreign policy in relation to Angola, his previous book, 
+&lt;a href=&quot;https://uncpress.org/book/9780807854648/conflicting-missions/&quot;&gt;&lt;/a&gt;, tells the story of the country’s revolutionary internationalism in the first fifteen years after the revolution. To learn more about imperialism and foreign policy, past and present, check out 
+’s 
+&lt;a href=&quot;https://www.thedigradio.com/tag/imperialism-and-foreign-policy/&quot;&gt;vast interview archives&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Newsletter #7: The Immense Possibilities at the Heart of Our Past and Present, with David Wengrow</title>
+   <link href="http://localhost:4000/newsletter7"/>
+   <updated>2022-04-08T00:00:00-04:00</updated>
+   <id>http://localhost:4000/newsletter7</id>
+   <content type="html">&lt;p&gt;by William Harris&lt;/p&gt;
+
+&lt;p&gt;At a time when academia was becoming more and more hyper-specialized, the late David Graeber was a rare generalist. He was a committed activist and scholar who believed we could understand the kind of better society humans are capable of building by telling vast stories and asking daring questions about our lives together in the past, present, and future.&lt;/p&gt;
+
+&lt;p&gt;This is what led him to become an anthropologist. He wanted to study existing social forms in all their diversity, from&lt;a href=&quot;https://iupress.org/9780253219152/lost-people/&quot;&gt;his doctoral fieldwork in rural Madagascar&lt;/a&gt;to his polemic against&lt;a href=&quot;https://www.simonandschuster.com/books/Bullshit-Jobs/David-Graeber/9781501143335&quot;&gt;the braindead hellscape of twenty-first-century&lt;/a&gt;“bullshit jobs,” while also writing expansive histories that show us how the world wasn’t always the way it is now — and therefore might be different in the future.&lt;/p&gt;
+
+&lt;p&gt;After completing the monumental&lt;a href=&quot;https://www.mhpbooks.com/books/debt/&quot;&gt;Debt: The First 5,000 Years&lt;/a&gt;, Graeber spent much of the last decade of his life researching an even more ambitious project alongside his friend and intellectual inspiration, the archaeologist&lt;a href=&quot;https://www.ucl.ac.uk/archaeology/people/david-wengrow-professor-comparative-archaeology&quot;&gt;David Wengrow&lt;/a&gt;. The fruit of that research is a new co-authored 700-page epic by Wengrow and Graeber,&lt;a href=&quot;https://us.macmillan.com/books/9780374157357&quot;&gt;The Dawn of Everything: A New History of Humanity&lt;/a&gt;— and also the subject of a mind-expanding new 
+episode ofThe Digguest-hosted by&lt;a href=&quot;https://www.thedigradio.com/tag/astra-taylor/&quot;&gt;Astra Taylor&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Listen toThe Dig’s interview with David Wengrow&lt;a href=&quot;https://www.thedigradio.com/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;At its most sweeping, the mainstream view of human history goes something like this: we once lived in small, egalitarian hunter-gatherer bands. With the rise of agriculture, these bands gave way to complex forms of hierarchy, class structure, and bureaucracy. This is a myth, Wengrow argues. Exploring an incredible range of sources, from French Enlightenment texts to Native American folklore and understudied archaeological sites in Mexico and Ukraine, Wengrow and Graeber uncover a history of revolutionary contingency, in which slave-holding hunter-gatherer societies develop next to egalitarian ones, diverse regional social networks are replaced by the narrower social worlds of cities and nation-states, settlements full of palaces and temples are felled in favor of the large-scale construction of spacious social housing, and the seeds of the Enlightenment lie not in Europe but in the rich cultures of debate and persuasion found among Indigenous societies in the Americas.&lt;/p&gt;
+
+&lt;p&gt;The real human story, Wengrow argues, is one of immense variation in social organization — and therefore one of immense possibility.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Further Reading and Listening&lt;/p&gt;
+
+&lt;p&gt;There have been numerous tributes to David Graeber written in the year since his death, all testifying to his brilliance, warmth, and importance to left thought. AtSalvage, James Meadway wrote one of&lt;a href=&quot;https://salvage.zone/articles/acting-as-if-one-is-already-free-david-graebers-political-economy-and-the-strategic-impasse-of-the-left/&quot;&gt;the most wide-ranging of these tributes&lt;/a&gt;, which along with&lt;a href=&quot;https://www.lrb.co.uk/the-paper/v34/n09/benjamin-kunkel/forgive-us-our-debts&quot;&gt;Benjamin Kunkel’s review&lt;/a&gt;ofDebtin theLondon Review of Booksserves as a great introduction to Graeber’s work. To explore further this week’s look into indigenous history in the Americas, check out guest host Astra Taylor’sDiginterview with&lt;a href=&quot;https://www.thedigradio.com/podcast/roxanne-dunbar-ortiz-on-indigenous-history/&quot;&gt;Roxanne Dunbar-Ortiz&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Newsletter #6: US Workers Are Pissed Off and Striking Back</title>
+   <link href="http://localhost:4000/newsletter6"/>
+   <updated>2022-04-07T00:00:00-04:00</updated>
+   <id>http://localhost:4000/newsletter6</id>
+   <content type="html">&lt;p&gt;By Michal Schatz&lt;/p&gt;
+
+&lt;p&gt;Is the United States in the middle of a strike wave? The question saturated news and social media throughout October, as US workers from disparate industries across the country did something very few workers have done in recent years: walked off the job.&lt;/p&gt;
+
+&lt;p&gt;We shouldn’t get too far ahead of ourselves in examining these walkoffs: relative to its historical corollaries like the Great Depression–era strikes that established the labor movement as we know it, or even the recent teachers strikes that kicked off in 2018, today’s strike wave is miniscule. Decades of neoliberal policies have gutted organized labor’s power and weakened workers’ strike muscles. But as Alex Press, Victor Bouzi, and Jonah Furman emphasize in this week’sDigepisode, the industrial actions sweeping the United States indicate a shift in workers’ sense of their own power.The urgent task for both union members and the Left is to understand what has led to this renewed worker confidence — and how to harness it to rebuild the labor movement.&lt;/p&gt;
+
+&lt;p&gt;Listen toThe Dig’sinterview with Alex Press, Victor Bouzi, and Jonah Furman&lt;a href=&quot;https://www.thedigradio.com/podcast/striketober/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;“Striketober” may be over, but the labor upsurge that kicked off last month isn’t: UAW members at John Deere shocked their management and union leaders when they&lt;a href=&quot;https://www.labornotes.org/2021/11/well-never-be-position-again-striking-deere-workers-hold-out-better-deal&quot;&gt;rejected a second tentative contract agreement&lt;/a&gt;on November 2; Kellogg’s workers are in their&lt;a href=&quot;https://jacobinmag.com/2021/11/kelloggs-strike-bctgm-union-tiered-contracts&quot;&gt;second month of striking&lt;/a&gt;; and over 30,000 workers at Kaiser are&lt;a href=&quot;https://www.jacobinmag.com/2021/11/kaiser-alliance-health-care-unions-two-tier-strike&quot;&gt;on the brink of a strike&lt;/a&gt;. As Gabriel Winant and Jonah Furman&lt;a href=&quot;https://theintercept.com/2021/10/17/john-deere-strike-labor-market/&quot;&gt;recently highlighted inThe Intercept&lt;/a&gt;, workers in entertainment, manufacturing, the food industry, and beyond are no longer willing to work exorbitant hours for minimal pay while their companies’ profits skyrocket. For John Deere, Kaiser, and Kellogg’s workers, today’s labor demands are not simply about immediate material gains, but about correcting neoliberal policies like two-tier wage systems that have weakened unions for three decades and made compensation worse for workers across the United States.&lt;/p&gt;
+
+&lt;p&gt;We’re far from any credible declaration of unions’ revitalization. But if labor is going to rebuild power, it will take much more of the kind of militant action we’ve seen in recent weeks.&lt;/p&gt;
+
+&lt;p&gt;Further Reading&lt;/p&gt;
+
+&lt;p&gt;This interview is the latest addition toThe Dig’s extensive archive of&lt;a href=&quot;https://www.thedigradio.com/tag/labor-movement/&quot;&gt;labor interviews&lt;/a&gt;. As&lt;a href=&quot;https://jacobinmag.com/2021/11/labor-beat-reporting-newspapers-journalism-unions&quot;&gt;Alex Press pointed out&lt;/a&gt;inJacobin, labor reporting largely disappeared from local and national media during the 1990s and 2000. But it has slowly been rebuilt in recent years, and the current strike surge has benefited from detailed reporting.&lt;/p&gt;
+
+&lt;p&gt;Jonah Furman has provided excellent coverage of the ongoing John Deere strike on&lt;a href=&quot;https://whogetsthebird.substack.com/&quot;&gt;his SubstackWho Gets the Bird?&lt;/a&gt;and forLabor Notes, most recently writing about how&lt;a href=&quot;https://www.labornotes.org/2021/11/well-never-be-position-again-striking-deere-workers-hold-out-better-deal&quot;&gt;workers forced Deere management back to the table&lt;/a&gt;. ForJacobin, Alex Press has written extensively about the International Alliance of Theatrical Stage Employees’ (IATSE) ongoing negotiations with the Alliance of Motion Picture and Television Producers (AMPTP), showing that even before Halyna Hutchins was horrifically killed on the set of Rust&lt;a href=&quot;https://www.jacobinmag.com/2021/10/halyna-hutchins-shooting-rust-iatse-alec-baldwin&quot;&gt;due to poor labor conditions&lt;/a&gt;,&lt;a href=&quot;https://jacobinmag.com/2021/10/iatse-television-film-industry-union-strike-rank-and-file-overwork&quot;&gt;many members were unsatisfied&lt;/a&gt;with the terms of AMPTP’s contract proposal. And inThe Nation, Dave Leshtz recently&lt;a href=&quot;https://www.thenation.com/article/activism/john-deere-strike-update/&quot;&gt;contextualized Deere workers’ fight in Iowa&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Newsletter #5: Desire Is Political, with Amia Srinivasan</title>
+   <link href="http://localhost:4000/newsletter5"/>
+   <updated>2022-04-06T00:00:00-04:00</updated>
+   <id>http://localhost:4000/newsletter5</id>
+   <content type="html">&lt;p&gt;by Maia Silber&lt;/p&gt;
+
+&lt;p&gt;Conversations about the politics of sex often focus on the presence or absence of consent. For feminist philosopher Amia Srinivasan, this is a profoundly inadequate framework — one that leaves us ill-prepared to interrogate the power dynamics that shape even the sex we freely choose, and suggests carceral remedies likely to harm society’s most vulnerable members.&lt;/p&gt;
+
+&lt;p&gt;Searching for alternatives, Srinivasan’s 
+The Right to Sex: Feminism in the Twenty-First Centuryreaches back to the “sex wars” of the 1970s, when feminists fiercely debated how power informs our desires. In those debates, she often finds more questions than answers. Can we treat sex as political without subjecting ourselves and others to an authoritarian moralism? Can we reject the sexual shaming so often weaponized against women, queer, and gender non-conforming people without succumbing to the fantasy that our desires are wholly natural?&lt;/p&gt;
+
+&lt;p&gt;In a wide-ranging conversation on 
+The Dig,Srinivasan brings these questions to bear on contemporary debates about sex on college campuses, pornography, and sex work. She argues, for instance, against critics who claim that teachers who enter consensual relationships with students don’t deserve our censure, while insisting that institutional responses do more to protect universities from liability than young people from abuse. She urges us to take seriously the power of pornography to shape not only sexual actions but also sexual affects and urges in harmful ways, even while recognizing the medium’s potential for inspiring radical modes of pleasure and sexual agency.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Listen to&lt;/strong&gt;
+&lt;strong&gt;The Dig&lt;/strong&gt;&lt;strong&gt;’s interview with Amia Srinivasan&lt;/strong&gt;
+&lt;a href=&quot;https://www.thedigradio.com/podcast/the-right-to-sex-with-amia-srinivasan/&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The titular essay in 
+The Right to Sexcontroversially examines the claims of “incel” (involuntarily celibate) men to sexual entitlement. While Srinivasan insists that there is no right to sex, she takes seriously incels’ contention that sexual attraction is distributed unequally along hierarchies of race, class, and conventional attractiveness.&lt;/p&gt;
+
+&lt;p&gt;Incels hypocritically lament the ways these hierarchies harm them even while they subscribe to their valorization of certain kinds of bodies: the rich, thin, white women they call “Stacys.” Srinivasan thinks that we can take inspiration instead from queer and Black women who have asked us to critically interrogate who and how we desire. For Srinivasan, this isn’t about repression — it’s about openness to the forms of sex and love that are blocked by our current power structures.&lt;/p&gt;
+
+&lt;p&gt;Further Reading and Listening&lt;/p&gt;
+
+&lt;p&gt;Srinivasan has examined some of the themes in this week’s episode in essays published in the 
+&lt;a href=&quot;https://www.newyorker.com/magazine/2021/09/13/who-lost-the-sex-wars&quot;&gt;New Yorker&lt;/a&gt;,the 
+&lt;a href=&quot;https://www.nytimes.com/2021/09/21/books/review-right-to-sex-amia-srinivasan.html&quot;&gt;New York Times&lt;/a&gt;,and the 
+&lt;a href=&quot;https://www.lrb.co.uk/the-paper/v40/n06/amia-srinivasan/does-anyone-have-the-right-to-sex&quot;&gt;London Review of Books&lt;/a&gt;.For more left-feminist thought on 
+The Dig,check out 
+&lt;a href=&quot;https://www.thedigradio.com/podcast/family-values-with-melinda-cooper-2/&quot;&gt;Melinda Cooper&lt;/a&gt; on the convergence of neoliberalism with “family values” social conservatism, 
+&lt;a href=&quot;https://www.thedigradio.com/podcast/abolish-the-family-with-sophie-lewis/&quot;&gt;Sophie Lewis&lt;/a&gt; on the global system of racialized labor exploitation that undergirds both the commercial surrogacy industry and “natural” reproduction, and 
+&lt;a href=&quot;https://www.thedigradio.com/podcast/beyond-economism-with-nancy-fraser/&quot;&gt;Nancy Fraser&lt;/a&gt; on why our analysis of capitalism needs to extend beyond the realm of production to the homes, schools, and hospitals that enable its functioning. Harkening back to feminism’s Second Wave, check out Barbara Erenreich’s 
+&lt;a href=&quot;https://www.jacobinmag.com/2018/07/socialist-feminism-barbara-ehrenreich&quot;&gt;canonical 1976 essay on socialist feminism&lt;/a&gt;, republished in 
+Jacobin with a new introduction.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Newsletter #4: The Long, Disastrous History of US Intervention in Afghanistan, with Tariq Ali</title>
+   <link href="http://localhost:4000/newsletter4"/>
+   <updated>2022-04-05T00:00:00-04:00</updated>
+   <id>http://localhost:4000/newsletter4</id>
+   <content type="html">&lt;p&gt;By Ben Feldman&lt;/p&gt;
+
+&lt;p&gt;“What is most important to the history of the world[:] The Taliban or the collapse of the Soviet Empire? A few crazed Muslims or the liberation of Central Europe and the end of the Cold War?” former National Security Advisor Zbigniew Brzezinski asked rhetorically in a 1998 interview. He was justifying the United States’ partnership with religious reactionaries, which helped lead the Soviets to overextend themselves financially and militarily, and hastened the collapse of America’s rival hegemon. Absent from Brzezinski’s musing was any mention of the Afghan people themselves. Whether in 1979, 1998, 2001, or 2021, Afghans are ignored by US-policymakers and media, trudged out only when their suffering can be used as a cudgel against those who oppose war and occupation.&lt;/p&gt;
+
+&lt;p&gt;In a collection of essays written over four decades, 
+&lt;a href=&quot;https://www.versobooks.com/books/3939-the-forty-year-war-in-afghanistan&quot;&gt;The Forty-Year War in Afghanistan: A Chronicle Foretold&lt;/a&gt; (Verso, November), Tariq Ali reconstructs the history of American intervention in  Afghanistan. Beginning with the Soviet invasion in 1979, the United States — with the help of Egypt, Saudi Arabia, and Pakistan — mobilized an international network of anti-Soviet Islamic fighters. In doing so, the U.S. and its Middle Eastern allies helped create a generation of militants whose “deracinated fanaticism” helped them to emerge from the second Afghan Civil War (1992-1996) as the dominant power in the country.&lt;/p&gt;
+
+&lt;p&gt;The Taliban’s rise was the unintended consequence of America’s Cold War foreign policy: decades of funding, training, and propping up right-wing forces throughout the world. Five years after the Taliban captured Kabul, they were swept out of power by the United States and its allies. What began as a war of revenge, a punishment for having harbored Osama Bin Laden — lasted twenty years, ending with the collapse of the Afghan National Security Forces and the Taliban’s retaking of Kabul on August 15, 2021. In the interim, a 
+&lt;a href=&quot;https://watson.brown.edu/costsofwar/figures/2021/WarDeathToll&quot;&gt;quarter of a million people lost their lives in Afghanistan and Pakistan&lt;/a&gt;, and 
+&lt;a href=&quot;https://watson.brown.edu/costsofwar/files/cow/imce/papers/2020/Displacement_Vine%20et%20al_Costs%20of%20War%202020%2009%2008.pdf&quot;&gt;some nine million Pakistanis and Afghans have been displaced&lt;/a&gt; by the War on Terror.&lt;/p&gt;
+
+&lt;p&gt;Ali’s essays illustrate how the Afghan people have borne the costs of imperialistic hubris, Cold War rivalry, and America’s post-9/11 need for vengeance. Throughout, the reader is reminded of a basic point that eludes so many journalists and politicians: the crises facing Afghanistan today are the product of decades of policies which prioritized the political needs of U.S. elites over the safety, security, and independence of the Afghan people.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Listen to&lt;/strong&gt;
+&lt;strong&gt;The Dig&lt;/strong&gt;&lt;strong&gt;’s interview with Tariq Ali&lt;/strong&gt;
+&lt;a href=&quot;https://www.thedigradio.com/podcast/afghanistan-with-tariq-ali/&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Further Reading&lt;/p&gt;
+
+&lt;p&gt;The end of America’s longest war occasioned numerous reflections, including recent pieces by Tariq Ali in 
+&lt;a href=&quot;https://newleftreview.org/sidecar/posts/debacle-in-afghanistan&quot;&gt;New Left Review&lt;/a&gt; and 
+&lt;a href=&quot;https://www.thenation.com/article/world/9-11-war-terror/&quot;&gt;The Nation&lt;/a&gt;. Challenging the post-hoc defense of the invasion of Afghanistan as a war to liberate women, 
+&lt;a href=&quot;https://www.newyorker.com/magazine/2021/09/13/the-other-afghan-women&quot;&gt;Anand Gopal&lt;/a&gt; writes about the experiences of Afghan women living outside of Kabul. In a conversation hosted by 
+&lt;a href=&quot;https://jewishcurrents.org/no-one-wants-to-listen-to-the-afghan-people/&quot;&gt;Jewish Currents&lt;/a&gt;,Marya Hannun and Mejgan Massoumi also center the experiences of Afghans, and in 
+&lt;a href=&quot;https://jacobinmag.com/2021/05/biden-administration-afghanistan-war-withdrawl-opium-us-military&quot;&gt;Jacobin&lt;/a&gt;,historian Alfred W. McCoy takes on the “
+&lt;a href=&quot;https://jacobinmag.com/2021/05/biden-administration-afghanistan-war-withdrawl-opium-us-military&quot;&gt;hubris of American empire&lt;/a&gt;.”&lt;/p&gt;
+
+&lt;p&gt;From 
+The Dig’s archives, check out 
+&lt;a href=&quot;https://www.thedigradio.com/podcast/the-media-war-w-adam-johnson-and-eric-levitz/&quot;&gt;Dan’s conversation with Adam Johnson and Eric Levitz&lt;/a&gt; on the media’s bloodthirsty offensive against the withdrawal of US troops from Afghanistan. For more on the War on Terror, listen to our interview with military historian 
+&lt;a href=&quot;https://www.thedigradio.com/podcast/andrew-bacevich-this-is-the-war-that-never-ends/&quot;&gt;Andrew Bacevich&lt;/a&gt; and the recent-three part interview with Spencer Ackerman 
+&lt;a href=&quot;https://www.thedigradio.com/podcast/war-on-terror-w-spencer-ackerman-part-1/&quot;&gt;here&lt;/a&gt;, 
+&lt;a href=&quot;https://www.thedigradio.com/podcast/war-on-terror-w-spencer-ackerman-part-2/&quot;&gt;here&lt;/a&gt;, and 
+&lt;a href=&quot;https://www.thedigradio.com/podcast/war-on-terror-w-spencer-ackerman-part-3/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Newsletter #3: Imagining Utopia in a Time of Climate Disaster with Kim Stanley Robinson</title>
+   <link href="http://localhost:4000/newsletter3"/>
+   <updated>2022-04-04T00:00:00-04:00</updated>
+   <id>http://localhost:4000/newsletter3</id>
+   <content type="html">&lt;p&gt;By William Harris&lt;/p&gt;
+
+&lt;p&gt;By now you’ve seen the signs, planted across the liberal meadows of our nation’s lawns with a solemn pledge: “In this house, we believe: science is real.” Framed by this oath, science becomes an apolitical set of facts blindly assented to — which then easily translates into yet more grist for the neverending culture war between rational Democrats and troglodytic Republicans.&lt;/p&gt;
+
+&lt;p&gt;How should today’s Left approach science? Few approach this question as thoughtfully as legendary science fiction writer Kim Stanley Robinson, hailed by the 
+New Yorkeras perhaps 
+&lt;a href=&quot;https://www.newyorker.com/books/page-turner/our-greatest-political-novelist&quot;&gt;“our greatest political novelist,”&lt;/a&gt; author of many books — from the 
+&lt;a href=&quot;https://www.penguinrandomhouse.com/series/ZMS/mars-trilogy&quot;&gt;Mars&lt;/a&gt; trilogy to 2019’s 
+&lt;a href=&quot;https://www.hachettebookgroup.com/titles/kim-stanley-robinson/the-ministry-for-the-future/9780316300162/&quot;&gt;Ministry for the Future&lt;/a&gt;—and our guest on a provocative new episode of 
+The Dighosted by pod-comrade and Berkeley sociologist Daniel Aldana Cohen.&lt;/p&gt;
+
+&lt;p&gt;For Robinson, science is a utopian project that the Left should claim. A “modest” way of knowing the world, importantly available to specialists but also to all of us, science lives out an always-incomplete story full of dynamic adaptation, democratic debate, and messy engagement with the material world. If science has historically been a project shot through by warring interests — too often colonial and corporate — one of these competing interests has been the idealist, Left-aligned objective of improving the world for all.&lt;/p&gt;
+
+&lt;p&gt;Robinson comes to these reflections as a novelist who’s spent his career telling stories that entwine ecology and social justice. We live amid climate disaster; for science, that means that now is a time when, in considering technological fixes to climate change, “it all has to be put on the table.” Controversially, he insists, that means rethinking ecological and political approaches from geo-engineering to nuclear energy to Green New Deal-prompted quantitative easing.&lt;/p&gt;
+
+&lt;p&gt;Robinson’s broad-tent openness to a range of scientific possibilities to save our planet also comes from his experience as a novelist. His novels play out possible futures and dramatize a range of leftist and scientific debates, giving narrative shape to our most pressing ecological and political questions. Amid a growing body of criticism indicting contemporary literature for its failure to come to imaginative terms with ecological disaster — from Amitav Ghosh’s 2016 book 
+&lt;a href=&quot;https://press.uchicago.edu/ucp/books/book/chicago/G/bo22265507.html&quot;&gt;The Great Derangement&lt;/a&gt; to Rithika Ramamurthy’s recent takedown of the 
+&lt;a href=&quot;https://www.thedriftmag.com/climate-anxiety/&quot;&gt;“Climate Anxiety Novel”&lt;/a&gt; — Robinson’s work stands out as compellingly original approaches to possible climate futures. His latest epic 
+Ministry for the Future imagines how a plausible “best-case scenario” under climate change future might come about, raising difficult questions of left ecological politics that he discusses with Cohen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Listen to 
+The Dig’s interview with Kim Stanley Robinson&lt;/strong&gt;
+&lt;a href=&quot;https://www.thedigradio.com/podcast/near-futures-with-kim-stanley-robinson/&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This episode joins an extensive archive of 
+Diginterviews on 
+&lt;a href=&quot;https://www.thedigradio.com/tag/environment/&quot;&gt;climate politics&lt;/a&gt;. Check out our conversation with Thea Riofrancos and Daniel Aldana Cohen on 
+&lt;a href=&quot;https://www.thedigradio.com/podcast/planet-to-win-with-thea-riofrancos-and-daniel-aldana-cohen/&quot;&gt;why we need a Green New Deal and how realistic yet imaginative narratives might help us get there&lt;/a&gt;, or our interview with Nick Estes on the 
+&lt;a href=&quot;https://www.thedigradio.com/podcast/our-history-is-the-future-with-nick-estes/&quot;&gt;long history of indigenous resistance to settler-colonial ecological devastation&lt;/a&gt;.For further reading on this episode’s themes, check out 
+Jacobin’s 
+&lt;a href=&quot;https://jacobinmag.com/series/green-new-deal&quot;&gt;ongoing Green New Deal series&lt;/a&gt;, a debate in 
+New Left Reviewon the ecological politics of growth versus degrowth summarized by Lola Seaton in 
+&lt;a href=&quot;https://newleftreview.org/issues/ii115/articles/lola-seaton-green-questions&quot;&gt;“Green Questions,”&lt;/a&gt; and two books: Holly Jean Buck’s work on left geo-engineering, 
+&lt;a href=&quot;https://www.versobooks.com/books/3091-after-geoengineering&quot;&gt;After Geoengineering: Climate Tragedy, Repair, and Restoration&lt;/a&gt;,and Fredric Jameson’s magisterial Marxist study of science fiction, 
+&lt;a href=&quot;https://www.versobooks.com/books/243-archaeologies-of-the-future&quot;&gt;Archaeologies of the Future: The Desire Called Utopia and Other Science Fictions&lt;/a&gt;,which concludes with a chapter on Kim Stanley Robinson’s 
+Marstrilogy.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Newsletter #2: Occupy Paved the Way for Today’s Reborn Left</title>
+   <link href="http://localhost:4000/newsletter2"/>
+   <updated>2022-04-03T00:00:00-04:00</updated>
+   <id>http://localhost:4000/newsletter2</id>
+   <content type="html">&lt;p&gt;By Mia Schatz&lt;/p&gt;
+
+&lt;p&gt;It is hard today to remember the sense of desolation that plagued the American left a decade ago. Demoralized, disempowered, disorganized, the Left seemed to have no answer to the 2008 housing market crash and the Great Recession — until Occupy Wall Street.&lt;/p&gt;
+
+&lt;p&gt;Although the movement only lasted two months, Occupy left its mark on American politics, putting the potential for a meaningful left movement back on the map. In the years since, many participants have argued that Occupy failed: its horizontal structures didn’t work; it had no actionable demands; it was too white, too affluent, and unable to put a real dent in finance capital’s power. And yet, as Astra Taylor points out in this week’s episode of 
+The Dig, Occupy reframed American political discourse around class, laying the groundwork for the highly effective messaging of Bernie Sanders’s 2016 and 2020 presidential campaigns, and compelled both veteran and budding organizers to rethink a problem the Left had struggled with for years: power.&lt;/p&gt;
+
+&lt;p&gt;As Occupy faded, hundreds of former occupiers from across the country joined or formed organizations focused on housing, debt, healthcare, and climate change. Today, there is a growing American left energized not only by organizations like the Democratic Socialists of America and Black Lives Matter and stirrings in key parts of the labor movement, but also by left-aligned elected officials at national, state, and local levels who are challenging the power of capital.&lt;/p&gt;
+
+&lt;p&gt;Occupy offered critical lessons about how a political movement can build power without losing sight of its core principles. If, as Astra argues in this week’s interview, the Left of a decade ago was allergic to power and electoral politics, today’s Left has found the antidote in strong, well-organized institutions that are increasingly capable of holding its leaders accountable. These are essential questions that are still at the heart of left organizing today — and will only become more urgent as the post-Occupy left keeps growing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Listen to 
+The Dig’s interview with Astra Taylor&lt;/strong&gt;
+&lt;a href=&quot;https://www.thedigradio.com/podcast/occupy-at-10-with-astra-taylor/&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Further Reading&lt;/p&gt;
+
+&lt;p&gt;Occupy’s recent tenth anniversary inspired a wave of reflections and analyses. During Occupy, media attention focused heavily on the demographic composition of occupiers. As Dan and Astra discuss, labor scholars Ruth Milkman, Penny Lewis, and Stephanie Luce 
+&lt;a href=&quot;https://media.sps.cuny.edu/filestore/1/5/7/1_a05051d2117901d/1571_92f562221b8041e.pdf&quot;&gt;interviewed occupiers on the ground at the New York occupation in Zuccotti Park&lt;/a&gt;. Sarah Jaffe, host of 
+Dissent’s 
+Belabored podcast, recently 
+&lt;a href=&quot;https://www.dissentmagazine.org/blog/belabored-the-legacy-of-occupy-wall-street&quot;&gt;interviewed Ruth Milkman and Nastaran Mohit&lt;/a&gt;, an organizer and one of the study’s interviewers, about their reflections on the movement a decade on. For 
+Jacobin, Doug Singsen reminds us of 
+&lt;a href=&quot;https://jacobinmag.com/2021/09/occupy-wall-street-ows-zuccotti-park-nyc-labor-movement-unions-collaboration&quot;&gt;unions’ critical and often underplayed role&lt;/a&gt; in various OWS occupations across the country, while Ross Barkan argues the 
+&lt;a href=&quot;https://jacobinmag.com/2021/09/occupy-wall-street-new-york-city-dsa-bloomberg-cuomo&quot;&gt;media was too quick to deem Occupy a failure&lt;/a&gt;.And questions still linger about Occupy’s most influential political currents. Former occupier and current Pennsylvania State Senator Nikil Saval and 
+Intercept columnist Natasha Lennard recently discussed 
+&lt;a href=&quot;https://www.thenation.com/article/activism/occupy-socialist-anarchist/&quot;&gt;whether Occupy was more socialist or anarchist in nature&lt;/a&gt; in 
+The Nation.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 9</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2022/03/cryptocurrency-bitcoin-speculative-asset-digitization-metaverse&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 8</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2018/07/electoral-rules-third-party-ballot-line-ocasio-cortez-dsa&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 7</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2022/02/cryptocurrency-democratize-monetary-policy-economics-banks-financial-system-bitcoin&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 6</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/11/trump-corey-robin-reactionary-mind-interview&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 5</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2022/03/brazil-pt-lula-bolsonaro-neoliberalism-far-right&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 4</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2021/10/tariq-ali-afghan-war-us-imperialism&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 3</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2021/08/capitalism-climate-crisis-global-green-new-deal-clean-energy-fossil-fuel-industry&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 2</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/09/hurricane-harvey-trump-climate-change&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcript: q</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 18</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2020/03/ilhan-omar-interview-bernie-sanders-climate&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcript: q</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 17</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2018/07/bernie-sanders-interview-alexandria-ocasio-cortez&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcript: q</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 16</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/09/daca-dreamers-trump-sessions-immigration-deportation&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcript: q</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 15</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/09/mexico-us-drug-war-trump-migrants-nafta&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcript: q</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 14</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2019/07/rashida-tlaib-detroit-palestine&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcript: q</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 13</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/05/black-lives-matter-baltimore-obama-racism-freddie-gray-election-whitelash&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 12</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/06/white-working-class-trump-appalachia-mining&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 11</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/09/hurricane-harvey-irma-global-warming-the-dig&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcriptx</title>
+   <link href="http://localhost:4000/newsletterx"/>
+   <updated>2022-04-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript copy 10</id>
+   <content type="html">&lt;p&gt;https://jacobinmag.com/2022/03/russia-ukraine-putin-nato-us-war-empire&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Newsletter #1: The War on Terror Made Our World</title>
    <link href="http://localhost:4000/newsletter1"/>
    <updated>2022-04-02T00:00:00-04:00</updated>
    <id>http://localhost:4000/newsletter1</id>
-   <content type="html">&lt;p&gt;Newsletter #1: The War on Terror Made Our World&lt;/p&gt;
-
-&lt;p&gt;by Micah Uetricht&lt;/p&gt;
+   <content type="html">&lt;p&gt;by Micah Uetricht&lt;/p&gt;
 
 &lt;p&gt;Twenty years since September 11, 2001, the War on Terror’s catastrophic effects can’t be overstated. Hundreds of thousands (at least) in the Middle East are dead; trillions have been funneled to the military-industrial complex; our already desiccated democratic institutions have been further weakened; a Pandora’s box of barbarous reactionary currents have been unleashed in the United States and abroad. Our world has been grotesquely deformed by the War on Terror.&lt;/p&gt;
 

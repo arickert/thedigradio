@@ -3,6 +3,7 @@ layout: page
 title: Topics
 ---
 
+<h1 class="page-title">{{ page.title }}</h1>
 
 <div id="archives">
 {% assign sortedPosts = site.categories | sort %}

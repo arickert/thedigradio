@@ -112,7 +112,7 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #79AA9D;
+  color: #9a9a9a;
 }
 
 .category-head1{
@@ -153,6 +153,7 @@ html {
   margin-left:0.5rem;
 }
 .sidebar-nav-item {
+  color: #9a9a9a;
   display: block;
   line-height: 1.75;
 }
