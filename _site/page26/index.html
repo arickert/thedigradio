@@ -36,7 +36,7 @@
     <div class="sidebar">
   <div style="text-align:center" id="search-demo-container">
         
-    <i class="fa-solid fa-magnifying-glass" style="position: sticky;left: 24px;top: 7px;font-size: 13px; color: #515151; "></i><input class="searchbar" type="search" id="search-input" placeholder="" style="background: #27262E;border: solid #515151;padding-left: 25px; color: #515151; font-family:'Scala'">
+    <i id="searchicon" class="fa-solid fa-magnifying-glass" style="position: sticky;left: 24px;top: 7px;font-size: 13px; color: #515151; "></i><input class="searchbar" type="search" id="search-input" placeholder="Search..." style="background: #27262E;border: solid #515151;padding-left: 25px; color: #515151; font-family:'Scala'">
     <ul style="position:absolute; padding-left:0.5rem; padding-bottom: 2rem; font-size:0.9rem; width:85%; text-align:left; " id="results-container"></ul>
   </div>
   <div id="sidebar" class="container sidebar-sticky">
@@ -46,7 +46,7 @@
           the 
         </a>
 </h1>
-      <h1 style="padding-left: 0.5rem;line-height: 0.45;font-size: 5.3rem;"><a>
+      <h1 class="digtitle" style="padding-left: 0.5rem;line-height: 0.45;font-size: 5.3rem;"><a href="/">
         Dig
     </a></h1>
       <p class="lead" style="margin-bottom:0.7rem" ></p>
@@ -2079,75 +2079,34 @@
 
     <div class="content container">
 
-      The Dig is Daniel Denvir's podcast on political economy, labor, imperialism, and immigration.
-
-Click here to listen to the latest episode, featuring Alexandria Ocasio Ortez.
-
-
-<!-- <div class="posts">
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/newsletter3">
-        Newsletter 3
-      </a>
-    </h1>
-
-    <span class="post-date">02 Apr 2022</span>
-
-    <p>Newsletter #3: Imagining Utopia in a Time of Climate Disaster with Kim Stanley Robinson</p>
-
-<p>By William Harris</p>
-
-<p>By now you’ve seen the signs, planted across the liberal meadows of our nation’s lawns with a solemn pledge: “In this house, we believe: science is real.” Framed by this oath, science becomes an apolitical set of facts blindly assented to — which then easily translates into yet more grist for the neverending culture war between rational Democrats and troglodytic Republicans.</p>
-
-<p>How should today’s Left approach science? Few approach this question as thoughtfully as legendary science fiction writer Kim Stanley Robinson, hailed by the 
-New Yorkeras perhaps 
-<a href="https://www.newyorker.com/books/page-turner/our-greatest-political-novelist">“our greatest political novelist,”</a> author of many books — from the 
-<a href="https://www.penguinrandomhouse.com/series/ZMS/mars-trilogy">Mars</a> trilogy to 2019’s 
-<a href="https://www.hachettebookgroup.com/titles/kim-stanley-robinson/the-ministry-for-the-future/9780316300162/">Ministry for the Future</a>—and our guest on a provocative new episode of 
-The Dighosted by pod-comrade and Berkeley sociologist Daniel Aldana Cohen.</p>
-
-<p>For Robinson, science is a utopian project that the Left should claim. A “modest” way of knowing the world, importantly available to specialists but also to all of us, science lives out an always-incomplete story full of dynamic adaptation, democratic debate, and messy engagement with the material world. If science has historically been a project shot through by warring interests — too often colonial and corporate — one of these competing interests has been the idealist, Left-aligned objective of improving the world for all.</p>
-
-<p>Robinson comes to these reflections as a novelist who’s spent his career telling stories that entwine ecology and social justice. We live amid climate disaster; for science, that means that now is a time when, in considering technological fixes to climate change, “it all has to be put on the table.” Controversially, he insists, that means rethinking ecological and political approaches from geo-engineering to nuclear energy to Green New Deal-prompted quantitative easing.</p>
-
-<p>Robinson’s broad-tent openness to a range of scientific possibilities to save our planet also comes from his experience as a novelist. His novels play out possible futures and dramatize a range of leftist and scientific debates, giving narrative shape to our most pressing ecological and political questions. Amid a growing body of criticism indicting contemporary literature for its failure to come to imaginative terms with ecological disaster — from Amitav Ghosh’s 2016 book 
-<a href="https://press.uchicago.edu/ucp/books/book/chicago/G/bo22265507.html">The Great Derangement</a> to Rithika Ramamurthy’s recent takedown of the 
-<a href="https://www.thedriftmag.com/climate-anxiety/">“Climate Anxiety Novel”</a> — Robinson’s work stands out as compellingly original approaches to possible climate futures. His latest epic 
-Ministry for the Future imagines how a plausible “best-case scenario” under climate change future might come about, raising difficult questions of left ecological politics that he discusses with Cohen.</p>
-
-<p><strong>Listen to 
-The Dig’s interview with Kim Stanley Robinson</strong>
-<a href="https://www.thedigradio.com/podcast/near-futures-with-kim-stanley-robinson/"><strong>here</strong></a><strong>.</strong></p>
-
-<p>This episode joins an extensive archive of 
-Diginterviews on 
-<a href="https://www.thedigradio.com/tag/environment/">climate politics</a>. Check out our conversation with Thea Riofrancos and Daniel Aldana Cohen on 
-<a href="https://www.thedigradio.com/podcast/planet-to-win-with-thea-riofrancos-and-daniel-aldana-cohen/">why we need a Green New Deal and how realistic yet imaginative narratives might help us get there</a>, or our interview with Nick Estes on the 
-<a href="https://www.thedigradio.com/podcast/our-history-is-the-future-with-nick-estes/">long history of indigenous resistance to settler-colonial ecological devastation</a>.For further reading on this episode’s themes, check out 
-Jacobin’s 
-<a href="https://jacobinmag.com/series/green-new-deal">ongoing Green New Deal series</a>, a debate in 
-New Left Reviewon the ecological politics of growth versus degrowth summarized by Lola Seaton in 
-<a href="https://newleftreview.org/issues/ii115/articles/lola-seaton-green-questions">“Green Questions,”</a> and two books: Holly Jean Buck’s work on left geo-engineering, 
-<a href="https://www.versobooks.com/books/3091-after-geoengineering">After Geoengineering: Climate Tragedy, Repair, and Restoration</a>,and Fredric Jameson’s magisterial Marxist study of science fiction, 
-<a href="https://www.versobooks.com/books/243-archaeologies-of-the-future">Archaeologies of the Future: The Desire Called Utopia and Other Science Fictions</a>,which concludes with a chapter on Kim Stanley Robinson’s 
-Marstrilogy.</p>
-
+      <section style="margin-left:0; margin-right:0" class="recent-posts">
+  <ul>
+  <div class="section-title mt-2">
+    <li style="font-size:2rem">
+      <span style="color: #79AA9D;font-family: 'RoslynGothic';font-size: 5rem;">The Dig</span>
+         is Daniel Denvir's podcast on political economy, labor, imperialism, and immigration.
+      </li>
   </div>
+  <div class="row listrecent">
   
-</div>
+  
+    
+      <li style="font-size:2rem">
+        Click 
+        <a href="podcast/clash-of-empires-w-ho-fung-hung" style="color:#79AA9D">here</a>
+        to listen to the latest episode, featuring 
+        
+            Ho-fung Hung.
+        
+      </li>
 
-<div class="pagination">
-  
-    <a class="pagination-item older" href="/page27">Older</a>
+     
   
   
-    
-      <a class="pagination-item newer" href="/page25">Newer</a>
-    
+  </div>
+  </li>
+  </section>
   
-</div> -->
     </div>
 
   </body>

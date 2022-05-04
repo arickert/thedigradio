@@ -36,7 +36,7 @@
     <div class="sidebar">
   <div style="text-align:center" id="search-demo-container">
         
-    <i class="fa-solid fa-magnifying-glass" style="position: sticky;left: 24px;top: 7px;font-size: 13px; color: #515151; "></i><input class="searchbar" type="search" id="search-input" placeholder="" style="background: #27262E;border: solid #515151;padding-left: 25px; color: #515151; font-family:'Scala'">
+    <i id="searchicon" class="fa-solid fa-magnifying-glass" style="position: sticky;left: 24px;top: 7px;font-size: 13px; color: #515151; "></i><input class="searchbar" type="search" id="search-input" placeholder="Search..." style="background: #27262E;border: solid #515151;padding-left: 25px; color: #515151; font-family:'Scala'">
     <ul style="position:absolute; padding-left:0.5rem; padding-bottom: 2rem; font-size:0.9rem; width:85%; text-align:left; " id="results-container"></ul>
   </div>
   <div id="sidebar" class="container sidebar-sticky">
@@ -46,7 +46,7 @@
           the 
         </a>
 </h1>
-      <h1 style="padding-left: 0.5rem;line-height: 0.45;font-size: 5.3rem;"><a>
+      <h1 class="digtitle" style="padding-left: 0.5rem;line-height: 0.45;font-size: 5.3rem;"><a href="/">
         Dig
     </a></h1>
       <p class="lead" style="margin-bottom:0.7rem" ></p>
@@ -2079,69 +2079,34 @@
 
     <div class="content container">
 
-      The Dig is Daniel Denvir's podcast on political economy, labor, imperialism, and immigration.
-
-Click here to listen to the latest episode, featuring Alexandria Ocasio Ortez.
-
-
-<!-- <div class="posts">
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/newsletter11">
-        Newsletter 11
-      </a>
-    </h1>
-
-    <span class="post-date">02 Apr 2022</span>
-
-    <p>Newsletter #11: The False Promises of Cryptocurrency with Edward Ongweso, Jr. and Jacob Silverman</p>
-
-<p>by Maia Silber</p>
-
-<p>The global market in cryptocurrency currently has a market cap of more than $2 trillion. Celebrities from Kim Kardashian to Elon Musk to Spike Lee have touted the benefits of decentralized, digital forms of money, promising that they will democratize finance by freeing ordinary investors from the tyranny of Wall Street and central banks.</p>
-
-<p>But far from liberating them, argue journalists Edward Ongweso, Jr. and Jacob Silverman, “crypto” distributors entrap their users in speculative gambits akin to multilevel marketing schemes.</p>
-
-<p>Digital asset exchanges make use of blockchain, a publicly distributed ledger that records transactions with encrypted data that cannot be retroactively altered. Some early boosters hoped that blockchain’s combination of transparency and privacy (the identities of individual users are not recorded) could be harnessed for socially beneficial means — for instance, to facilitate government or corporate whistleblowing. Mostly, though, crypto companies have exploited the technology for the creation of highly speculative markets in private money.</p>
-
-<p>Listen toThe Dig’sinterview with Edward Ongweso, Jr. and Jacob Silverman<a href="https://www.thedigradio.com/podcast/cryptocurrency-w-edward-ongweso-jr-jacob-silverman/">here.</a></p>
-
-<p>Unbacked by governments and unattached to real commodities, the “value” of crypto derives entirely from the fluctuating demand for its artificially limited supply. Crypto promoters often advertise explicitly speculative schemes such as “pump and dumps,” where users are encouraged to rapidly buy up a currency in order to inflate its value before offloading their stash — schemes in which it is not uncommon for the organizers and some participants to have secretly bought in early.</p>
-
-<p>The winners of such risky games are rarely ordinary users. More often, they are a small number of connected and highly capitalized individuals, some of them backed by major investment firms.</p>
-
-<p>Ongweso and Silverman see crypto’s false promise of egalitarianism as one of its most pernicious aspects. In an advertisement for the digital currency machine company Coin Cloud, Spike Lee urges viewers to reject the government currency that “systematically oppresses” and join the “digital revolution.” While funk music plays, he addresses himself to the millions of Americans, disproportionately people of color, who are unbanked and underbanked — never mind that investing in an extremely volatile asset is hardly advisable for those who are financially insecure.</p>
-
-<p>Like welfare privatization and the gig economy, then, crypto promises to equalize “opportunity” while removing public protections so that the already-rich can get even richer. This is no new digital utopia, argue Ongweso and Silverman, but the old story of enclosure, further dispossessing the already dispossessed.</p>
-
-<p>This is the first installment of our two-episode series on crypto. Next week, political theorist Stephen Eich situates crypto in the long history of political fights over money.</p>
-
-<p> </p>
-
-<p>Further Reading/ Listening</p>
-
-<p>Silverman and Ongweso both write regularly on cryptocurrency and digital technology more broadly; you can follow Silverman’s work in the<a href="https://newrepublic.com/authors/jacob-silverman">New Republic,</a> 
-and Ongweso’s in<a href="https://www.vice.com/en/contributor/edward-ongweso-jr">VICE</a>.Ongweso also co-hosts the podcast<a href="https://soundcloud.com/thismachinekillspod">“This Machine Kills.”</a></p>
-
-<p>Previously onThe Dig,<a href="https://www.thedigradio.com/podcast/counterculture-to-cyberculture-with-fred-turner/">Fred Turner</a>has discussed the surprising origins of today’s techno-utopian neoliberalism in the counterculture of the 1960s. And if you need some assurance that we’re not just “fiat shills,”<a href="https://www.thedigradio.com/podcast/inflation-politics-with-tim-barker/">listen to</a>(or<a href="https://jacobinmag.com/2021/09/socialist-primer-monetary-policy-inflation-federal-reserve-volcker-shock-class-tim-barker-interview">read</a>) Tim Barker on US monetary policy as class war.</p>
-
-<p> </p>
-
+      <section style="margin-left:0; margin-right:0" class="recent-posts">
+  <ul>
+  <div class="section-title mt-2">
+    <li style="font-size:2rem">
+      <span style="color: #79AA9D;font-family: 'RoslynGothic';font-size: 5rem;">The Dig</span>
+         is Daniel Denvir's podcast on political economy, labor, imperialism, and immigration.
+      </li>
   </div>
+  <div class="row listrecent">
   
-</div>
+  
+    
+      <li style="font-size:2rem">
+        Click 
+        <a href="podcast/clash-of-empires-w-ho-fung-hung" style="color:#79AA9D">here</a>
+        to listen to the latest episode, featuring 
+        
+            Ho-fung Hung.
+        
+      </li>
 
-<div class="pagination">
-  
-    <a class="pagination-item older" href="/page41">Older</a>
+     
   
   
-    
-      <a class="pagination-item newer" href="/page39">Newer</a>
-    
+  </div>
+  </li>
+  </section>
   
-</div> -->
     </div>
 
   </body>

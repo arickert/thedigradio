@@ -36,7 +36,7 @@
     <div class="sidebar">
   <div style="text-align:center" id="search-demo-container">
         
-    <i class="fa-solid fa-magnifying-glass" style="position: sticky;left: 24px;top: 7px;font-size: 13px; color: #515151; "></i><input class="searchbar" type="search" id="search-input" placeholder="" style="background: #27262E;border: solid #515151;padding-left: 25px; color: #515151; font-family:'Scala'">
+    <i id="searchicon" class="fa-solid fa-magnifying-glass" style="position: sticky;left: 24px;top: 7px;font-size: 13px; color: #515151; "></i><input class="searchbar" type="search" id="search-input" placeholder="Search..." style="background: #27262E;border: solid #515151;padding-left: 25px; color: #515151; font-family:'Scala'">
     <ul style="position:absolute; padding-left:0.5rem; padding-bottom: 2rem; font-size:0.9rem; width:85%; text-align:left; " id="results-container"></ul>
   </div>
   <div id="sidebar" class="container sidebar-sticky">
@@ -46,7 +46,7 @@
           the 
         </a>
 </h1>
-      <h1 style="padding-left: 0.5rem;line-height: 0.45;font-size: 5.3rem;"><a>
+      <h1 class="digtitle" style="padding-left: 0.5rem;line-height: 0.45;font-size: 5.3rem;"><a href="/">
         Dig
     </a></h1>
       <p class="lead" style="margin-bottom:0.7rem" ></p>
@@ -2079,70 +2079,34 @@
 
     <div class="content container">
 
-      The Dig is Daniel Denvir's podcast on political economy, labor, imperialism, and immigration.
-
-Click here to listen to the latest episode, featuring Alexandria Ocasio Ortez.
-
-
-<!-- <div class="posts">
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/newsletter19">
-        Newsletter 19
-      </a>
-    </h1>
-
-    <span class="post-date">02 Apr 2022</span>
-
-    <p>Newsletter #19: War in Ukraine on a Burning Planet, with Tony Wood</p>
-
-<p>By Mack Penner </p>
-
-<p>Developments from the war in Ukraine, ongoing for a week as I write this, are moving at a frenzied pace. Keeping up with the reporting seems to require hours of attention daily; keeping up with analysis of the war is at least equally challenging, as for every cogent and considered piece there are a great many more that are not worth the time of day. Which makes 
-’s 
-<a href="https://www.thedigradio.com/podcast/russia-invades-w-tony-wood/">interview</a> with Tony Wood, author of 
-, a welcome anchor. </p>
-
-<p>Against the backdrop of war, there are few certainties, especially when it comes to matters of geopolitics. But as Wood discusses in the interview, current geopolitical uncertainty runs up against the very sure thing of climate change. Mitigating the worst outcomes of climate change requires concerted state action at the global level — and such action is nigh impossible to imagine in a warming world at war. </p>
-
-<p>Accordingly, it’s worth highlighting the 
-<a href="https://www.ft.com/content/5de27c61-0095-4add-8076-7469b27a4bb8">recent news</a> from the Intergovernmental Panel on Climate Change (IPCC), which released the 
-<a href="https://www.ipcc.ch/report/ar6/wg2/">latest portion</a> of its major report. The previous installment was 
-<a href="https://www.theguardian.com/environment/2021/aug/09/ipcc-reports-verdict-on-climate-crimes-of-humanity-guilty-as-hell">big news</a> at the end of last summer; this one appeared much more quietly, three days into the Russian invasion. The findings conclude that the consequences of climate change are likely to be worse than previously thought. And what was previously thought wasn’t exactly rosy. </p>
-
-<p>The IPCC report is a litany of disasters both looming and already-arrived: destroyed ecosystems, rapidly rising seas, extreme weather, and trillions of dollars in damage and losses, to say nothing of the unquantifiable suffering that will be endured by living things. The “window of opportunity” in which human actions can intervene to stave off the worst and ensure the continuing habitability of the earth is closing. </p>
-
-<p>War imperils our collective ability to address the climate crisis. So, with war ongoing (
-<a href="https://jacobinmag.com/2022/02/joe-biden-war-yemen-us-foreign-policy-humanitarian-crisis">and not only in Ukraine</a>), what is to be done? Clearly left internationalism, anti-war and anti-capitalist, is required by the moment. Solidarity with the people of Ukraine goes without saying. </p>
-
-<p>    On the war in Ukraine, be sure to have a look at the 
-<a href="https://www.thedigradio.com/podcast/russia-invades-w-tony-wood/">show notes</a>. Otherwise, I recommend stepping out of the current discursive fervor and reading 
-<a href="https://www.thenation.com/article/archive/gift-time-introduction/">Jonathan Schell’s argument for the abolition of nuclear weapons</a>, written more than twenty years ago and unfortunately still-relevant. For an understanding of Putin that you won’t get from the mainstream media, read Wood’s 
-<a href="https://www.versobooks.com/books/2839-russia-without-putin"></a>.</p>
-
-<p>    Read Andreas Malm’s opus, 
-<a href="https://www.versobooks.com/books/2002-fossil-capital"></a>, on the history of our current climate predicaments. Read Geoff Mann and Joel Wainwright’s 
-<a href="https://www.versobooks.com/books/3138-climate-leviathan"></a> on where we might go from here. And 
- has an 
-<a href="https://www.thedigradio.com/tag/environment/">extensive archive of climate episodes</a>. Kate Aronoff’s 
-<a href="https://www.thedigradio.com/podcast/climate-politics-with-kate-aronoff/">interview</a> would be a good place to start. </p>
-
-
+      <section style="margin-left:0; margin-right:0" class="recent-posts">
+  <ul>
+  <div class="section-title mt-2">
+    <li style="font-size:2rem">
+      <span style="color: #79AA9D;font-family: 'RoslynGothic';font-size: 5rem;">The Dig</span>
+         is Daniel Denvir's podcast on political economy, labor, imperialism, and immigration.
+      </li>
   </div>
+  <div class="row listrecent">
   
-</div>
+  
+    
+      <li style="font-size:2rem">
+        Click 
+        <a href="podcast/clash-of-empires-w-ho-fung-hung" style="color:#79AA9D">here</a>
+        to listen to the latest episode, featuring 
+        
+            Ho-fung Hung.
+        
+      </li>
 
-<div class="pagination">
-  
-    <a class="pagination-item older" href="/page33">Older</a>
+     
   
   
-    
-      <a class="pagination-item newer" href="/page31">Newer</a>
-    
+  </div>
+  </li>
+  </section>
   
-</div> -->
     </div>
 
   </body>

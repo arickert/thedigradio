@@ -46,9 +46,13 @@ html {
     font-size: 16px;
   }
 }
-@media (min-width: 58em) {
+@media (min-width: 76em) {
   html {
     font-size: 20px;
+  }
+  .icon-bar{
+    gap:5px;
+    margin-left:0px;
   }
 }
 
@@ -69,6 +73,10 @@ html {
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
+ #searchicon{
+   visibility:hidden; 
+ }
+
 .sidebar {
   text-align: center;
   padding: 1.25rem 1rem;
@@ -78,9 +86,16 @@ html {
 
   /* color: rgba(255,255,255,.5); */
   /* background-color: #202020; */
-  height:25em;
+  height:27em;
+}
+
+.digtitle{
+  margin-bottom:2rem;
 }
 @media (min-width: 48em) {
+  .digtitle{
+    margin-bottom:1rem;
+  }
   .sidebar {
     border-bottom: none;
     border-right: dashed;
@@ -151,9 +166,11 @@ a.sidebar-nav-item:focus {
 
 .icon-bar{
   display:grid;
+  margin-left:10px;
   grid-template-columns: 25px 25px 25px 25px 25px 25px;
-  gap:5px;
+  gap:3px;
 }
+
 
 /* Sticky sidebar
  *
@@ -162,6 +179,9 @@ a.sidebar-nav-item:focus {
  */
 
 @media (min-width: 48em) {
+  #searchicon{
+    visibility:visible; 
+  }
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
@@ -170,6 +190,8 @@ a.sidebar-nav-item:focus {
   }
   .searchbar{
     width:90%;
+    placeholder:"";
+
   }
 }
 
@@ -188,7 +210,7 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
-    margin-left: 20rem;
+    margin-left: 15rem;
     margin-right: 2rem;
     padding-bottom:0rem;  
   }

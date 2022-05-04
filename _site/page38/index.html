@@ -36,7 +36,7 @@
     <div class="sidebar">
   <div style="text-align:center" id="search-demo-container">
         
-    <i class="fa-solid fa-magnifying-glass" style="position: sticky;left: 24px;top: 7px;font-size: 13px; color: #515151; "></i><input class="searchbar" type="search" id="search-input" placeholder="" style="background: #27262E;border: solid #515151;padding-left: 25px; color: #515151; font-family:'Scala'">
+    <i id="searchicon" class="fa-solid fa-magnifying-glass" style="position: sticky;left: 24px;top: 7px;font-size: 13px; color: #515151; "></i><input class="searchbar" type="search" id="search-input" placeholder="Search..." style="background: #27262E;border: solid #515151;padding-left: 25px; color: #515151; font-family:'Scala'">
     <ul style="position:absolute; padding-left:0.5rem; padding-bottom: 2rem; font-size:0.9rem; width:85%; text-align:left; " id="results-container"></ul>
   </div>
   <div id="sidebar" class="container sidebar-sticky">
@@ -46,7 +46,7 @@
           the 
         </a>
 </h1>
-      <h1 style="padding-left: 0.5rem;line-height: 0.45;font-size: 5.3rem;"><a>
+      <h1 class="digtitle" style="padding-left: 0.5rem;line-height: 0.45;font-size: 5.3rem;"><a href="/">
         Dig
     </a></h1>
       <p class="lead" style="margin-bottom:0.7rem" ></p>
@@ -2079,67 +2079,34 @@
 
     <div class="content container">
 
-      The Dig is Daniel Denvir's podcast on political economy, labor, imperialism, and immigration.
-
-Click here to listen to the latest episode, featuring Alexandria Ocasio Ortez.
-
-
-<!-- <div class="posts">
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/newsletter13">
-        Newsletter 13
-      </a>
-    </h1>
-
-    <span class="post-date">02 Apr 2022</span>
-
-    <p>Newsletter #13: A Path Forward for Workers in Rust Belt America, with Gabriel Winant</p>
-
-<p>by Benjamin Feldman</p>
-
-<p>Between the recognition of the Steel Workers Organizing Committee in 1937 and their 116-day strike in 1959, Pittsburgh’s steelworkers fought for — and won — health and disability insurance, pensions, consistent wage increases, and a slice of decency and dignity on the job. Sixty years later, steel is only Pittsburgh’s sixteenth largest employer, and roughly one out of every five workers in the Steel City works in health care or social assistance. </p>
-
-<p>That service work has eclipsed manufacturing across the Rust Belt is well-understood. Less understood is the argument at the center of 
-<a href="https://www.hup.harvard.edu/catalog.php?isbn=9780674238091">Gabriel Winant’s </a>: that the industrial economy 
- the care economy. Reconstructing the “social world” that Pittsburgh steel made, Winant shows that “as the industrial basis of this world began to collapse, its inhabitants … drew on the resources they had, embedded in the relationships and identities they had already built. …Their world was melted down and recast,” Winant writes, “but it was still made from the same materials.”</p>
-
-<p>Pittsburgh’s economy was built and maintained through a series of compromises, which temporarily defended the economic citizenship of a mostly white and male cohort of union workers in part (but only in part) through the exclusion of large numbers of women and African Americans. Winant shows that, as manufacturing crumbled, these excluded workers found jobs in the area’s rapidly expanding network of hospitals and nursing homes — an expansion
- made possible by financialization and necessitated by the increasing health care needs of a mid-century labor force prematurely aged by the ravages of a lifetime in the mills. The low wages paid to this mostly non-union, and disproportionately Black and female, workforce have led to Pittsburgh having one of the 
-<a href="https://pittsburghunited.org/wp-content/uploads/2021/09/New-Day-in-the-Neighborhood.pdf">highest African-American poverty rates in</a> the United States.</p>
-
-<p>Beyond untangling the roots of the increasingly precarious, contingent, and uncertain economy of the twenty-first century, Winant suggests a possible path forward — one that does not rely on nostalgia for the mid-twentieth century’s industrial labor force. Instead, Winant offers a vision of a shared politics wherein both those receiving care 
- the essential workers providing that care unite in struggle for a more inclusive social citizenship. </p>
-
-<p>Further reading</p>
-
-<p>Winant has written on the relationships between labor, political economy, and care work in the age of COVID for 
-<a href="https://www.nplusonemag.com/issue-37/politics/coronavirus-and-chronopolitics-2/"></a>, and 
-<a href="https://theintercept.com/2021/10/17/john-deere-strike-labor-market/"></a>. You can hear him discussing these and related essays on 
-<a href="https://www.thedigradio.com/podcast/the-social-question-with-gabriel-winant/">The Dig.</a>    </p>
-
-<p>For a deeper investigation into the Strike of 1959, see “
-<a href="https://www.journals.uchicago.edu/doi/full/10.1086/690968">Conflict and Consensus: The Steel Strike of 1959 and the Anatomy of the New Deal Order</a>,” written by Winant and historians Kristoffer Smemo and Samir Sonti. Both this article and 
- draw on Jack Metzger’s classic memoir 
-<a href="https://tupress.temple.edu/book/3539"></a>. Serving as guest host for 
-Winant recently interviewed Alex Press, Jonah Furman, and Victor P. Bouzi 
-<a href="https://www.thedigradio.com/podcast/striketober/">here</a> on the upsurge in labor militancy during the fall and winter of 2020. </p>
-
+      <section style="margin-left:0; margin-right:0" class="recent-posts">
+  <ul>
+  <div class="section-title mt-2">
+    <li style="font-size:2rem">
+      <span style="color: #79AA9D;font-family: 'RoslynGothic';font-size: 5rem;">The Dig</span>
+         is Daniel Denvir's podcast on political economy, labor, imperialism, and immigration.
+      </li>
   </div>
+  <div class="row listrecent">
   
-</div>
+  
+    
+      <li style="font-size:2rem">
+        Click 
+        <a href="podcast/clash-of-empires-w-ho-fung-hung" style="color:#79AA9D">here</a>
+        to listen to the latest episode, featuring 
+        
+            Ho-fung Hung.
+        
+      </li>
 
-<div class="pagination">
-  
-    <a class="pagination-item older" href="/page39">Older</a>
+     
   
   
-    
-      <a class="pagination-item newer" href="/page37">Newer</a>
-    
+  </div>
+  </li>
+  </section>
   
-</div> -->
     </div>
 
   </body>

@@ -36,7 +36,7 @@
     <div class="sidebar">
   <div style="text-align:center" id="search-demo-container">
         
-    <i class="fa-solid fa-magnifying-glass" style="position: sticky;left: 24px;top: 7px;font-size: 13px; color: #515151; "></i><input class="searchbar" type="search" id="search-input" placeholder="" style="background: #27262E;border: solid #515151;padding-left: 25px; color: #515151; font-family:'Scala'">
+    <i id="searchicon" class="fa-solid fa-magnifying-glass" style="position: sticky;left: 24px;top: 7px;font-size: 13px; color: #515151; "></i><input class="searchbar" type="search" id="search-input" placeholder="Search..." style="background: #27262E;border: solid #515151;padding-left: 25px; color: #515151; font-family:'Scala'">
     <ul style="position:absolute; padding-left:0.5rem; padding-bottom: 2rem; font-size:0.9rem; width:85%; text-align:left; " id="results-container"></ul>
   </div>
   <div id="sidebar" class="container sidebar-sticky">
@@ -46,7 +46,7 @@
           the 
         </a>
 </h1>
-      <h1 style="padding-left: 0.5rem;line-height: 0.45;font-size: 5.3rem;"><a>
+      <h1 class="digtitle" style="padding-left: 0.5rem;line-height: 0.45;font-size: 5.3rem;"><a href="/">
         Dig
     </a></h1>
       <p class="lead" style="margin-bottom:0.7rem" ></p>
@@ -2079,75 +2079,34 @@
 
     <div class="content container">
 
-      The Dig is Daniel Denvir's podcast on political economy, labor, imperialism, and immigration.
-
-Click here to listen to the latest episode, featuring Alexandria Ocasio Ortez.
-
-
-<!-- <div class="posts">
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/newsletter9">
-        Newsletter9
-      </a>
-    </h1>
-
-    <span class="post-date">02 Apr 2022</span>
-
-    <p>Newsletter #9: Brazilian President Jair Bolsonaro Is a “Major Threat to Life on the Planet”</p>
-
-<p>By Micah Uetricht</p>
-
-<p>Observing Brazil from the United States, especially during the Trump years, it was hard not to be struck with a sense of déjà vu. Watching populist far-right president Jair Bolsonaro often feels similar to watching former president Donald Trump: the corruption is so unabashed and complete, the incompetence so absurd, leftists often have remind themselves not to be distracted from the actual substance of their governance, a horror show of cruelty and misery that both men have inflicted upon their respective countries and the entire world.</p>
-
-<p>But in Brazil, these horrors have come after some of the greatest advances for the poor and working class that any society on the planet has seen in the past half century or more, carried out under wildly popular Workers Party leader and former (and possibly future) Brazilian president Luiz Inácio Lula da Silva. In 2011, historian Perry Anderson called Lula “the most successful politician of his time.” </p>
-
-<p>But the series of events that played out in Latin America’s largest country over the next few years were dizzying: Lula’s successor Dilma Roussef was impeached in what many deemed a “constitutional coup”; Bolsonaro won the presidency, producing a cavalcade of anti-working-class, homophobic and misogynist, ecological, and public-health disasters; and Lula was imprisoned for a year and a half on bogus corruption charges, a victim of a supposed anti-corruption campaign that was later revealed to be simply a tool of right-wing political warfare. </p>
-
-<p>Brazil’s politics can be difficult for outsiders to understand. Luckily, for this episode, we have two Brazil scholars as our guides: Andre Pagliarini, a historian at Hampden-Sydney College, columnist at 
-, and author of a forthcoming book on Brazilian nationalism; and Sabrina Fernandes, a sociologist, postdoctoral fellow at the International Research Group on Authoritarianism and Counter-Strategies through the Rosa Luxemburg Stiftung, and lead editor for 
-.</p>
-
-<p>Listen to’s interview with Pagliarini and Fernandes<a href="https://www.thedigradio.com/podcast/brazil-w-sabrina-fernandes-andre-pagliarini/">here</a>.</p>
-
-<p>Fernandes sums up Bolsonaro’s presidency succinctly: “He’s a major threat to life in the country and, if we consider geopolitical issues and ecological issues, to life on the planet,” </p>
-
-<p>This episode is the first of two 
- episodes on Brazil and Bolsonaro. You can listen to the next episode on Bolsonarismo with Brazilian leftist scholar Rodrigo Nunes 
-<a href="https://www.thedigradio.com/podcast/bolsonarismo-with-rodrigo-nunes/">here</a>.</p>
-
-<p> </p>
-
-<p>has covered Brazilian politics and history closely over the years. Subscribers can explore this vast archive 
-<a href="https://jacobinmag.com/location/brazil">here</a>, and everyone can read Sabrina Fernandes’s piece “
-<a href="https://www.jacobinmag.com/2021/08/jair-bolsonaro-brazil-law-and-order-far-right-politics">Bolsonaro Is Criminalizing the Brazilian Left</a>.” If you read Portuguese, you can also examine 
-<a href="https://jacobin.com.br/"></a>. Andre Pagliarini’s most recent article for 
- is “
-<a href="https://brazilian.report/opinion/2021/11/11/climate-negotiations-bolsonaro/">Climate Negotiations With Bolsonaro a Lost Cause</a>.” </p>
-
-<p>For another 
-interview on Brazil, check out this 
-<a href="https://www.thedigradio.com/podcast/explaining-brazils-crisis-with-alfredo-saad-filho/">2018 interview with Alfredo Saad-Filho</a>. And for those in search of a concise introduction to Brazilian history since the 1964 dictatorship, including the rise and fall of Lula and the ascent of Bolsonaro, you can’t do much better than Perry Anderson’s 
-<a href="https://www.versobooks.com/books/3100-brazil-apart"></a>.</p>
-
-<p> </p>
-
-
+      <section style="margin-left:0; margin-right:0" class="recent-posts">
+  <ul>
+  <div class="section-title mt-2">
+    <li style="font-size:2rem">
+      <span style="color: #79AA9D;font-family: 'RoslynGothic';font-size: 5rem;">The Dig</span>
+         is Daniel Denvir's podcast on political economy, labor, imperialism, and immigration.
+      </li>
   </div>
+  <div class="row listrecent">
   
-</div>
+  
+    
+      <li style="font-size:2rem">
+        Click 
+        <a href="podcast/clash-of-empires-w-ho-fung-hung" style="color:#79AA9D">here</a>
+        to listen to the latest episode, featuring 
+        
+            Ho-fung Hung.
+        
+      </li>
 
-<div class="pagination">
-  
-    <a class="pagination-item older" href="/page21">Older</a>
+     
   
   
-    
-      <a class="pagination-item newer" href="/page19">Newer</a>
-    
+  </div>
+  </li>
+  </section>
   
-</div> -->
     </div>
 
   </body>

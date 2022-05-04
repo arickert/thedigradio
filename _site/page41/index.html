@@ -36,7 +36,7 @@
     <div class="sidebar">
   <div style="text-align:center" id="search-demo-container">
         
-    <i class="fa-solid fa-magnifying-glass" style="position: sticky;left: 24px;top: 7px;font-size: 13px; color: #515151; "></i><input class="searchbar" type="search" id="search-input" placeholder="" style="background: #27262E;border: solid #515151;padding-left: 25px; color: #515151; font-family:'Scala'">
+    <i id="searchicon" class="fa-solid fa-magnifying-glass" style="position: sticky;left: 24px;top: 7px;font-size: 13px; color: #515151; "></i><input class="searchbar" type="search" id="search-input" placeholder="Search..." style="background: #27262E;border: solid #515151;padding-left: 25px; color: #515151; font-family:'Scala'">
     <ul style="position:absolute; padding-left:0.5rem; padding-bottom: 2rem; font-size:0.9rem; width:85%; text-align:left; " id="results-container"></ul>
   </div>
   <div id="sidebar" class="container sidebar-sticky">
@@ -46,7 +46,7 @@
           the 
         </a>
 </h1>
-      <h1 style="padding-left: 0.5rem;line-height: 0.45;font-size: 5.3rem;"><a>
+      <h1 class="digtitle" style="padding-left: 0.5rem;line-height: 0.45;font-size: 5.3rem;"><a href="/">
         Dig
     </a></h1>
       <p class="lead" style="margin-bottom:0.7rem" ></p>
@@ -2079,77 +2079,34 @@
 
     <div class="content container">
 
-      The Dig is Daniel Denvir's podcast on political economy, labor, imperialism, and immigration.
-
-Click here to listen to the latest episode, featuring Alexandria Ocasio Ortez.
-
-
-<!-- <div class="posts">
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/newsletter10">
-        Newsletter 10
-      </a>
-    </h1>
-
-    <span class="post-date">02 Apr 2022</span>
-
-    <p>Newsletter #10: How Neoliberalism Creates Right-Wing Reaction, with Rodrigo Nunes</p>
-
-<p>By Mack Penner</p>
-
-<p>As far-right movements have proliferated across the globe, often on the strength of popular support significant enough to win elections, the relationship between neoliberalism and the politics of reaction has become an urgent problem for the Left. Decades of neoliberal governance, deeply undemocratic in their own right, have helped create an openly anti-democratic politics that is often hateful and violent.</p>
-
-<p>The second of back-to-back episodes on Brazil (you can listen to the first, with historian Andre Pagliarini and sociologist Sabrina Fernandes, 
-<a href="https://www.thedigradio.com/podcast/brazil-w-sabrina-fernandes-andre-pagliarini/">here</a>), 
-’s interview with Rodrigo Nunes takes the politics of Bolsonarismo as a case study for assessing these developments. In a 
-<a href="https://www.radicalphilosophy.com/article/of-what-is-bolsonaro-the-name">pair</a> of 
-<a href="http://www.publicbooks.org/are-we-in-denial-about-denial/">essays</a> published last year, Nunes argues that core to neoliberalism’s creation of widespread right-wing reaction is a kind of “denialism.” </p>
-
-<p>While neoliberalism has created increasing political and economic dissatisfaction among large groups of people, that dissatisfaction has not exclusively or even primarily led to the emergence of a new anti-capitalist common sense around which left movements can readily mobilize. Instead, politicians like Jair Bolsonaro and other reactionary populists have capitalized on popular discontent and directed it towards reactionary ends. </p>
-
-<p>Listen to’s interview with Rodrigo Nunes<a href="https://www.thedigradio.com/podcast/bolsonarismo-with-rodrigo-nunes/">here</a>.</p>
-
-<p>The denialist sword is double-edged: people in an unconscious denial about the causes of their problems become eager consumers of conscious denial, happily supplied by reactionaries like Bolsonaro. As Nunes puts it at the conclusion of an essay in 
-, denialism “seals an alliance between those gearing up for surviving in worsening conditions and an elite increasingly at ease with the idea that ‘the earth no longer has enough room for them and for everyone else.’”</p>
-
-<p> </p>
-
-<p>Nunes’s interview with 
- is the latest entry in a series of episodes about neoliberalism, democracy, and the social politics of the Right. Previously, political theorist Wendy Brown has 
-<a href="https://www.thedigradio.com/podcast/ruins-of-neoliberalism-with-wendy-brown/">discussed</a> her book 
-<a href="http://cup.columbia.edu/book/in-the-ruins-of-neoliberalism/9780231193856"></a>, about how neoliberalism has legitimized anti-democratic politics. Historian Quinn Slobodian was 
-<a href="https://www.thedigradio.com/podcast/a-history-of-neoliberalism-with-quinn-slobodian/">interviewed</a> about his book 
-<a href="https://www.hup.harvard.edu/catalog.php?isbn=9780674979529"></a>, which traces the fear of democracy through the intellectual history of neoliberalism. And in a 
-<a href="https://www.thedigradio.com/podcast/family-values-with-melinda-cooper-2/">classic episode</a>, sociologist Melinda Cooper talks about her book 
-<a href="https://press.princeton.edu/books/paperback/9781935408345/family-values"></a>, on the symbiotic relationship between neoliberals and social conservatives. </p>
-
-<p>If you’d like a general and wide-ranging introduction to the thought and practice of neoliberalism, you can hardly do better than the edited collection 
-<a href="https://www.versobooks.com/books/3075-nine-lives-of-neoliberalism"></a>, an e-version of which is available for free from Verso. </p>
-
-<p>In addition to the suggestions on Brazil that you can find in 
-<a href="https://www.thedigradio.com/newsletter/">Newsletter #9</a> and the books mentioned above, you might read 
-<a href="https://jacobinmag.com/2021/06/neoliberalism-democracy-populist-right">Aldo Madariaga</a>’s or 
-<a href="https://jacobinmag.com/2019/09/in-the-ruins-of-neoliberalism-wendy-brown">Daniel Zamora and Niklas Olsen</a>’s recent pieces in 
-.</p>
-
-<p> </p>
-
+      <section style="margin-left:0; margin-right:0" class="recent-posts">
+  <ul>
+  <div class="section-title mt-2">
+    <li style="font-size:2rem">
+      <span style="color: #79AA9D;font-family: 'RoslynGothic';font-size: 5rem;">The Dig</span>
+         is Daniel Denvir's podcast on political economy, labor, imperialism, and immigration.
+      </li>
   </div>
+  <div class="row listrecent">
   
-</div>
+  
+    
+      <li style="font-size:2rem">
+        Click 
+        <a href="podcast/clash-of-empires-w-ho-fung-hung" style="color:#79AA9D">here</a>
+        to listen to the latest episode, featuring 
+        
+            Ho-fung Hung.
+        
+      </li>
 
-<div class="pagination">
-  
-    <a class="pagination-item older" href="/page42">Older</a>
+     
   
   
-    
-      <a class="pagination-item newer" href="/page40">Newer</a>
-    
+  </div>
+  </li>
+  </section>
   
-</div> -->
     </div>
 
   </body>

@@ -36,7 +36,7 @@
     <div class="sidebar">
   <div style="text-align:center" id="search-demo-container">
         
-    <i class="fa-solid fa-magnifying-glass" style="position: sticky;left: 24px;top: 7px;font-size: 13px; color: #515151; "></i><input class="searchbar" type="search" id="search-input" placeholder="" style="background: #27262E;border: solid #515151;padding-left: 25px; color: #515151; font-family:'Scala'">
+    <i id="searchicon" class="fa-solid fa-magnifying-glass" style="position: sticky;left: 24px;top: 7px;font-size: 13px; color: #515151; "></i><input class="searchbar" type="search" id="search-input" placeholder="Search..." style="background: #27262E;border: solid #515151;padding-left: 25px; color: #515151; font-family:'Scala'">
     <ul style="position:absolute; padding-left:0.5rem; padding-bottom: 2rem; font-size:0.9rem; width:85%; text-align:left; " id="results-container"></ul>
   </div>
   <div id="sidebar" class="container sidebar-sticky">
@@ -46,7 +46,7 @@
           the 
         </a>
 </h1>
-      <h1 style="padding-left: 0.5rem;line-height: 0.45;font-size: 5.3rem;"><a>
+      <h1 class="digtitle" style="padding-left: 0.5rem;line-height: 0.45;font-size: 5.3rem;"><a href="/">
         Dig
     </a></h1>
       <p class="lead" style="margin-bottom:0.7rem" ></p>
@@ -2079,78 +2079,34 @@
 
     <div class="content container">
 
-      The Dig is Daniel Denvir's podcast on political economy, labor, imperialism, and immigration.
-
-Click here to listen to the latest episode, featuring Alexandria Ocasio Ortez.
-
-
-<!-- <div class="posts">
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/newsletter16">
-        Newsletter 16
-      </a>
-    </h1>
-
-    <span class="post-date">02 Apr 2022</span>
-
-    <p>Newsletter #16: The Real Story of What’s Happening in Ukraine, with Volodymyr Ishchenko</p>
-
-<p>by William Harris</p>
-
-<p>You could be forgiven for being confused about what’s happening in Ukraine. On the one hand, unless you have an admirable ability to tune out the mainstream US press, you have heard that Russian President Vladimir Putin has amassed troops somewhere in the vicinity of the Ukrainian border, and that a Russian invasion is now imminent. On the other hand, if you 
-have been able to escape the insular punditry of these media narratives, you have perhaps heard the Ukrainian president say not only that war is not imminent, but also that the Biden administration should stop needlessly inciting tension and hysteria.</p>
-
-<p>What is happening? What motivates the Biden administration to inflate the likelihood of war? What motivates Putin to escalate conflict with Ukraine? And what, amid all this trumped-up war talk, do Ukraine’s own very different and competing political constituencies want?</p>
-
-<p>This week’s 
-Digepisode features Ukrainian sociologist Volodymyr Ishchenko, a brilliant analyst of 
-<a href="https://lefteast.org/contradictions-post-soviet-ukraine-failure-ukraine-new-left/">social movements</a>, 
-<a href="https://www.ponarseurasia.org/how-maidan-revolutions-reproduce-and-intensify-the-post-soviet-crisis-of-political-representation/">revolutions</a>, and the 
-<a href="https://lefteast.org/ukraine-in-the-vicious-circle-of-the-post-soviet-crisis-of-hegemony/">crises of the post-Soviet world</a>, who contextualizes all these questions and more by placing the current conflict in a long history that reaches back to World War II, the fall of the Soviet Union, and the 2014 Maidan Revolution.</p>
-
-<p><strong>Listen to</strong>
-<strong>The Dig</strong><strong>’s interview with Volodymyr Ishchenko</strong>
-<a href="https://www.thedigradio.com/podcast/ukraine-w-volodymyr-ishchenko/"><strong>here</strong></a><strong>.</strong></p>
-
-<p>In 2014, Ukraine’s then-president Viktor Yanukovych reneged at the last minute on a free-trade agreement with the European Union, accepting instead a different agreement with Russia. Small crowds protested in Kiev’s main square, or “maidan.” In a strange episode still shrouded in mystery — did Yanukovvych order it? was it a false flag? — the crowds were violently dispersed, a needless act of aggression that swelled the protests and eventually led to revolution.</p>
-
-<p>In the ensuing years, Ukrainian politics have grown sharply polarized between a liberal and nationalist camp, boasting an uneasy alliance of West-looking neoliberals and far-right extremists; and a Russia-aligned camp that plays up Ukraine’s deep cultural, linguistic, and economic ties to the massive power to its north and east.</p>
-
-<p>Yet as Ishchenko argues, this culturally inflected, identitarian hyper-polarization — spurred along by large influxes of US military aid on the one hand and Putin’s propaganda machine on the other — leaves out the vast majority of Ukrainians, who remain depoliticized, culturally bound to both Russia and Ukrainian nationalism, and faced with the economic pressures of life in a poor country that has greatly accelerated neoliberal austerity since 2014.</p>
-
-<p>Ishchenko argues the Left has room to break out of this impasse — though for reasons of leftist historical fragility, all that currently appears on the horizon is depoliticization and polarization on the domestic front, and saber-rattling and propaganda internationally.</p>
-
-<p>Further Reading and Listening</p>
-
-<p>For more in-depth analysis of Ukraine, Putin, and the West, check out 
-<a href="https://newleftreview.org/issues/ii94/articles/perry-anderson-incommensurate-russia">Perry Anderson’s masterful overview of Putin’s Russia</a> in 
-New Left Review, as well as 
-n+1’s 2016 supplement on Ukraine, introduced 
-<a href="https://www.nplusonemag.com/issue-24/ukraine-supplement/introduction-3/">here</a> by Keith Gessen and featuring 
-<a href="https://www.nplusonemag.com/issue-24/ukraine-supplement/states-of-shock/">Tony Wood on neoliberal shock therapy</a>, 
-<a href="https://www.nplusonemag.com/issue-24/ukraine-supplement/leninopad/">Sophie Pinkham on de-Communization</a>, and 
-<a href="https://www.nplusonemag.com/issue-24/ukraine-supplement/maidan-and-after/">Nina Potarskaya on the Ukrainian Left</a>, among others.</p>
-
-<p>For more 
-Diglistening, revisit 
-<a href="https://www.thedigradio.com/podcast/russia-beyond-putin-with-tony-wood/">our interview with Tony Wood</a> on the West’s obsession with and miscomprehension of Putin.</p>
-
+      <section style="margin-left:0; margin-right:0" class="recent-posts">
+  <ul>
+  <div class="section-title mt-2">
+    <li style="font-size:2rem">
+      <span style="color: #79AA9D;font-family: 'RoslynGothic';font-size: 5rem;">The Dig</span>
+         is Daniel Denvir's podcast on political economy, labor, imperialism, and immigration.
+      </li>
   </div>
+  <div class="row listrecent">
   
-</div>
+  
+    
+      <li style="font-size:2rem">
+        Click 
+        <a href="podcast/clash-of-empires-w-ho-fung-hung" style="color:#79AA9D">here</a>
+        to listen to the latest episode, featuring 
+        
+            Ho-fung Hung.
+        
+      </li>
 
-<div class="pagination">
-  
-    <a class="pagination-item older" href="/page36">Older</a>
+     
   
   
-    
-      <a class="pagination-item newer" href="/page34">Newer</a>
-    
+  </div>
+  </li>
+  </section>
   
-</div> -->
     </div>
 
   </body>

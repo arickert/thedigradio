@@ -1,11 +1,27 @@
 [
   
     {
+      "title"    : "Clash of Empires w/ Ho-fung Hung",
+      "category" : "",
+      "tags"     : "Ho-fung Hung",
+      "url"      : "//podcast/clash-of-empires-w-ho-fung-hung",
+      "date"     : "2022-05-04 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Vaccine Apartheid Endures w/ Achal Prabhala",
+      "category" : "",
+      "tags"     : "Achal Prabhala",
+      "url"      : "//podcast/vaccine-apartheid-endures-w-achal-prabhala",
+      "date"     : "2022-05-03 00:00:00 -0400"
+    } ,
+  
+    {
       "title"    : "Transcriptx",
       "category" : "",
-      "tags"     : "",
+      "tags"     : "Nafis Hasan",
       "url"      : "//newsletterx",
-      "date"     : "2022-04-02 00:00:00 -0400"
+      "date"     : "2022-05-02 00:00:00 -0400"
     } ,
   
     {
@@ -13,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletterx",
-      "date"     : "2022-04-02 00:00:00 -0400"
+      "date"     : "2022-05-02 00:00:00 -0400"
     } ,
   
     {
@@ -334,22 +350,6 @@
       "tags"     : "",
       "url"      : "//newsletter1",
       "date"     : "2022-04-02 00:00:00 -0400"
-    } ,
-  
-    {
-      "title"    : "Vaccine Apartheid Endures w/ Achal Prabhala",
-      "category" : "",
-      "tags"     : "Achal Prabhala",
-      "url"      : "//podcast/vaccine-apartheid-endures-w-achal-prabhala",
-      "date"     : "2022-04-01 00:00:00 -0400"
-    } ,
-  
-    {
-      "title"    : "Clash of Empires w/ Ho-fung Hung",
-      "category" : "",
-      "tags"     : "Ho-fung Hung",
-      "url"      : "//podcast/clash-of-empires-w-ho-fung-hung",
-      "date"     : "2022-03-23 00:00:00 -0400"
     } ,
   
     {
