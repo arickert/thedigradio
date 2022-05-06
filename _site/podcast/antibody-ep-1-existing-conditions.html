@@ -33,7 +33,10 @@
 
   <body style="background-color: #27262E">
 
-    <div class="sidebar">
+    <div>
+  <button onClick="myFunction()"class="mobile-dropdown-toggle">
+  </button>
+<div id="sidebar2" class="sidebar">
   <div style="text-align:center" id="search-demo-container">
         
     <i id="searchicon" class="fa-solid fa-magnifying-glass" style="position: sticky;left: 24px;top: 7px;font-size: 13px; color: #515151; "></i><input class="searchbar" type="search" id="search-input" placeholder="Search..." style="background: #27262E;border: solid #515151;padding-left: 25px; color: #515151; font-family:'Scala'">
@@ -2015,6 +2018,22 @@
           
         
       
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
 
       <a class="sidebar-nav-item" href="https://www.patreon.com/thedig">Contribute</a>
       <!-- <span class="sidebar-nav-item">Currently v3.0.0</span> -->
@@ -2056,7 +2075,7 @@
     <!-- <p>&copy; 2022. All rights reserved.</p> -->
   </div>
 </div>
-
+</div>
 
     <!-- Script pointing to search-script.js -->
     <script src="http://localhost:4000/js/search-script.js"></script>
@@ -2076,6 +2095,12 @@
       })
     </script>
 
+    <script>
+      function myFunction() {
+      const navElement = document.getElementById("sidebar2");
+      navElement.classList.toggle("mystyle");
+      }
+    </script>
 
     <div class="content container">
 
@@ -2127,18 +2152,9 @@ Zoom Canvas (featuring
     
       <li>
         <h3>
-          <a href="/podcast/clash-of-empires-w-ho-fung-hung">
-            Clash of Empires w/ Ho-fung Hung
-            <small>04 May 2022</small>
-          </a>
-        </h3>
-      </li>
-    
-      <li>
-        <h3>
-          <a href="/podcast/vaccine-apartheid-endures-w-achal-prabhala">
-            Vaccine Apartheid Endures w/ Achal Prabhala
-            <small>03 May 2022</small>
+          <a href="/newsletterx">
+            Transcriptx
+            <small>02 May 2022</small>
           </a>
         </h3>
       </li>
@@ -2148,6 +2164,15 @@ Zoom Canvas (featuring
           <a href="/newsletterx">
             Transcriptx
             <small>02 May 2022</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/podcast/before-the-west-w-ayse-zarakol/">
+            Before the West w/ Ayşe Zarakol
+            <small>28 Apr 2022</small>
           </a>
         </h3>
       </li>

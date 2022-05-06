@@ -77,25 +77,55 @@ html {
    visibility:hidden; 
  }
 
+
 .sidebar {
   text-align: center;
   padding: 1.25rem 1rem;
   background-color:#27262E;
   border-bottom: dashed;
   border-right: none;
-
+  position:fixed;
+  width:100%; 
   /* color: rgba(255,255,255,.5); */
   /* background-color: #202020; */
-  height:27em;
+  /* height:27em; */
+  height:auto;
+}
+
+
+
+.mobile-dropdown-toggle{
+  display: initial;
 }
 
 .digtitle{
   margin-bottom:2rem;
 }
+
+@media (max-width: 48em) {
+
+  .sidebar {
+  opacity: 0;
+  transform:translateY(0%);
+
+  }
+
+  .mystyle{
+    opacity: 1;
+    transform:translateY(0%);
+  
+  }
+}
+
 @media (min-width: 48em) {
   .digtitle{
     margin-bottom:1rem;
   }
+
+  .mobile-dropdown-toggle{
+    display: none;
+  }
+  
   .sidebar {
     border-bottom: none;
     border-right: dashed;
@@ -106,8 +136,9 @@ html {
     width: 11.6rem;
     text-align: left;
     height:100%;
-    overflow:scroll
+    overflow:scroll;
   }
+
 }
 
 /* Sidebar links */
@@ -191,7 +222,6 @@ a.sidebar-nav-item:focus {
   }
   .searchbar{
     width:90%;
-    placeholder:"";
 
   }
 }

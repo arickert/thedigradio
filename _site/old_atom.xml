@@ -4,37 +4,13 @@
  <title>The Dig</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://localhost:4000//"/>
- <updated>2022-05-04T17:37:13-04:00</updated>
+ <updated>2022-05-06T17:47:30-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
  </author>
 
- 
- <entry>
-   <title>Clash of Empires w/ Ho-fung Hung</title>
-   <link href="http://localhost:4000//podcast/clash-of-empires-w-ho-fung-hung"/>
-   <updated>2022-05-04T00:00:00-04:00</updated>
-   <id>http://localhost:4000/podcast/clash-of-empires-w-ho-fung-hung</id>
-   <content type="html">&lt;p&gt;The second of our two-part interview with sociologist Ho-fung Hung on Chinese political and economic history. This episode covers the 2008 financial crisis, how China’s response deepened global and domestic economic imbalances and (alongside the US) heightened geopolitical conflict, the current situation—including Russia’s invasion—and a lot more. Listen to part one first if you haven’t already.&lt;/p&gt;
-
-&lt;p&gt;Support this podcast at Patreon.com/TheDig&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Vaccine Apartheid Endures w/ Achal Prabhala</title>
-   <link href="http://localhost:4000//podcast/vaccine-apartheid-endures-w-achal-prabhala"/>
-   <updated>2022-05-03T00:00:00-04:00</updated>
-   <id>http://localhost:4000/podcast/vaccine-apartheid-endures-w-achal-prabhala</id>
-   <content type="html">&lt;p&gt;Astra interviews Achal Prabhala on the lethal persistence of global vaccine apartheid. Moderna is selfishly refusing to share or even sell (license) its mRNA technology, leaving much of the world unprotected from the pandemic and incubating new variants.&lt;/p&gt;
-
-&lt;p&gt;Moderna’s annual shareholder meeting is April 28th. Join Justice is Global, Boston DSA, and others to challenge vaccine profiteering at their Cambridge headquarters. Sign up at bitly.com/modernaaction&lt;/p&gt;
-
-&lt;p&gt;Support this podcast at Patreon.com/TheDig&lt;/p&gt;
-</content>
- </entry>
  
  <entry>
    <title>Transcriptx</title>
@@ -51,6 +27,33 @@
    <updated>2022-05-02T00:00:00-04:00</updated>
    <id>http://localhost:4000/transcript copy</id>
    <content type="html">&lt;p&gt;https://jacobinmag.com/2017/04/trump-health-obamacare-welfare-medicaid-racism-republicans-democrats&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Before the West w/ Ayşe Zarakol</title>
+   <link href="http://localhost:4000//podcast/before-the-west-w-ayse-zarakol/"/>
+   <updated>2022-04-28T00:00:00-04:00</updated>
+   <id>http://localhost:4000/podcast/before-the-west-w-ayse-zarakol</id>
+   <content type="html">&lt;p&gt;Ayşe Zarakol on her book Before the West: The Rise and Fall of Eastern World Orders. How centuries of Asian empires from Genghis Khan to Timur and the early Ming Dynasty through the Ottomans and Mughals built dominant world orders and, ultimately, shaped the rise of Europe—and how that all might shape how we think about the crisis in the world order today.&lt;/p&gt;
+
+&lt;p&gt;Support The Dig at Patreon.com/TheDig
+Check out phenomenalworld.org&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Price Wars w/ Rupert Russell &amp; Isabella Weber</title>
+   <link href="http://localhost:4000//podcast/price-wars-w-rupert-russell-isabella-weber/"/>
+   <updated>2022-04-28T00:00:00-04:00</updated>
+   <id>http://localhost:4000/podcast/before-the-west-w-ayse-zarakol copy</id>
+   <content type="html">&lt;p&gt;Rupert Russell and Isabella Weber discuss Russell’s book Price Wars: How the Commodities Markets Made Our Chaotic World and also the current politics of inflation.&lt;/p&gt;
+
+&lt;p&gt;Listen to Weber discuss her book How China Escaped Shock Therapy: thedigradio.com/podcast/how-china-escaped-shock-therapy-w-isabella-weber/&lt;/p&gt;
+
+&lt;p&gt;Look at Rupert’s precious puppy: twitter.com/rupert_russell/status/1511428696409837573?s=20&amp;amp;t=OPVNgfXuokFY6ZQYRkxe4g&lt;/p&gt;
+
+&lt;p&gt;Support this podcast at Patreon.com/TheDig&lt;/p&gt;
 </content>
  </entry>
  
@@ -285,6 +288,19 @@ Geismer&lt;/a&gt;.&lt;/p&gt;
  </entry>
  
  <entry>
+   <title>Bonds of Inequality w/ Destin Jenkins</title>
+   <link href="http://localhost:4000//podcast/bonds-of-inequality-w-destin-jenkins/"/>
+   <updated>2022-04-21T00:00:00-04:00</updated>
+   <id>http://localhost:4000/podcast/bonds-of-inequality-w-destin-jenkins</id>
+   <content type="html">&lt;p&gt;Destin Jenkins on his book The Bonds of Inequality: Debt and the Making of the American City, which makes a powerful argument about how the ubiquitous and in many ways invisible dependence of American cities on municipal debt to fund basic infrastructure has devastating consequences for democracy and entrenches spatial, racial, and wealth disparities.&lt;/p&gt;
+
+&lt;p&gt;Support The Dig at Patreon.com/TheDig&lt;/p&gt;
+
+&lt;p&gt;Tickets for live NYC show on The Return of Labor Militancy: eventbrite.com/e/the-return-of-labor-militancy-with-the-dig-and-jacobin-tickets-320732338057&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Newsletter #19: War in Ukraine on a Burning Planet, with Tony Wood</title>
    <link href="http://localhost:4000//newsletter19"/>
    <updated>2022-04-20T00:00:00-04:00</updated>
@@ -472,6 +488,17 @@ interview with Justin Feldman&lt;a href=&quot;https://www.thedigradio.com/podcas
 &lt;a href=&quot;https://jmfeldman.medium.com/a-year-in-how-has-biden-done-on-pandemic-response-88452c696f2&quot;&gt;here&lt;/a&gt;. For more on the government’s inadequate response to the pandemic, check out
 &lt;a href=&quot;https://www.thedigradio.com/tag/pandemic/&quot;&gt;Astra Taylor and Achal Prabhala’s discussion on vaccine apartheid&lt;/a&gt;. &lt;/p&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Police w/ Mariame Kaba and Geo Maher</title>
+   <link href="http://localhost:4000//podcast/police-w-mariame-kaba-and-geo-maher/"/>
+   <updated>2022-04-15T00:00:00-04:00</updated>
+   <id>http://localhost:4000/podcast/police-w-mariame-kaba-and-geo-maher</id>
+   <content type="html">&lt;p&gt;Mariame Kaba and Geo Maher discuss police, the politics of policing, abolition, reform—and more.&lt;/p&gt;
+
+&lt;p&gt;Support this podcast at Patreon.com/TheDig&lt;/p&gt;
 </content>
  </entry>
  
@@ -1186,6 +1213,30 @@ The Dig have covered the War on Terror closely over the years. Take a look in ou
 &lt;a href=&quot;https://www.thedigradio.com/podcast/petro-imperialism-with-timothy-mitchell-part-ii/&quot;&gt;interview&lt;/a&gt; on “petro-capitalism” with Timothy Mitchell, or our conversation with historian Andrew Bacevich on our 
 &lt;a href=&quot;https://www.thedigradio.com/podcast/andrew-bacevich-this-is-the-war-that-never-ends/&quot;&gt;wars that never end&lt;/a&gt;.&lt;/p&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Vaccine Apartheid Endures w/ Achal Prabhala</title>
+   <link href="http://localhost:4000//podcast/vaccine-apartheid-endures-w-achal-prabhala"/>
+   <updated>2022-04-01T00:00:00-04:00</updated>
+   <id>http://localhost:4000/podcast/vaccine-apartheid-endures-w-achal-prabhala</id>
+   <content type="html">&lt;p&gt;Astra interviews Achal Prabhala on the lethal persistence of global vaccine apartheid. Moderna is selfishly refusing to share or even sell (license) its mRNA technology, leaving much of the world unprotected from the pandemic and incubating new variants.&lt;/p&gt;
+
+&lt;p&gt;Moderna’s annual shareholder meeting is April 28th. Join Justice is Global, Boston DSA, and others to challenge vaccine profiteering at their Cambridge headquarters. Sign up at bitly.com/modernaaction&lt;/p&gt;
+
+&lt;p&gt;Support this podcast at Patreon.com/TheDig&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Clash of Empires w/ Ho-fung Hung</title>
+   <link href="http://localhost:4000//podcast/clash-of-empires-w-ho-fung-hung"/>
+   <updated>2022-03-23T00:00:00-04:00</updated>
+   <id>http://localhost:4000/podcast/clash-of-empires-w-ho-fung-hung copy</id>
+   <content type="html">&lt;p&gt;The second of our two-part interview with sociologist Ho-fung Hung on Chinese political and economic history. This episode covers the 2008 financial crisis, how China’s response deepened global and domestic economic imbalances and (alongside the US) heightened geopolitical conflict, the current situation—including Russia’s invasion—and a lot more. Listen to part one first if you haven’t already.&lt;/p&gt;
+
+&lt;p&gt;Support this podcast at Patreon.com/TheDig&lt;/p&gt;
 </content>
  </entry>
  

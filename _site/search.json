@@ -1,22 +1,6 @@
 [
   
     {
-      "title"    : "Clash of Empires w/ Ho-fung Hung",
-      "category" : "",
-      "tags"     : "Ho-fung Hung",
-      "url"      : "//podcast/clash-of-empires-w-ho-fung-hung",
-      "date"     : "2022-05-04 00:00:00 -0400"
-    } ,
-  
-    {
-      "title"    : "Vaccine Apartheid Endures w/ Achal Prabhala",
-      "category" : "",
-      "tags"     : "Achal Prabhala",
-      "url"      : "//podcast/vaccine-apartheid-endures-w-achal-prabhala",
-      "date"     : "2022-05-03 00:00:00 -0400"
-    } ,
-  
-    {
       "title"    : "Transcriptx",
       "category" : "",
       "tags"     : "Nafis Hasan",
@@ -30,6 +14,22 @@
       "tags"     : "",
       "url"      : "//newsletterx",
       "date"     : "2022-05-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Before the West w/ Ayşe Zarakol",
+      "category" : "",
+      "tags"     : "Ayse Zarakol",
+      "url"      : "//podcast/before-the-west-w-ayse-zarakol/",
+      "date"     : "2022-04-28 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Price Wars w/ Rupert Russell &amp; Isabella Weber",
+      "category" : "",
+      "tags"     : "Rupert Russell, Isabella Weber",
+      "url"      : "//podcast/price-wars-w-rupert-russell-isabella-weber/",
+      "date"     : "2022-04-28 00:00:00 -0400"
     } ,
   
     {
@@ -61,6 +61,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter20",
+      "date"     : "2022-04-21 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Bonds of Inequality w/ Destin Jenkins",
+      "category" : "",
+      "tags"     : "Destin Jenkins",
+      "url"      : "//podcast/bonds-of-inequality-w-destin-jenkins/",
       "date"     : "2022-04-21 00:00:00 -0400"
     } ,
   
@@ -102,6 +110,14 @@
       "tags"     : "",
       "url"      : "//newsletter15",
       "date"     : "2022-04-16 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Police w/ Mariame Kaba and Geo Maher",
+      "category" : "",
+      "tags"     : "Mariame Kaba, Geo Maher",
+      "url"      : "//podcast/police-w-mariame-kaba-and-geo-maher/",
+      "date"     : "2022-04-15 00:00:00 -0400"
     } ,
   
     {
@@ -350,6 +366,22 @@
       "tags"     : "",
       "url"      : "//newsletter1",
       "date"     : "2022-04-02 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Vaccine Apartheid Endures w/ Achal Prabhala",
+      "category" : "",
+      "tags"     : "Achal Prabhala",
+      "url"      : "//podcast/vaccine-apartheid-endures-w-achal-prabhala",
+      "date"     : "2022-04-01 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Clash of Empires w/ Ho-fung Hung",
+      "category" : "",
+      "tags"     : "Ho-fung Hung",
+      "url"      : "//podcast/clash-of-empires-w-ho-fung-hung",
+      "date"     : "2022-03-23 00:00:00 -0400"
     } ,
   
     {
