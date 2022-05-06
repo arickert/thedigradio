@@ -74,8 +74,12 @@ html {
  */
 
  #searchicon{
-   visibility:hidden; 
+   visibility:visible; 
  }
+
+ #searchicon2{
+  visibility:hidden; 
+}
 
 
 .sidebar {
@@ -212,6 +216,9 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   #searchicon{
+    visibility:hidden; 
+  }
+  #searchicon2{
     visibility:visible; 
   }
   .sidebar-sticky {
