@@ -233,6 +233,9 @@ a.sidebar-nav-item:focus {
   }
 }
 
+.guestbox{
+  height:auto;
+}
 
 /* Container
  *
@@ -252,6 +255,9 @@ a.sidebar-nav-item:focus {
     margin-right: 2rem;
     padding-bottom:0rem;  
   }
+  .guestbox{
+    height:85vh;
+  }
 }
 
 @media (min-width: 64em) {
@@ -259,6 +265,7 @@ a.sidebar-nav-item:focus {
     margin-left: 22rem;
     margin-right: 4rem;
   }
+
 }
 
 
