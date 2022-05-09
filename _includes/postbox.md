@@ -14,7 +14,7 @@
         </div>
         {% endif %}
         <div class="card-body">
-            <h3 class="card-title" style="margin-bottom:0">
+            <h3 class="card-title" style="margin-bottom:0 color: #79AA9D">
                 <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             </h3>
             {% unless post.title contains "Newsletter" %}

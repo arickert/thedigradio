@@ -4,13 +4,26 @@
  <title>The Dig</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-05-09T16:57:53-04:00</updated>
+ <updated>2022-05-09T17:50:36-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>SCOTUS, Politics, and the Law w/ Aziz Rana, Amna Akbar, & Marbre Stahly-Butts</title>
+   <link href="http://localhost:4000/podcast/scotus-politics-and-the-law-w-aziz-rana-amna-akbar-marbre-stahly-butts/"/>
+   <updated>2022-05-07T00:00:00-04:00</updated>
+   <id>http://localhost:4000/podcast/scotus-politics-and-the-law-w-aziz-rana-amna-akbar-marbre-stahly-butts</id>
+   <content type="html">&lt;p&gt;A timely interview from the archives: legal scholars Aziz Rana and Amna Akbar, and Movement for Black Lives lawyer Marbre Stahly-Butts, on SCOTUS, liberal court veneration, and other big questions on the law and politics facing the left.&lt;/p&gt;
+
+&lt;p&gt;Find Eslanda at haymarketbooks.org/books/1769-eslanda&lt;/p&gt;
+
+&lt;p&gt;Support The Dig at Patreon.com/TheDig&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Transcriptx</title>
@@ -39,21 +52,6 @@
 
 &lt;p&gt;Support The Dig at Patreon.com/TheDig
 Check out phenomenalworld.org&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Price Wars w/ Rupert Russell & Isabella Weber</title>
-   <link href="http://localhost:4000/podcast/price-wars-w-rupert-russell-isabella-weber/"/>
-   <updated>2022-04-28T00:00:00-04:00</updated>
-   <id>http://localhost:4000/podcast/before-the-west-w-ayse-zarakol copy</id>
-   <content type="html">&lt;p&gt;Rupert Russell and Isabella Weber discuss Russell’s book Price Wars: How the Commodities Markets Made Our Chaotic World and also the current politics of inflation.&lt;/p&gt;
-
-&lt;p&gt;Listen to Weber discuss her book How China Escaped Shock Therapy: thedigradio.com/podcast/how-china-escaped-shock-therapy-w-isabella-weber/&lt;/p&gt;
-
-&lt;p&gt;Look at Rupert’s precious puppy: twitter.com/rupert_russell/status/1511428696409837573?s=20&amp;amp;t=OPVNgfXuokFY6ZQYRkxe4g&lt;/p&gt;
-
-&lt;p&gt;Support this podcast at Patreon.com/TheDig&lt;/p&gt;
 </content>
  </entry>
  
@@ -790,6 +788,21 @@ interview on Brazil, check out this
 &lt;a href=&quot;https://www.thedigradio.com/tag/imperialism-and-foreign-policy/&quot;&gt;vast interview archives&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Price Wars w/ Rupert Russell & Isabella Weber</title>
+   <link href="http://localhost:4000/podcast/price-wars-w-rupert-russell-isabella-weber/"/>
+   <updated>2022-04-08T00:00:00-04:00</updated>
+   <id>http://localhost:4000/podcast/price-wars-w-rupert-russell-isabella-weber</id>
+   <content type="html">&lt;p&gt;Rupert Russell and Isabella Weber discuss Russell’s book Price Wars: How the Commodities Markets Made Our Chaotic World and also the current politics of inflation.&lt;/p&gt;
+
+&lt;p&gt;Listen to Weber discuss her book How China Escaped Shock Therapy: thedigradio.com/podcast/how-china-escaped-shock-therapy-w-isabella-weber/&lt;/p&gt;
+
+&lt;p&gt;Look at Rupert’s precious puppy: twitter.com/rupert_russell/status/1511428696409837573?s=20&amp;amp;t=OPVNgfXuokFY6ZQYRkxe4g&lt;/p&gt;
+
+&lt;p&gt;Support this podcast at Patreon.com/TheDig&lt;/p&gt;
 </content>
  </entry>
  
