@@ -4,7 +4,7 @@
  <title>The Dig</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-05-09T17:50:36-04:00</updated>
+ <updated>2022-05-11T15:49:50-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -22,24 +22,6 @@
 &lt;p&gt;Find Eslanda at haymarketbooks.org/books/1769-eslanda&lt;/p&gt;
 
 &lt;p&gt;Support The Dig at Patreon.com/TheDig&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-05-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2019/07/border-patrol-concentration-camps-alexandria-ocasio-cortez&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-05-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/04/trump-health-obamacare-welfare-medicaid-racism-republicans-democrats&lt;/p&gt;
 </content>
  </entry>
  
@@ -1028,159 +1010,6 @@ The Nation.&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 9</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2022/03/cryptocurrency-bitcoin-speculative-asset-digitization-metaverse&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 8</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2018/07/electoral-rules-third-party-ballot-line-ocasio-cortez-dsa&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 7</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2022/02/cryptocurrency-democratize-monetary-policy-economics-banks-financial-system-bitcoin&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 6</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/11/trump-corey-robin-reactionary-mind-interview&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 5</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2022/03/brazil-pt-lula-bolsonaro-neoliberalism-far-right&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 4</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2021/10/tariq-ali-afghan-war-us-imperialism&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 3</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2021/08/capitalism-climate-crisis-global-green-new-deal-clean-energy-fossil-fuel-industry&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 2</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/09/hurricane-harvey-trump-climate-change&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcript: q</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 18</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2020/03/ilhan-omar-interview-bernie-sanders-climate&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcript: q</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 17</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2018/07/bernie-sanders-interview-alexandria-ocasio-cortez&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcript: q</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 16</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/09/daca-dreamers-trump-sessions-immigration-deportation&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcript: q</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 15</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/09/mexico-us-drug-war-trump-migrants-nafta&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcript: q</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 14</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2019/07/rashida-tlaib-detroit-palestine&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcript: q</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 13</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/05/black-lives-matter-baltimore-obama-racism-freddie-gray-election-whitelash&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 12</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/06/white-working-class-trump-appalachia-mining&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 11</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2017/09/hurricane-harvey-irma-global-warming-the-dig&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transcriptx</title>
-   <link href="http://localhost:4000/newsletterx"/>
-   <updated>2022-04-02T00:00:00-04:00</updated>
-   <id>http://localhost:4000/transcript copy 10</id>
-   <content type="html">&lt;p&gt;https://jacobinmag.com/2022/03/russia-ukraine-putin-nato-us-war-empire&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Newsletter #1: The War on Terror Made Our World</title>
    <link href="http://localhost:4000/newsletter1"/>
    <updated>2022-04-02T00:00:00-04:00</updated>
@@ -1336,6 +1165,25 @@ Volodymyr Ishchenko on Ukraine: thedigradio.com/podcast/ukraine-w-volodymyr-ishc
  </entry>
  
  <entry>
+   <title>Transcript: Russia Invades w/ Tony Wood</title>
+   <link href="http://localhost:4000/transcripts/russia-invades-w-tony-wood"/>
+   <updated>2022-02-08T00:00:00-05:00</updated>
+   <id>http://localhost:4000/transcripts/transcript-russia-invades-w-tony-wood</id>
+   <content type="html">&lt;p&gt;Read the transcript &lt;a href=&quot;https://jacobinmag.com/2022/03/russia-ukraine-putin-nato-us-war-empire&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Tony Wood returns to The Dig to discuss Russia’s invasion, what it reflects about Russian politics and geopolitics today and historically, and how the Left should be thinking about it all.&lt;/p&gt;
+
+&lt;p&gt;Tony’s LRB essay: lrb.co.uk/the-paper/v44/n04/tony-wood2/why-didn-t-they-stop-it&lt;/p&gt;
+
+&lt;p&gt;Listen to past Dig eps for context on Russia’s invasion of Ukraine:
+Tony Wood on Russia and Putin: thedigradio.com/podcast/russia-beyond-putin-with-tony-wood
+Volodymyr Ishchenko on Ukraine: thedigradio.com/podcast/ukraine-w-volodymyr-ishchenko&lt;/p&gt;
+
+&lt;p&gt;Support The Dig at Patreon.com/TheDig&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Financial Empire w/ Daniela Gabor & Ndongo Samba Sylla</title>
    <link href="http://localhost:4000/podcast/financial-empire-w-daniela-gabor-ndongo-samba-sylla"/>
    <updated>2022-02-04T00:00:00-05:00</updated>
@@ -1412,6 +1260,23 @@ lefteast.org/contradictions-post-soviet-ukraine-failure-ukraine-new-left/&lt;/p&
  </entry>
  
  <entry>
+   <title>Transcript: Private Money with Stefan Eich</title>
+   <link href="http://localhost:4000/transcripts/private-money-with-stefan-eich"/>
+   <updated>2021-12-22T00:00:00-05:00</updated>
+   <id>http://localhost:4000/transcripts/transcript-private-money-with-stefan-eich</id>
+   <content type="html">&lt;p&gt;Read the transcript &lt;a href=&quot;https://jacobinmag.com/2022/02/cryptocurrency-democratize-monetary-policy-economics-banks-financial-system-bitcoin&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Episode two of our two-part series on cryptocurrency: political theorist Stefan Eich on how crypto fits into Hayek’s old neoliberal dream of private money and why that vision emerged in a new form in the wake of the 2008 financial crisis.&lt;/p&gt;
+
+&lt;p&gt;Read Stefan’s article: static1.squarespace.com/static/5ae8a7b625bf02c0b85aec02/t/5c923c13eef1a1ce843836ff/1553087508427/Stefan+Eich%2C+Old+Utopias%2C+New+Tax+Havens+%282019%29.pdf&lt;/p&gt;
+
+&lt;p&gt;Support The Dig at Patreon.com/TheDig&lt;/p&gt;
+
+&lt;p&gt;Check out We’re Not Here to Entertain: Punk Rock, Ronald Reagan, and the Real Culture War of 1980s America by Kevin Mattson global.oup.com/academic/product/were-not-here-to-entertain-9780190908232&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Private Money with Stefan Eich</title>
    <link href="http://localhost:4000/podcast/private-money-with-stefan-eich"/>
    <updated>2021-12-22T00:00:00-05:00</updated>
@@ -1427,6 +1292,21 @@ lefteast.org/contradictions-post-soviet-ukraine-failure-ukraine-new-left/&lt;/p&
  </entry>
  
  <entry>
+   <title>Transcript: Cryptocurrency w/ Edward Ongweso Jr & Jacob Silverman</title>
+   <link href="http://localhost:4000/transcripts/cryptocurrency-w-edward-ongweso-jr-jacob-silverman"/>
+   <updated>2021-12-16T00:00:00-05:00</updated>
+   <id>http://localhost:4000/transcripts/transcript-cryptocurrency-w-edward-ongweso-jr-jacob-silverman</id>
+   <content type="html">&lt;p&gt;Read the transcript &lt;a href=&quot;https://jacobinmag.com/2022/03/cryptocurrency-bitcoin-speculative-asset-digitization-metaverse&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Edward Ongweso Jr. and Jacob Silverman on cryptocurrency, NFTs, Elon Musk, the metaverse, meme stocks, and techno-utopianism amid the crushing reality of our neoliberal hellscape. The first in a two-episode series on crypto.&lt;/p&gt;
+
+&lt;p&gt;Read Dan’s new essay on border control politics: nplusonemag.com/online-only/online-only/border-crises/&lt;/p&gt;
+
+&lt;p&gt;Support The Dig at Patreon.com/TheDig&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Cryptocurrency w/ Edward Ongweso Jr & Jacob Silverman</title>
    <link href="http://localhost:4000/podcast/cryptocurrency-w-edward-ongweso-jr-jacob-silverman"/>
    <updated>2021-12-16T00:00:00-05:00</updated>
@@ -1436,6 +1316,23 @@ lefteast.org/contradictions-post-soviet-ukraine-failure-ukraine-new-left/&lt;/p&
 &lt;p&gt;Read Dan’s new essay on border control politics: nplusonemag.com/online-only/online-only/border-crises/&lt;/p&gt;
 
 &lt;p&gt;Support The Dig at Patreon.com/TheDig&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcript: Bolsonarismo with Rodrigo Nunes</title>
+   <link href="http://localhost:4000/transcripts/bolsonarismo-with-rodrigo-nunes"/>
+   <updated>2021-12-10T00:00:00-05:00</updated>
+   <id>http://localhost:4000/transcripts/transcript-bolsonarismo-with-rodrigo-nunes</id>
+   <content type="html">&lt;p&gt;Read the transcript &lt;a href=&quot;https://jacobinmag.com/2022/03/brazil-pt-lula-bolsonaro-neoliberalism-far-right&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;How neoliberal conditions create popular constituencies, ideologies, and subjectivities among poor and working-class people for a violent, mean, and repressive neoliberalism—and how those reactionary politics from below converge with those generated from above. Political theorist Rodrigo Nunes analyzes Bolsonarismo (the ideology and politics surrounding far-right Brazilian President Jair Bolsonaro) and far-right politics everywhere.&lt;/p&gt;
+
+&lt;p&gt;Read Rodrigo’s essays:
+radicalphilosophy.com/article/of-what-is-bolsonaro-the-name
+publicbooks.org/are-we-in-denial-about-denial&lt;/p&gt;
+
+&lt;p&gt;Support The Dig at Patreon.com/TheDig and get that newsletter&lt;/p&gt;
 </content>
  </entry>
  
@@ -1574,6 +1471,22 @@ thenewpress.com/books/empire-of-rubber&lt;/p&gt;
    <content type="html">&lt;p&gt;A very short ep on a great new documentary about the history and present of American socialism: The Big Scary S-Word. It’s by Yael Bridge, and it’s the perfect film to show to your skeptical uncle or to someone new to (or curious about) socialist politics.&lt;/p&gt;
 
 &lt;p&gt;You can watch The Big Scary S-Word on iTunes, Apple TV or a number of other sites by visiting: www.socialismmovie.com/screenings&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcript: Afghanistan with Tariq Ali</title>
+   <link href="http://localhost:4000/transcript/afghanistan-with-tariq-ali"/>
+   <updated>2021-10-12T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript/transcript-afghanistan-with-tariq-ali</id>
+   <content type="html">&lt;p&gt;Read the transcript &lt;a href=&quot;https://jacobinmag.com/2021/10/tariq-ali-afghan-war-us-imperialism&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Legendary socialist scholar Tariq Ali on the long history of Afghanistan: the 19th and early 20th-century wars against the British Empire; the communist coup, Soviet invasion, and US-backed mujahideen war; the rise of the Taliban; and the 2001 US-led NATO invasion through the recent US defeat and withdrawal. Plus, a lot about Pakistan.&lt;/p&gt;
+
+&lt;p&gt;Pre-order Ali’s forthcoming book The Forty-Year War in Afghanistan: A Chronicle Foretold versobooks.com/books/3939-the-forty-year-war-in-afghanistan&lt;/p&gt;
+
+&lt;p&gt;Support this podcast at Patreon.com/TheDig and receive our weekly newsletter&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -1764,6 +1677,20 @@ Jacobin: jacobinmag.com/2021/04/take-me-to-your-leader-the-rot-of-the-american-r
    <content type="html">&lt;p&gt;The Dig is taking a break to play catch up this week and posting a favorite interview from our archives: Nick Estes on his book Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and the Long Tradition of Indigenous Resistance. First posted on June 29 2019.&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at Patreon.com/TheDig&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcript: Climate Politics with Kate Aronoff</title>
+   <link href="http://localhost:4000/transcripts/climate-politics-with-kate-aronoff"/>
+   <updated>2021-06-07T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcripts/transcript-climate-politics-with-kate-aronoff</id>
+   <content type="html">&lt;p&gt;Journalist Kate Aronoff discusses climate policy and politics and her book Overheated: How Capitalism Broke the Planet—And How We Fight Back.&lt;/p&gt;
+
+&lt;p&gt;Read the transcript &lt;a href=&quot;https://jacobinmag.com/2021/08/capitalism-climate-crisis-global-green-new-deal-clean-energy-fossil-fuel-industry&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Support this podcast at Patreon.com/TheDig&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -3411,6 +3338,21 @@ New Left Review. Parts
  </entry>
  
  <entry>
+   <title>Transcript: Organize and Fight with Ilhan Omar</title>
+   <link href="http://localhost:4000/transcripts/organize-and-fight-with-ilhan-omar"/>
+   <updated>2020-03-12T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcripts/transcript-organize-and-fight-with-ilhan-omar</id>
+   <content type="html">&lt;p&gt;Pep talk time: Dan interviews Rep. Ilhan Omar to give us some perspective and prepare us for the fight ahead.&lt;/p&gt;
+
+&lt;p&gt;Read the full transcript from Jacobin 
+&lt;a href=&quot;https://jacobinmag.com/2020/03/ilhan-omar-interview-bernie-sanders-climate&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please support this podcast at 
+&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Organize and Fight with Ilhan Omar</title>
    <link href="http://localhost:4000/podcast/organize-and-fight-with-ilhan-omar"/>
    <updated>2020-03-12T00:00:00-04:00</updated>
@@ -4637,6 +4579,25 @@ Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and 
  </entry>
  
  <entry>
+   <title>Transcript: Rashida Tlaib</title>
+   <link href="http://localhost:4000/transcripts/rashida-tlaib"/>
+   <updated>2019-06-03T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcripts/transcripts-rashida-tlaib</id>
+   <content type="html">&lt;p&gt;Read the transcript &lt;a href=&quot;https://jacobinmag.com/2019/07/rashida-tlaib-detroit-palestine&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://jacobinmag.com/2019/07/rashida-tlaib-detroit-palestine&quot;&gt;View Transcript&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;US Rep. Rashida Tlaib on the local struggles that guide her work on behalf of the working class in Congress, the urgent need for a politics that puts people over profit, the question of impeachment, and why American people are coming around to supporting a free Palestine.&lt;/p&gt;
+
+&lt;p&gt;Go to the Socialism 2019 conference in Chicago July 4-7! Register now at 
+&lt;a href=&quot;http://socialismconference.org&quot;&gt;socialismconference.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Support this podcast with your money at 
+&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Rashida Tlaib</title>
    <link href="http://localhost:4000/podcast/rashida-tlaib"/>
    <updated>2019-06-03T00:00:00-04:00</updated>
@@ -4690,23 +4651,6 @@ Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and 
 
 &lt;p&gt;Support this podcast with your money at 
 &lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Untitled Reusable Block</title>
-   <link href="http://localhost:4000/podcast/untitled-reusable-block"/>
-   <updated>2019-05-22T00:00:00-04:00</updated>
-   <id>http://localhost:4000/podcast/untitled-reusable-block</id>
-   <content type="html">&lt;p&gt;wp:paragraph&lt;a href=&quot;https://www.thedigradio.com/tag/linford-fisher/&quot;&gt;Linford Fisher&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/tag/lisa-duggan&quot;&gt;Lisa Duggan&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/tag/liza-featherstone&quot;&gt;Liza Featherstone&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/tag/lyn-ulbrich&quot;&gt;Lyn Ulbrich&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;/wp:paragraph&lt;/p&gt;
 </content>
  </entry>
  
@@ -4788,8 +4732,6 @@ Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and 
    <updated>2019-05-02T00:00:00-04:00</updated>
    <id>http://localhost:4000/transcripts/transcript-real-estate-capitalism-and-gentrification-with-samuel-stein</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.thedigradio.com/podcast/real-estate-capitalism-and-gentrification-with-samuel-stein/&quot;&gt;Listen to Episode&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;/wp:paragraph&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Daniel Denvir:&lt;/strong&gt;&lt;/p&gt;
 
@@ -7872,6 +7814,19 @@ Out of the Wreckage: A New Politics for an Age of Crisis by George Monbiot, now 
  </entry>
  
  <entry>
+   <title>Transcript: Bernie Sanders on Ocasio-Cortez: We're seeing it all over this country</title>
+   <link href="http://localhost:4000/transcript/bernie-sanders-on-ocasio-cortez-were-seeing-it-all-over-this-country"/>
+   <updated>2018-07-01T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript/bernie-sanders-on-ocasio-cortez-were-seeing-it-all-over-this-country</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.jacobinmag.com/2018/07/bernie-sanders-interview-alexandria-ocasio-cortez&quot;&gt;View Transcript&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Capitol Hill used to be a lonely place for a leftist. And, frankly, it still is. But now that Alexandria Ocasio-Cortez appears to be headed to Washington, Senator Bernie Sanders will likely have some powerful company. Today, Sanders is Dan’s guest, and they’re talking about the impact of Ocasio-Cortez’s victory and where the left goes from here. This is the latest interview in this week’s Ocasio-Cortez super series, which has already included interviews with Ocasio-Cortez and Cynthia Nixon. Next up is DSA member Julia Salazar, who is running for state senate in Brooklyn.&lt;/p&gt;
+
+&lt;p&gt;Support this podcast with $ and access our weekly newsletter at patreon.com/TheDig&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>The Trump Doctrine and Its Mandarin Detractors</title>
    <link href="http://localhost:4000/podcast/the-trump-doctrine-and-its-mandarin-detractors"/>
    <updated>2018-06-29T00:00:00-04:00</updated>
@@ -8794,6 +8749,18 @@ by Adam Goldstein, a professor of sociology at Princeton, and Brenden Beck, a Ph
  
  <entry>
    <title>Corey Robin: Trump's Reactionary Mind</title>
+   <link href="http://localhost:4000/transcripts/corey-robin-trumps-reactionary-mind"/>
+   <updated>2017-10-24T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcripts/transcript-corey-robin-trumps-reactionary-mind</id>
+   <content type="html">&lt;p&gt;Read the transcript &lt;a href=&quot;https://jacobinmag.com/2017/11/trump-corey-robin-reactionary-mind-interview&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;@CoreyRobin points to a tension that has defined conservatism from the  get-go, between two competing conceptions of virtue and nobility: one  defined by political and military distinction and another by  entrepreneurial  acumen and accumulated wealth. Robin parses how Trump  fits into this dynamic history, in part by taking a look back to seminal  conservative thinkers like Edmund Burke and Friedrich Hayek. Thanks to  our sponsors at Verso. Check out Out of the Wreckage: A New Politics for  an Age of Crisis by George Monbiot versobooks.com/books/2571-out-
+of-the-wreckage And support us with $ at patreon.com/TheDig Listen to Dan’s first interview with Corey blubrry.com/thedig/22226639/corey-robin-on-the-reactionaries-minds-under-trump/&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Corey Robin: Trump's Reactionary Mind</title>
    <link href="http://localhost:4000/podcast/corey-robin-trumps-reactionary-mind"/>
    <updated>2017-10-24T00:00:00-04:00</updated>
    <id>http://localhost:4000/podcast/corey-robin-trumps-reactionary-mind</id>
@@ -8957,6 +8924,22 @@ book.php?isbn=9780520281912&lt;/a&gt;”&lt;/p&gt;
  </entry>
  
  <entry>
+   <title>Transcript: César Cuauhtémoc García Hernández: On DACA</title>
+   <link href="http://localhost:4000/transcripts/cesar-cuauhtemoc-garcia-hernandez-on-daca"/>
+   <updated>2017-09-08T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcripts/transcript-cesar-cuauhtemoc-garcia-hernandez-on-daca</id>
+   <content type="html">&lt;p&gt;Immigration law scholar @crimmigration breaks down the lies, misdirections and bigoted absurdities conveyed by Attorney General Jeff Sessions when he announced that the Trump Administration would cruelly make some 800,000 young people who came to this country as children deportable.&lt;/p&gt;
+
+&lt;p&gt;Read the full transcript from Jacobin 
+&lt;a href=&quot;https://jacobinmag.com/2017/09/daca-dreamers-trump-sessions-immigration-deportation&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Check out César’s blog at crimmigration.com&lt;/p&gt;
+
+&lt;p&gt;Support us at Patreon.com/TheDig&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>César Cuauhtémoc García Hernández: On DACA</title>
    <link href="http://localhost:4000/podcast/cesar-cuauhtemoc-garcia-hernandez-on-daca"/>
    <updated>2017-09-08T00:00:00-04:00</updated>
@@ -8969,6 +8952,20 @@ book.php?isbn=9780520281912&lt;/a&gt;”&lt;/p&gt;
 &lt;p&gt;Check out César’s blog at crimmigration.com&lt;/p&gt;
 
 &lt;p&gt;Support us at Patreon.com/TheDig&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcript: Kate Aronoff: Populist Revolt Against The Climate Crisis</title>
+   <link href="http://localhost:4000/transcripts/kate-aronoff-populist-revolt-against-the-climate-crisis"/>
+   <updated>2017-09-06T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcripts/transcript-kate-aronoff-populist-revolt-against-the-climate-crisis</id>
+   <content type="html">&lt;p&gt;The devastation wreaked by Hurricane Harvey has made the denial of climate change all the more dangerous. But @KateAronoff says that mainstream liberals and environmental groups, touting cap-and-trade and business-friendly reforms, have put forward an agenda that can’t address the crisis and won’t mobilize the masses. We need a radical and transformative climate agenda.&lt;/p&gt;
+
+&lt;p&gt;Read the full transcript from Jacobin 
+&lt;a href=&quot;https://jacobinmag.com/2017/09/hurricane-harvey-irma-global-warming-the-dig&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thanks to our supporters at UNC Press and check out Knocking on Labor’s Door https://www.uncpress.org/book/9781469632070/knocking-on-labors-door/ Also, support us at http://Patreon.com/TheDig and help Houston out at http://homelesshouston.org/take-action/donate&lt;/p&gt;
 </content>
  </entry>
  
@@ -9037,6 +9034,17 @@ book.php?isbn=9780520281912&lt;/a&gt;”&lt;/p&gt;
    <updated>2017-08-15T00:00:00-04:00</updated>
    <id>http://localhost:4000/podcast/forrest-hylton-whats-next-for-the-colombian-left</id>
    <content type="html">&lt;p&gt;The FARC peace accord is a historic victory for Colombian society. But the struggle to build an urban left strong enough to take on the country’s powerful right remains a daunting one. Today’s guest is Forrest Hylton, the author of Evil Hour in Colombia. Check out a great article from Forrest here https://www.academia.edu/26907051/The_Experience_of_Defeat_The_Colombian_Left_and_the_Cold_War_that_Never_Ended And also Forgotten Peace: Reform, Violence, and the Making of Contemporary Colombia from our supporters at University of California Press http://www.ucpress.edu/book.php?isbn=9780520293939&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcript: Christy Thornton: Confronting the Neoliberal Narco-State in Mexico</title>
+   <link href="http://localhost:4000/transcripts/christy-thornton-confronting-the-neoliberal-narco-state-in-mexico"/>
+   <updated>2017-08-08T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcripts/transcript-christy-thornton-confronting-the-neoliberal-narco-state-in-mexico</id>
+   <content type="html">&lt;p&gt;Read the transcript &lt;a href=&quot;https://jacobinmag.com/2017/09/mexico-us-drug-war-trump-migrants-nafta&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;With Trump, Mexico is the symbol and source of so many things that are wrong with the United States. Oftentimes, these stories told about Mexico in the United States aren’t just wrong but serve to obscure the true source of our shared problems—which, more often than not, are both countries’ ruling classes. Today’s guest is Christy Thornton, a professor of history and international studies at Rowan University, and soon to be fellow at the Weatherhead Research Cluster on Global Transformations at Harvard. Thanks to our supporters at University of California Press.&lt;/p&gt;
 </content>
  </entry>
  
@@ -9149,6 +9157,18 @@ book.php?isbn=9780520281912&lt;/a&gt;”&lt;/p&gt;
  </entry>
  
  <entry>
+   <title>Transcript: Sarah Jones: What's the Matter with Appalachia? Capitalism</title>
+   <link href="http://localhost:4000/transcripts/sarah-jones-whats-the-matter-with-appalachia-capitalism"/>
+   <updated>2017-05-16T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcripts/transcript-sarah-jones-whats-the-matter-with-appalachia-capitalism</id>
+   <content type="html">&lt;p&gt;What’s the matter with Appalachia? Many liberal elites think they know the answer. Since Trump’s campaign first took off, the region has become a symbol of all that is wrong with Red State America: guns, bigotry, a willingness to get swindled by right-wing snake-oil salesmen. There is, indeed, a lot wrong with Appalachia. But what’s most wrong is that a region where people waged militant labor struggles has now been devastated by coal company greed, automation, shifts in global commodity markets and, of course, by Republican reaction and neoliberal malign neglect. Sarah Jones, social media editor at the New Republic, explores the possibilities for left-wing revival in Appalachia.&lt;/p&gt;
+
+&lt;p&gt;Read the full transcript from Jacobin 
+&lt;a href=&quot;https://jacobinmag.com/2017/06/white-working-class-trump-appalachia-mining&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Sarah Jones: What's the Matter with Appalachia? Capitalism</title>
    <link href="http://localhost:4000/podcast/sarah-jones-whats-the-matter-with-appalachia-capitalism"/>
    <updated>2017-05-16T00:00:00-04:00</updated>
@@ -9197,6 +9217,17 @@ book.php?isbn=9780520281912&lt;/a&gt;”&lt;/p&gt;
  </entry>
  
  <entry>
+   <title>Transcript: Keeanga-Yamahtta Taylor on Black Liberation and Socialism</title>
+   <link href="http://localhost:4000/transcript/keeanga-yamahtta-taylor-on-black-liberation-and-socialism"/>
+   <updated>2017-04-25T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcript/transcript-keeanga-yamahtta-taylor-on-black-liberation-and-socialism</id>
+   <content type="html">&lt;p&gt;Read the transcript [here] (https://jacobinmag.com/2017/05/black-lives-matter-baltimore-obama-racism-freddie-gray-election-whitelash)&lt;/p&gt;
+
+&lt;p&gt;Putting “black faces in high places,” scholar Keeanga-Yamahtta Taylor argues, has not only failed to benefit the working class and poor black majority; it has actually harmed them by legitimating an individualistic, meritocratic narrative that blames poor black people’s condition on their own personal failings. Taylor is a professor of African-American studies at Princeton and the author of From #BlackLivesMatter to Black Liberation, from Haymarket Books.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Keeanga-Yamahtta Taylor on Black Liberation and Socialism</title>
    <link href="http://localhost:4000/podcast/keeanga-yamahtta-taylor-on-black-liberation-and-socialism"/>
    <updated>2017-04-25T00:00:00-04:00</updated>
@@ -9222,6 +9253,19 @@ book.php?isbn=9780520281912&lt;/a&gt;”&lt;/p&gt;
    <content type="html">&lt;p&gt;Trump’s oligarchic regime is an extreme version of the imperial and economic vision that has guided presidents of both major parties. But the popularity of Trump’s chauvinist, xenophobic appeal points to a major crisis in the ideological and political-economic regime of the United States and the world for decades. That’s neoliberalism, a system that isn’t quite over under Trump. But as Nicole Aschoff argues in the most recent issue of Jacobin, it has radically changed.&lt;/p&gt;
 
 &lt;p&gt;Today, my guest is Nicole Aschoff, managing editor at Jacobin and the author of The New Prophets of Capital, part of Jacobin’s Verso Series. You can read her article “The Glory Days Are Over” in the new issue of Jacobin and at jacobinmag.com.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transcript: Matt Bruenig on Why Welfare is Great and Why We Need More</title>
+   <link href="http://localhost:4000/transcripts/matt-bruenig-on-why-welfare-is-great-and-why-we-need-more"/>
+   <updated>2017-04-04T00:00:00-04:00</updated>
+   <id>http://localhost:4000/transcripts/transcript-matt-bruenig-on-why-welfare-is-great-and-why-we-need-more</id>
+   <content type="html">&lt;p&gt;Read the transcript &lt;a href=&quot;https://jacobinmag.com/2017/04/trump-health-obamacare-welfare-medicaid-racism-republicans-democrats&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Medicaid expansion saved Obamacare from repeal. There’s a lot to hate about Obamacare, but that expansion did something very good on a very large scale — and it made just enough Republicans very nervous about taking it away. It’s an important lesson about economic policy generally: the more universal a program is, the greater the number of Americans who become advocates for its preservation — a fact conservatives know and fear thanks to Medicare and Social Security but that many liberals don’t.&lt;/p&gt;
+
+&lt;p&gt;Today, my guest is Matt Bruenig, a writer who is one of most incisive analysts of poverty, inequality and welfare systems, and the political conflicts that surround them.&lt;/p&gt;
 </content>
  </entry>
  

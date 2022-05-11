@@ -111,14 +111,19 @@ html {
   .sidebar {
   opacity: 0;
   transform:translateY(0%);
+  pointer-events: none;
 
   }
 
   .mystyle{
     opacity: 1;
     transform:translateY(0%);
-  
+    pointer-events:all;
   }
+}
+
+a{
+  color: #79AA9D
 }
 
 @media (min-width: 48em) {

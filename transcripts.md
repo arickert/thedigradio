@@ -22,7 +22,7 @@ title: Transcript
 {% for post in site.posts %}
 {% if post.title contains page.title %}
     <li style="margin-bottom:0.5rem">
-    {% assign newtitle = post.title | split: ": " %}
+    {% assign newtitle = post.title | split: "ranscript: " %}
     {% for title in newtitle offset:1 limit:1 %}
         <a style="color: #9a9a9a" href="{{post.url}}">{{title}}</a>
     {% endfor %}

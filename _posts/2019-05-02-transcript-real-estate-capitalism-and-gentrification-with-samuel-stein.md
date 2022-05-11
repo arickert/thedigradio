@@ -15,9 +15,6 @@ tags:
 [Listen to Episode](https://www.thedigradio.com/podcast/real-estate-capitalism-and-gentrification-with-samuel-stein/)
 
 
-/wp:paragraph
-
-
 **Daniel Denvir:**
  
 Welcome to The Dig, a podcast from Jacobin Magazine. My name is Daniel Denvir and I'm back broadcasting once again from Providence, Rhode Island. I received a ton of electronically transmitted love in response to my remarkably lengthy monologue introduction to my interview on transportation idiocy with Kafui Attoh a few weeks back. About half of that intro was inspired by Kafui's incredible book. The other half was inspired byCapital City: Gentrification and the Real Estate State
