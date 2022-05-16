@@ -1,92 +1,82 @@
-# Poole
+# The Dig Radio
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+*Hello Dan! Or future assistan of Dan. The following is a brief tutorial of how to upload episodes to The Dig's new website.*
 
 -----
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.
 
-![Poole](https://f.cloud.github.com/assets/98681/1834359/71ae4048-73db-11e3-9a3c-df38eb170537.png)
+### 0. Setup GITHUB
 
-See Poole in action with [the demo site](https://demo.getpoole.com).
+This website is hosted on GitHub Pages. In the "thedigradio" GitHub repository, all episodes and newsletters are stored in the "_posts" folder. Adding a new file to this folder will cause the website to automatically update within ten minutes.
 
-There are currently two official themes built on Poole:
+The user uploading posts should have collaborator permissions with this repository. If you do not have access email andysrickert@gmail.com
 
-* [Hyde](https://hyde.getpoole.com)
-* [Lanyon](https://lanyon.getpoole.com)
+### 1. Uploading an episode
 
-Individual theme feedback and bug reports should be submitted to the theme's individual repository.
+This website takes posts in the Markdown markup language. Markdown allows for plain text to be formatted with a very minimal amount of coding. Most of the existing pages use very little Markdown tricks, but if you want to experiment there are [tutorials online](https://commonmark.org/help/). The most relevant skill to learn is linking.
 
+Markdown files can be created in any text editor; simply save the file with a ".md" at the end. Here is an example episode post:
 
-## Contents
+```
+---
+layout: post
+title: "SCOTUS, Politics, and the Law w/ Aziz Rana, Amna Akbar, & Marbre Stahly-Butts"
+permalink: podcast/scotus-politics-and-the-law-w-aziz-rana-amna-akbar-marbre-stahly-butts/
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_355-SCOTUS.mp3
+categories: 
+- Capitalism
+- Labor
+tags: 
+- Aziz Rana
+- Amna Akbar
+- Marbre Stahly-Butts
+---
 
-- [Usage](#usage)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
+A timely interview from the archives: legal scholars Aziz Rana and Amna Akbar, and Movement for Black Lives lawyer Marbre Stahly-Butts, on SCOTUS, liberal court veneration, and other big questions on the law and politics facing the left.
 
+Find Eslanda at haymarketbooks.org/books/1769-eslanda
 
-## Usage
+Support The Dig at Patreon.com/TheDig
 
-### 1. Install dependencies
-
-Poole is built on Jekyll and uses its built-in SCSS compiler to generate our CSS. Before getting started, you'll need to install the Jekyll gem and related dependencies:
-
-```bash
-$ gem install jekyll jekyll-gist jekyll-sitemap jekyll-seo-tag
 ```
 
-**Windows users:** Windows users have a bit more work to do, but luckily [@juthilo](https://github.com/juthilo) has your back with his [Run Jekyll on Windows](https://github.com/juthilo/run-jekyll-on-windows) guide.
+To make an episode post, copy and paste this text and change it to reflect the new episode.
 
-**Need syntax highlighting?** Poole includes support for Pygments or Rouge, so install your gem of choice to make use of the built-in styling. Read more about this in the [Jekyll docs](https://jekyllrb.com/docs/liquid/tags/#code-snippet-highlighting).
+**layout:** leave this field as "post"
 
-### 2a. Quick start
+**title:** any title can be given so long as there are quotes around it (these won't show on the page)
 
-To help anyone with any level of familiarity with Jekyll quickly get started, Poole includes everything you need for a basic Jekyll site. To that end, just download Poole and start up Jekyll.
+**permalink:** This denotes the url of the episode that will appear on the website. Realistically, any permalink can be given, but it is nice to be consistent. Begin with "podcast/" for episodes and then copy and paste the end of the generated url from the blubrry url.
 
-### 2b. Roll your own Jekyll site
+**audiolink:** This is a path of the episode's audiofule. To get this url, go to the episode's page on the wordpress site and click download. A window should open with an audio player. Copy the url for this page and paste it into the audio link box.
 
-Folks wishing to use Jekyll's templates and styles can do so with a little bit of manual labor. Download Poole and then copy what you need (likely `_layouts/`, `*.html` files, `atom.xml` for RSS, and `assets/` for CSS, JS, etc.).
+**categories:** This is for the Topics metadata. Any number of categories can be added to an episode (or none!) provied each one is given an individual line and begins with "- "
 
-### 3. Running locally
+**tags:** The same goes for tags, which is traditionally used for guests.
 
-To see your Jekyll site with Poole applied, start a Jekyll server. In Terminal, from `/poole` (or whatever your Jekyll site's root directory is named):
 
-```bash
-$ jekyll serve
+
+**Transcript posts** will use the exact format, but leave the audiolink field blank, begin the url with transcripts/ instead of podcasts/, and add "Transcripts" to the tag list. It is also essential that the title begins with "Transcript:"
+
+
+Titling the markdown file is very important. Here is an example title:
+
+```
+2022-05-09-scotus-politics-and-the-law-w-aziz-rana-amna-akbar-marbre-stahly-butts.md
 ```
 
-Open <http://localhost:4000> in your browser, and voilà.
+The first part of the file name features the date of the episode in YYYY-MM-DD format. If this is forgotten in the file name, the episode will not show on the website. The second half is the episode title. This can technically be anything, but it should match the second part of the permalink field inputted earlier.
 
-### 4. Serving it up
+Antibody should have "Antibody:" in the title, and Antibody in the categories field.
 
-If you host your code on GitHub, you can use [GitHub Pages](https://pages.github.com) to host your project.
+### 2. Uploading a post
 
-1. Fork this repo and switch to the `gh-pages` branch.
-  1. If you're [using a custom domain name](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages), modify the `CNAME` file to point to your new domain.
-  2. If you're not using a custom domain name, **modify the `baseurl` in `_config.yml`** to point to your GitHub Pages URL. Example: for a repo at `github.com/username/poole`, use `http://username.github.io/poole/`. **Be sure to include the trailing slash.**
-3. Done! Head to your GitHub Pages URL or custom domain.
+Once you have your Markdown file ready, go to https://github.com/arickert/thedigradio/tree/master/_posts while logged in to your GitHub account with collaborator permissions. In the top right, click "Add file" and then "upload files" on the dropdown.
 
-No matter your production or hosting setup, be sure to verify the `baseurl` option file and `CNAME` settings. Not applying this correctly can mean broken styles on your site.
+Drag your episode file into the box at the center page and then click the green "commit changes" button at the bottom of the page.
 
-## Development
+Your episode is now live, and will show on the website within ten minutes!
 
-Poole has two branches, but only one is used for active development.
-
-- `master` for development.  **All pull requests should be to submitted against `master`.**
-- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
-
-CSS is handled via Jeykll's built-in Sass compiler. Source Sass files are located in `_sass/`, included into `styles.scss`, and compile to `styles.css`.
-
-## Author
-
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
+ If you want to change an existing episode, you can either manually delete it from the previously linked folder, or you can reupload the updated file. If the reuploaded file has the same name as the older file, it will replace it. Good luck! If you have any questions please email andysrickert@gmail.com
 
 
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
