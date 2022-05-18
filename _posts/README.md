@@ -1,6 +1,6 @@
 # The Dig Radio
 
-*Hello Dan! Or future assistant of Dan. The following is a brief tutorial of how to upload episodes to The Dig's new website.*
+*Hello Dan! Or future assistan of Dan. The following is a brief tutorial of how to upload episodes to The Dig's new website.*
 
 -----
 
