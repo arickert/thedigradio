@@ -21,7 +21,7 @@ Production note: Dan sounds like he’s speaking in an aquarium or calling into 
 
 Thanks to Verso. Check out Street Fighting Years: An Autobiography of the Sixties by Tariq Ali 
 [versobooks.com/books/2666-
-street-fighting-years](http://versobooks.com/books/2666-street-fighting-years)
+street-fighting-years](https://versobooks.com/books/2666-street-fighting-years)
 
 
 
@@ -30,4 +30,4 @@ Also, register for the upcoming Socialism 2018 conference at SocialismConference
 
 
 And support this podcast with $ and get access to our stellar weekly newsletter at 
-[patreon.com/TheDig](http://patreon.com/TheDig)
+[patreon.com/TheDig](https://patreon.com/TheDig)

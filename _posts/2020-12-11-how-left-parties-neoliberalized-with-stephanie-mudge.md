@@ -16,7 +16,7 @@ What happened to social democratic politics? Dan interviews sociologist Stephani
 Leftism Reinvented: Western Parties from Socialism to Neoliberalism.
 
 Join a Dig Book Club 
-[thedigradio.com/dig-book-club](http://thedigradio.com/dig-book-club)
+[thedigradio.com/dig-book-club](https://thedigradio.com/dig-book-club)
 
 Support this podcast at 
-[patreon.com/TheDig](http://patreon.com/TheDig)
+[patreon.com/TheDig](https://patreon.com/TheDig)

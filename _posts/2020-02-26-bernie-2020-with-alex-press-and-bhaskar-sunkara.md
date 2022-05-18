@@ -15,4 +15,4 @@ tags:
 Live show with Jacobin's Bhaskar Sunkara and Alex Press in Cambridge, MA for Bernie 2020. Recorded the night of Nevada caucuses. 
 
 Please support us with your money at 
-[www.thedigradio.com](http://www.thedigradio.com)
+[www.thedigradio.com](https://www.thedigradio.com)

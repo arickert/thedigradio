@@ -21,4 +21,4 @@ In the late 1960s, criminologists like Todd Clear predicted America would soon s
 
 
 Today's show is the first in a four-part series on mass incarceration that we are co-producing with @citedpodcast, which is out of the University of British Columbia. Special guest hosts are Cited's @Samadeus and scholar Katherine Beckett. Sponsorship from Harvard Law's Fair Punishment Project (sign up for the FPP newsletter: 
-[http://eepurl.com/cZMccH](http://eepurl.com/cZMccH)) and The University of Washington Center for Human Rights.
+[https://eepurl.com/cZMccH](https://eepurl.com/cZMccH)) and The University of Washington Center for Human Rights.

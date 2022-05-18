@@ -14,4 +14,4 @@ tags:
 Dan interviews Marxist economist Grace Blakeley on coronavirus economics.
 
 Please support this podcast with money at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

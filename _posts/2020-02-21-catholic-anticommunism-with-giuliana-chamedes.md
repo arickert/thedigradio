@@ -17,7 +17,7 @@ The Catholic Church was a powerful force throughout the first half of the 20th c
 A Twentieth-Century Crusade: The Vatican’s Battle to Remake Christian Europe. 
 
 Live Massachusetts Dig for Bernie! With Bhaskar Sunkara and Alex Press at Harvard this Saturday 2/2, 7pm: 
-[facebook.com/events/604111176850753/](http://facebook.com/events/604111176850753/)
+[facebook.com/events/604111176850753/](https://facebook.com/events/604111176850753/)
 
 Please support this podcast with your money at 
-[patreon.com/TheDig](http://patreon.com/TheDig)
+[patreon.com/TheDig](https://patreon.com/TheDig)

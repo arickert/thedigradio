@@ -14,4 +14,4 @@ tags:
 Dan's recent live event with Yanis Varoufakis on how 2020 revealed that 2008 had changed capitalism forever.
 
 Also: we had some pod feed issues last week. If you missed Dan's interview with brilliant organizers Andres Celin and Rapheal Randall—and this is a must-listen for everyone interested in organizing—check it out: 
-[www.thedigradio.com/podcast/organize-to-win-with-andres-celin-and-rapheal-randall/](http://www.thedigradio.com/podcast/organize-to-win-with-andres-celin-and-rapheal-randall/)
+[www.thedigradio.com/podcast/organize-to-win-with-andres-celin-and-rapheal-randall/](https://www.thedigradio.com/podcast/organize-to-win-with-andres-celin-and-rapheal-randall/)

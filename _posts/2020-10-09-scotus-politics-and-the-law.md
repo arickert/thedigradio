@@ -16,7 +16,7 @@ tags:
 Dan interviews legal scholars Aziz Rana and Amna Akbar, and Movement for Black Lives lawyer Marbre Stahly-Butts, on SCOTUS, liberal RBG and court veneration, and other big questions on the law and politics facing the left.
 
 Join a Dig book club at 
-[thedigradio.com/dig-book-club](http://thedigradio.com/dig-book-club)
+[thedigradio.com/dig-book-club](https://thedigradio.com/dig-book-club)
 
 Support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

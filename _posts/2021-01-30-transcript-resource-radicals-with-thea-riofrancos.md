@@ -14,7 +14,7 @@ tags:
 - Transcripts
 ---
 
-[Listen to Episode](http://<a class="btn btn-theme-primary" href="https://www.thedigradio.com/podcast/resource-radicals-with-thea-riofrancos/">Listen to Episode</a>)
+[Listen to Episode](https://<a class="btn btn-theme-primary" href="https://www.thedigradio.com/podcast/resource-radicals-with-thea-riofrancos/">Listen to Episode</a>)
 
 
 **Daniel Denvir:**

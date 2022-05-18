@@ -17,7 +17,7 @@ tags:
 A big-picture interview with Tobita Chow and Jake Werner on China that puts today's geopolitical conflict and repression into the context of global capitalism.
 
 Join a Dig Book Club 
-[thedigradio.com/dig-book-club](http://thedigradio.com/dig-book-club)
+[thedigradio.com/dig-book-club](https://thedigradio.com/dig-book-club)
 
 Support this podcast at 
-[patreon.com/TheDig](http://patreon.com/TheDig)
+[patreon.com/TheDig](https://patreon.com/TheDig)

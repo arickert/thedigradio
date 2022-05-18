@@ -2,7 +2,7 @@
 layout: post
 title: "Capitalism with Michael Hardt"
 permalink: podcast/capitalism-with-michael-hardt
-audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_231-Hardt.mp3
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_231-Hardt.mp3
 post_id: 1427
 categories: 
 - Capitalism
@@ -16,14 +16,14 @@ An interview on how the transformation of capitalism has changed the possibiliti
 Assembly.
 
 Read Dan's essay on the 20th anniversary of the WTO protests in Seattle 
-[jacobinmag.com/2019/11/seattle-world-trade-organization-protests-socialism](http://jacobinmag.com/2019/11/seattle-world-trade-organization-protests-socialism)
+[jacobinmag.com/2019/11/seattle-world-trade-organization-protests-socialism](https://jacobinmag.com/2019/11/seattle-world-trade-organization-protests-socialism)
 
 Read Hardt and Negri reflect on the 20th anniversary of 
 Empire 
-[newleftreview.org/issues/II120/articles/empire-twenty-years-on](http://newleftreview.org/issues/II120/articles/empire-twenty-years-on)
+[newleftreview.org/issues/II120/articles/empire-twenty-years-on](https://newleftreview.org/issues/II120/articles/empire-twenty-years-on)
 
 Thanks to Verso. Check out their huge selection of left-wing titles at 
-[www.versobooks.com](http://www.versobooks.com)
+[www.versobooks.com](https://www.versobooks.com)
 
 Please support this podcast with your money at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

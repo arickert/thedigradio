@@ -15,7 +15,7 @@ tags:
 What else to talk about right now other than everything about right now? Election, pandemic, BLM, climate, and how the left should think about and struggle with it all. Dan interviews Naomi Klein and Nikhil Pal Singh.
 
 Support this podcast on 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)
 
 Join a Dig Book Club. Next book is Wendy Brown's In the Ruins of Neoliberalism 
-[thedigradio.com/dig-book-club](http://thedigradio.com/dig-book-club)
+[thedigradio.com/dig-book-club](https://thedigradio.com/dig-book-club)

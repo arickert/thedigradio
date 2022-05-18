@@ -15,4 +15,4 @@ Prevailing identity politics norms call on people “listen to the most affected
 ["Being-in-the-Room Privilege: Elite Capture and Epistemic Deference."](https://www.thephilosopher1923.org/essay-taiwo)
 
 It's The Dig's four-year anniversary. Support us at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig) and take a moment to post something to social media about why you listen to The Dig and how it has shaped your politics.
+[Patreon.com/TheDig](https://Patreon.com/TheDig) and take a moment to post something to social media about why you listen to The Dig and how it has shaped your politics.

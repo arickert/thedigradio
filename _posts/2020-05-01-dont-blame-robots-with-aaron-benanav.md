@@ -20,4 +20,4 @@ New Left Review. Parts
 [two](https://newleftreview.org/issues/II120/articles/aaron-benanav-automation-and-the-future-of-work-2).
 
 Please support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig).
+[Patreon.com/TheDig](https://Patreon.com/TheDig).

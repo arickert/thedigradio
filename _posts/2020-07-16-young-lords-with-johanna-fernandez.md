@@ -16,4 +16,4 @@ This is an incredible moment to learn about the Young Lords from historian Johan
 The Young Lords: A Radical History.
 
 Please support this podcast with your money at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

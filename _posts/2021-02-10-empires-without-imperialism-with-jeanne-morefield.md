@@ -16,10 +16,10 @@ Dan interviews Jeanne Morefield on her book
 Empires Without Imperialism: Anglo-American Decline and the Politics of Deflection and how the disavowed wars have come home on the American Right. 
 
 Support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)
 
 Join the Dig Book Club at 
-[thedigradio.com/dig-book-club](http://thedigradio.com/dig-book-club)
+[thedigradio.com/dig-book-club](https://thedigradio.com/dig-book-club)
 
 Check out our vast archives at 
-[thedigradio.com](http://thedigradio.com)
+[thedigradio.com](https://thedigradio.com)

@@ -15,16 +15,16 @@ Dan interviews
 Jacobin's Alex Press and organizer Jonah Furman on the state of the labor movement.
 
 Sign up to join DSA's Pro Act phonebank 
-[actionnetwork.org/forms/proactphonebank](http://actionnetwork.org/forms/proactphonebank)
+[actionnetwork.org/forms/proactphonebank](https://actionnetwork.org/forms/proactphonebank)
 
 Read Alex Press's interview with political scientist Michael Goldfield on the Amazon organizing drive in Bessemer 
-[jacobinmag.com/2021/02/amazon-unionize-alabama-operation-dixie-organizing-south](http://jacobinmag.com/2021/02/amazon-unionize-alabama-operation-dixie-organizing-south)
+[jacobinmag.com/2021/02/amazon-unionize-alabama-operation-dixie-organizing-south](https://jacobinmag.com/2021/02/amazon-unionize-alabama-operation-dixie-organizing-south)
 
 Subscribe to Jonah Furman's newsletter 
-[whogetsthebird.substack.com](http://whogetsthebird.substack.com)
+[whogetsthebird.substack.com](https://whogetsthebird.substack.com)
 
 Support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)
 
 Join The Dig Book Club and discuss 
 The Digital Party: Political Organisation and Online Democracy with Paolo Gerbaudo thedigradio.com/dig-book-club. Same to zoom with Astra Taylor and Erick Stoll on their doc 

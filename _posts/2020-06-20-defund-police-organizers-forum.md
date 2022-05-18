@@ -14,18 +14,18 @@ tags:  []
 A Dig special. Zoom forum Dan hosted with leading defund police organizers from around the country. For more info:
 
 
-[blackvisionsmn.org](http://blackvisionsmn.org)
+[blackvisionsmn.org](https://blackvisionsmn.org)
 
-[byp100.org](http://byp100.org)
+[byp100.org](https://byp100.org)
 
-[daretowin.org](http://daretowin.org)
+[daretowin.org](https://daretowin.org)
 
-[reclaimRI.org](http://reclaimRI.org)
+[reclaimRI.org](https://reclaimRI.org)
 
-[blmla.org](http://blmla.org)
+[blmla.org](https://blmla.org)
 
 If you live in RI, support the fight for a people's budget: 
-[actionnetwork.org/petitions/say-no-to-a-brutal-austerity-budget-in-rhode-island](http://actionnetwork.org/petitions/say-no-to-a-brutal-austerity-budget-in-rhode-island)
+[actionnetwork.org/petitions/say-no-to-a-brutal-austerity-budget-in-rhode-island](https://actionnetwork.org/petitions/say-no-to-a-brutal-austerity-budget-in-rhode-island)
 
 Dan's essay on Trump's origins in ordinary bipartisan security politics: 
-[jacobinmag.com/2020/06/donald-trump-war-american-democracy-riots-coronavirus](http://jacobinmag.com/2020/06/donald-trump-war-american-democracy-riots-coronavirus)
+[jacobinmag.com/2020/06/donald-trump-war-american-democracy-riots-coronavirus](https://jacobinmag.com/2020/06/donald-trump-war-american-democracy-riots-coronavirus)

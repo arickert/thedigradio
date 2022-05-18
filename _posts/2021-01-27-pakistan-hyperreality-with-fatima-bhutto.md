@@ -17,7 +17,7 @@ Dan interviews author Fatima Bhutto on social media subjectivities; Pakistani hi
 The Runaways.
 
 Support this podcast with a contribution at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)
 
 Join a Dig Book Club at 
-[thedigradio.com/dig-book-club](http://thedigradio.com/dig-book-club)
+[thedigradio.com/dig-book-club](https://thedigradio.com/dig-book-club)

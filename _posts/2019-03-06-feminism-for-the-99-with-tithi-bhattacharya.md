@@ -18,7 +18,7 @@ Striking women have begun to reclaim feminism as a project of working-class stru
 , "Our answer to lean-in feminism is kick-back feminism. We have no interest in breaking the glass ceiling while leaving the vast majority to clean up the shards. Far from celebrating women CEOs who occupy corner offices, we want to get rid of CEOs and corner offices." Dan interviews Tithi Bhattacharya.
 
 Thanks to Verso. Check out their huge selection of left-wing titles at 
-[www.versobooks.com](http://www.versobooks.com)
+[www.versobooks.com](https://www.versobooks.com)
 
 Please support this podcast with your money at 
 [patreon.com/TheDig](patreon.com/TheDig)

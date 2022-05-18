@@ -19,4 +19,4 @@ In other news: Dan's Jacobin essay on keeping the Bernie infrastructure alive is
 [here](https://docs.google.com/forms/d/e/1FAIpQLSeqMpCESGhvAF0TONlRN--GZiG3kS1db-Y1TiteA7d0txpdmQ/viewform).
 
 Please support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

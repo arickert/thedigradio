@@ -18,11 +18,11 @@ The Digital Party: Political Organisation and Online Democracy. How does the pro
 
 Related episodes from The Dig archives:
 Hegemony How-To with Jonathan Matthew Smucker 
-[thedigradio.com/podcast/hegemony-how-to-with-jonathan-matthew-smucker](http://thedigradio.com/podcast/hegemony-how-to-with-jonathan-matthew-smucker)
+[thedigradio.com/podcast/hegemony-how-to-with-jonathan-matthew-smucker](https://thedigradio.com/podcast/hegemony-how-to-with-jonathan-matthew-smucker)
 How Left Parties Neoliberalized with Stephanie Mudge 
-[thedigradio.com/podcast/how-left-parties-neoliberalized-with-stephanie-mudge](http://thedigradio.com/podcast/how-left-parties-neoliberalized-with-stephanie-mudge)
+[thedigradio.com/podcast/how-left-parties-neoliberalized-with-stephanie-mudge](https://thedigradio.com/podcast/how-left-parties-neoliberalized-with-stephanie-mudge)
 
 Support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)
 Join a Dig Book Club at 
-[thedigradio.com/dig-book-club](http://thedigradio.com/dig-book-club)
+[thedigradio.com/dig-book-club](https://thedigradio.com/dig-book-club)

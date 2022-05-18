@@ -15,7 +15,7 @@ Dan interviews Sam Adler-Bell and Matt Sitman on the history and post-Trump traj
 
 Listen to 
 Know Your Enemy, their really great podcast on the American Right, wherever you get your podcasts. Sign up on Patreon for bonus episodes: 
-[patreon.com/knowyourenemy](http://patreon.com/knowyourenemy)
+[patreon.com/knowyourenemy](https://patreon.com/knowyourenemy)
 
 
 **Recommended reading and listening:**
@@ -36,8 +36,8 @@ Know Your Enemy, their really great podcast on the American Right, wherever you 
 
 ["Leaving Conservatism Behind: How I renounced the God-and-guns conservatism of my blue-collar roots and embraced class politics." By Matt Sitman](https://www.dissentmagazine.org/article/leaving-conservatism-behind-blue-collar-republican-progressive)
 Join the Dig Book Club and zoom with Astra Taylor and Erick Stoll at 
-[thedigradio.com/dig-book-club](http://thedigradio.com/dig-book-club). Watch their doc You Are Not a Loan 
+[thedigradio.com/dig-book-club](https://thedigradio.com/dig-book-club). Watch their doc You Are Not a Loan 
 [here](https://theintercept.com/2021/01/25/student-debt-you-are-not-a-loan-film/).
 
 Support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

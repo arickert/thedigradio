@@ -2,7 +2,7 @@
 layout: post
 title: "Russia Beyond Putin with Tony Wood"
 permalink: podcast/russia-beyond-putin-with-tony-wood
-audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_206-Wood.mp3
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_206-Wood.mp3
 post_id: 1215
 categories: 
 - Russia
@@ -17,10 +17,10 @@ Russia intervened and Trump is a criminal who committed obstruction of justice a
 [Russia Without Putin: Money, Power and the Myths of the New Cold War](https://www.versobooks.com/books/2839-russia-without-putin).
 
 Thanks to Verso. Check out their massive left-wing book selection at 
-[versobooks.com](http://versobooks.com)
+[versobooks.com](https://versobooks.com)
 
 Go to the Socialism 2019 conference in Chicago July 4-7! Register now at 
-[socialismconference.org](http://socialismconference.org)
+[socialismconference.org](https://socialismconference.org)
 
 Support this podcast with your money at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

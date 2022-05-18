@@ -16,4 +16,4 @@ tags:
 Dan interviews anthropologist Adia Benton on the 2014 Ebola outbreak in West Africa and what its politics reveal about the Covid-19 pandemic today.
 
 Please support this podcast with your money at 
-[patreon.com/thdig](http://patreon.com/thdig)
+[patreon.com/thdig](https://patreon.com/thdig)

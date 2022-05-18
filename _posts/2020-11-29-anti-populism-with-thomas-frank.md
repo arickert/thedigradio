@@ -23,7 +23,7 @@ From The Dig archives on populism:
 [Worker Freedom with Alex Gourevitch](https://www.thedigradio.com/podcast/worker-freedom-with-alex-gourevitch/) 
 
 Join a Dig Book Club at 
-[thedigradio.com/dig-book-club](http://thedigradio.com/dig-book-club)
+[thedigradio.com/dig-book-club](https://thedigradio.com/dig-book-club)
 
 Support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

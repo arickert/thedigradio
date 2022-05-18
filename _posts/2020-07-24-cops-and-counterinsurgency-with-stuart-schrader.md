@@ -16,4 +16,4 @@ Our police system is a product of Cold War US imperialism too. Dan interviews St
 Badges Without Borders: How Global Counterinsurgency Transformed American Policing. 
 
 Support this podcast with your money at 
-[patreon.com/TheDig](http://patreon.com/TheDig)
+[patreon.com/TheDig](https://patreon.com/TheDig)

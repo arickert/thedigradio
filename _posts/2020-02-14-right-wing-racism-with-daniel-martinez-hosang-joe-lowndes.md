@@ -16,4 +16,4 @@ Racism on the right wing is changing in weird and important ways, and liberal an
 Producers, Parasites, Patriots: Race and the New Right-Wing Politics of Precarity.
 
 Please support this podcast with your money at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

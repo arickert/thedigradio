@@ -14,13 +14,13 @@ tags:
 
 Dan talks to 
 [@loggins__](https://twitter.com/loggins__) and 
-[@MuseWendi](http://@MuseWendi) about why people are reading White Fragility and ten books about racism, capitalism, and Black radicalism that you should read instead.
+[@MuseWendi](https://@MuseWendi) about why people are reading White Fragility and ten books about racism, capitalism, and Black radicalism that you should read instead.
 
 Check out Left POCket Project 
 [@LeftPOC](https://twitter.com/LeftPOC)
 
 
-[Blacks In and Out of the Left by Michael C Dawson](http://hup.harvard.edu/catalog.php?isbn=9780674057685)
+[Blacks In and Out of the Left by Michael C Dawson](https://hup.harvard.edu/catalog.php?isbn=9780674057685)
 
 [Dig interview with Michael Dawson](https://www.thedigradio.com/podcast/black-socialism-nationalism-neoliberalism-with-michael-dawson/)
 
@@ -50,7 +50,7 @@ Check out Left POCket Project
 [We Will Shoot Back: Armed Resistance in the Mississippi Freedom Movement by Akinyele Omowale Umoja](https://nyupress.org/9780814725245/we-will-shoot-back/)
 
 
-[The Meaning of Freedom by Angela Davis](http://www.citylights.com/book/?GCOI=87286100677870)
+[The Meaning of Freedom by Angela Davis](https://www.citylights.com/book/?GCOI=87286100677870)
 
 
 [Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing Californiaby Ruth Wilson Gilmore](https://www.ucpress.edu/book/9780520242012/golden-gulag)

@@ -14,4 +14,4 @@ tags:
 Dan interviews veteran organizer Jasson Perez and journalist Sarah Jaffe on left organizing amid covid and where it might go.
 
 Support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

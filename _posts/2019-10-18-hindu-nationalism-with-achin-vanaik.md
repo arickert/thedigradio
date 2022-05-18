@@ -2,7 +2,7 @@
 layout: post
 title: "Hindu Nationalism with Achin Vanaik"
 permalink: podcast/hindu-nationalism-with-achin-vanaik
-audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_223-Vanaik.mp3
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_223-Vanaik.mp3
 post_id: 1398
 categories: 
 - India
@@ -16,11 +16,11 @@ Perhaps nowhere is the far right stronger than in India. There, the Bharatiya Ja
 Read some of his recent work:
 
 
-[newleftreview.org/issues/II112/articles/achin-vanaik-india-s-two-hegemonies](http://newleftreview.org/issues/II112/articles/achin-vanaik-india-s-two-hegemonies)
+[newleftreview.org/issues/II112/articles/achin-vanaik-india-s-two-hegemonies](https://newleftreview.org/issues/II112/articles/achin-vanaik-india-s-two-hegemonies)
 
 
-[jacobinmag.com/author/achin-vanaik](http://jacobinmag.com/author/achin-vanaik)
+[jacobinmag.com/author/achin-vanaik](https://jacobinmag.com/author/achin-vanaik)
 
 Thanks to Princeton University Press. Check out The Fire Is upon Us: James Baldwin, William F. Buckley Jr., and the Debate over Race in America by Nicholas Buccola 
-[press.princeton.edu/books/hardcover/9780691181547/the-fire-is-upon-us](http://press.princeton.edu/books/hardcover/9780691181547/the-fire-is-upon-us)Please support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[press.princeton.edu/books/hardcover/9780691181547/the-fire-is-upon-us](https://press.princeton.edu/books/hardcover/9780691181547/the-fire-is-upon-us)Please support this podcast at 
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

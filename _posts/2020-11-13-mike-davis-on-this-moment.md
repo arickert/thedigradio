@@ -14,7 +14,7 @@ tags:
 Dan interviews Mike Davis on what the election reveals about this US political moment and the way forward for the Left.
 
 Support this podcast at 
-[www.patreon.com/TheDig](http://www.patreon.com/TheDig)
+[www.patreon.com/TheDig](https://www.patreon.com/TheDig)
 
 Join a Dig book club! Next book is Wendy Brown's In the Ruins of Neoliberalism 
-[thedigradio.com/dig-book-club/](http://thedigradio.com/dig-book-club/)
+[thedigradio.com/dig-book-club/](https://thedigradio.com/dig-book-club/)

@@ -18,4 +18,4 @@ Download their book Y’all Tryna Win or Nah?!
 [https://www.youthunitedforchange.org/y_all_tryna_win_or_nah](https://www.youthunitedforchange.org/y_all_tryna_win_or_nah)
 
 Support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

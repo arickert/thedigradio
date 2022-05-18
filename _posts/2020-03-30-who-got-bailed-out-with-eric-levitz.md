@@ -14,4 +14,4 @@ tags:
 Dan interviews New York magazine writer Eric Levitz on the big corporate bailout that gave workers precious little to survive the corona crisis.
 
 Please support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

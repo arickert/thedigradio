@@ -15,7 +15,7 @@ tags:
 Dan interviews political scientist Megan Ming Francis about the NAACP's struggle against racist violence in the teens and 20s and how it remade the criminal justice system and the civil rights movement alike.
 
 Join a Dig book club! Next book is Wendy Brown’s In the Ruins of Neoliberalism 
-[thedigradio.com/dig-book-club/](http://thedigradio.com/dig-book-club/)
+[thedigradio.com/dig-book-club/](https://thedigradio.com/dig-book-club/)
 
 Support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

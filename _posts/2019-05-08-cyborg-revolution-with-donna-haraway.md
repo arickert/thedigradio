@@ -17,25 +17,25 @@ Donna Haraway's work defies disciplines, combining insights from both biology a
  editorial board member Alyssa Battistoni.
 
 Thanks to n+1. To get 25% off a one-year subscription, go to 
-[nplusonemag.com/thedig](http://nplusonemag.com/thedig) and enter THEDIG at checkout
+[nplusonemag.com/thedig](https://nplusonemag.com/thedig) and enter THEDIG at checkout
 
 The documentary Donna Haraway: Story Telling For Earthly Survival is now available to stream on 
 [Amazon](https://www.amazon.com/gp/product/B07PDNL3T7), 
 [iTunes](https://itunes.apple.com/us/movie/donna-haraway-story-telling-for-earthly-survival/id1446065276), 
 [Vimeo](https://vimeo.com/ondemand/donnaharaway), as well as on 
-[DVD via Icarus Films](http://icarusfilms.com/if-donna).
+[DVD via Icarus Films](https://icarusfilms.com/if-donna).
 
 Please support this podcast with your money at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)
 
 Alyssa's piece on Haraway for n+1: 
-[nplusonemag.com/issue-28/reviews/monstrous-duplicated-potent](http://nplusonemag.com/issue-28/reviews/monstrous-duplicated-potent)
+[nplusonemag.com/issue-28/reviews/monstrous-duplicated-potent](https://nplusonemag.com/issue-28/reviews/monstrous-duplicated-potent)
 
 Sophie Lewis's critique of Haraway and population politics: 
-[viewpointmag.com/2017/05/08/cthulhu-plays-no-role-for-me](http://viewpointmag.com/2017/05/08/cthulhu-plays-no-role-for-me)
+[viewpointmag.com/2017/05/08/cthulhu-plays-no-role-for-me](https://viewpointmag.com/2017/05/08/cthulhu-plays-no-role-for-me)
 
 The Leap Manifesto: 
-[leapmanifesto.org/en/the-leap-manifesto](http://leapmanifesto.org/en/the-leap-manifesto)
+[leapmanifesto.org/en/the-leap-manifesto](https://leapmanifesto.org/en/the-leap-manifesto)
 
 The Xenofeminist Manifesto: 
-[laboriacuboniks.net](http://laboriacuboniks.net)
+[laboriacuboniks.net](https://laboriacuboniks.net)

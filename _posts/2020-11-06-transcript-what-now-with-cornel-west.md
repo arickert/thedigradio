@@ -11,7 +11,7 @@ tags:
 - Cornel West
 ---
 
-[Listen to Episode](http://<a class="btn btn-theme-primary" href="https://www.thedigradio.com/podcast/what-now-with-cornel-west/">Listen to Episode</a>)
+[Listen to Episode](https://<a class="btn btn-theme-primary" href="https://www.thedigradio.com/podcast/what-now-with-cornel-west/">Listen to Episode</a>)
 
 Dan interviews Cornel West on how to think about and act upon the world that this week presented to us.
 

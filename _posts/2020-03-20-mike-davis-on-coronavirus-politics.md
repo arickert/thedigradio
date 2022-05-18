@@ -13,4 +13,4 @@ tags:
 Dan interviews Mike Davis about everything we are all suddenly trying to figure out.
 
 Support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

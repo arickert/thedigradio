@@ -18,4 +18,4 @@ Bathsheba Demuth on her monumental book
 Floating Coast: An Environmental History of the Bering Strait. From the 19th century through today, governments and capitalists on the Russian, Soviet, and American Arctic borderlands extract energy from a natural world whose reproductive cycles they don't comprehend and strive to convert Indigenous people into national subjects.
 
 Support this podcast with a contribution at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

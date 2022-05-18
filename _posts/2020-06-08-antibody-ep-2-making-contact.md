@@ -23,4 +23,4 @@ Role Call (produced by
 [Andrea Long Chu](https://twitter.com/andrealongchu?lang=en))
 
 Support day laborer economic survival with a contribution at 
-[ndlon.org](http://ndlon.org)
+[ndlon.org](https://ndlon.org)

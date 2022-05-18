@@ -2,7 +2,7 @@
 layout: post
 title: "The Struggle in Chile with Alondra Carrillo & Pablo Abufom"
 permalink: podcast/the-struggle-in-chile-with-pablo-abufom-alondra-carrillo
-audiolink: http://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_210-Chile.mp3
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_210-Chile.mp3
 post_id: 1259
 categories: 
 - Chile
@@ -21,7 +21,7 @@ Read Dan's interview with Daniel Jadue, the Communist mayor of Recoleta,
 Jacobin](https://jacobinmag.com/2019/04/communist-party-chile-left-governance-recoleta).
 
 Thanks to Verso Books. Check out their huge selection of left-wing titles at 
-[www.versobooks.com](http://www.versobooks.com)
+[www.versobooks.com](https://www.versobooks.com)
 
 Please support this podcast with your money at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

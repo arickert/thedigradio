@@ -10,10 +10,10 @@ tags:  []
 
 We're taking a week off to play catch up and posting an early Dig episode from the archives that people keep returning to time and again: Barbara and Karen Fields on their book 
 Racecraft: The Soul of Inequality in American Life (episode 75 from December 13, 2017). Peruse The Dig's vast archives at 
-[thedigradio.com](http://thedigradio.com)and we'll be back with a new ep next week.
+[thedigradio.com](https://thedigradio.com)and we'll be back with a new ep next week.
 
 Support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)
 
 Join The Dig Book Club and discuss The Digital Party: Political Organisation and Online Democracy with Paolo Gerbaudo thedigradio.com/dig-book-club. Same to zoom with Astra Taylor and Erick Stoll on 
 [their doc 

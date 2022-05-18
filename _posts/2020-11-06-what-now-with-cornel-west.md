@@ -14,4 +14,4 @@ tags:
 Dan interviews Cornel West on how to think about and act upon the world that this week presented to us.
 
 Support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

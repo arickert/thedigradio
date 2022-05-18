@@ -15,7 +15,7 @@ Aziz Rana interviews Dan Denvir on how policing and mass incarceration became co
 All-American Nativism: How the Bipartisan War on Immigrants Explains Politics as We Know It.
 
 Please support this podcast wit $ at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)
 
 Buy Dan's book at 
-[versobooks.com/books/2858-all-american-nativism](http://versobooks.com/books/2858-all-american-nativism)
+[versobooks.com/books/2858-all-american-nativism](https://versobooks.com/books/2858-all-american-nativism)

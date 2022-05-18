@@ -18,4 +18,4 @@ tags:
 Dan interviews NYC DSA down-ballot candidates. Samelys López is running for a US House seat in the Bronx. Jabari Brisport, Marcela Mitaynes, and Phara Souffrant Forrest are running for seats in the state legislature. All four are campaigning on a platform of housing justice.
 
 Please support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

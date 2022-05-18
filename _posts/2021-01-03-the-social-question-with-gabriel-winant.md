@@ -17,14 +17,14 @@ n+1essays and
 Dissent interview for context:
 
 We Live in a Society 
-[nplusonemag.com/online-only/online-only/we-live-in-a-society](http://nplusonemag.com/online-only/online-only/we-live-in-a-society)
+[nplusonemag.com/online-only/online-only/we-live-in-a-society](https://nplusonemag.com/online-only/online-only/we-live-in-a-society)
 Coronavirus and Chronopolitics 
-[nplusonemag.com/issue-37/politics/coronavirus-and-chronopolitics-2](http://nplusonemag.com/issue-37/politics/coronavirus-and-chronopolitics-2)Professional-Managerial Chasm 
-[nplusonemag.com/online-only/online-only/professional-managerial-chasm](http://nplusonemag.com/online-only/online-only/professional-managerial-chasm)
+[nplusonemag.com/issue-37/politics/coronavirus-and-chronopolitics-2](https://nplusonemag.com/issue-37/politics/coronavirus-and-chronopolitics-2)Professional-Managerial Chasm 
+[nplusonemag.com/online-only/online-only/professional-managerial-chasm](https://nplusonemag.com/online-only/online-only/professional-managerial-chasm)
 “What’s Actually Going on in Our Nursing Homes”: An Interview with Shantonia Jackson 
-[dissentmagazine.org/article/whats-actually-going-on-in-our-nursing-homes-an-interview-with-shantonia-jackson](http://dissentmagazine.org/article/whats-actually-going-on-in-our-nursing-homes-an-interview-with-shantonia-jackson)
+[dissentmagazine.org/article/whats-actually-going-on-in-our-nursing-homes-an-interview-with-shantonia-jackson](https://dissentmagazine.org/article/whats-actually-going-on-in-our-nursing-homes-an-interview-with-shantonia-jackson)
 
 Support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)
 Join a Dig Book Club 
-[thedigradio.com/dig-book-club](http://thedigradio.com/dig-book-club)
+[thedigradio.com/dig-book-club](https://thedigradio.com/dig-book-club)

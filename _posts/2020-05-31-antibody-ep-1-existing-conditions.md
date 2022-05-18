@@ -21,5 +21,5 @@ You Can't Go Home Again (written by
 [Alex Press](https://twitter.com/alexnpress))
 
 The International Trans Person Helpline (produced by 
-[Cass Adair](http://www.cassiusadair.com/) and 
-[Arlie Adlington](http://www.arlie.me/))
+[Cass Adair](https://www.cassiusadair.com/) and 
+[Arlie Adlington](https://www.arlie.me/))

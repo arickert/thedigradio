@@ -15,4 +15,4 @@ tags:
 A special pod ep from Sunday's live Boston canvass kickoff with Michael Brooks and Natalie Shure.
 
 Please support this podcast with your money at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

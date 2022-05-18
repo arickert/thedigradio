@@ -15,4 +15,4 @@ tags:
 The protests have subsided but coronavirus has only created a deeper crisis for government legitimacy. Dan interviews long-time Hong Kong activist and writer Au Loong Yu.
 
 Please support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

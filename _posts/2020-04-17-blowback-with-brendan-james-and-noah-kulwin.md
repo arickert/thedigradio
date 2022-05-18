@@ -14,7 +14,7 @@ tags:
 Dan interviews the makers of Blowback, a new podcast series telling the history of the Iraq War.
 
 Blowback is available only on Stitcher Premium—and for a month you can listen for free. Go to 
-[stitcherpremium.com](http://stitcherpremium.com) and sign up with the code BLOWBACK. 
+[stitcherpremium.com](https://stitcherpremium.com) and sign up with the code BLOWBACK. 
 
 Support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

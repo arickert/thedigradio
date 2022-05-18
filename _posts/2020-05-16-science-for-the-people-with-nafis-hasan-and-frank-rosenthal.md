@@ -16,7 +16,7 @@ Dan interviews Frank Rosenthal on the history of the radical science organizatio
 
 Subscribe to 
 Science for the People at 
-[magazine.ScienceForThePeople.org](http://magazine.ScienceForThePeople.org)
+[magazine.ScienceForThePeople.org](https://magazine.ScienceForThePeople.org)
 
 Please support this podcast with your money at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

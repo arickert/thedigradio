@@ -16,4 +16,4 @@ tags:
 Dan interviews Amy Kapczynski and Gregg Gonsalves on the politics of public health and what we can learn from ACT UP.
 
 Please support The Dig with your money at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

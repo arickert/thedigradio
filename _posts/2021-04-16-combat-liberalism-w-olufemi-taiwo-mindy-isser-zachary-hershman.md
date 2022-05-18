@@ -20,4 +20,4 @@ Three thinkers and organizers on the much debated question of ultra-leftism post
 [Liberalism, ultraleftism or mass action](https://www.marxists.org/archive/camejo/1970/ultraleftismormassaction.htm), a speech delivered by Socialist Workers Party leader Peter Camejo.
 
 Support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)

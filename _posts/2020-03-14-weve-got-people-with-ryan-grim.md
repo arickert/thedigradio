@@ -13,4 +13,4 @@ tags:
 An interview on how the Democratic Party got here today with Ryan Grim.
 
 Please support this podcast at 
-[Patreon.com/TheDig](http://Patreon.com/TheDig)
+[Patreon.com/TheDig](https://Patreon.com/TheDig)
