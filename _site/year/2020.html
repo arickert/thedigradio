@@ -2,7 +2,7 @@
 <html lang="en-us">
 
   <head>
-    <link href="http://gmpg.org/xfn/11" rel="profile">
+    <link href="https://gmpg.org/xfn/11" rel="profile">
     <script src="https://kit.fontawesome.com/5880ce03a2.js" crossorigin="anonymous"></script>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="http://localhost:4000/public/css/poole.css">
     <link rel="stylesheet" href="http://localhost:4000/public/css/syntax.css">
     <link rel="stylesheet" href="http://localhost:4000/public/css/hyde.css">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
   
     <!-- Icons -->
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
@@ -42,9 +42,13 @@
   </button> -->
 <div id="sidebar2" class="sidebar">
   <div style="text-align:center" id="search-demo-container">
-        
     <i id="searchicon2" class="fa-solid fa-magnifying-glass" style="position: sticky;left: 24px;top: 7px;font-size: 13px; color: #515151; "></i><input class="searchbar" type="search" id="search-input" placeholder="Search..." style="background: #27262E;border: solid #515151;padding-left: 25px; color: #515151; font-family:'Scala'">
     <ul style="position:absolute; padding-left:0.5rem; padding-bottom: 2rem; font-size:0.9rem; width:85%; text-align:left; " id="results-container"></ul>
+    <!-- <form action="./search.html" method="get">
+      <label for="search-box">Search</label>
+      <input type="text" id="search-box" name="query">
+      <input type="submit" value="search">
+    </form> -->
   </div>
   <div id="sidebar" class="container sidebar-sticky">
     <div class="sidebar-about" >
@@ -1810,6 +1814,10 @@
           
         
       
+        
+          
+        
+      
 
       <a class="sidebar-nav-item" href="https://www.patreon.com/thedig">Contribute</a>
       <!-- <span class="sidebar-nav-item">Currently v3.0.0</span> -->
@@ -1862,7 +1870,7 @@
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         sidebar: document.getElementById('sidebar'),
-        json: 'http://localhost:4000/search.json',
+        json: './public/search.json',
         searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
         limit: 10,
@@ -1887,6 +1895,10 @@
     <h2>Archive of posts from <span> '2020'</span></h2>
 </div>
 <div class="row listrecent">
+
+
+
+    
 
 
 
@@ -2318,7 +2330,8 @@
             <small class="text-muted" style="color:#515151">19 Dec 2020</small>
             
             <br>
-            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >A big-picture interview with Tobita Chow and Jake Werner on China that puts today’s geopolitical conflict and repression into the context of global capitalism. Join a Dig Book Club thedigradio.com/dig-book-club Support this podcast at patreon.com/TheDig...</small>
+            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >A big-picture interview with Tobita Chow and Jake Werner on China that puts today’s geopolitical conflict and repression into the context of global capitalism.
+</small>
         </div>
     </div>
 </div>
@@ -2342,12 +2355,6 @@
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >What happened to social democratic politics? Dan interviews sociologist Stephanie Mudge on her book 
 Leftism Reinvented: Western Parties from Socialism to Neoliberalism.
-
-Join a Dig Book Club 
-thedigradio.com/dig-book-club
-
-Support this podcast at 
-patreon.com/TheDig
 </small>
         </div>
     </div>
@@ -2394,8 +2401,6 @@ patreon.com/TheDig
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Guest host Astra Taylor interviews Thomas Frank about his book 
 The People, No: A Brief History of Anti-Populism.
-
-From The Dig archives on populism:
 </small>
         </div>
     </div>
@@ -2418,7 +2423,8 @@ From The Dig archives on populism:
             <small class="text-muted" style="color:#515151">22 Nov 2020</small>
             
             <br>
-            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews political scientist Megan Ming Francis about the NAACP’s struggle against racist violence in the teens and 20s and how it remade the criminal justice system and the civil rights movement alike. Join a...</small>
+            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews political scientist Megan Ming Francis about the NAACP’s struggle against racist violence in the teens and 20s and how it remade the criminal justice system and the civil rights movement alike.
+</small>
         </div>
     </div>
 </div>
@@ -2440,7 +2446,8 @@ From The Dig archives on populism:
             <small class="text-muted" style="color:#515151">13 Nov 2020</small>
             
             <br>
-            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews Mike Davis on what the election reveals about this US political moment and the way forward for the Left. Support this podcast at www.patreon.com/TheDig Join a Dig book club! Next book is Wendy...</small>
+            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews Mike Davis on what the election reveals about this US political moment and the way forward for the Left.
+</small>
         </div>
     </div>
 </div>
@@ -2463,9 +2470,6 @@ From The Dig archives on populism:
             
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews Cornel West on how to think about and act upon the world that this week presented to us.
-
-Support this podcast at 
-Patreon.com/TheDig
 </small>
         </div>
     </div>
@@ -2489,11 +2493,6 @@ Patreon.com/TheDig
             
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Listen to Episode
-
-Dan interviews Cornel West on how to think about and act upon the world that this week presented to us.
-
-Read the full transcript from 
-Jacobin.
 </small>
         </div>
     </div>
@@ -2673,7 +2672,8 @@ Episodes from the archives on neoliberalism:
             <small class="text-muted" style="color:#515151">25 Sep 2020</small>
             
             <br>
-            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Guest host Astra Taylor interviews tech organizer and scholar Meredith Whittaker on the political economy of the tech leviathan that’s remaking capitalism, empire, and the carceral state. FYI: Whittaker mentioned this interview with Sarah T....</small>
+            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Guest host Astra Taylor interviews tech organizer and scholar Meredith Whittaker on the political economy of the tech leviathan that’s remaking capitalism, empire, and the carceral state.
+</small>
         </div>
     </div>
 </div>
@@ -2697,7 +2697,6 @@ Episodes from the archives on neoliberalism:
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews historian Paul Renfro on his book 
 Stranger Danger: Family Values, Childhood, and the American Carceral State.
-
 </small>
         </div>
     </div>
@@ -2720,7 +2719,8 @@ Stranger Danger: Family Values, Childhood, and the American Carceral State.
             <small class="text-muted" style="color:#515151">12 Sep 2020</small>
             
             <br>
-            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews Tithi Bhattacharya, Daniel Bessner, Simon Torracinta on the manifold crises engulfing higher ed as covid exposes and exacerbates decades of austerity and neoliberal iniquity. “House of Cards: Can the American university be saved?”...</small>
+            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews Tithi Bhattacharya, Daniel Bessner, Simon Torracinta on the manifold crises engulfing higher ed as covid exposes and exacerbates decades of austerity and neoliberal iniquity.
+</small>
         </div>
     </div>
 </div>
@@ -2764,7 +2764,8 @@ Stranger Danger: Family Values, Childhood, and the American Carceral State.
             <small class="text-muted" style="color:#515151">23 Aug 2020</small>
             
             <br>
-            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan’s recent live event with Yanis Varoufakis on how 2020 revealed that 2008 had changed capitalism forever. Also: we had some pod feed issues last week. If you missed Dan’s interview with brilliant organizers Andres...</small>
+            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan’s recent live event with Yanis Varoufakis on how 2020 revealed that 2008 had changed capitalism forever.
+</small>
         </div>
     </div>
 </div>
@@ -2787,12 +2788,6 @@ Stranger Danger: Family Values, Childhood, and the American Carceral State.
             
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >A must-listen conversation on organizing to win with two extraordinary organizers from Philadelphia’s Youth United for Change.
-
-Download their book Y’all Tryna Win or Nah?! 
-https://www.youthunitedforchange.org/y_all_tryna_win_or_nah
-
-Support this podcast at 
-Patreon.com/TheDig
 </small>
         </div>
     </div>
@@ -2815,7 +2810,9 @@ Patreon.com/TheDig
             <small class="text-muted" style="color:#515151">08 Aug 2020</small>
             
             <br>
-            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews Kelly Lytle Hernández on MIGRA! A History of the U.S. Border Patrol. Dan’s 2017 interview with Lytle Hernández on City of Inmates: Conquest, Rebellion, and the Rise of Human Caging in Los Angeles,...</small>
+            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews Kelly Lytle Hernández on 
+MIGRA! A History of the U.S. Border Patrol.
+</small>
         </div>
     </div>
 </div>
@@ -2837,7 +2834,9 @@ Patreon.com/TheDig
             <small class="text-muted" style="color:#515151">31 Jul 2020</small>
             
             <br>
-            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan’s 2018 interview with Matthew Frye Jacobson on Roots Too: White Ethnic Revival in Post–Civil Rights America. With a new intro from Dan on the Columbus myth and the politics of white ethnicity. Support this...</small>
+            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan’s 2018 interview with Matthew Frye Jacobson on 
+Roots Too: White Ethnic Revival in Post–Civil Rights America. With a new intro from Dan on the Columbus myth and the politics of white ethnicity.
+</small>
         </div>
     </div>
 </div>
@@ -2861,9 +2860,6 @@ Patreon.com/TheDig
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Our police system is a product of Cold War US imperialism too. Dan interviews Stuart Schrader on 
 Badges Without Borders: How Global Counterinsurgency Transformed American Policing.
-
-Support this podcast with your money at 
-patreon.com/TheDig
 </small>
         </div>
     </div>
@@ -2888,9 +2884,6 @@ patreon.com/TheDig
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >This is an incredible moment to learn about the Young Lords from historian Johanna Fernández, the author of 
 The Young Lords: A Radical History.
-
-Please support this podcast with your money at 
-Patreon.com/TheDig
 </small>
         </div>
     </div>
@@ -2916,10 +2909,6 @@ Patreon.com/TheDig
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan talks to 
 @loggins__ and 
 @MuseWendi about why people are reading White Fragility and ten books about racism, capitalism, and Black radicalism that you should read instead.
-
-Check out Left POCket Project 
-@LeftPOC
-
 </small>
         </div>
     </div>
@@ -2964,7 +2953,8 @@ Check out Left POCket Project
             <small class="text-muted" style="color:#515151">25 Jun 2020</small>
             
             <br>
-            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Mike Davis on his classic book about why the US has long lacked strong socialist and labor politics. One recurrent answer: racism. Read Dan’s essay on the moment: jacobinmag.com/2020/06/donald-trump-war-american-democracy-riots-coronavirus Not in the mood for a...</small>
+            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Mike Davis on his classic book about why the US has long lacked strong socialist and labor politics. One recurrent answer: racism.
+</small>
         </div>
     </div>
 </div>
@@ -2987,7 +2977,6 @@ Check out Left POCket Project
             
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >A Dig special. Zoom forum Dan hosted with leading defund police organizers from around the country. For more info:
-
 </small>
         </div>
     </div>
@@ -3035,7 +3024,8 @@ ugapress.org/book/9780820354217/rights-in-transit)
             <small class="text-muted" style="color:#515151">11 Jun 2020</small>
             
             <br>
-            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews returning guests Aslı Bâli and Aziz Rana on the long history behind the crisis of American imperial legitimation that has become so manifest amid the pandemic. Some works by Bâli and Rana cited...</small>
+            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews returning guests Aslı Bâli and Aziz Rana on the long history behind the crisis of American imperial legitimation that has become so manifest amid the pandemic.
+</small>
         </div>
     </div>
 </div>
@@ -3083,7 +3073,8 @@ National Day Laborer Organizing Network)
             <small class="text-muted" style="color:#515151">04 Jun 2020</small>
             
             <br>
-            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews Cathy Cohen, Jasson Perez, and Malaika Jabali on this uprising, the conditions that made it possible, and where it might be headed. Support Black Visions Collective at blackvisionsmn.org Check out Malaika’s short film...</small>
+            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews Cathy Cohen, Jasson Perez, and Malaika Jabali on this uprising, the conditions that made it possible, and where it might be headed.
+</small>
         </div>
     </div>
 </div>
@@ -3131,9 +3122,6 @@ Nikil Saval)
             
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews anthropologist Adia Benton on the 2014 Ebola outbreak in West Africa and what its politics reveal about the Covid-19 pandemic today.
-
-Please support this podcast with your money at 
-patreon.com/thdig
 </small>
         </div>
     </div>
@@ -3156,7 +3144,8 @@ patreon.com/thdig
             <small class="text-muted" style="color:#515151">16 May 2020</small>
             
             <br>
-            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews Frank Rosenthal on the history of the radical science organization Science for the People and Nafis Hasan on everything about a left-wing politics of science. Subscribe to Science for the People at magazine.ScienceForThePeople.org...</small>
+            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews Frank Rosenthal on the history of the radical science organization Science for the People and Nafis Hasan on everything about a left-wing politics of science.
+</small>
         </div>
     </div>
 </div>
@@ -3200,7 +3189,8 @@ patreon.com/thdig
             <small class="text-muted" style="color:#515151">01 May 2020</small>
             
             <br>
-            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews Aaron Benanav, who argues that the problem isn’t that robots are stealing our jobs but rather that capitalist growth is finding its limits and making jobs worse. Read “Automation and the Future of...</small>
+            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews Aaron Benanav, who argues that the problem isn’t that robots are stealing our jobs but rather that capitalist growth is finding its limits and making jobs worse.
+</small>
         </div>
     </div>
 </div>
@@ -3222,7 +3212,8 @@ patreon.com/thdig
             <small class="text-muted" style="color:#515151">23 Apr 2020</small>
             
             <br>
-            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews Meagan Day and Micah Uetricht, the authors of Bigger Than Bernie: How We Go from the Sanders Campaign to Democratic Socialism, to assess the campaign and the way forward. Please support this podcast...</small>
+            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews Meagan Day and Micah Uetricht, the authors of Bigger Than Bernie: How We Go from the Sanders Campaign to Democratic Socialism, to assess the campaign and the way forward.
+</small>
         </div>
     </div>
 </div>
@@ -3244,7 +3235,8 @@ patreon.com/thdig
             <small class="text-muted" style="color:#515151">17 Apr 2020</small>
             
             <br>
-            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews the makers of Blowback, a new podcast series telling the history of the Iraq War. Blowback is available only on Stitcher Premium—and for a month you can listen for free. Go to stitcherpremium.com...</small>
+            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews the makers of Blowback, a new podcast series telling the history of the Iraq War.
+</small>
         </div>
     </div>
 </div>
@@ -3289,9 +3281,6 @@ patreon.com/thdig
             
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews veteran organizer Jasson Perez and journalist Sarah Jaffe on left organizing amid covid and where it might go.
-
-Support this podcast at 
-Patreon.com/TheDig
 </small>
         </div>
     </div>
@@ -3315,9 +3304,6 @@ Patreon.com/TheDig
             
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews Amy Kapczynski and Gregg Gonsalves on the politics of public health and what we can learn from ACT UP.
-
-Please support The Dig with your money at 
-Patreon.com/TheDig
 </small>
         </div>
     </div>
@@ -3341,9 +3327,6 @@ Patreon.com/TheDig
             
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews New York magazine writer Eric Levitz on the big corporate bailout that gave workers precious little to survive the corona crisis.
-
-Please support this podcast at 
-Patreon.com/TheDig
 </small>
         </div>
     </div>
@@ -3367,9 +3350,6 @@ Patreon.com/TheDig
             
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews Marxist economist Grace Blakeley on coronavirus economics.
-
-Please support this podcast with money at 
-Patreon.com/TheDig
 </small>
         </div>
     </div>
@@ -3393,9 +3373,6 @@ Patreon.com/TheDig
             
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews Mike Davis about everything we are all suddenly trying to figure out.
-
-Support this podcast at 
-Patreon.com/TheDig
 </small>
         </div>
     </div>
@@ -3441,9 +3418,6 @@ Patreon.com/TheDig
             
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >An interview on how the Democratic Party got here today with Ryan Grim.
-
-Please support this podcast at 
-Patreon.com/TheDig
 </small>
         </div>
     </div>
@@ -3490,12 +3464,6 @@ Patreon.com/TheDig
             
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Pep talk time: Dan interviews Rep. Ilhan Omar to give us some perspective and prepare us for the fight ahead.
-
-Read the full transcript from Jacobin 
-here.
-
-Please support this podcast at 
-Patreon.com/TheDig
 </small>
         </div>
     </div>
@@ -3519,9 +3487,6 @@ Patreon.com/TheDig
             
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >A special pod ep from Sunday’s live Boston canvass kickoff with Michael Brooks and Natalie Shure.
-
-Please support this podcast with your money at 
-Patreon.com/TheDig
 </small>
         </div>
     </div>
@@ -3544,7 +3509,9 @@ Patreon.com/TheDig
             <small class="text-muted" style="color:#515151">28 Feb 2020</small>
             
             <br>
-            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews Keeanga-Yamahtta Taylor on her book Race for Profit: How Banks and the Real Estate Industry Undermined Black Homeownership. Come see Dan discuss All-American Nativism in Boston on 3/4 facebook.com/events/522615241724284/ Support this podcast with...</small>
+            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews Keeanga-Yamahtta Taylor on her book 
+Race for Profit: How Banks and the Real Estate Industry Undermined Black Homeownership.
+</small>
         </div>
     </div>
 </div>
@@ -3567,9 +3534,6 @@ Patreon.com/TheDig
             
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Live show with Jacobin’s Bhaskar Sunkara and Alex Press in Cambridge, MA for Bernie 2020. Recorded the night of Nevada caucuses. 
-
-Please support us with your money at 
-www.thedigradio.com
 </small>
         </div>
     </div>
@@ -3637,9 +3601,6 @@ www.thedigradio.com
             
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >The protests have subsided but coronavirus has only created a deeper crisis for government legitimacy. Dan interviews long-time Hong Kong activist and writer Au Loong Yu.
-
-Please support this podcast at 
-Patreon.com/TheDig
 </small>
         </div>
     </div>
@@ -3662,7 +3623,8 @@ Patreon.com/TheDig
             <small class="text-muted" style="color:#515151">31 Jan 2020</small>
             
             <br>
-            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews philosopher Martin Hägglund on how the way we conceive of our finite lives here on earth shapes our critique of capitalism and construction of socialism. Please support this podcast with your money at...</small>
+            <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >Dan interviews philosopher Martin Hägglund on how the way we conceive of our finite lives here on earth shapes our critique of capitalism and construction of socialism.
+</small>
         </div>
     </div>
 </div>
@@ -3707,7 +3669,6 @@ Patreon.com/TheDig
             
             <br>
             <small class="card-text mt-2" style="color:#9a9a9a; font-weight:normal" >The wars at home and abroad have always been connected. Dan interviews Nikhil Pal Singh on US attacks on Iran and the politics, history, and culture of American warmaking.
-
 </small>
         </div>
     </div>

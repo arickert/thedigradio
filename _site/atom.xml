@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="https://www.w3.org/2005/Atom">
 
  <title>The Dig</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-05-12T13:55:26-04:00</updated>
+ <updated>2022-05-19T16:18:51-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>The Return of Labor Militancy</title>
+   <link href="http://localhost:4000/podcast/the-return-of-labor-militancy/"/>
+   <updated>2022-05-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/podcast/the-return-of-labor-militancy</id>
+   <content type="html">&lt;p&gt;Live from New York: Dan interviews Amazon Labor Union president Chris Smalls, Jaz Brisack of Starbucks Workers United, SEIU Local 1199NE president Rob Baril, Jacobin writer Alex Press, and Labor Notes writer Luis Feliz Leon on the return of labor militancy that we see sweeping Amazon, Starbucks, and workplaces all around the US.&lt;/p&gt;
+
+&lt;p&gt;Support The Dig at Patreon.com/TheDig&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>SCOTUS, Politics, and the Law w/ Aziz Rana, Amna Akbar, & Marbre Stahly-Butts</title>
@@ -656,7 +667,7 @@ and Ongweso’s in&lt;a href=&quot;https://www.vice.com/en/contributor/edward-on
 &lt;a href=&quot;https://www.thedigradio.com/podcast/brazil-w-sabrina-fernandes-andre-pagliarini/&quot;&gt;here&lt;/a&gt;), 
 ’s interview with Rodrigo Nunes takes the politics of Bolsonarismo as a case study for assessing these developments. In a 
 &lt;a href=&quot;https://www.radicalphilosophy.com/article/of-what-is-bolsonaro-the-name&quot;&gt;pair&lt;/a&gt; of 
-&lt;a href=&quot;http://www.publicbooks.org/are-we-in-denial-about-denial/&quot;&gt;essays&lt;/a&gt; published last year, Nunes argues that core to neoliberalism’s creation of widespread right-wing reaction is a kind of “denialism.” &lt;/p&gt;
+&lt;a href=&quot;https://www.publicbooks.org/are-we-in-denial-about-denial/&quot;&gt;essays&lt;/a&gt; published last year, Nunes argues that core to neoliberalism’s creation of widespread right-wing reaction is a kind of “denialism.” &lt;/p&gt;
 
 &lt;p&gt;While neoliberalism has created increasing political and economic dissatisfaction among large groups of people, that dissatisfaction has not exclusively or even primarily led to the emergence of a new anti-capitalist common sense around which left movements can readily mobilize. Instead, politicians like Jair Bolsonaro and other reactionary populists have capitalized on popular discontent and directed it towards reactionary ends. &lt;/p&gt;
 
@@ -670,7 +681,7 @@ and Ongweso’s in&lt;a href=&quot;https://www.vice.com/en/contributor/edward-on
 &lt;p&gt;Nunes’s interview with 
  is the latest entry in a series of episodes about neoliberalism, democracy, and the social politics of the Right. Previously, political theorist Wendy Brown has 
 &lt;a href=&quot;https://www.thedigradio.com/podcast/ruins-of-neoliberalism-with-wendy-brown/&quot;&gt;discussed&lt;/a&gt; her book 
-&lt;a href=&quot;http://cup.columbia.edu/book/in-the-ruins-of-neoliberalism/9780231193856&quot;&gt;&lt;/a&gt;, about how neoliberalism has legitimized anti-democratic politics. Historian Quinn Slobodian was 
+&lt;a href=&quot;https://cup.columbia.edu/book/in-the-ruins-of-neoliberalism/9780231193856&quot;&gt;&lt;/a&gt;, about how neoliberalism has legitimized anti-democratic politics. Historian Quinn Slobodian was 
 &lt;a href=&quot;https://www.thedigradio.com/podcast/a-history-of-neoliberalism-with-quinn-slobodian/&quot;&gt;interviewed&lt;/a&gt; about his book 
 &lt;a href=&quot;https://www.hup.harvard.edu/catalog.php?isbn=9780674979529&quot;&gt;&lt;/a&gt;, which traces the fear of democracy through the intellectual history of neoliberalism. And in a 
 &lt;a href=&quot;https://www.thedigradio.com/podcast/family-values-with-melinda-cooper-2/&quot;&gt;classic episode&lt;/a&gt;, sociologist Melinda Cooper talks about her book 
@@ -1813,7 +1824,7 @@ Sinews of War and Trade: Shipping and Capitalism in the Arabian Peninsula. The S
 &lt;p&gt;&lt;a href=&quot;https://www.marxists.org/archive/camejo/1970/ultraleftismormassaction.htm&quot;&gt;Liberalism, ultraleftism or mass action&lt;/a&gt;, a speech delivered by Socialist Workers Party leader Peter Camejo.&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1826,13 +1837,13 @@ Sinews of War and Trade: Shipping and Capitalism in the Arabian Peninsula. The S
 
 &lt;p&gt;Read Burden-Stelly’s work&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://monthlyreview.org/2020/07/01/modern-u-s-racial-capitalism/&quot;&gt;Modern U.S. Racial Capitalism: Some Theoretical Insights&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://monthlyreview.org/2020/07/01/modern-u-s-racial-capitalism/&quot;&gt;Modern U.S. Racial Capitalism: Some Theoretical Insights&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.academia.edu/40599555/Black_Cold_War_Liberalism_as_an_Agency_Reduction_Formation_during_the_Late_1940s_and_the_Early_1950s&quot;&gt;Black Cold War Liberalism as an Agency Reduction Formation during the Late 1940s and the Early 1950s&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.academia.edu/35711645/Constructing_Deportable_Subjectivity_Antiforeignness_Antiradicalism_and_Antiblackness_during_the_McCarthyist_Structure_of_Feeling&quot;&gt;Constructing Deportable Subjectivity: Antiforeignness, Antiradicalism, and Antiblackness during the McCarthyist Structure of Feeling&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://bostonreview.net/race/charisse-burden-stelly-caste-does-not-explain-race&quot;&gt;Caste Does Not Explain Race&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://bostonreview.net/race/charisse-burden-stelly-caste-does-not-explain-race&quot;&gt;Caste Does Not Explain Race&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.aaihs.org/the-absence-of-political-economy-in-african-diaspora-studies/&quot;&gt;The Absence of Political Economy in African Diaspora Studies&lt;/a&gt;&lt;/p&gt;
 
@@ -1898,10 +1909,10 @@ Join the Dig Book Club at thedigradio.com/dig-book-club&lt;/p&gt;
    <content type="html">&lt;p&gt;Why we need the PRO Act with Jimmy Williams, General Vice President of the International Union of Painters and Allied Trades.&lt;/p&gt;
 
 &lt;p&gt;Sign up to join DSA’s PRO Act phonebank 
-&lt;a href=&quot;http://actionnetwork.org/forms/proactphonebank&quot;&gt;actionnetwork.org/forms/proactphonebank&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://actionnetwork.org/forms/proactphonebank&quot;&gt;actionnetwork.org/forms/proactphonebank&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Join The Dig Book Club and discuss 
 The Digital Party: Political Organisation and Online Democracy with Paolo Gerbaudo thedigradio.com/dig-book-club. Same to zoom with Astra Taylor and Erick Stoll on their doc 
@@ -1918,16 +1929,16 @@ The Digital Party: Political Organisation and Online Democracy with Paolo Gerbau
 Jacobin’s Alex Press and organizer Jonah Furman on the state of the labor movement.&lt;/p&gt;
 
 &lt;p&gt;Sign up to join DSA’s Pro Act phonebank 
-&lt;a href=&quot;http://actionnetwork.org/forms/proactphonebank&quot;&gt;actionnetwork.org/forms/proactphonebank&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://actionnetwork.org/forms/proactphonebank&quot;&gt;actionnetwork.org/forms/proactphonebank&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Read Alex Press’s interview with political scientist Michael Goldfield on the Amazon organizing drive in Bessemer 
-&lt;a href=&quot;http://jacobinmag.com/2021/02/amazon-unionize-alabama-operation-dixie-organizing-south&quot;&gt;jacobinmag.com/2021/02/amazon-unionize-alabama-operation-dixie-organizing-south&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://jacobinmag.com/2021/02/amazon-unionize-alabama-operation-dixie-organizing-south&quot;&gt;jacobinmag.com/2021/02/amazon-unionize-alabama-operation-dixie-organizing-south&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Subscribe to Jonah Furman’s newsletter 
-&lt;a href=&quot;http://whogetsthebird.substack.com&quot;&gt;whogetsthebird.substack.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://whogetsthebird.substack.com&quot;&gt;whogetsthebird.substack.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Join The Dig Book Club and discuss 
 The Digital Party: Political Organisation and Online Democracy with Paolo Gerbaudo thedigradio.com/dig-book-club. Same to zoom with Astra Taylor and Erick Stoll on their doc 
@@ -1942,10 +1953,10 @@ The Digital Party: Political Organisation and Online Democracy with Paolo Gerbau
    <id>http://localhost:4000/podcast/revisiting-racecraft-with-barbara-and-karen-fields-2</id>
    <content type="html">&lt;p&gt;We’re taking a week off to play catch up and posting an early Dig episode from the archives that people keep returning to time and again: Barbara and Karen Fields on their book 
 Racecraft: The Soul of Inequality in American Life (episode 75 from December 13, 2017). Peruse The Dig’s vast archives at 
-&lt;a href=&quot;http://thedigradio.com&quot;&gt;thedigradio.com&lt;/a&gt;and we’ll be back with a new ep next week.&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com&quot;&gt;thedigradio.com&lt;/a&gt;and we’ll be back with a new ep next week.&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Join The Dig Book Club and discuss The Digital Party: Political Organisation and Online Democracy with Paolo Gerbaudo thedigradio.com/dig-book-club. Same to zoom with Astra Taylor and Erick Stoll on 
 &lt;a href=&quot;https://theintercept.com/2021/01/25/student-debt-you-are-not-a-loan-film/&quot;&gt;their doc 
@@ -1962,10 +1973,10 @@ You Are Not a Loan&lt;/a&gt;.&lt;/p&gt;
 Work Won’t Love You Back: How Devotion To Our Jobs Keeps Us Exploited, Exhausted and Alone.&lt;/p&gt;
 
 &lt;p&gt;Support this podcast on 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Join The Dig Book Club and discuss The Digital Party: Political Organisation and Online Democracy with Paolo Gerbaudo 
-&lt;a href=&quot;http://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1978,7 +1989,7 @@ Work Won’t Love You Back: How Devotion To Our Jobs Keeps Us Exploited, Exhaust
 
 &lt;p&gt;Listen to 
 Know Your Enemy, their really great podcast on the American Right, wherever you get your podcasts. Sign up on Patreon for bonus episodes: 
-&lt;a href=&quot;http://patreon.com/knowyourenemy&quot;&gt;patreon.com/knowyourenemy&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://patreon.com/knowyourenemy&quot;&gt;patreon.com/knowyourenemy&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Recommended reading and listening:&lt;/strong&gt;&lt;/p&gt;
 
@@ -1996,11 +2007,11 @@ Know Your Enemy, their really great podcast on the American Right, wherever you 
 
 &lt;p&gt;&lt;a href=&quot;https://www.dissentmagazine.org/article/leaving-conservatism-behind-blue-collar-republican-progressive&quot;&gt;“Leaving Conservatism Behind: How I renounced the God-and-guns conservatism of my blue-collar roots and embraced class politics.” By Matt Sitman&lt;/a&gt;
 Join the Dig Book Club and zoom with Astra Taylor and Erick Stoll at 
-&lt;a href=&quot;http://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;. Watch their doc You Are Not a Loan 
+&lt;a href=&quot;https://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;. Watch their doc You Are Not a Loan 
 &lt;a href=&quot;https://theintercept.com/2021/01/25/student-debt-you-are-not-a-loan-film/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2013,13 +2024,13 @@ Join the Dig Book Club and zoom with Astra Taylor and Erick Stoll at
 Empires Without Imperialism: Anglo-American Decline and the Politics of Deflection and how the disavowed wars have come home on the American Right.&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Join the Dig Book Club at 
-&lt;a href=&quot;http://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Check out our vast archives at 
-&lt;a href=&quot;http://thedigradio.com&quot;&gt;thedigradio.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com&quot;&gt;thedigradio.com&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2033,14 +2044,14 @@ The Digital Party: Political Organisation and Online Democracy. How does the pro
 
 &lt;p&gt;Related episodes from The Dig archives:
 Hegemony How-To with Jonathan Matthew Smucker 
-&lt;a href=&quot;http://thedigradio.com/podcast/hegemony-how-to-with-jonathan-matthew-smucker&quot;&gt;thedigradio.com/podcast/hegemony-how-to-with-jonathan-matthew-smucker&lt;/a&gt;
+&lt;a href=&quot;https://thedigradio.com/podcast/hegemony-how-to-with-jonathan-matthew-smucker&quot;&gt;thedigradio.com/podcast/hegemony-how-to-with-jonathan-matthew-smucker&lt;/a&gt;
 How Left Parties Neoliberalized with Stephanie Mudge 
-&lt;a href=&quot;http://thedigradio.com/podcast/how-left-parties-neoliberalized-with-stephanie-mudge&quot;&gt;thedigradio.com/podcast/how-left-parties-neoliberalized-with-stephanie-mudge&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/podcast/how-left-parties-neoliberalized-with-stephanie-mudge&quot;&gt;thedigradio.com/podcast/how-left-parties-neoliberalized-with-stephanie-mudge&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;
 Join a Dig Book Club at 
-&lt;a href=&quot;http://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2049,7 +2060,7 @@ Join a Dig Book Club at
    <link href="http://localhost:4000/transcripts/transcript-resource-radicals-with-thea-riofrancos"/>
    <updated>2021-01-30T00:00:00-05:00</updated>
    <id>http://localhost:4000/transcripts/transcript-resource-radicals-with-thea-riofrancos</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://&amp;lt;a class=&amp;quot;btn btn-theme-primary&amp;quot; href=&amp;quot;https://www.thedigradio.com/podcast/resource-radicals-with-thea-riofrancos/&amp;quot;&amp;gt;Listen to Episode&amp;lt;/a&amp;gt;&quot;&gt;Listen to Episode&lt;/a&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://&amp;lt;a class=&amp;quot;btn btn-theme-primary&amp;quot; href=&amp;quot;https://www.thedigradio.com/podcast/resource-radicals-with-thea-riofrancos/&amp;quot;&amp;gt;Listen to Episode&amp;lt;/a&amp;gt;&quot;&gt;Listen to Episode&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Daniel Denvir:&lt;/strong&gt;&lt;/p&gt;
 
@@ -2468,10 +2479,10 @@ Why, in your mid-twenties in 2007, did you and I decide to move to Ecuador, and 
 The Runaways.&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with a contribution at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Join a Dig Book Club at 
-&lt;a href=&quot;http://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2483,10 +2494,10 @@ The Runaways.&lt;/p&gt;
    <content type="html">&lt;p&gt;Dan interviews Thea Riofrancos on how Ecuador’s Pink Tide government was constrained by an unequal world system and on the conflict over mining that erupted between leftist President Rafael Correa and the Indigenous movement that laid the groundwork for his rise to power.&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Join a Dig book club at 
-&lt;a href=&quot;http://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2498,10 +2509,10 @@ The Runaways.&lt;/p&gt;
    <content type="html">&lt;p&gt;Nikhil Pal Singh and Joe Lowndes discuss and debate today’s American Right: what sort of threat does the Far-Right pose? How does it relate to the Republican Party and to the neoliberal imperial Center? What does that mean for the Left?&lt;/p&gt;
 
 &lt;p&gt;Read Corey Robin’s smart and short piece on impeachment 
-&lt;a href=&quot;http://jacobinmag.com/2021/01/corey-robin-what-impeachment-could-mean-trump&quot;&gt;jacobinmag.com/2021/01/corey-robin-what-impeachment-could-mean-trump&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://jacobinmag.com/2021/01/corey-robin-what-impeachment-could-mean-trump&quot;&gt;jacobinmag.com/2021/01/corey-robin-what-impeachment-could-mean-trump&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Listen to Dan’s interview with Joe Lowndes and Daniel Martinez HoSang &amp;amp; Joe Lowndes on their book Producers, Parasites, Patriots: Race and the New Right-Wing Politics of Precarity 
-&lt;a href=&quot;http://www.thedigradio.com/podcast/right-wing-racism-with-daniel-martinez-hosang-joe-lowndes/&quot;&gt;www.thedigradio.com/podcast/right-wing-racism-with-daniel-martinez-hosang-joe-lowndes/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.thedigradio.com/podcast/right-wing-racism-with-daniel-martinez-hosang-joe-lowndes/&quot;&gt;www.thedigradio.com/podcast/right-wing-racism-with-daniel-martinez-hosang-joe-lowndes/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with money at Patreon.com/TheDig&lt;/p&gt;
 </content>
@@ -2517,17 +2528,17 @@ n+1essays and
 Dissent interview for context:&lt;/p&gt;
 
 &lt;p&gt;We Live in a Society 
-&lt;a href=&quot;http://nplusonemag.com/online-only/online-only/we-live-in-a-society&quot;&gt;nplusonemag.com/online-only/online-only/we-live-in-a-society&lt;/a&gt;
+&lt;a href=&quot;https://nplusonemag.com/online-only/online-only/we-live-in-a-society&quot;&gt;nplusonemag.com/online-only/online-only/we-live-in-a-society&lt;/a&gt;
 Coronavirus and Chronopolitics 
-&lt;a href=&quot;http://nplusonemag.com/issue-37/politics/coronavirus-and-chronopolitics-2&quot;&gt;nplusonemag.com/issue-37/politics/coronavirus-and-chronopolitics-2&lt;/a&gt;Professional-Managerial Chasm 
-&lt;a href=&quot;http://nplusonemag.com/online-only/online-only/professional-managerial-chasm&quot;&gt;nplusonemag.com/online-only/online-only/professional-managerial-chasm&lt;/a&gt;
+&lt;a href=&quot;https://nplusonemag.com/issue-37/politics/coronavirus-and-chronopolitics-2&quot;&gt;nplusonemag.com/issue-37/politics/coronavirus-and-chronopolitics-2&lt;/a&gt;Professional-Managerial Chasm 
+&lt;a href=&quot;https://nplusonemag.com/online-only/online-only/professional-managerial-chasm&quot;&gt;nplusonemag.com/online-only/online-only/professional-managerial-chasm&lt;/a&gt;
 “What’s Actually Going on in Our Nursing Homes”: An Interview with Shantonia Jackson 
-&lt;a href=&quot;http://dissentmagazine.org/article/whats-actually-going-on-in-our-nursing-homes-an-interview-with-shantonia-jackson&quot;&gt;dissentmagazine.org/article/whats-actually-going-on-in-our-nursing-homes-an-interview-with-shantonia-jackson&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://dissentmagazine.org/article/whats-actually-going-on-in-our-nursing-homes-an-interview-with-shantonia-jackson&quot;&gt;dissentmagazine.org/article/whats-actually-going-on-in-our-nursing-homes-an-interview-with-shantonia-jackson&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;
 Join a Dig Book Club 
-&lt;a href=&quot;http://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2539,13 +2550,13 @@ Join a Dig Book Club
    <content type="html">&lt;p&gt;From The Dig archives: Dan interviews Melinda Cooper about her book, Family Values: Between Neoliberalism and the New Social Conservatism, which makes the case that neoliberalism and social conservatism have been consistent collaborators in creating an economy that redistributed wealth ruthlessly upwards with a risk-absorbing family at its privatized center. We’ll be back next week with a new episode.&lt;/p&gt;
 
 &lt;p&gt;Listen to Antibody 
-&lt;a href=&quot;http://thedigradio.com/antibody&quot;&gt;thedigradio.com/antibody&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/antibody&quot;&gt;thedigradio.com/antibody&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Join a Dig book club 
-&lt;a href=&quot;http://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2557,10 +2568,10 @@ Join a Dig Book Club
    <content type="html">&lt;p&gt;A big-picture interview with Tobita Chow and Jake Werner on China that puts today’s geopolitical conflict and repression into the context of global capitalism.&lt;/p&gt;
 
 &lt;p&gt;Join a Dig Book Club 
-&lt;a href=&quot;http://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://patreon.com/TheDig&quot;&gt;patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://patreon.com/TheDig&quot;&gt;patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2573,10 +2584,10 @@ Join a Dig Book Club
 Leftism Reinvented: Western Parties from Socialism to Neoliberalism.&lt;/p&gt;
 
 &lt;p&gt;Join a Dig Book Club 
-&lt;a href=&quot;http://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://patreon.com/TheDig&quot;&gt;patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://patreon.com/TheDig&quot;&gt;patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2589,7 +2600,7 @@ Leftism Reinvented: Western Parties from Socialism to Neoliberalism.&lt;/p&gt;
 &lt;a href=&quot;https://www.thephilosopher1923.org/essay-taiwo&quot;&gt;“Being-in-the-Room Privilege: Elite Capture and Epistemic Deference.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;It’s The Dig’s four-year anniversary. Support us at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt; and take a moment to post something to social media about why you listen to The Dig and how it has shaped your politics.&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt; and take a moment to post something to social media about why you listen to The Dig and how it has shaped your politics.&lt;/p&gt;
 </content>
  </entry>
  
@@ -2610,10 +2621,10 @@ The People, No: A Brief History of Anti-Populism.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.thedigradio.com/podcast/worker-freedom-with-alex-gourevitch/&quot;&gt;Worker Freedom with Alex Gourevitch&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Join a Dig Book Club at 
-&lt;a href=&quot;http://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2625,10 +2636,10 @@ The People, No: A Brief History of Anti-Populism.&lt;/p&gt;
    <content type="html">&lt;p&gt;Dan interviews political scientist Megan Ming Francis about the NAACP’s struggle against racist violence in the teens and 20s and how it remade the criminal justice system and the civil rights movement alike.&lt;/p&gt;
 
 &lt;p&gt;Join a Dig book club! Next book is Wendy Brown’s In the Ruins of Neoliberalism 
-&lt;a href=&quot;http://thedigradio.com/dig-book-club/&quot;&gt;thedigradio.com/dig-book-club/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/dig-book-club/&quot;&gt;thedigradio.com/dig-book-club/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2640,10 +2651,10 @@ The People, No: A Brief History of Anti-Populism.&lt;/p&gt;
    <content type="html">&lt;p&gt;Dan interviews Mike Davis on what the election reveals about this US political moment and the way forward for the Left.&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://www.patreon.com/TheDig&quot;&gt;www.patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.patreon.com/TheDig&quot;&gt;www.patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Join a Dig book club! Next book is Wendy Brown’s In the Ruins of Neoliberalism 
-&lt;a href=&quot;http://thedigradio.com/dig-book-club/&quot;&gt;thedigradio.com/dig-book-club/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/dig-book-club/&quot;&gt;thedigradio.com/dig-book-club/&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2655,7 +2666,7 @@ The People, No: A Brief History of Anti-Populism.&lt;/p&gt;
    <content type="html">&lt;p&gt;Dan interviews Cornel West on how to think about and act upon the world that this week presented to us.&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2664,7 +2675,7 @@ The People, No: A Brief History of Anti-Populism.&lt;/p&gt;
    <link href="http://localhost:4000/podcast/transcript-what-now-with-cornel-west"/>
    <updated>2020-11-06T00:00:00-05:00</updated>
    <id>http://localhost:4000/podcast/transcript-what-now-with-cornel-west</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://&amp;lt;a class=&amp;quot;btn btn-theme-primary&amp;quot; href=&amp;quot;https://www.thedigradio.com/podcast/what-now-with-cornel-west/&amp;quot;&amp;gt;Listen to Episode&amp;lt;/a&amp;gt;&quot;&gt;Listen to Episode&lt;/a&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://&amp;lt;a class=&amp;quot;btn btn-theme-primary&amp;quot; href=&amp;quot;https://www.thedigradio.com/podcast/what-now-with-cornel-west/&amp;quot;&amp;gt;Listen to Episode&amp;lt;/a&amp;gt;&quot;&gt;Listen to Episode&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Dan interviews Cornel West on how to think about and act upon the world that this week presented to us.&lt;/p&gt;
 
@@ -2681,10 +2692,10 @@ The People, No: A Brief History of Anti-Populism.&lt;/p&gt;
    <content type="html">&lt;p&gt;What else to talk about right now other than everything about right now? Election, pandemic, BLM, climate, and how the left should think about and struggle with it all. Dan interviews Naomi Klein and Nikhil Pal Singh.&lt;/p&gt;
 
 &lt;p&gt;Support this podcast on 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Join a Dig Book Club. Next book is Wendy Brown’s In the Ruins of Neoliberalism 
-&lt;a href=&quot;http://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2728,10 +2739,10 @@ The People, No: A Brief History of Anti-Populism.&lt;/p&gt;
 Unforgetting: A Memoir of Family, Migration, Gangs, and Revolution in the Americas. Growing up Salvadoran-American in The Mission, fighting with the FMLN in El Salvador, making sense of MS-13, weaving back together the pieces of a transnational history severed by borders and violence. Lovato retells El Salvador and US history through his family’s story.&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Join The Dig book club at 
-&lt;a href=&quot;http://thedigradio.com/dig-book-club/&quot;&gt;thedigradio.com/dig-book-club/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/dig-book-club/&quot;&gt;thedigradio.com/dig-book-club/&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2758,10 +2769,10 @@ Unforgetting: A Memoir of Family, Migration, Gangs, and Revolution in the Americ
    <content type="html">&lt;p&gt;Dan interviews legal scholars Aziz Rana and Amna Akbar, and Movement for Black Lives lawyer Marbre Stahly-Butts, on SCOTUS, liberal RBG and court veneration, and other big questions on the law and politics facing the left.&lt;/p&gt;
 
 &lt;p&gt;Join a Dig book club at 
-&lt;a href=&quot;http://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/dig-book-club&quot;&gt;thedigradio.com/dig-book-club&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2774,7 +2785,7 @@ Unforgetting: A Memoir of Family, Migration, Gangs, and Revolution in the Americ
 Floating Coast: An Environmental History of the Bering Strait. From the 19th century through today, governments and capitalists on the Russian, Soviet, and American Arctic borderlands extract energy from a natural world whose reproductive cycles they don’t comprehend and strive to convert Indigenous people into national subjects.&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with a contribution at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2786,10 +2797,10 @@ Floating Coast: An Environmental History of the Bering Strait. From the 19th cen
    <content type="html">&lt;p&gt;Guest host Astra Taylor interviews tech organizer and scholar Meredith Whittaker on the political economy of the tech leviathan that’s remaking capitalism, empire, and the carceral state.&lt;/p&gt;
 
 &lt;p&gt;FYI: Whittaker mentioned this interview with Sarah T. Hamid on carceral technologies 
-&lt;a href=&quot;http://logicmag.io/care/community-defense-sarah-t-hamid-on-abolishing-carceral-technologies/&quot;&gt;logicmag.io/care/community-defense-sarah-t-hamid-on-abolishing-carceral-technologies/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://logicmag.io/care/community-defense-sarah-t-hamid-on-abolishing-carceral-technologies/&quot;&gt;logicmag.io/care/community-defense-sarah-t-hamid-on-abolishing-carceral-technologies/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with a contribution at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2802,13 +2813,13 @@ Floating Coast: An Environmental History of the Bering Strait. From the 19th cen
 Stranger Danger: Family Values, Childhood, and the American Carceral State.&lt;/p&gt;
 
 &lt;p&gt;Stranger Danger is also this month’s Dig Book Club book. Read and discuss it with fellow listeners, and then on Zoom with Paul by signing up here: 
-&lt;a href=&quot;http://thedigradio.com/dig-book-club/&quot;&gt;thedigradio.com/dig-book-club/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/dig-book-club/&quot;&gt;thedigradio.com/dig-book-club/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;A relevant Dig ep from the archives: Melinda Cooper on her book Family Values: Between Neoliberalism and the New Social Conservatism 
-&lt;a href=&quot;http://thedigradio.com/podcast/family-values-with-melinda-cooper/&quot;&gt;thedigradio.com/podcast/family-values-with-melinda-cooper/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/podcast/family-values-with-melinda-cooper/&quot;&gt;thedigradio.com/podcast/family-values-with-melinda-cooper/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with a contribution at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2820,14 +2831,14 @@ Stranger Danger: Family Values, Childhood, and the American Carceral State.&lt;/
    <content type="html">&lt;p&gt;Dan interviews Tithi Bhattacharya, Daniel Bessner, Simon Torracinta on the manifold crises engulfing higher ed as covid exposes and exacerbates decades of austerity and neoliberal iniquity.&lt;/p&gt;
 
 &lt;p&gt;“House of Cards: Can the American university be saved?” by Daniel Bessner 
-&lt;a href=&quot;http://thenation.com/article/society/gig-academy-meritocracy-trap-universities-crisis&quot;&gt;thenation.com/article/society/gig-academy-meritocracy-trap-universities-crisis&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thenation.com/article/society/gig-academy-meritocracy-trap-universities-crisis&quot;&gt;thenation.com/article/society/gig-academy-meritocracy-trap-universities-crisis&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;“Extinction Event: Given what is to come, schools of every kind are now at risk” by Simon Torracinta 
-&lt;a href=&quot;http://nplusonemag.com/online-only/online-only/extinction-event/&quot;&gt;nplusonemag.com/online-only/online-only/extinction-event/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://nplusonemag.com/online-only/online-only/extinction-event/&quot;&gt;nplusonemag.com/online-only/online-only/extinction-event/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;“After 2020, There’s No Going Back to the Old America” by Dan Denvir in 
 Jacobin 
-&lt;a href=&quot;http://jacobinmag.com/2020/09/joe-biden-imperialism-trump-america&quot;&gt;jacobinmag.com/2020/09/joe-biden-imperialism-trump-america&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://jacobinmag.com/2020/09/joe-biden-imperialism-trump-america&quot;&gt;jacobinmag.com/2020/09/joe-biden-imperialism-trump-america&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2854,7 +2865,7 @@ Up South with Countryman on September 12. Sign up here thedigradio.com/dig-book-
    <content type="html">&lt;p&gt;Dan’s recent live event with Yanis Varoufakis on how 2020 revealed that 2008 had changed capitalism forever.&lt;/p&gt;
 
 &lt;p&gt;Also: we had some pod feed issues last week. If you missed Dan’s interview with brilliant organizers Andres Celin and Rapheal Randall—and this is a must-listen for everyone interested in organizing—check it out: 
-&lt;a href=&quot;http://www.thedigradio.com/podcast/organize-to-win-with-andres-celin-and-rapheal-randall/&quot;&gt;www.thedigradio.com/podcast/organize-to-win-with-andres-celin-and-rapheal-randall/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.thedigradio.com/podcast/organize-to-win-with-andres-celin-and-rapheal-randall/&quot;&gt;www.thedigradio.com/podcast/organize-to-win-with-andres-celin-and-rapheal-randall/&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2869,7 +2880,7 @@ Up South with Countryman on September 12. Sign up here thedigradio.com/dig-book-
 &lt;a href=&quot;https://www.youthunitedforchange.org/y_all_tryna_win_or_nah&quot;&gt;https://www.youthunitedforchange.org/y_all_tryna_win_or_nah&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2883,10 +2894,10 @@ MIGRA! A History of the U.S. Border Patrol.&lt;/p&gt;
 
 &lt;p&gt;Dan’s 2017 interview with Lytle Hernández on 
 City of Inmates: Conquest, Rebellion, and the Rise of Human Caging in Los Angeles, 1771-1965: 
-&lt;a href=&quot;http://thedigradio.com/podcast/a-history-of-human-caging-with-kelly-lytle-hernandez&quot;&gt;thedigradio.com/podcast/a-history-of-human-caging-with-kelly-lytle-hernandez&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/podcast/a-history-of-human-caging-with-kelly-lytle-hernandez&quot;&gt;thedigradio.com/podcast/a-history-of-human-caging-with-kelly-lytle-hernandez&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2899,7 +2910,7 @@ City of Inmates: Conquest, Rebellion, and the Rise of Human Caging in Los Angele
 Roots Too: White Ethnic Revival in Post–Civil Rights America. With a new intro from Dan on the Columbus myth and the politics of white ethnicity.&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2912,7 +2923,7 @@ Roots Too: White Ethnic Revival in Post–Civil Rights America. With a new intro
 Badges Without Borders: How Global Counterinsurgency Transformed American Policing.&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with your money at 
-&lt;a href=&quot;http://patreon.com/TheDig&quot;&gt;patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://patreon.com/TheDig&quot;&gt;patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2925,7 +2936,7 @@ Badges Without Borders: How Global Counterinsurgency Transformed American Polici
 The Young Lords: A Radical History.&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2936,12 +2947,12 @@ The Young Lords: A Radical History.&lt;/p&gt;
    <id>http://localhost:4000/podcast/read-this-not-white-fragility-with-jared-loggins-and-wendi-muse</id>
    <content type="html">&lt;p&gt;Dan talks to 
 &lt;a href=&quot;https://twitter.com/loggins__&quot;&gt;@loggins__&lt;/a&gt; and 
-&lt;a href=&quot;http://@MuseWendi&quot;&gt;@MuseWendi&lt;/a&gt; about why people are reading White Fragility and ten books about racism, capitalism, and Black radicalism that you should read instead.&lt;/p&gt;
+&lt;a href=&quot;https://@MuseWendi&quot;&gt;@MuseWendi&lt;/a&gt; about why people are reading White Fragility and ten books about racism, capitalism, and Black radicalism that you should read instead.&lt;/p&gt;
 
 &lt;p&gt;Check out Left POCket Project 
 &lt;a href=&quot;https://twitter.com/LeftPOC&quot;&gt;@LeftPOC&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://hup.harvard.edu/catalog.php?isbn=9780674057685&quot;&gt;Blacks In and Out of the Left by Michael C Dawson&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://hup.harvard.edu/catalog.php?isbn=9780674057685&quot;&gt;Blacks In and Out of the Left by Michael C Dawson&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.thedigradio.com/podcast/black-socialism-nationalism-neoliberalism-with-michael-dawson/&quot;&gt;Dig interview with Michael Dawson&lt;/a&gt;&lt;/p&gt;
 
@@ -2963,7 +2974,7 @@ The Young Lords: A Radical History.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://nyupress.org/9780814725245/we-will-shoot-back/&quot;&gt;We Will Shoot Back: Armed Resistance in the Mississippi Freedom Movement by Akinyele Omowale Umoja&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.citylights.com/book/?GCOI=87286100677870&quot;&gt;The Meaning of Freedom by Angela Davis&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.citylights.com/book/?GCOI=87286100677870&quot;&gt;The Meaning of Freedom by Angela Davis&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.ucpress.edu/book/9780520242012/golden-gulag&quot;&gt;Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing Californiaby Ruth Wilson Gilmore&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -2978,10 +2989,10 @@ The Young Lords: A Radical History.&lt;/p&gt;
 All-American Nativism: How the Bipartisan War on Immigrants Explains Politics as We Know It.&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast wit $ at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Buy Dan’s book at 
-&lt;a href=&quot;http://versobooks.com/books/2858-all-american-nativism&quot;&gt;versobooks.com/books/2858-all-american-nativism&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://versobooks.com/books/2858-all-american-nativism&quot;&gt;versobooks.com/books/2858-all-american-nativism&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2993,14 +3004,14 @@ All-American Nativism: How the Bipartisan War on Immigrants Explains Politics as
    <content type="html">&lt;p&gt;Mike Davis on his classic book about why the US has long lacked strong socialist and labor politics. One recurrent answer: racism.&lt;/p&gt;
 
 &lt;p&gt;Read Dan’s essay on the moment: 
-&lt;a href=&quot;http://jacobinmag.com/2020/06/donald-trump-war-american-democracy-riots-coronavirus&quot;&gt;jacobinmag.com/2020/06/donald-trump-war-american-democracy-riots-coronavirus&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://jacobinmag.com/2020/06/donald-trump-war-american-democracy-riots-coronavirus&quot;&gt;jacobinmag.com/2020/06/donald-trump-war-american-democracy-riots-coronavirus&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Not in the mood for a long, complex Dig interview? Check out 
 Antibody, which is like commie This American Life: 
-&lt;a href=&quot;http://thedigradio.com/antibody&quot;&gt;thedigradio.com/antibody&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thedigradio.com/antibody&quot;&gt;thedigradio.com/antibody&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3011,21 +3022,21 @@ Antibody, which is like commie This American Life:
    <id>http://localhost:4000/podcast/defund-police-organizers-forum</id>
    <content type="html">&lt;p&gt;A Dig special. Zoom forum Dan hosted with leading defund police organizers from around the country. For more info:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://blackvisionsmn.org&quot;&gt;blackvisionsmn.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blackvisionsmn.org&quot;&gt;blackvisionsmn.org&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://byp100.org&quot;&gt;byp100.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://byp100.org&quot;&gt;byp100.org&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://daretowin.org&quot;&gt;daretowin.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://daretowin.org&quot;&gt;daretowin.org&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://reclaimRI.org&quot;&gt;reclaimRI.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://reclaimRI.org&quot;&gt;reclaimRI.org&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://blmla.org&quot;&gt;blmla.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blmla.org&quot;&gt;blmla.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;If you live in RI, support the fight for a people’s budget: 
-&lt;a href=&quot;http://actionnetwork.org/petitions/say-no-to-a-brutal-austerity-budget-in-rhode-island&quot;&gt;actionnetwork.org/petitions/say-no-to-a-brutal-austerity-budget-in-rhode-island&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://actionnetwork.org/petitions/say-no-to-a-brutal-austerity-budget-in-rhode-island&quot;&gt;actionnetwork.org/petitions/say-no-to-a-brutal-austerity-budget-in-rhode-island&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Dan’s essay on Trump’s origins in ordinary bipartisan security politics: 
-&lt;a href=&quot;http://jacobinmag.com/2020/06/donald-trump-war-american-democracy-riots-coronavirus&quot;&gt;jacobinmag.com/2020/06/donald-trump-war-american-democracy-riots-coronavirus&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://jacobinmag.com/2020/06/donald-trump-war-american-democracy-riots-coronavirus&quot;&gt;jacobinmag.com/2020/06/donald-trump-war-american-democracy-riots-coronavirus&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3036,40 +3047,40 @@ Antibody, which is like commie This American Life:
    <id>http://localhost:4000/podcast/antibody-ep-3-combat</id>
    <content type="html">&lt;p&gt;In this episode: 
 All Cops Are Idiots (featuring Kafui Attoh, you can buy his book here: 
-&lt;a href=&quot;http://ugapress.org/book/9780820354217/rights-in-transit&quot;&gt;ugapress.org/book/9780820354217/rights-in-transit&lt;/a&gt;)&lt;/p&gt;
+&lt;a href=&quot;https://ugapress.org/book/9780820354217/rights-in-transit&quot;&gt;ugapress.org/book/9780820354217/rights-in-transit&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;A Few Basic Demands (produced by Chenjerai Kumanyika (
-&lt;a href=&quot;http://twitter.com/catchatweetdown&quot;&gt;twitter.com/catchatweetdown&lt;/a&gt;)&lt;/p&gt;
+&lt;a href=&quot;https://twitter.com/catchatweetdown&quot;&gt;twitter.com/catchatweetdown&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;After the Peak (by Karim Sariahmed (
-&lt;a href=&quot;http://twitter.com/sariahmed&quot;&gt;twitter.com/sariahmed&lt;/a&gt;), along with Alex Azan, Belicia Ding, Nijmie Zakkiyyah Dzurinko , Vanessa K. Ferrel, Michelle Gonzalez, Musaub Khan, and Marc Shi)&lt;/p&gt;
+&lt;a href=&quot;https://twitter.com/sariahmed&quot;&gt;twitter.com/sariahmed&lt;/a&gt;), along with Alex Azan, Belicia Ding, Nijmie Zakkiyyah Dzurinko , Vanessa K. Ferrel, Michelle Gonzalez, Musaub Khan, and Marc Shi)&lt;/p&gt;
 
 &lt;p&gt;What We Talk About When We Talk About Mutual Aid (produced by Jackson Roach and Caroline Kanner (
-&lt;a href=&quot;http://twitter.com/_idontCaroline&quot;&gt;twitter.com/_idontCaroline&lt;/a&gt;)&lt;/p&gt;
+&lt;a href=&quot;https://twitter.com/_idontCaroline&quot;&gt;twitter.com/_idontCaroline&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;Get in touch with DCH1 Amazonians United (
-&lt;a href=&quot;http://facebook.com/DCH1United&quot;&gt;facebook.com/DCH1United&lt;/a&gt;)&lt;/p&gt;
+&lt;a href=&quot;https://facebook.com/DCH1United&quot;&gt;facebook.com/DCH1United&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;Support Put People First! Pennsylvania (
-&lt;a href=&quot;http://putpeoplefirstpa.org&quot;&gt;putpeoplefirstpa.org&lt;/a&gt;)&lt;/p&gt;
+&lt;a href=&quot;https://putpeoplefirstpa.org&quot;&gt;putpeoplefirstpa.org&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;The mutual aid groups featured in this episode include: Ground Game LA (
-&lt;a href=&quot;http://groundgamela.org&quot;&gt;groundgamela.org&lt;/a&gt;) K Town For All (
-&lt;a href=&quot;http://ktownforall.org&quot;&gt;ktownforall.org&lt;/a&gt;) The Red Nation (
-&lt;a href=&quot;http://therednation.org&quot;&gt;therednation.org&lt;/a&gt;) Brave Space Alliance (
-&lt;a href=&quot;http://bravespacealliance.org&quot;&gt;bravespacealliance.org&lt;/a&gt;) and the Indigenous Kinship Collective (
-&lt;a href=&quot;http://indigenouskinshipcollective.com&quot;&gt;indigenouskinshipcollective.com&lt;/a&gt;).&lt;/p&gt;
+&lt;a href=&quot;https://groundgamela.org&quot;&gt;groundgamela.org&lt;/a&gt;) K Town For All (
+&lt;a href=&quot;https://ktownforall.org&quot;&gt;ktownforall.org&lt;/a&gt;) The Red Nation (
+&lt;a href=&quot;https://therednation.org&quot;&gt;therednation.org&lt;/a&gt;) Brave Space Alliance (
+&lt;a href=&quot;https://bravespacealliance.org&quot;&gt;bravespacealliance.org&lt;/a&gt;) and the Indigenous Kinship Collective (
+&lt;a href=&quot;https://indigenouskinshipcollective.com&quot;&gt;indigenouskinshipcollective.com&lt;/a&gt;).&lt;/p&gt;
 
 &lt;p&gt;Further reading on mutual aid:&lt;/p&gt;
 
 &lt;p&gt;Regan De Loggans’ mutual aid zine (
-&lt;a href=&quot;http://mutualaiddisasterrelief.org/wp-content/uploads/2020/05/LOGGANS-mutual-aid-zine.pdf&quot;&gt;mutualaiddisasterrelief.org/wp-content/uploads/2020/05/LOGGANS-mutual-aid-zine.pdf&lt;/a&gt;)&lt;/p&gt;
+&lt;a href=&quot;https://mutualaiddisasterrelief.org/wp-content/uploads/2020/05/LOGGANS-mutual-aid-zine.pdf&quot;&gt;mutualaiddisasterrelief.org/wp-content/uploads/2020/05/LOGGANS-mutual-aid-zine.pdf&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;The complete text of Kropotkin’s book Mutual Aid: A Factor of Evolution (
-&lt;a href=&quot;http://theanarchistlibrary.org/library/petr-kropotkin-mutual-aid-a-factor-of-evolution&quot;&gt;theanarchistlibrary.org/library/petr-kropotkin-mutual-aid-a-factor-of-evolution&lt;/a&gt;)&lt;/p&gt;
+&lt;a href=&quot;https://theanarchistlibrary.org/library/petr-kropotkin-mutual-aid-a-factor-of-evolution&quot;&gt;theanarchistlibrary.org/library/petr-kropotkin-mutual-aid-a-factor-of-evolution&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;Mutual Aid Hub (
-&lt;a href=&quot;http://mutualaidhub.org&quot;&gt;mutualaidhub.org&lt;/a&gt;)&lt;/p&gt;
+&lt;a href=&quot;https://mutualaidhub.org&quot;&gt;mutualaidhub.org&lt;/a&gt;)&lt;/p&gt;
 </content>
  </entry>
  
@@ -3082,12 +3093,12 @@ All Cops Are Idiots (featuring Kafui Attoh, you can buy his book here:
 
 &lt;p&gt;Some works by Bâli and Rana cited in this interview:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://bostonreview.net/war-security-politics-global-justice/asl%C4%B1-u-b%C3%A2li-aziz-rana-sanctions-are-inhumane%E2%80%94now-and-always&quot;&gt;bostonreview.net/war-security-politics-global-justice/asl%C4%B1-u-b%C3%A2li-aziz-rana-sanctions-are-inhumane%E2%80%94now-and-always&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://bostonreview.net/war-security-politics-global-justice/asl%C4%B1-u-b%C3%A2li-aziz-rana-sanctions-are-inhumane%E2%80%94now-and-always&quot;&gt;bostonreview.net/war-security-politics-global-justice/asl%C4%B1-u-b%C3%A2li-aziz-rana-sanctions-are-inhumane%E2%80%94now-and-always&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://lawreview.uchicago.edu/publication/constitutionalism-and-american-imperial-imagination&quot;&gt;lawreview.uchicago.edu/publication/constitutionalism-and-american-imperial-imagination&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://lawreview.uchicago.edu/publication/constitutionalism-and-american-imperial-imagination&quot;&gt;lawreview.uchicago.edu/publication/constitutionalism-and-american-imperial-imagination&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3111,7 +3122,7 @@ The Corner (featuring
 &lt;a href=&quot;https://twitter.com/andrealongchu?lang=en&quot;&gt;Andrea Long Chu&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;Support day laborer economic survival with a contribution at 
-&lt;a href=&quot;http://ndlon.org&quot;&gt;ndlon.org&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://ndlon.org&quot;&gt;ndlon.org&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3123,7 +3134,7 @@ The Corner (featuring
    <content type="html">&lt;p&gt;Dan interviews Cathy Cohen, Jasson Perez, and Malaika Jabali on this uprising, the conditions that made it possible, and where it might be headed.&lt;/p&gt;
 
 &lt;p&gt;Support Black Visions Collective at 
-&lt;a href=&quot;http://blackvisionsmn.org&quot;&gt;blackvisionsmn.org&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://blackvisionsmn.org&quot;&gt;blackvisionsmn.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Check out Malaika’s short film 
 &lt;a href=&quot;https://www.youtube.com/watch?v=ubd2cnslP8A&quot;&gt;Left Out&lt;/a&gt;.&lt;/p&gt;
@@ -3148,8 +3159,8 @@ Zoom Canvas (featuring
 &lt;a href=&quot;https://twitter.com/alexnpress&quot;&gt;Alex Press&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;The International Trans Person Helpline (produced by 
-&lt;a href=&quot;http://www.cassiusadair.com/&quot;&gt;Cass Adair&lt;/a&gt; and 
-&lt;a href=&quot;http://www.arlie.me/&quot;&gt;Arlie Adlington&lt;/a&gt;)&lt;/p&gt;
+&lt;a href=&quot;https://www.cassiusadair.com/&quot;&gt;Cass Adair&lt;/a&gt; and 
+&lt;a href=&quot;https://www.arlie.me/&quot;&gt;Arlie Adlington&lt;/a&gt;)&lt;/p&gt;
 </content>
  </entry>
  
@@ -3161,7 +3172,7 @@ Zoom Canvas (featuring
    <content type="html">&lt;p&gt;Dan interviews anthropologist Adia Benton on the 2014 Ebola outbreak in West Africa and what its politics reveal about the Covid-19 pandemic today.&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://patreon.com/thdig&quot;&gt;patreon.com/thdig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://patreon.com/thdig&quot;&gt;patreon.com/thdig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3174,10 +3185,10 @@ Zoom Canvas (featuring
 
 &lt;p&gt;Subscribe to 
 Science for the People at 
-&lt;a href=&quot;http://magazine.ScienceForThePeople.org&quot;&gt;magazine.ScienceForThePeople.org&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://magazine.ScienceForThePeople.org&quot;&gt;magazine.ScienceForThePeople.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3189,7 +3200,7 @@ Science for the People at
    <content type="html">&lt;p&gt;Dan is playing catch up. Here’s a fav interview from the archives: critical theorist Nancy Fraser on how a total analysis of capitalism requires analyzing capitalism’s totality, including socially reproductive work that makes possible the world that capitalism exploits. This is painfully relevant today as people everywhere do the work of staying at home and social distancing to beat this pandemic while capitalists reap the rewards of the world’s reproduction.&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3206,7 +3217,7 @@ New Left Review. Parts
 &lt;a href=&quot;https://newleftreview.org/issues/II120/articles/aaron-benanav-automation-and-the-future-of-work-2&quot;&gt;two&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
@@ -3218,7 +3229,7 @@ New Left Review. Parts
    <content type="html">&lt;p&gt;Dan interviews Meagan Day and Micah Uetricht, the authors of Bigger Than Bernie: How We Go from the Sanders Campaign to Democratic Socialism, to assess the campaign and the way forward.&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3230,10 +3241,10 @@ New Left Review. Parts
    <content type="html">&lt;p&gt;Dan interviews the makers of Blowback, a new podcast series telling the history of the Iraq War.&lt;/p&gt;
 
 &lt;p&gt;Blowback is available only on Stitcher Premium—and for a month you can listen for free. Go to 
-&lt;a href=&quot;http://stitcherpremium.com&quot;&gt;stitcherpremium.com&lt;/a&gt; and sign up with the code BLOWBACK.&lt;/p&gt;
+&lt;a href=&quot;https://stitcherpremium.com&quot;&gt;stitcherpremium.com&lt;/a&gt; and sign up with the code BLOWBACK.&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3249,7 +3260,7 @@ New Left Review. Parts
 &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeqMpCESGhvAF0TONlRN--GZiG3kS1db-Y1TiteA7d0txpdmQ/viewform&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3261,7 +3272,7 @@ New Left Review. Parts
    <content type="html">&lt;p&gt;Dan interviews veteran organizer Jasson Perez and journalist Sarah Jaffe on left organizing amid covid and where it might go.&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3273,7 +3284,7 @@ New Left Review. Parts
    <content type="html">&lt;p&gt;Dan interviews Amy Kapczynski and Gregg Gonsalves on the politics of public health and what we can learn from ACT UP.&lt;/p&gt;
 
 &lt;p&gt;Please support The Dig with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3285,7 +3296,7 @@ New Left Review. Parts
    <content type="html">&lt;p&gt;Dan interviews New York magazine writer Eric Levitz on the big corporate bailout that gave workers precious little to survive the corona crisis.&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3297,7 +3308,7 @@ New Left Review. Parts
    <content type="html">&lt;p&gt;Dan interviews Marxist economist Grace Blakeley on coronavirus economics.&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3309,7 +3320,7 @@ New Left Review. Parts
    <content type="html">&lt;p&gt;Dan interviews Mike Davis about everything we are all suddenly trying to figure out.&lt;/p&gt;
 
 &lt;p&gt;Support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3321,7 +3332,7 @@ New Left Review. Parts
    <content type="html">&lt;p&gt;Dan interviews NYC DSA down-ballot candidates. Samelys López is running for a US House seat in the Bronx. Jabari Brisport, Marcela Mitaynes, and Phara Souffrant Forrest are running for seats in the state legislature. All four are campaigning on a platform of housing justice.&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3333,7 +3344,7 @@ New Left Review. Parts
    <content type="html">&lt;p&gt;An interview on how the Democratic Party got here today with Ryan Grim.&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3348,7 +3359,7 @@ New Left Review. Parts
 &lt;a href=&quot;https://jacobinmag.com/2020/03/ilhan-omar-interview-bernie-sanders-climate&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3363,7 +3374,7 @@ New Left Review. Parts
 &lt;a href=&quot;https://jacobinmag.com/2020/03/ilhan-omar-interview-bernie-sanders-climate&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3375,7 +3386,7 @@ New Left Review. Parts
    <content type="html">&lt;p&gt;A special pod ep from Sunday’s live Boston canvass kickoff with Michael Brooks and Natalie Shure.&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3388,10 +3399,10 @@ New Left Review. Parts
 Race for Profit: How Banks and the Real Estate Industry Undermined Black Homeownership.&lt;/p&gt;
 
 &lt;p&gt;Come see Dan discuss All-American Nativism in Boston on 3/4 
-&lt;a href=&quot;http://facebook.com/events/522615241724284/&quot;&gt;facebook.com/events/522615241724284/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://facebook.com/events/522615241724284/&quot;&gt;facebook.com/events/522615241724284/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3403,7 +3414,7 @@ Race for Profit: How Banks and the Real Estate Industry Undermined Black Homeown
    <content type="html">&lt;p&gt;Live show with Jacobin’s Bhaskar Sunkara and Alex Press in Cambridge, MA for Bernie 2020. Recorded the night of Nevada caucuses. &lt;/p&gt;
 
 &lt;p&gt;Please support us with your money at 
-&lt;a href=&quot;http://www.thedigradio.com&quot;&gt;www.thedigradio.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.thedigradio.com&quot;&gt;www.thedigradio.com&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3416,10 +3427,10 @@ Race for Profit: How Banks and the Real Estate Industry Undermined Black Homeown
 A Twentieth-Century Crusade: The Vatican’s Battle to Remake Christian Europe.&lt;/p&gt;
 
 &lt;p&gt;Live Massachusetts Dig for Bernie! With Bhaskar Sunkara and Alex Press at Harvard this Saturday 2/2, 7pm: 
-&lt;a href=&quot;http://facebook.com/events/604111176850753/&quot;&gt;facebook.com/events/604111176850753/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://facebook.com/events/604111176850753/&quot;&gt;facebook.com/events/604111176850753/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://patreon.com/TheDig&quot;&gt;patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://patreon.com/TheDig&quot;&gt;patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3432,7 +3443,7 @@ A Twentieth-Century Crusade: The Vatican’s Battle to Remake Christian Europe.&
 Producers, Parasites, Patriots: Race and the New Right-Wing Politics of Precarity.&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3444,7 +3455,7 @@ Producers, Parasites, Patriots: Race and the New Right-Wing Politics of Precarit
    <content type="html">&lt;p&gt;The protests have subsided but coronavirus has only created a deeper crisis for government legitimacy. Dan interviews long-time Hong Kong activist and writer Au Loong Yu.&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3456,7 +3467,7 @@ Producers, Parasites, Patriots: Race and the New Right-Wing Politics of Precarit
    <content type="html">&lt;p&gt;Dan interviews philosopher Martin Hägglund on how the way we conceive of our finite lives here on earth shapes our critique of capitalism and construction of socialism.&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3470,39 +3481,39 @@ Producers, Parasites, Patriots: Race and the New Right-Wing Politics of Precarit
 &lt;p&gt;Upcoming events:&lt;/p&gt;
 
 &lt;p&gt;1/24 All-American Nativism Brooklyn book launch with Aziz Rana 
-&lt;a href=&quot;http://facebook.com/events/606979320053356/&quot;&gt;facebook.com/events/606979320053356/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://facebook.com/events/606979320053356/&quot;&gt;facebook.com/events/606979320053356/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;1/27 Race for Profit: A Conversation with Keeanga-Yamahtta Taylor [Live Dig interview in Providence] 
-&lt;a href=&quot;http://facebook.com/events/1416403061860397/&quot;&gt;facebook.com/events/1416403061860397/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://facebook.com/events/1416403061860397/&quot;&gt;facebook.com/events/1416403061860397/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;1/28 Rhode Island Students for Bernie Kickoff Rally with Keeanga-Yamahtta Taylor and Linda Sarsour 
-&lt;a href=&quot;http://facebook.com/events/618607768707911/&quot;&gt;facebook.com/events/618607768707911/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://facebook.com/events/618607768707911/&quot;&gt;facebook.com/events/618607768707911/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Book tour (more to be announced soon!):&lt;/p&gt;
 
 &lt;p&gt;1/31 Providence 
-&lt;a href=&quot;http://facebook.com/events/2432419893664520/&quot;&gt;facebook.com/events/2432419893664520/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://facebook.com/events/2432419893664520/&quot;&gt;facebook.com/events/2432419893664520/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;2/24 Philly 
-&lt;a href=&quot;http://facebook.com/events/462775997752533/&quot;&gt;facebook.com/events/462775997752533/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://facebook.com/events/462775997752533/&quot;&gt;facebook.com/events/462775997752533/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;2/26 DC at 
-&lt;a href=&quot;http://solidstatebooksdc.com&quot;&gt;solidstatebooksdc.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://solidstatebooksdc.com&quot;&gt;solidstatebooksdc.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;2/28 Baltimore 
-&lt;a href=&quot;http://facebook.com/events/509390186368309/&quot;&gt;facebook.com/events/509390186368309/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://facebook.com/events/509390186368309/&quot;&gt;facebook.com/events/509390186368309/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;3/4 Boston at 
-&lt;a href=&quot;http://tridentbookscafe.com&quot;&gt;tridentbookscafe.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://tridentbookscafe.com&quot;&gt;tridentbookscafe.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;3/11 New Orleans: All-American Nativism and A Planet to Win double book event with Thea Riofrancos at 
-&lt;a href=&quot;http://octaviabooks.com&quot;&gt;octaviabooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://octaviabooks.com&quot;&gt;octaviabooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;3/17 Austin at 
-&lt;a href=&quot;http://monkeywrenchbooks.org&quot;&gt;monkeywrenchbooks.org&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://monkeywrenchbooks.org&quot;&gt;monkeywrenchbooks.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;3/18 Dallas at 
-&lt;a href=&quot;http://deepvellum.org&quot;&gt;deepvellum.org&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://deepvellum.org&quot;&gt;deepvellum.org&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3516,39 +3527,39 @@ Producers, Parasites, Patriots: Race and the New Right-Wing Politics of Precarit
 &lt;p&gt;&lt;strong&gt;Upcoming events:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;1/24 All-American Nativism Brooklyn book launch with Aziz Rana 
-&lt;a href=&quot;http://facebook.com/events/606979320053356/&quot;&gt;facebook.com/events/606979320053356/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://facebook.com/events/606979320053356/&quot;&gt;facebook.com/events/606979320053356/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;1/27 Race for Profit: A Conversation with Keeanga-Yamahtta Taylor [Live Dig interview in Providence] 
-&lt;a href=&quot;http://facebook.com/events/1416403061860397/&quot;&gt;facebook.com/events/1416403061860397/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://facebook.com/events/1416403061860397/&quot;&gt;facebook.com/events/1416403061860397/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;1/28 Rhode Island Students for Bernie Kickoff Rally with Keeanga-Yamahtta Taylor and Linda Sarsour 
-&lt;a href=&quot;http://facebook.com/events/618607768707911/&quot;&gt;facebook.com/events/618607768707911/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://facebook.com/events/618607768707911/&quot;&gt;facebook.com/events/618607768707911/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Book tour (more to be announced soon!):&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;1/31 Providence 
-&lt;a href=&quot;http://facebook.com/events/2432419893664520/&quot;&gt;facebook.com/events/2432419893664520/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://facebook.com/events/2432419893664520/&quot;&gt;facebook.com/events/2432419893664520/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;2/24 Philly 
-&lt;a href=&quot;http://facebook.com/events/462775997752533/&quot;&gt;facebook.com/events/462775997752533/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://facebook.com/events/462775997752533/&quot;&gt;facebook.com/events/462775997752533/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;2/26 DC at 
-&lt;a href=&quot;http://solidstatebooksdc.com&quot;&gt;solidstatebooksdc.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://solidstatebooksdc.com&quot;&gt;solidstatebooksdc.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;2/28 Baltimore 
-&lt;a href=&quot;http://facebook.com/events/509390186368309/&quot;&gt;facebook.com/events/509390186368309/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://facebook.com/events/509390186368309/&quot;&gt;facebook.com/events/509390186368309/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;3/4 Boston at 
-&lt;a href=&quot;http://tridentbookscafe.com&quot;&gt;tridentbookscafe.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://tridentbookscafe.com&quot;&gt;tridentbookscafe.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;3/11 New Orleans: All-American Nativism and A Planet to Win double book event with Thea Riofrancos at 
-&lt;a href=&quot;http://octaviabooks.com&quot;&gt;octaviabooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://octaviabooks.com&quot;&gt;octaviabooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;3/17 Austin at 
-&lt;a href=&quot;http://monkeywrenchbooks.org&quot;&gt;monkeywrenchbooks.org&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://monkeywrenchbooks.org&quot;&gt;monkeywrenchbooks.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;3/18 Dallas at 
-&lt;a href=&quot;http://deepvellum.org&quot;&gt;deepvellum.org&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://deepvellum.org&quot;&gt;deepvellum.org&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3561,10 +3572,10 @@ Producers, Parasites, Patriots: Race and the New Right-Wing Politics of Precarit
 A Planet to Win: Why We Need a Green New Deal.&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso. Check out their huge selection of left-wing titles at 
-&lt;a href=&quot;http://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3576,10 +3587,10 @@ A Planet to Win: Why We Need a Green New Deal.&lt;/p&gt;
    <content type="html">&lt;p&gt;We need Bernie but a lot more too. Dan does three interviews with down-ballot left insurgent candidates: Jessica Cisneros, a Justice Democrat running against incumbent conservative Democrat Henry Cuellar in Texas’s 28th congressional district; Stephen Smith, who is running a populist campaign for West Virginia governor; and Heidi Sloan, a DSA candidate in the Democratic primary for Texas’s 25th Republican-held 25th congressional district.&lt;/p&gt;
 
 &lt;p&gt;Thanks to University of California Press. Check out their huge selection of titles at 
-&lt;a href=&quot;http://ucpress.edu&quot;&gt;ucpress.edu&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://ucpress.edu&quot;&gt;ucpress.edu&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3591,10 +3602,10 @@ A Planet to Win: Why We Need a Green New Deal.&lt;/p&gt;
    <content type="html">&lt;p&gt;Why we need single-payer healthcare, why Medicare for All is suddenly at the center of debate, and why this is all part of a broader struggle for health justice. Dan interviews Tim Faust.&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso. Check out their huge selection of left-wing titles at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3607,17 +3618,17 @@ A Planet to Win: Why We Need a Green New Deal.&lt;/p&gt;
 Assembly.&lt;/p&gt;
 
 &lt;p&gt;Read Dan’s essay on the 20th anniversary of the WTO protests in Seattle 
-&lt;a href=&quot;http://jacobinmag.com/2019/11/seattle-world-trade-organization-protests-socialism&quot;&gt;jacobinmag.com/2019/11/seattle-world-trade-organization-protests-socialism&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://jacobinmag.com/2019/11/seattle-world-trade-organization-protests-socialism&quot;&gt;jacobinmag.com/2019/11/seattle-world-trade-organization-protests-socialism&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Read Hardt and Negri reflect on the 20th anniversary of 
 Empire 
-&lt;a href=&quot;http://newleftreview.org/issues/II120/articles/empire-twenty-years-on&quot;&gt;newleftreview.org/issues/II120/articles/empire-twenty-years-on&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://newleftreview.org/issues/II120/articles/empire-twenty-years-on&quot;&gt;newleftreview.org/issues/II120/articles/empire-twenty-years-on&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso. Check out their huge selection of left-wing titles at 
-&lt;a href=&quot;http://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3630,10 +3641,10 @@ Empire
 Building an American Empire: The Era of Territorial and Political Expansion. a.k.a. episode 85 from January 30 2018.&lt;/p&gt;
 
 &lt;p&gt;Thanks to University of North Carolina Press. Check out their Justice, Power, and Politics series 
-&lt;a href=&quot;http://uncpress.org/series/justice-power-politics&quot;&gt;uncpress.org/series/justice-power-politics&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://uncpress.org/series/justice-power-politics&quot;&gt;uncpress.org/series/justice-power-politics&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3645,13 +3656,13 @@ Building an American Empire: The Era of Territorial and Political Expansion. a.k
    <content type="html">&lt;p&gt;Political scientist Jeff Webber discusses the coup against Evo Morales and the recent history of Bolivia.&lt;/p&gt;
 
 &lt;p&gt;Read “The Eighteenth Brumaire of Macho Camacho” by Jeff Webber and Forrest Hylton 
-&lt;a href=&quot;http://www.versobooks.com/blogs/4493-the-eighteenth-brumaire-of-macho-camacho-jeffery-r-webber-with-forrest-hylton-on-the-coup-in-bolivia&quot;&gt;www.versobooks.com/blogs/4493-the-eighteenth-brumaire-of-macho-camacho-jeffery-r-webber-with-forrest-hylton-on-the-coup-in-bolivia&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.versobooks.com/blogs/4493-the-eighteenth-brumaire-of-macho-camacho-jeffery-r-webber-with-forrest-hylton-on-the-coup-in-bolivia&quot;&gt;www.versobooks.com/blogs/4493-the-eighteenth-brumaire-of-macho-camacho-jeffery-r-webber-with-forrest-hylton-on-the-coup-in-bolivia&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to University of California Press. Check out their titles at 
-&lt;a href=&quot;http://ucpress.edu&quot;&gt;ucpress.edu&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://ucpress.edu&quot;&gt;ucpress.edu&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3664,10 +3675,10 @@ Building an American Empire: The Era of Territorial and Political Expansion. a.k
 On Fire: The Burning Case for a Green New Deal.&lt;/p&gt;
 
 &lt;p&gt;Thanks to University of California Press. Check out their huge selection of titles at 
-&lt;a href=&quot;http://ucpress.edu&quot;&gt;ucpress.edu&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://ucpress.edu&quot;&gt;ucpress.edu&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3679,10 +3690,10 @@ On Fire: The Burning Case for a Green New Deal.&lt;/p&gt;
    <content type="html">&lt;p&gt;Maria hit Puerto Rico as austerity dismantled its social and material infrastructure. But as Yarimar Bonilla explains, these years also taught Puerto Ricans about their own collective power, fueling the summer’s mass movement that overthrew Governor Ricardo Rosselló.&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso Books. Check out their huge selection of left-wing titles at 
-&lt;a href=&quot;http://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3694,10 +3705,10 @@ On Fire: The Burning Case for a Green New Deal.&lt;/p&gt;
    <content type="html">&lt;p&gt;Mathew Lawrence, founder and director of the left-wing UK think tank Common Wealth, explains why ownership must be socialized, what that might look like, and how to make it happen.&lt;/p&gt;
 
 &lt;p&gt;Thanks to UNC Press. Check out Stirrings: How Activist New Yorkers Ignited a Movement for Food Justice By Lana Dee Povitz 
-&lt;a href=&quot;http://uncpress.org/book/9781469653013/stirrings&quot;&gt;uncpress.org/book/9781469653013/stirrings&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://uncpress.org/book/9781469653013/stirrings&quot;&gt;uncpress.org/book/9781469653013/stirrings&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3709,10 +3720,10 @@ On Fire: The Burning Case for a Green New Deal.&lt;/p&gt;
    <content type="html">&lt;p&gt;The divide between Latin American and the United States was not always so evident. Across the hemisphere, creoles—the descendants of European settlers, born in the Americas—launched revolutions to cast off European rule and preserve their own elite position over black and indigenous people. Joshua Simon explains how rival settler-colonial projects became today’s status quo of US dominance.&lt;/p&gt;
 
 &lt;p&gt;Thanks to n+1. Dig listeners can take 25% off a year’s subscription. Go to 
-&lt;a href=&quot;http://nplusonemag.com/thedig&quot;&gt;nplusonemag.com/thedig&lt;/a&gt; to subscribe, and enter THEDIG at checkout.&lt;/p&gt;
+&lt;a href=&quot;https://nplusonemag.com/thedig&quot;&gt;nplusonemag.com/thedig&lt;/a&gt; to subscribe, and enter THEDIG at checkout.&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3724,10 +3735,10 @@ On Fire: The Burning Case for a Green New Deal.&lt;/p&gt;
    <content type="html">&lt;p&gt;Adom Getachew explains how anticolonial leaders from across the black Atlantic tried to not only cast off European rule but also end empire by constructing an egalitarian global political and economic order in its place.&lt;/p&gt;
 
 &lt;p&gt;Thanks to University of North Carolina Press. Check out Race for Profit: How Banks and the Real Estate Industry Undermined Black Homeownership by Keeanga-Yamahtta Taylor 
-&lt;a href=&quot;http://uncpress.org/book/9781469653662/race-for-profit/&quot;&gt;uncpress.org/book/9781469653662/race-for-profit/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://uncpress.org/book/9781469653662/race-for-profit/&quot;&gt;uncpress.org/book/9781469653662/race-for-profit/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3740,13 +3751,13 @@ On Fire: The Burning Case for a Green New Deal.&lt;/p&gt;
 
 &lt;p&gt;Read some of his recent work:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://newleftreview.org/issues/II112/articles/achin-vanaik-india-s-two-hegemonies&quot;&gt;newleftreview.org/issues/II112/articles/achin-vanaik-india-s-two-hegemonies&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://newleftreview.org/issues/II112/articles/achin-vanaik-india-s-two-hegemonies&quot;&gt;newleftreview.org/issues/II112/articles/achin-vanaik-india-s-two-hegemonies&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://jacobinmag.com/author/achin-vanaik&quot;&gt;jacobinmag.com/author/achin-vanaik&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://jacobinmag.com/author/achin-vanaik&quot;&gt;jacobinmag.com/author/achin-vanaik&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to Princeton University Press. Check out The Fire Is upon Us: James Baldwin, William F. Buckley Jr., and the Debate over Race in America by Nicholas Buccola 
-&lt;a href=&quot;http://press.princeton.edu/books/hardcover/9780691181547/the-fire-is-upon-us&quot;&gt;press.princeton.edu/books/hardcover/9780691181547/the-fire-is-upon-us&lt;/a&gt;Please support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://press.princeton.edu/books/hardcover/9780691181547/the-fire-is-upon-us&quot;&gt;press.princeton.edu/books/hardcover/9780691181547/the-fire-is-upon-us&lt;/a&gt;Please support this podcast at 
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3758,13 +3769,13 @@ On Fire: The Burning Case for a Green New Deal.&lt;/p&gt;
    <content type="html">&lt;p&gt;Dan interviews Alex Gourevitch about how 19th century US labor radicals remade the idea of freedom into a principle of working-class social transformation.&lt;/p&gt;
 
 &lt;p&gt;If you want more on the debate over Lexit, which they only touched on briefly, check out this June interview with Chris Bickerton and Jerome Roos 
-&lt;a href=&quot;http://www.thedigradio.com/podcast/the-european-situation-with-chris-bickerton-and-jerome-roos&quot;&gt;www.thedigradio.com/podcast/the-european-situation-with-chris-bickerton-and-jerome-roos&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.thedigradio.com/podcast/the-european-situation-with-chris-bickerton-and-jerome-roos&quot;&gt;www.thedigradio.com/podcast/the-european-situation-with-chris-bickerton-and-jerome-roos&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso. Check out their huge selection of left-wing titles at 
-&lt;a href=&quot;http://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3776,10 +3787,10 @@ On Fire: The Burning Case for a Green New Deal.&lt;/p&gt;
    <content type="html">&lt;p&gt;Dan interviews Noura Erakat, the author of Justice for Some: Law and the Question of Palestine, a new book that analyzes the history of settler-colonialism in Palestine and the Palestinian struggle for liberation from just before the British mandate to the present through the lens of the law.&lt;/p&gt;
 
 &lt;p&gt;Thanks to Haymarket Books. Check out their huge selection of left-wing titles at 
-&lt;a href=&quot;http://haymarketbooks.org&quot;&gt;haymarketbooks.org&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://haymarketbooks.org&quot;&gt;haymarketbooks.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;. We need those of you who can support us to do so because we provide every episode free to all.&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;. We need those of you who can support us to do so because we provide every episode free to all.&lt;/p&gt;
 </content>
  </entry>
  
@@ -3791,10 +3802,10 @@ On Fire: The Burning Case for a Green New Deal.&lt;/p&gt;
    <content type="html">&lt;p&gt;Lisa Duggan wrote a book that explains everything you need to know about Ayn Rand and why she became so enormously consequential so that you don’t have to read Rand’s work yourself. Mean Girl: Ayn Rand and the Culture of Greed is out now from University of California Press.&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso. Check out their huge selection of left-wing titles at 
-&lt;a href=&quot;http://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3806,10 +3817,10 @@ On Fire: The Burning Case for a Green New Deal.&lt;/p&gt;
    <content type="html">&lt;p&gt;The history of suburbanite reactions to school integration in Atlanta and Charlotte reveal the class power underpinning both racism and the demolition of the New Deal order. Dan interviews Matt Lassiter, discussing suburbanite resistance to school busing, why Nixon’s Silent Majority was the the product of a suburban strategy rather than a Southern one, and why the class base of all politics matters.&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso. Check out their huge selection of left-wing titles at 
-&lt;a href=&quot;http://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3821,13 +3832,13 @@ On Fire: The Burning Case for a Green New Deal.&lt;/p&gt;
    <content type="html">&lt;p&gt;Dan interviewed legendary feminist scholar Silvia Federici on Caliban and the Witch at her Brooklyn apartment. Next year, he’ll make a return trip to discuss Wages for Housework.&lt;/p&gt;
 
 &lt;p&gt;Here’s the article on the Pawtucket factory strike by Joey La Neve DeFrancesco that Dan mentions 
-&lt;a href=&quot;http://jacobinmag.com/2018/06/factory-workers-strike-textile-mill-women&quot;&gt;jacobinmag.com/2018/06/factory-workers-strike-textile-mill-women&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://jacobinmag.com/2018/06/factory-workers-strike-textile-mill-women&quot;&gt;jacobinmag.com/2018/06/factory-workers-strike-textile-mill-women&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso. Check out their huge selection of left-wing titles at 
-&lt;a href=&quot;http://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3842,10 +3853,10 @@ On Fire: The Burning Case for a Green New Deal.&lt;/p&gt;
 &lt;a href=&quot;https://podcasts.apple.com/us/podcast/new-dawn/id1213696020&quot;&gt;https://podcasts.apple.com/us/podcast/new-dawn/id1213696020&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso Books. Check out their huge selection of left-wing titles at 
-&lt;a href=&quot;http://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3857,10 +3868,10 @@ On Fire: The Burning Case for a Green New Deal.&lt;/p&gt;
    <content type="html">&lt;p&gt;Guest host Astra Taylor interviews Roxanne Dunbar-Ortiz about Indigenous people’s history to reexamine all of history, the present, and our possible futures.&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso. Check out their huge selection of left-wing titles at 
-&lt;a href=&quot;http://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3872,10 +3883,10 @@ On Fire: The Burning Case for a Green New Deal.&lt;/p&gt;
    <content type="html">&lt;p&gt;Ordinary language is the sound of hegemony; it is also an archive of the struggles to overturn it. Language is an institution and a constantly emergent field of struggle; it is the product of power relations and it is also itself power relations. Dan interviews John Patrick Leary, the author of Keywords: The New Language of Capitalism.&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso. Check out their huge selection of left-wing titles at 
-&lt;a href=&quot;http://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3889,10 +3900,10 @@ Jacobin editor Bhaskar Sunkara about his book
 The Socialist Manifesto: The Case for Radical Politics in an Era of Extreme Inequality. We must study socialism’s history and plan for its future.&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso Books. Check out their huge selection of left-wing titles at 
-&lt;a href=&quot;http://versobooks.com&quot;&gt;versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://versobooks.com&quot;&gt;versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3904,10 +3915,10 @@ The Socialist Manifesto: The Case for Radical Politics in an Era of Extreme Ineq
    <content type="html">&lt;p&gt;Jobs have in recent years gotten much worse for millions of service workers at Amazon, McDonalds and call centers. Dan interviews Emily Guendelsberger on her book On the Clock: What Low-Wage Work Did to Me and How It Drives America Insane.&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso. Check out their huge selection of left-wing titles at 
-&lt;a href=&quot;http://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://patreon.com/TheDig&quot;&gt;patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://patreon.com/TheDig&quot;&gt;patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3920,10 +3931,10 @@ The Socialist Manifesto: The Case for Radical Politics in an Era of Extreme Ineq
 Don’t Blame Us: Suburban Liberals and the Transformation of the Democratic Party. While Boston whites fought school busing in the streets, suburban liberals along Route 128 maintained and benefited from the larger system of metropolitan residential and school segregation that made the crisis possible. Suburban liberals also played a key role in creating a new Democratic Party that embraced a superficial politics of recognition while advancing a technocratic elite-driven neoliberal agenda that included the demonization and persecution of poor black mothers on welfare and mass incarceration.&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso Books. Check out their huge selection of left-wing titles at 
-&lt;a href=&quot;http://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3933,10 +3944,10 @@ Don’t Blame Us: Suburban Liberals and the Transformation of the Democratic Par
    <updated>2019-07-26T00:00:00-04:00</updated>
    <id>http://localhost:4000/podcast/from-the-archives-aziz-rana-on-two-faces-of-american-freedom</id>
    <content type="html">&lt;p&gt;Dan is taking his first week off ever in Dig history to finish his book. Here’s a classic from deep in the archives: our first interview with Aziz Rana, on his book The Two Faces of American Freedom, aka episode 62. If you’ve already heard this one and are hungry for more content we’ve got everything organized by date, guest and topic at 
-&lt;a href=&quot;http://www.thedigradio.com&quot;&gt;www.thedigradio.com&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&quot;https://www.thedigradio.com&quot;&gt;www.thedigradio.com&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -3952,10 +3963,10 @@ Don’t Blame Us: Suburban Liberals and the Transformation of the Democratic Par
 Jacobin&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso Books. Check out their huge selection of left-wing titles at 
-&lt;a href=&quot;http://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -4240,10 +4251,10 @@ Full Surrogacy Now: Feminism Against Family from Verso. Lewis is a Philadelphia-
 Full Surrogacy Now: Feminism Against Family. Something is deeply wrong with commercial surrogacy—but it’s just not what you might think. What’s wrong is the brute labor exploitation taking place at the reproductive crossroads of a racialized global capitalist order.&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso Books. Check out their huge selection of left-wing titles at 
-&lt;a href=&quot;http://versobooks.com&quot;&gt;versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://versobooks.com&quot;&gt;versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -4468,10 +4479,10 @@ Democracy May Not Exist, But We’ll Miss It When It’s Gone, here: us.macmilla
 Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and the Long Tradition of Indigenous Resistance. The problem that settler colonialism was repeatedly trying to solve by unleashing such terrific violence—through massacres, by nearly eliminating the buffalo, in reservation confinement, in dominating the Missouri River—was not just indigenous people being in the way but also the existence of a larger relationship between indigenous people and the land, water and animals. The history of resisting this capitalist and colonialist dispossession has endured through the Water Protectors’ struggle at Standing Rock—which will, in retrospect, be remembered as a pivotal moment in the global struggle against climate catastrophe.&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso Books. Check out their huge selection of left-wing titles at 
-&lt;a href=&quot;http://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -4484,13 +4495,13 @@ Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and 
 &lt;a href=&quot;https://www.versobooks.com/books/2839-russia-without-putin&quot;&gt;Russia Without Putin: Money, Power and the Myths of the New Cold War&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso. Check out their massive left-wing book selection at 
-&lt;a href=&quot;http://versobooks.com&quot;&gt;versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://versobooks.com&quot;&gt;versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Go to the Socialism 2019 conference in Chicago July 4-7! Register now at 
-&lt;a href=&quot;http://socialismconference.org&quot;&gt;socialismconference.org&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://socialismconference.org&quot;&gt;socialismconference.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -4502,10 +4513,10 @@ Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and 
    <content type="html">&lt;p&gt;There is perhaps no more depressing situation in Western Europe than that which prevails in Italy: a coalition government between the far-right Lega party and the now subordinate, bizarre, amorphously anti-corruption, internet-fetishist, pseudo-directly democratic Five Star Movement. In other words, Italian politics is dominated by a viciously racist anti-migrant politics; the left, along with most traditional forces, is in utter disarray. Today, Lega, led by Interior Minister Mateo Salvini, runs Italian politics. But the bad news is maybe also the good news: Salvini has not solved Italy’s deep rooted economic problems, and so it’s quite possible that the very same instability that abetted his rise will ultimately lead to his downfall. Dan interviews David Broder, Lorenzo Zamponi and Marta Fana.&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso. Check out their massive left-wing book selection at 
-&lt;a href=&quot;http://versobooks.com&quot;&gt;versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://versobooks.com&quot;&gt;versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -4517,13 +4528,13 @@ Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and 
    <content type="html">&lt;p&gt;In Spanish politics, the center-left Socialist Party has demolished the conservative Popular Party and checked risk of a major far-right surge. But meanwhile, the once very plausible-feeling dream of an insurgent radical left Podemos gaining power has faded. And fast. Dan discusses the Spanish situation with Carlos Delclós and Magda Bandera.&lt;/p&gt;
 
 &lt;p&gt;Go to the Socialism 2019 conference in Chicago July 4-7! Register now at 
-&lt;a href=&quot;http://socialismconference.org&quot;&gt;socialismconference.org&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://socialismconference.org&quot;&gt;socialismconference.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Check out Next Left, a new podcast from The Nation magazine: 
-&lt;a href=&quot;http://thenation.com/next-left&quot;&gt;thenation.com/next-left&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thenation.com/next-left&quot;&gt;thenation.com/next-left&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -4535,10 +4546,10 @@ Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and 
    <content type="html">&lt;p&gt;The radical left has been unable to electorally capitalize on the Yellow Vest movement, a massive revolt against a vicious, unequal and alienating neoliberal order. Instead, French electoral politics has pit an insurgent far-right against a zombie liberal center that presents itself as a bulwark against the nationalist tide. Dan interviews Sebastian Budgen and Danièle Obono, a member of the National Assembly with La France insoumise.&lt;/p&gt;
 
 &lt;p&gt;Check out War over Peace: One Hundred Years of Israel’s Militaristic Nationalism by Uri Ben-Eliezer 
-&lt;a href=&quot;http://ucpress.edu/book/9780520304345/war-over-peace&quot;&gt;ucpress.edu/book/9780520304345/war-over-peace&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://ucpress.edu/book/9780520304345/war-over-peace&quot;&gt;ucpress.edu/book/9780520304345/war-over-peace&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -4550,13 +4561,13 @@ Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and 
    <content type="html">&lt;p&gt;Brexit has so dominated UK politics that it has put the Labour Party in a profoundly difficult and perhaps untenable position of strategic ambiguity toward how to handle the never-ending matter of leaving the EU. Today, in part two of our five-part series on European politics, Dan discusses this all with Grace Blakeley, Maya Goodfellow, and Richard Seymour.&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso Books, which has loads of great left-wing titles at 
-&lt;a href=&quot;http://versobooks.com&quot;&gt;versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://versobooks.com&quot;&gt;versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Go to the Socialism 2019 conference in Chicago July 4-7! Register now at 
-&lt;a href=&quot;http://socialismconference.org&quot;&gt;socialismconference.org&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://socialismconference.org&quot;&gt;socialismconference.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -4568,13 +4579,13 @@ Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and 
    <content type="html">&lt;p&gt;This week and next, we’re bringing you five episodes on European politics. Today, we’re starting things off with Chris Bickerton and Jerome Roos for an overview of the European situation and the debate on the European left over how to approach Europe and the EU. Then, an interview on British politics with Grace Blakeley, Maya Goodfellow, and Richard Seymour. After that, a discussion of French politics with Sebastian Budget and Danièle Obono, a member of France’s National Assembly with the left-wing La France insoumise. Then, an interview on Spanish politics with Carlos Delclós and Magda Bandera. And finally, an interview with David Broder and Marta Fana on Italy.&lt;/p&gt;
 
 &lt;p&gt;Thanks to n+1. To get 25% off a one-year subscription, go to 
-&lt;a href=&quot;http://nplusonemag.com/thedig&quot;&gt;nplusonemag.com/thedig&lt;/a&gt; and enter THEDIG at checkout&lt;/p&gt;
+&lt;a href=&quot;https://nplusonemag.com/thedig&quot;&gt;nplusonemag.com/thedig&lt;/a&gt; and enter THEDIG at checkout&lt;/p&gt;
 
 &lt;p&gt;Check out Next Left, a new podcast from The Nation magazine: 
-&lt;a href=&quot;http://thenation.com/next-left&quot;&gt;thenation.com/next-left&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thenation.com/next-left&quot;&gt;thenation.com/next-left&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -4590,10 +4601,10 @@ Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and 
 &lt;p&gt;US Rep. Rashida Tlaib on the local struggles that guide her work on behalf of the working class in Congress, the urgent need for a politics that puts people over profit, the question of impeachment, and why American people are coming around to supporting a free Palestine.&lt;/p&gt;
 
 &lt;p&gt;Go to the Socialism 2019 conference in Chicago July 4-7! Register now at 
-&lt;a href=&quot;http://socialismconference.org&quot;&gt;socialismconference.org&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://socialismconference.org&quot;&gt;socialismconference.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -4607,10 +4618,10 @@ Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and 
 &lt;p&gt;US Rep. Rashida Tlaib on the local struggles that guide her work on behalf of the working class in Congress, the urgent need for a politics that puts people over profit, the question of impeachment, and why American people are coming around to supporting a free Palestine.&lt;/p&gt;
 
 &lt;p&gt;Go to the Socialism 2019 conference in Chicago July 4-7! Register now at 
-&lt;a href=&quot;http://socialismconference.org&quot;&gt;socialismconference.org&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://socialismconference.org&quot;&gt;socialismconference.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -4622,16 +4633,16 @@ Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and 
    <content type="html">&lt;p&gt;Dan has in-depth discussion on Bernie’s approach to race and what he must do to win over Black voters with Malaika Jabali and Wendi Muse. Contrary to conventional wisdom, Sanders isn’t unpopular with Black voters. In fact, he has done rather well with young Black people. But to win the primary and beat Biden, he must do a lot better. In particular, Malaika and Wendi argue that Bernie must integrate racial justice into the core of his class struggle agenda, rather than emphasizing it as a separate and siloed issue.&lt;/p&gt;
 
 &lt;p&gt;Read Dan’s critique of Bernie’s immigration agenda 
-&lt;a href=&quot;http://jacobinmag.com/2019/04/bernie-sanders-immigrant-rights-border-policy&quot;&gt;jacobinmag.com/2019/04/bernie-sanders-immigrant-rights-border-policy&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://jacobinmag.com/2019/04/bernie-sanders-immigrant-rights-border-policy&quot;&gt;jacobinmag.com/2019/04/bernie-sanders-immigrant-rights-border-policy&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso. Check out their huge selection of left-wing titles at 
-&lt;a href=&quot;http://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Go to the Socialism 2019 conference in Chicago July 4-7! Register for the early-bird rate now at 
-&lt;a href=&quot;http://socialismconference.org&quot;&gt;socialismconference.org&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://socialismconference.org&quot;&gt;socialismconference.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -4641,16 +4652,16 @@ Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and 
    <updated>2019-05-25T00:00:00-04:00</updated>
    <id>http://localhost:4000/podcast/doug-henwood-on-dsa</id>
    <content type="html">&lt;p&gt;DSA’s explosive growth continues; it has already, in a few short years, become the center of a renewed American socialist movement. Dan interviews Doug Henwood, who recently published a lengthy article in The New Republic entitled “
-&lt;a href=&quot;http://newrepublic.com/article/153768/inside-democratic-socialists-america-struggle-political-mainstream&quot;&gt;The Socialist Network: Inside DSA’s struggle to move into the political mainstream&lt;/a&gt;.”&lt;/p&gt;
+&lt;a href=&quot;https://newrepublic.com/article/153768/inside-democratic-socialists-america-struggle-political-mainstream&quot;&gt;The Socialist Network: Inside DSA’s struggle to move into the political mainstream&lt;/a&gt;.”&lt;/p&gt;
 
 &lt;p&gt;Check out Lisa Duggan’s Mean Girl: Ayn Rand and the Culture of Greed 
-&lt;a href=&quot;http://ucpress.edu/book/9780520294776/mean-girl&quot;&gt;ucpress.edu/book/9780520294776/mean-girl&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://ucpress.edu/book/9780520294776/mean-girl&quot;&gt;ucpress.edu/book/9780520294776/mean-girl&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Go to the Socialism 2019 conference in Chicago July 4-7! Register for the early-bird rate now at 
-&lt;a href=&quot;http://socialismconference.org&quot;&gt;socialismconference.org&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://socialismconference.org&quot;&gt;socialismconference.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -4664,13 +4675,13 @@ Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and 
 &lt;p&gt;Dan conducted six interviews on capitalism and slavery at The Dig’s recent Slavery’s Hinterlands symposium here in Rhode Island. This second of two episodes begins with Seth Rockman on the role of slavery in American capitalism. Then, scholars Crystal Eddins and Zachary Sell on revolution and counter-revolution across the racial capitalist global order. Finally, public historians Akeia Benard, Joey La Neve DeFrancesco, Elon Cook Lee and Marco McWilliams on teaching slavery today.&lt;/p&gt;
 
 &lt;p&gt;Go to the Socialism 2019 conference in Chicago July 4-7! Register for the early-bird rate now at 
-&lt;a href=&quot;http://socialismconference.org&quot;&gt;socialismconference.org&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://socialismconference.org&quot;&gt;socialismconference.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Check out Next Left, a new podcast from The Nation magazine. Their first interview is with Rep. Ilhan Omar. 
-&lt;a href=&quot;http://thenation.com/next-left&quot;&gt;thenation.com/next-left&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://thenation.com/next-left&quot;&gt;thenation.com/next-left&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -4684,10 +4695,10 @@ Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and 
 &lt;p&gt;Dan conducted six interviews on capitalism and slavery at The Dig’s recent Slavery’s Hinterlands symposium here in Rhode Island. This first of two episodes begins with historian Linford Fisher, who explains that the English settlement of North America was a settler-colonial project that required genocidally dispossessing indigenous people of their lands. What you might not know is that a central tactic for that dispossession, in New England and Virginia alike, was the threat and actual enslavement of native people, including the widespread practice of forcing native youth to labor in English homes. Then historians Christy Clark-Pujara and Joanne Melish, who pick up where Fisher leaves off: slavery wasn’t the South’s peculiar institution; it was the bedrock of the northern economy. And finally, historian Emily Owens on sexual labor under slavery: what, Owens’ work explores, did slavery and freedom mean for women for whom, in brothels or the home, sex was work? On the next episode, Dan has two more interviews looking at the big picture questions of slavery, capitalism, revolution and colonialism, and an interview with a group of public historians who teach about slavery today.&lt;/p&gt;
 
 &lt;p&gt;Thanks to n+1. To get 25% off a one-year subscription, go to 
-&lt;a href=&quot;http://nplusonemag.com/thedig&quot;&gt;nplusonemag.com/thedig&lt;/a&gt; and enter THEDIG at checkout&lt;/p&gt;
+&lt;a href=&quot;https://nplusonemag.com/thedig&quot;&gt;nplusonemag.com/thedig&lt;/a&gt; and enter THEDIG at checkout&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -4701,28 +4712,28 @@ Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and 
  editorial board member Alyssa Battistoni.&lt;/p&gt;
 
 &lt;p&gt;Thanks to n+1. To get 25% off a one-year subscription, go to 
-&lt;a href=&quot;http://nplusonemag.com/thedig&quot;&gt;nplusonemag.com/thedig&lt;/a&gt; and enter THEDIG at checkout&lt;/p&gt;
+&lt;a href=&quot;https://nplusonemag.com/thedig&quot;&gt;nplusonemag.com/thedig&lt;/a&gt; and enter THEDIG at checkout&lt;/p&gt;
 
 &lt;p&gt;The documentary Donna Haraway: Story Telling For Earthly Survival is now available to stream on 
 &lt;a href=&quot;https://www.amazon.com/gp/product/B07PDNL3T7&quot;&gt;Amazon&lt;/a&gt;, 
 &lt;a href=&quot;https://itunes.apple.com/us/movie/donna-haraway-story-telling-for-earthly-survival/id1446065276&quot;&gt;iTunes&lt;/a&gt;, 
 &lt;a href=&quot;https://vimeo.com/ondemand/donnaharaway&quot;&gt;Vimeo&lt;/a&gt;, as well as on 
-&lt;a href=&quot;http://icarusfilms.com/if-donna&quot;&gt;DVD via Icarus Films&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&quot;https://icarusfilms.com/if-donna&quot;&gt;DVD via Icarus Films&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Alyssa’s piece on Haraway for n+1: 
-&lt;a href=&quot;http://nplusonemag.com/issue-28/reviews/monstrous-duplicated-potent&quot;&gt;nplusonemag.com/issue-28/reviews/monstrous-duplicated-potent&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://nplusonemag.com/issue-28/reviews/monstrous-duplicated-potent&quot;&gt;nplusonemag.com/issue-28/reviews/monstrous-duplicated-potent&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Sophie Lewis’s critique of Haraway and population politics: 
-&lt;a href=&quot;http://viewpointmag.com/2017/05/08/cthulhu-plays-no-role-for-me&quot;&gt;viewpointmag.com/2017/05/08/cthulhu-plays-no-role-for-me&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://viewpointmag.com/2017/05/08/cthulhu-plays-no-role-for-me&quot;&gt;viewpointmag.com/2017/05/08/cthulhu-plays-no-role-for-me&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The Leap Manifesto: 
-&lt;a href=&quot;http://leapmanifesto.org/en/the-leap-manifesto&quot;&gt;leapmanifesto.org/en/the-leap-manifesto&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://leapmanifesto.org/en/the-leap-manifesto&quot;&gt;leapmanifesto.org/en/the-leap-manifesto&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The Xenofeminist Manifesto: 
-&lt;a href=&quot;http://laboriacuboniks.net&quot;&gt;laboriacuboniks.net&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://laboriacuboniks.net&quot;&gt;laboriacuboniks.net&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -5568,7 +5579,7 @@ Correct. This has been the effort since the start of the 20th century, you know,
 , “Our answer to lean-in feminism is kick-back feminism. We have no interest in breaking the glass ceiling while leaving the vast majority to clean up the shards. Far from celebrating women CEOs who occupy corner offices, we want to get rid of CEOs and corner offices.” Dan interviews Tithi Bhattacharya.&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso. Check out their huge selection of left-wing titles at 
-&lt;a href=&quot;http://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
 &lt;a href=&quot;patreon.com/TheDig&quot;&gt;patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
@@ -7357,12 +7368,12 @@ You’re very welcome. It’s been a really interesting conversation, and I than
 &lt;p&gt;Legendary critical theorist Nancy Fraser argues that a total analysis of capitalism requires taking Marxism beyond a narrowly economistic view. Throughout its history, capitalism has been defined not just by labor exploitation but also by the disavowal of that exploitation’s own basic conditions of possibility: the things that the daily business of labor exploitation and surplus value appropriation require from politics, care work, war-making, mining, patriarchy, racism and more.&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso Books, which has loads of great left-wing titles at 
-&lt;a href=&quot;http://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;. And thanks to University of California Press. Check out 
+&lt;a href=&quot;https://www.versobooks.com&quot;&gt;www.versobooks.com&lt;/a&gt;. And thanks to University of California Press. Check out 
 Uberland: How Algorithms Are Rewriting the Rules of Work by Alex Rosenblat 
-&lt;a href=&quot;http://ucpress.edu/book/9780520298576/uberland&quot;&gt;ucpress.edu/book/9780520298576/uberland&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://ucpress.edu/book/9780520298576/uberland&quot;&gt;ucpress.edu/book/9780520298576/uberland&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Please support this podcast with your money at 
-&lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -7978,13 +7989,13 @@ The Battle for Paradise: Puerto Rico Takes On the Disaster Capitalists is all ab
 &lt;p&gt;Production note: Dan sounds like he’s speaking in an aquarium or calling into his own show because he fucked up the recording. So don’t blame Alex Lewis.&lt;/p&gt;
 
 &lt;p&gt;Thanks to Verso. Check out Street Fighting Years: An Autobiography of the Sixties by Tariq Ali 
-&lt;a href=&quot;http://versobooks.com/books/2666-street-fighting-years&quot;&gt;versobooks.com/books/2666-
+&lt;a href=&quot;https://versobooks.com/books/2666-street-fighting-years&quot;&gt;versobooks.com/books/2666-
 street-fighting-years&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Also, register for the upcoming Socialism 2018 conference at SocialismConference.org&lt;/p&gt;
 
 &lt;p&gt;And support this podcast with $ and get access to our stellar weekly newsletter at 
-&lt;a href=&quot;http://patreon.com/TheDig&quot;&gt;patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://patreon.com/TheDig&quot;&gt;patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -8592,7 +8603,7 @@ Racecraft: The Soul of Inequality in American Life. In an interview that aired o
    <link href="http://localhost:4000/podcast/the-destruction-of-black-wealth-with-ryan-cooper"/>
    <updated>2017-12-08T00:00:00-05:00</updated>
    <id>http://localhost:4000/podcast/the-destruction-of-black-wealth-with-ryan-cooper</id>
-   <content type="html">&lt;p&gt;Journalist @ryanlcooper talks about the new paper he wrote with @MattBruenig, founder of the @PplPolicyProj, a new left-wing think tank founded by Bruenig and funded by the people. Foreclosed: Destruction of Black Wealth During the Obama Presidency details how the Wall Street-induced foreclosure epidemic wiped out huge swaths of black wealth—and how Obama, the first black president, could have taken multiple actions to save most homes but did not. Check out the report http://peoplespolicyproject.org/wp-content/uploads/2017/12/Foreclosed.pdf and this article about it jacobinmag.com/2017/12/obama-foreclosure-crisis-wealth-inequality. Thanks to our supporters at Verso Books. Check out Radical Happiness: Moments of Collective Joy by Lynne Segal versobooks.com/books/2576-radical-happiness Support The Dig at Patreon.com/TheDig&lt;/p&gt;
+   <content type="html">&lt;p&gt;Journalist @ryanlcooper talks about the new paper he wrote with @MattBruenig, founder of the @PplPolicyProj, a new left-wing think tank founded by Bruenig and funded by the people. Foreclosed: Destruction of Black Wealth During the Obama Presidency details how the Wall Street-induced foreclosure epidemic wiped out huge swaths of black wealth—and how Obama, the first black president, could have taken multiple actions to save most homes but did not. Check out the report https://peoplespolicyproject.org/wp-content/uploads/2017/12/Foreclosed.pdf and this article about it jacobinmag.com/2017/12/obama-foreclosure-crisis-wealth-inequality. Thanks to our supporters at Verso Books. Check out Radical Happiness: Moments of Collective Joy by Lynne Segal versobooks.com/books/2576-radical-happiness Support The Dig at Patreon.com/TheDig&lt;/p&gt;
 </content>
  </entry>
  
@@ -8814,7 +8825,7 @@ books/2535-alt-america Support us with your $$ at patreon.com/thedig&lt;/p&gt;
    <id>http://localhost:4000/podcast/nina-turner-lets-keep-the-political-revolution-in-motion</id>
    <content type="html">&lt;p&gt;Former Ohio State Senator Nina Turner talks about being horrified by Trump, why single-payer is suddenly hot among likely 2020 Democratic contenders, and the work that Our Revolution is doing nationwide to fight the Democratic Party’s neoliberal leadership. Thanks to our supporters at Verso Books, who just published 
 &lt;a href=&quot;https://www.versobooks.com/books/2571-out-of-the-wreckage&quot;&gt;Out of the Wreckage: A New Politics for an Age of Crisis&lt;/a&gt; by George Monbiot. Also, catch me in Atlanta at the International Drug Policy Reform 
-&lt;a href=&quot;http://eformconference.org/&quot;&gt;conference&lt;/a&gt; on O
+&lt;a href=&quot;https://eformconference.org/&quot;&gt;conference&lt;/a&gt; on O
 ctober 14.&lt;/p&gt;
 </content>
  </entry>
@@ -8827,7 +8838,7 @@ ctober 14.&lt;/p&gt;
    <content type="html">&lt;p&gt;Prevailing debate obscures the fact that we already have a form of gun control in the United States. As legal scholar Ben Levin explains, the problem is that it’s a form of gun control that is mostly about locking up poor black men in huge numbers. The Left should demand a society without readily available weapons of war on the streets and a society without mass incarceration. Thanks to our supporters at University of California Press. Check out their new title 
 &lt;a href=&quot;https://www.ucpress.edu/book.php?isbn=9780520296251&quot;&gt;Race and America’s Long War&lt;/a&gt; from Nikhil Pal Singh. And check out Dan’s Jacobin article on carceral gun control 
 &lt;a href=&quot;https://www.jacobinmag.com/2016/09/gun-control-mass-incarceration-drug-war-nra-shooters&quot;&gt;here&lt;/a&gt;. Also, catch Dan in Atlanta at the International Drug Policy Reform 
-&lt;a href=&quot;http://eformconference.org/&quot;&gt;conference&lt;/a&gt; on 
+&lt;a href=&quot;https://eformconference.org/&quot;&gt;conference&lt;/a&gt; on 
 October 14.&lt;/p&gt;
 </content>
  </entry>
@@ -8837,7 +8848,7 @@ October 14.&lt;/p&gt;
    <link href="http://localhost:4000/podcast/bonus-episode-larry-krasners-full-interview"/>
    <updated>2017-10-04T00:00:00-04:00</updated>
    <id>http://localhost:4000/podcast/bonus-episode-larry-krasners-full-interview</id>
-   <content type="html">&lt;p&gt;Here’s Dan’s full interview with civil rights attorney and Democratic nominee for Philadelphia District Attorney Larry Krasner. You heard some of it yesterdayon the first in a four-part series on mass incarceration that we are co-producing with Cited, a podcast out of the University of British Columbia. Sponsorship from Harvard Law’s Fair Punishment Project (sign up for their newsletter:&lt;a href=&quot;http://eepurl.com/cZMccH&quot;&gt;http://eepurl.com/
+   <content type="html">&lt;p&gt;Here’s Dan’s full interview with civil rights attorney and Democratic nominee for Philadelphia District Attorney Larry Krasner. You heard some of it yesterdayon the first in a four-part series on mass incarceration that we are co-producing with Cited, a podcast out of the University of British Columbia. Sponsorship from Harvard Law’s Fair Punishment Project (sign up for their newsletter:&lt;a href=&quot;https://eepurl.com/cZMccH&quot;&gt;https://eepurl.com/
 cZMccH&lt;/a&gt;) and The University of Washington Center for Human Rights.&lt;/p&gt;
 </content>
  </entry>
@@ -8850,7 +8861,7 @@ cZMccH&lt;/a&gt;) and The University of Washington Center for Human Rights.&lt;/
    <content type="html">&lt;p&gt;In the late 1960s, criminologists like Todd Clear predicted America would soon start closing its prisons. They couldn’t have been more wrong. Interviews with Clear, formerly incarcerated poet and legal scholar Dwayne Betts, and civil rights attorney and Democratic nominee for Philadelphia District Attorney Larry Krasner.&lt;/p&gt;
 
 &lt;p&gt;Today’s show is the first in a four-part series on mass incarceration that we are co-producing with @citedpodcast, which is out of the University of British Columbia. Special guest hosts are Cited’s @Samadeus and scholar Katherine Beckett. Sponsorship from Harvard Law’s Fair Punishment Project (sign up for the FPP newsletter: 
-&lt;a href=&quot;http://eepurl.com/cZMccH&quot;&gt;http://eepurl.com/cZMccH&lt;/a&gt;) and The University of Washington Center for Human Rights.&lt;/p&gt;
+&lt;a href=&quot;https://eepurl.com/cZMccH&quot;&gt;https://eepurl.com/cZMccH&lt;/a&gt;) and The University of Washington Center for Human Rights.&lt;/p&gt;
 </content>
  </entry>
  
@@ -8874,7 +8885,7 @@ cZMccH&lt;/a&gt;) and The University of Washington Center for Human Rights.&lt;/
    <content type="html">&lt;p&gt;Islamophobia is conventionally regarded as racist and bigoted views about Muslims expressed by ignorant individuals, including the one who somehow became president. But legal and critical race scholar 
 &lt;a href=&quot;https://twitter.com/KhaledBeydoun&quot;&gt;@KhaledBeydoun&lt;/a&gt; explains that the reality is more complicated. The War on Terror perpetrated state-backed Islamophobia, which nurtured and bolstered popular anti-Muslim bigotry. Support us at 
 &lt;a href=&quot;Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;. Check o
-ut Beydoun’s article&lt;a href=&quot;http://columbialawreview.org/content/islamophobia-toward-a-legal-definition-and-framework/&quot;&gt;http://columbialawreview.org/content/islamophobia-toward-a-legal-definition-and-framework/&lt;/a&gt;&lt;/p&gt;
+ut Beydoun’s article&lt;a href=&quot;https://columbialawreview.org/content/islamophobia-toward-a-legal-definition-and-framework/&quot;&gt;https://columbialawreview.org/content/islamophobia-toward-a-legal-definition-and-framework/&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -8965,7 +8976,7 @@ book.php?isbn=9780520281912&lt;/a&gt;”&lt;/p&gt;
 &lt;p&gt;Read the full transcript from Jacobin 
 &lt;a href=&quot;https://jacobinmag.com/2017/09/hurricane-harvey-irma-global-warming-the-dig&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Thanks to our supporters at UNC Press and check out Knocking on Labor’s Door https://www.uncpress.org/book/9781469632070/knocking-on-labors-door/ Also, support us at http://Patreon.com/TheDig and help Houston out at http://homelesshouston.org/take-action/donate&lt;/p&gt;
+&lt;p&gt;Thanks to our supporters at UNC Press and check out Knocking on Labor’s Door https://www.uncpress.org/book/9781469632070/knocking-on-labors-door/ Also, support us at https://Patreon.com/TheDig and help Houston out at https://homelesshouston.org/take-action/donate&lt;/p&gt;
 </content>
  </entry>
  
@@ -8979,7 +8990,7 @@ book.php?isbn=9780520281912&lt;/a&gt;”&lt;/p&gt;
 &lt;p&gt;Read the full transcript from Jacobin 
 &lt;a href=&quot;https://jacobinmag.com/2017/09/hurricane-harvey-irma-global-warming-the-dig&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Thanks to our supporters at UNC Press and check out Knocking on Labor’s Door https://www.uncpress.org/book/9781469632070/knocking-on-labors-door/ Also, support us at http://Patreon.com/TheDig and help Houston out at http://homelesshouston.org/take-action/donate&lt;/p&gt;
+&lt;p&gt;Thanks to our supporters at UNC Press and check out Knocking on Labor’s Door https://www.uncpress.org/book/9781469632070/knocking-on-labors-door/ Also, support us at https://Patreon.com/TheDig and help Houston out at https://homelesshouston.org/take-action/donate&lt;/p&gt;
 </content>
  </entry>
  
@@ -8997,7 +9008,7 @@ book.php?isbn=9780520281912&lt;/a&gt;”&lt;/p&gt;
    <link href="http://localhost:4000/podcast/adrian-chen-factcheck-org-wont-save-america"/>
    <updated>2017-08-29T00:00:00-04:00</updated>
    <id>http://localhost:4000/podcast/adrian-chen-factcheck-org-wont-save-america</id>
-   <content type="html">&lt;p&gt;Is the internet good or bad? The debate is more often than not a proxy for one about politics more generally and populism in particular. But the real issue with the internet is this: unaccountable businesses wield oligopoly power over the digital public sphere. Support us with some cash https://www.patreon.com/thedig And check out Adrian’s article http://www.newyorker.com/magazine/2017/09/04/the-fake-news-fallacy&lt;/p&gt;
+   <content type="html">&lt;p&gt;Is the internet good or bad? The debate is more often than not a proxy for one about politics more generally and populism in particular. But the real issue with the internet is this: unaccountable businesses wield oligopoly power over the digital public sphere. Support us with some cash https://www.patreon.com/thedig And check out Adrian’s article https://www.newyorker.com/magazine/2017/09/04/the-fake-news-fallacy&lt;/p&gt;
 </content>
  </entry>
  
@@ -9006,7 +9017,7 @@ book.php?isbn=9780520281912&lt;/a&gt;”&lt;/p&gt;
    <link href="http://localhost:4000/podcast/alex-pareene-trumps-happy-place-is-racism"/>
    <updated>2017-08-25T00:00:00-04:00</updated>
    <id>http://localhost:4000/podcast/alex-pareene-trumps-happy-place-is-racism</id>
-   <content type="html">&lt;p&gt;Dan talks to Splinter Politics Editor Alex Pareene about his recent piece “Charlottesville Was a Preview of the Future of the Republican Party” and about why Phoenix is Trump’s happy place. This second weekly episode costs time and money. We can only keep it up if you contribute at patreon.com/thedig Check out Pareene’s article and podcast http://splinternews.com/charlottesville-was-a-preview-of-the-future-of-the-repu-1797988745 http://tarfureport.libsyn.com/&lt;/p&gt;
+   <content type="html">&lt;p&gt;Dan talks to Splinter Politics Editor Alex Pareene about his recent piece “Charlottesville Was a Preview of the Future of the Republican Party” and about why Phoenix is Trump’s happy place. This second weekly episode costs time and money. We can only keep it up if you contribute at patreon.com/thedig Check out Pareene’s article and podcast https://splinternews.com/charlottesville-was-a-preview-of-the-future-of-the-repu-1797988745 https://tarfureport.libsyn.com/&lt;/p&gt;
 </content>
  </entry>
  
@@ -9033,7 +9044,7 @@ book.php?isbn=9780520281912&lt;/a&gt;”&lt;/p&gt;
    <link href="http://localhost:4000/podcast/forrest-hylton-whats-next-for-the-colombian-left"/>
    <updated>2017-08-15T00:00:00-04:00</updated>
    <id>http://localhost:4000/podcast/forrest-hylton-whats-next-for-the-colombian-left</id>
-   <content type="html">&lt;p&gt;The FARC peace accord is a historic victory for Colombian society. But the struggle to build an urban left strong enough to take on the country’s powerful right remains a daunting one. Today’s guest is Forrest Hylton, the author of Evil Hour in Colombia. Check out a great article from Forrest here https://www.academia.edu/26907051/The_Experience_of_Defeat_The_Colombian_Left_and_the_Cold_War_that_Never_Ended And also Forgotten Peace: Reform, Violence, and the Making of Contemporary Colombia from our supporters at University of California Press http://www.ucpress.edu/book.php?isbn=9780520293939&lt;/p&gt;
+   <content type="html">&lt;p&gt;The FARC peace accord is a historic victory for Colombian society. But the struggle to build an urban left strong enough to take on the country’s powerful right remains a daunting one. Today’s guest is Forrest Hylton, the author of Evil Hour in Colombia. Check out a great article from Forrest here https://www.academia.edu/26907051/The_Experience_of_Defeat_The_Colombian_Left_and_the_Cold_War_that_Never_Ended And also Forgotten Peace: Reform, Violence, and the Making of Contemporary Colombia from our supporters at University of California Press https://www.ucpress.edu/book.php?isbn=9780520293939&lt;/p&gt;
 </content>
  </entry>
  
@@ -9143,7 +9154,7 @@ book.php?isbn=9780520281912&lt;/a&gt;”&lt;/p&gt;
    <link href="http://localhost:4000/podcast/peter-andreas-trumps-wall-is-already-built"/>
    <updated>2017-05-31T00:00:00-04:00</updated>
    <id>http://localhost:4000/podcast/peter-andreas-trumps-wall-is-already-built</id>
-   <content type="html">&lt;p&gt;Donald Trump won the presidency in significant part by pledging to do something that his predecessors had already mostly accomplished: building a big, beautiful wall on the border with Mexico. For liberals and centrists, the wall now shares a toxic association with Trump. But until recently, militarizing the border with Mexico was accepted as a core piece of the commonsense, bipartisan establishment immigration and drug policy agenda. Today, my guest is Peter Andreas, a professor at the Watson Institute for International and Public Affairs at Brown and the author of seminal book Border Games: Policing the US-Mexico Divide. Thanks to our supporters at University of California Press: http://www.ucpress.edu/&lt;/p&gt;
+   <content type="html">&lt;p&gt;Donald Trump won the presidency in significant part by pledging to do something that his predecessors had already mostly accomplished: building a big, beautiful wall on the border with Mexico. For liberals and centrists, the wall now shares a toxic association with Trump. But until recently, militarizing the border with Mexico was accepted as a core piece of the commonsense, bipartisan establishment immigration and drug policy agenda. Today, my guest is Peter Andreas, a professor at the Watson Institute for International and Public Affairs at Brown and the author of seminal book Border Games: Policing the US-Mexico Divide. Thanks to our supporters at University of California Press: https://www.ucpress.edu/&lt;/p&gt;
 </content>
  </entry>
  

@@ -7,9 +7,13 @@
   </button> -->
 <div id="sidebar2" class="sidebar">
   <div style="text-align:center" id="search-demo-container">
-        
     <i id="searchicon2" class="fa-solid fa-magnifying-glass" style="position: sticky;left: 24px;top: 7px;font-size: 13px; color: #515151; "></i><input class="searchbar" type="search" id="search-input" placeholder="Search..." style="background: #27262E;border: solid #515151;padding-left: 25px; color: #515151; font-family:'Scala'">
     <ul style="position:absolute; padding-left:0.5rem; padding-bottom: 2rem; font-size:0.9rem; width:85%; text-align:left; " id="results-container"></ul>
+    <!-- <form action="./search.html" method="get">
+      <label for="search-box">Search</label>
+      <input type="text" id="search-box" name="query">
+      <input type="submit" value="search">
+    </form> -->
   </div>
   <div id="sidebar" class="container sidebar-sticky">
     <div class="sidebar-about" >
@@ -92,7 +96,7 @@
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         sidebar: document.getElementById('sidebar'),
-        json: 'https://www.thedigradio.com/json/index.php?f=search',
+        json: './public/search.json',
         searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
         limit: 10,
