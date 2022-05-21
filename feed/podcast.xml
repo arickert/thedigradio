@@ -13,7 +13,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
 <channel>
 	<title>The Dig</title>
-	<atom:link href="https://thedig.blubrry.net/feed/podcast/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thedigradio.com/feed/podcast" rel="self" type="application/rss+xml" />
 	<link>https://thedig.blubrry.net/podcast-episodes/</link>
 	<description>The Dig is a podcast from Jacobin magazine that discusses politics, criminal justice, immigration and class conflict with smart people. Please support us on Patreon: https://www.patreon.com/user?u=4839800</description>
 	<lastBuildDate>Sat, 21 May 2022 13:41:28 +0000</lastBuildDate>
