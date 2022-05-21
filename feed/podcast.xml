@@ -48,7 +48,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<rawvoice:frequency>Weekly</rawvoice:frequency>
 	<rawvoice:donate href="https://www.patreon.com/thedig"></rawvoice:donate>
 	<podcast:funding url="https://www.patreon.com/thedig"></podcast:funding>
-	<rawvoice:subscribe feed="https://thedig.blubrry.net/feed/podcast/" html="https://thedig.blubrry.net/subscribe-to-podcast/" itunes="https://podcasts.apple.com/us/podcast/the-dig/id1043245989" blubrry="https://www.blubrry.com/thedig/" stitcher="https://www.stitcher.com/podcast/daniel-denvir-2/the-dig-2" spotify="https://open.spotify.com/show/2noCXQGBJp76DR2qcxETPy"></rawvoice:subscribe>
+	<rawvoice:subscribe feed="https://thedigradio.com/feed/podcast" html="https://thedig.blubrry.net/subscribe-to-podcast/" itunes="https://podcasts.apple.com/us/podcast/the-dig/id1043245989" blubrry="https://www.blubrry.com/thedig/" stitcher="https://www.stitcher.com/podcast/daniel-denvir-2/the-dig-2" spotify="https://open.spotify.com/show/2noCXQGBJp76DR2qcxETPy"></rawvoice:subscribe>
 	<item>
 		<title>Center and Periphery w/ Margarita Fajardo</title>
 		<link>https://thedig.blubrry.net/podcast/center-and-periphery-w-margarita-fajardo/</link>
