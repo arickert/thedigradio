@@ -49,6 +49,7 @@ pages:
   Archive: '/archive/'
   Topics: '/topics/'
   Guests: '/guests/'
+  podcast: '/feed/podcast/'
 
 
 # Archives

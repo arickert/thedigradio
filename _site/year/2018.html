@@ -40,7 +40,7 @@
   </div>
   <!-- <button onClick="myFunction()"class="mobile-dropdown-toggle">
   </button> -->
-<div id="sidebar2" class="sidebar">
+<div id="sidebar2" style="z-index:1" class="sidebar">
   <div style="text-align:center" id="search-demo-container">
     <i id="searchicon2" class="fa-solid fa-magnifying-glass" style="position: sticky;left: 24px;top: 7px;font-size: 13px; color: #515151; "></i><input class="searchbar" type="search" id="search-input" placeholder="Search..." style="background: #27262E;border: solid #515151;padding-left: 25px; color: #515151; font-family:'Scala'">
     <ul style="position:absolute; padding-left:0.5rem; padding-bottom: 2rem; font-size:0.9rem; width:85%; text-align:left; " id="results-container"></ul>
@@ -1818,6 +1818,10 @@
           
         
       
+        
+          
+        
+      
 
       <a class="sidebar-nav-item" href="https://www.patreon.com/thedig">Contribute</a>
       <!-- <span class="sidebar-nav-item">Currently v3.0.0</span> -->
@@ -1840,7 +1844,7 @@
         <i class="fa-brands fa-android" style="color:#515151;"></i>
         <!-- <img width="10" height="10" src="http://localhost:4000/assets/apple-touch-icon-precomposed.png"> -->
       </a>
-      <a href="https://www.thedigradio.com/feed/podcast/">
+      <a href="https://thedig.blubrry.net/feed/podcast/">
         <i class="fa-solid fa-square-rss" style="color:#515151;"></i>
         <!-- <img width="10" height="10" src="http://localhost:4000/assets/rss-icon.png"> -->
       </a>
@@ -1870,7 +1874,7 @@
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         sidebar: document.getElementById('sidebar'),
-        json: './public/search.json',
+        json: '../public/search.json',
         searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
         limit: 10,
@@ -1895,6 +1899,10 @@
     <h2>Archive of posts from <span> '2018'</span></h2>
 </div>
 <div class="row listrecent">
+
+
+
+    
 
 
 

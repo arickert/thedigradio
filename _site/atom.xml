@@ -4,13 +4,24 @@
  <title>The Dig</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-05-19T16:18:51-04:00</updated>
+ <updated>2022-05-21T21:21:17-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Center and Periphery w/ Margarita Fajardo</title>
+   <link href="http://localhost:4000/podcast/center-and-periphery-w-margarita-fajardo/"/>
+   <updated>2022-05-21T00:00:00-04:00</updated>
+   <id>http://localhost:4000/podcast/center-and-periphery-w-margarita-fajardo</id>
+   <content type="html">&lt;p&gt;Historian Margarita Fajardo on her book The World That Latin America Created: The United Nations Economic Commission for Latin America in the Development Era. Fajardo discusses the Latin American economists at the Economic Commission for Latin America and the Caribbean (CEPAL) who conceptualized the division of the global economy between center and periphery, and how that later gave rise to dependency theory and world systems theory. Plus Cuban Revolution and the Alliance for Progress, Allende’s democratic road to socialism and right-wing coups in Chile and Brazil—and more.&lt;/p&gt;
+
+&lt;p&gt;Support The Dig at Patreon.com/TheDig&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>The Return of Labor Militancy</title>
