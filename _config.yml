@@ -13,6 +13,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 # Optimize Jekyll
 exclude:
