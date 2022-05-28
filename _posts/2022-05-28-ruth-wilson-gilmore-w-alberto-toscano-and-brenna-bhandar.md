@@ -4,7 +4,8 @@ title: "Ruth Wilson Gilmore w/ Alberto Toscano and Brenna Bhandar"
 permalink: podcast/ruth-wilson-gilmore-w-alberto-toscano-and-brenna-bhandar/
 audiolink: https://media.blubrry.com/thedig/b/content.blubrry.com/thedig/The_Dig-EP_358-Gilmore.mp3
 categories:
-tags: 
+tags:
+- Ruth Wilson Gilmore
 - Alberto Toscano
 - Brenna Bhandar
 ---
