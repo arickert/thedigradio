@@ -24,7 +24,7 @@ Ali’s essays illustrate how the Afghan people have borne the costs of imperial
 
 **Listen to**
 **The Dig****’s interview with Tariq Ali**
-[**here**](https://www.thedigradio.com/podcast/afghanistan-with-tariq-ali/)**.**
+[**here**](https://www.thedigradio.com/podcast/afghanistan-with-tariq-ali)**.**
 
 Further Reading
 
@@ -38,10 +38,10 @@ The end of America’s longest war occasioned numerous reflections, including re
 
 From 
 The Dig’s archives, check out 
-[Dan’s conversation with Adam Johnson and Eric Levitz](https://www.thedigradio.com/podcast/the-media-war-w-adam-johnson-and-eric-levitz/) on the media’s bloodthirsty offensive against the withdrawal of US troops from Afghanistan. For more on the War on Terror, listen to our interview with military historian 
-[Andrew Bacevich](https://www.thedigradio.com/podcast/andrew-bacevich-this-is-the-war-that-never-ends/) and the recent-three part interview with Spencer Ackerman 
-[here](https://www.thedigradio.com/podcast/war-on-terror-w-spencer-ackerman-part-1/), 
-[here](https://www.thedigradio.com/podcast/war-on-terror-w-spencer-ackerman-part-2/), and 
-[here](https://www.thedigradio.com/podcast/war-on-terror-w-spencer-ackerman-part-3/).
+[Dan’s conversation with Adam Johnson and Eric Levitz](https://www.thedigradio.com/podcast/the-media-war-w-adam-johnson-and-eric-levitz) on the media’s bloodthirsty offensive against the withdrawal of US troops from Afghanistan. For more on the War on Terror, listen to our interview with military historian 
+[Andrew Bacevich](https://www.thedigradio.com/podcast/andrew-bacevich-this-is-the-war-that-never-ends) and the recent-three part interview with Spencer Ackerman 
+[here](https://www.thedigradio.com/podcast/war-on-terror-w-spencer-ackerman-part-1), 
+[here](https://www.thedigradio.com/podcast/war-on-terror-w-spencer-ackerman-part-2), and 
+[here](https://www.thedigradio.com/podcast/war-on-terror-w-spencer-ackerman-part-3).
 
  
