@@ -28,9 +28,9 @@ The Dig.
 
 
 **Listen to part one of the War on Terror series**
-[**here**](https://www.thedigradio.com/podcast/war-on-terror-w-spencer-ackerman-part-1/)**, part two**
-[**here**](https://www.thedigradio.com/podcast/war-on-terror-w-spencer-ackerman-part-2/)**, and part three**
-[**here**](https://www.thedigradio.com/podcast/war-on-terror-w-spencer-ackerman-part-3/)
+[**here**](https://www.thedigradio.com/podcast/war-on-terror-w-spencer-ackerman-part-1)**, part two**
+[**here**](https://www.thedigradio.com/podcast/war-on-terror-w-spencer-ackerman-part-2)**, and part three**
+[**here**](https://www.thedigradio.com/podcast/war-on-terror-w-spencer-ackerman-part-3)
 
 
 We’re known for extended conversations on politics, but this 
