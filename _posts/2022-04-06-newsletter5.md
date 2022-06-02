@@ -21,7 +21,7 @@ The Dig,Srinivasan brings these questions to bear on contemporary debates about 
 
 **Listen to**
 **The Dig****’s interview with Amia Srinivasan**
-[**here**](https://www.thedigradio.com/podcast/the-right-to-sex-with-amia-srinivasan/)**.**
+[**here**](https://www.thedigradio.com/podcast/the-right-to-sex-with-amia-srinivasan)**.**
 
 The titular essay in 
 The Right to Sexcontroversially examines the claims of “incel” (involuntarily celibate) men to sexual entitlement. While Srinivasan insists that there is no right to sex, she takes seriously incels’ contention that sexual attraction is distributed unequally along hierarchies of race, class, and conventional attractiveness.
@@ -35,8 +35,8 @@ Srinivasan has examined some of the themes in this week’s episode in essays pu
 [New York Times](https://www.nytimes.com/2021/09/21/books/review-right-to-sex-amia-srinivasan.html),and the 
 [London Review of Books](https://www.lrb.co.uk/the-paper/v40/n06/amia-srinivasan/does-anyone-have-the-right-to-sex).For more left-feminist thought on 
 The Dig,check out 
-[Melinda Cooper](https://www.thedigradio.com/podcast/family-values-with-melinda-cooper-2/) on the convergence of neoliberalism with “family values” social conservatism, 
-[Sophie Lewis](https://www.thedigradio.com/podcast/abolish-the-family-with-sophie-lewis/) on the global system of racialized labor exploitation that undergirds both the commercial surrogacy industry and “natural” reproduction, and 
-[Nancy Fraser](https://www.thedigradio.com/podcast/beyond-economism-with-nancy-fraser/) on why our analysis of capitalism needs to extend beyond the realm of production to the homes, schools, and hospitals that enable its functioning. Harkening back to feminism’s Second Wave, check out Barbara Erenreich’s 
+[Melinda Cooper](https://www.thedigradio.com/podcast/family-values-with-melinda-cooper-2) on the convergence of neoliberalism with “family values” social conservatism, 
+[Sophie Lewis](https://www.thedigradio.com/podcast/abolish-the-family-with-sophie-lewis) on the global system of racialized labor exploitation that undergirds both the commercial surrogacy industry and “natural” reproduction, and 
+[Nancy Fraser](https://www.thedigradio.com/podcast/beyond-economism-with-nancy-fraser) on why our analysis of capitalism needs to extend beyond the realm of production to the homes, schools, and hospitals that enable its functioning. Harkening back to feminism’s Second Wave, check out Barbara Erenreich’s 
 [canonical 1976 essay on socialist feminism](https://www.jacobinmag.com/2018/07/socialist-feminism-barbara-ehrenreich), republished in 
 Jacobin with a new introduction.
