@@ -18,7 +18,7 @@ title: Antibody
 
 <section class="recent-posts">
 <div class="section-title mt-2">
-    <h6 style="color: #BEBBBB; font-weight:normal" >Antibody is a narrative series about how Covid-19 has changed everything and nothing at all. </h6>
+    <h6 style="color: #B2B2B2; font-weight:normal" >Antibody is a narrative series about how Covid-19 has changed everything and nothing at all. </h6>
 </div>
 <div class="row listrecent">
 

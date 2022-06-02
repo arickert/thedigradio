@@ -123,7 +123,7 @@ html {
 }
 
 a{
-  color: #96BBB1
+  color: #79AA9D
 }
 
 @media (min-width: 48em) {
@@ -152,7 +152,7 @@ a{
 
 /* Sidebar links */
 .sidebar a {
-  color: #BEBBBB;
+  color: #B2B2B2;
 }
 
 .category-head1{
@@ -193,7 +193,7 @@ a{
   margin-left:0.5rem;
 }
 .sidebar-nav-item {
-  color: #BEBBBB;
+  color: #B2B2B2;
   display: block;
   line-height: 1.75;
 }

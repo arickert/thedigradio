@@ -67,7 +67,7 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #96BBB1;
+  color: #79AA9D;
   text-decoration: none;
 }
 a strong {
@@ -92,7 +92,7 @@ h1 {
   line-height: 1.25;
   text-rendering: optimizeLegibility;
   font-size: 2rem;
-  color:  #96BBB1;
+  color:  #79AA9D;
 }
 h2 {
   margin-top: 1rem;
@@ -334,7 +334,7 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  color: #BEBBBB; 
+  color: #B2B2B2; 
   /* margin-bottom: 4em; */
 }
 
@@ -342,7 +342,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #96BBB1;
+  color: #79AA9D;
 }
 .page-title,
 .post-title {

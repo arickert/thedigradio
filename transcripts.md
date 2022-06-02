@@ -24,7 +24,7 @@ title: Transcript
     <li style="margin-bottom:0.5rem">
     {% assign newtitle = post.title | split: "ranscript: " %}
     {% for title in newtitle offset:1 limit:1 %}
-        <a style="color: #BEBBBB" href="{{post.url}}">{{title}}</a>
+        <a style="color: #B2B2B2" href="{{post.url}}">{{title}}</a>
     {% endfor %}
     </li>
 {% endif %}    
