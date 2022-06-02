@@ -183,6 +183,11 @@ a{
   margin-bottom:15px;
 }
 
+
+.searchbar::placeholder{
+  color:#BEBBBB;
+}
+
 .searchbar:focus{
     outline-width: 0;
 }

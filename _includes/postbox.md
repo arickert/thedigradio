@@ -18,7 +18,7 @@
                 <a class="text-dark" style="color: #79AA9D" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             </h3>
             {% unless post.title contains "Newsletter" %}
-            <small class="text-muted" style="color:#515151">{{ post.date | date_to_string }}</small>
+            <small class="text-muted" style="color:#BEBBBB">{{ post.date | date_to_string }}</small>
             {% endunless %}
             <br>
             <small class="card-text mt-2" style="color:#B2B2B2; font-weight:normal" >{{ post.excerpt | strip_html | truncatewords:35 }}</small>
