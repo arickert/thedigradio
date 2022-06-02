@@ -14,8 +14,8 @@
         </div>
         {% endif %}
         <div class="card-body">
-            <h3 class="card-title" style="margin-bottom:0 color: #82BFAE">
-                <a class="text-dark" style="color: #82BFAE" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            <h3 class="card-title" style="margin-bottom:0 color: #78C0A0">
+                <a class="text-dark" style="color: #78C0A0" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             </h3>
             {% unless post.title contains "Newsletter" %}
             <small class="text-muted" style="color:#BEBBBB">{{ post.date | date_to_string }}</small>
