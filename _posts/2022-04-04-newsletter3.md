@@ -37,7 +37,7 @@ Ministry for the Future imagines how a plausible “best-case scenario” under 
 
 **Listen to 
 The Dig’s interview with Kim Stanley Robinson**
-[**here**](https://www.thedigradio.com/podcast/near-futures-with-kim-stanley-robinson/)**.**
+[**here**](https://www.thedigradio.com/podcast/near-futures-with-kim-stanley-robinson)**.**
 
 This episode joins an extensive archive of 
 Diginterviews on 
