@@ -7,8 +7,8 @@ title: Home
   <ul>
   <div class="section-title mt-2">
     <li style="font-size:2rem">
-      <span style="color: #79AA9D;font-family: 'RoslynGothic';font-size: 5rem;">The <span>Dig</span></span>
-         <span style="color:#9a9a9a"> is Daniel Denvir's <a href="https://jacobinmag.com/" style="color:#79AA9D">Jacobin</a> podcast on politics, history, and economics everywhere.</span>
+      <span style="color: #96BBB1;font-family: 'RoslynGothic';font-size: 5rem;">The <span>Dig</span></span>
+         <span style="color:#BEBBBB"> is Daniel Denvir's <a href="https://jacobinmag.com/" style="color:#96BBB1">Jacobin</a> podcast on politics, history, and economics everywhere.</span>
       </li>
   </div>
   <div class="row listrecent">
@@ -16,9 +16,9 @@ title: Home
   {% for post in site.posts limit:1 %}
     {% if post.audiolink != null %}
       <li style="font-size:2rem">
-        <span style="color:#9a9a9a">Click </span>
-        <a href="{{post.permalink}}" style="color:#79AA9D">here</a>
-        <span style="color:#9a9a9a">to listen to the latest episode, featuring 
+        <span style="color:#BEBBBB">Click </span>
+        <a href="{{post.permalink}}" style="color:#96BBB1">here</a>
+        <span style="color:#BEBBBB">to listen to the latest episode, featuring 
         {% for tag in post.tags %}
             
           {% if forloop.last %}
@@ -34,9 +34,9 @@ title: Home
       {% for post2 in site.posts offset:1 limit:1 %}
         {% if post2.audiolink != null %}
         <li style="font-size:2rem">
-          <span style="color:#9a9a9a">Click </span>
-          <a href="{{post.permalink}}" style="color:#79AA9D">here</a>
-          <span style="color:#9a9a9a">to listen to the latest episode, featuring 
+          <span style="color:#BEBBBB">Click </span>
+          <a href="{{post.permalink}}" style="color:#96BBB1">here</a>
+          <span style="color:#BEBBBB">to listen to the latest episode, featuring 
           {% for tag in post2.tags %}
           {% if forloop.last %}
           {{tag}}.
@@ -50,9 +50,9 @@ title: Home
             {% for post3 in site.posts offset:2 limit:1 %}
               {% if post3.audiolink!= null %}
               <li style="font-size:2rem">
-                <span style="color:#9a9a9a">Click </span>
-                <a href="{{post.permalink}}" style="color:#79AA9D">here</a>
-                <span style="color:#9a9a9a">to listen to the latest episode, featuring 
+                <span style="color:#BEBBBB">Click </span>
+                <a href="{{post.permalink}}" style="color:#96BBB1">here</a>
+                <span style="color:#BEBBBB">to listen to the latest episode, featuring 
                 {% for tag in post3.tags %}
                 {% if forloop.last %}
                 {{tag}}.

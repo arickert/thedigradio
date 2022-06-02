@@ -22,7 +22,7 @@ title: Newsletter
 {% for post in site.posts %}
 {% if post.title contains page.title %}
     <li style="margin-bottom:0.5rem">
-    <a style="color: #9a9a9a" href="{{post.url}}">{{post.title}}</a>
+    <a style="color: #BEBBBB" href="{{post.url}}">{{post.title}}</a>
     </li>
 {% endif %}    
 
