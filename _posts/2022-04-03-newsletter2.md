@@ -33,7 +33,7 @@ Occupy offered critical lessons about how a political movement can build power w
 
 **Listen to 
 The Dig’s interview with Astra Taylor**
-[**here**](https://www.thedigradio.com/podcast/occupy-at-10-with-astra-taylor/)**.**
+[**here**](https://www.thedigradio.com/podcast/occupy-at-10-with-astra-taylor)**.**
 
 
 Further Reading
