@@ -42,7 +42,7 @@ The Dig’s interview with Kim Stanley Robinson**
 This episode joins an extensive archive of 
 Diginterviews on 
 [climate politics](https://www.thedigradio.com/tag/environment/). Check out our conversation with Thea Riofrancos and Daniel Aldana Cohen on 
-[why we need a Green New Deal and how realistic yet imaginative narratives might help us get there](https://www.thedigradio.com/podcast/planet-to-win-with-thea-riofrancos-and-daniel-aldana-cohen/), or our interview with Nick Estes on the 
+[why we need a Green New Deal and how realistic yet imaginative narratives might help us get there](https://www.thedigradio.com/podcast/planet-to-win-with-thea-riofrancos-and-daniel-aldana-cohen), or our interview with Nick Estes on the 
 [long history of indigenous resistance to settler-colonial ecological devastation](https://www.thedigradio.com/podcast/our-history-is-the-future-with-nick-estes/).For further reading on this episode’s themes, check out 
 Jacobin’s 
 [ongoing Green New Deal series](https://jacobinmag.com/series/green-new-deal), a debate in 
