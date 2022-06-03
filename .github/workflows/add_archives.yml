@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - "_posts/**"
+      - "_posts/"
 
 jobs:
   build:
@@ -19,7 +19,7 @@ jobs:
           archive_folder_path: "_archives"
 
       - name: setup git config
-        run: |
+      run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
 

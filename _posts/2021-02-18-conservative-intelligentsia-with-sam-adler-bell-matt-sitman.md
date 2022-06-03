@@ -18,7 +18,7 @@ Know Your Enemy, their really great podcast on the American Right, wherever you 
 [patreon.com/knowyourenemy](https://patreon.com/knowyourenemy)
 
 
-**Recommended reading and listening:**
+Recommended reading and listening:
 
 
 

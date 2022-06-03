@@ -42,21 +42,21 @@ Support The Dig at Patreon.com/TheDig
 
 To make an episode post, copy and paste this text and change it to reflect the new episode.
 
-**layout:** leave this field as "post"
+layout: leave this field as "post"
 
-**title:** any title can be given so long as there are quotes around it (these won't show on the page)
+title: any title can be given so long as there are quotes around it (these won't show on the page)
 
-**permalink:** This denotes the url of the episode that will appear on the website. Realistically, any permalink can be given, but it is nice to be consistent. Begin with "podcast/" for episodes and then copy and paste the end of the generated url from the blubrry url.
+permalink: This denotes the url of the episode that will appear on the website. Realistically, any permalink can be given, but it is nice to be consistent. Begin with "podcast/" for episodes and then copy and paste the end of the generated url from the blubrry url.
 
-**audiolink:** This is a path of the episode's audiofule. To get this url, go to the episode's page on the wordpress site and click download. A window should open with an audio player. Copy the url for this page and paste it into the audio link box.
+audiolink: This is a path of the episode's audiofule. To get this url, go to the episode's page on the wordpress site and click download. A window should open with an audio player. Copy the url for this page and paste it into the audio link box.
 
-**categories:** This is for the Topics metadata. Any number of categories can be added to an episode (or none!) provied each one is given an individual line and begins with "- "
+categories: This is for the Topics metadata. Any number of categories can be added to an episode (or none!) provied each one is given an individual line and begins with "- "
 
-**tags:** The same goes for tags, which is traditionally used for guests.
+tags: The same goes for tags, which is traditionally used for guests.
 
 
 
-**Transcript posts** will use the exact format, but leave the audiolink field blank, begin the url with transcripts/ instead of podcasts/, and add "Transcripts" to the tag list. It is also essential that the title begins with "Transcript:"
+Transcript posts will use the exact format, but leave the audiolink field blank, begin the url with transcripts/ instead of podcasts/, and add "Transcripts" to the tag list. It is also essential that the title begins with "Transcript:"
 
 
 Titling the markdown file is very important. Here is an example title:

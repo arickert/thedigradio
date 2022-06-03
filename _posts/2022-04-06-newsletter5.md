@@ -19,9 +19,9 @@ The Right to Sex: Feminism in the Twenty-First Centuryreaches back to the “sex
 In a wide-ranging conversation on 
 The Dig,Srinivasan brings these questions to bear on contemporary debates about sex on college campuses, pornography, and sex work. She argues, for instance, against critics who claim that teachers who enter consensual relationships with students don’t deserve our censure, while insisting that institutional responses do more to protect universities from liability than young people from abuse. She urges us to take seriously the power of pornography to shape not only sexual actions but also sexual affects and urges in harmful ways, even while recognizing the medium’s potential for inspiring radical modes of pleasure and sexual agency.
 
-**Listen to**
-**The Dig****’s interview with Amia Srinivasan**
-[**here**](https://www.thedigradio.com/podcast/the-right-to-sex-with-amia-srinivasan)**.**
+Listen to
+The Dig’s interview with Amia Srinivasan
+[here](https://www.thedigradio.com/podcast/the-right-to-sex-with-amia-srinivasan).
 
 The titular essay in 
 The Right to Sexcontroversially examines the claims of “incel” (involuntarily celibate) men to sexual entitlement. While Srinivasan insists that there is no right to sex, she takes seriously incels’ contention that sexual attraction is distributed unequally along hierarchies of race, class, and conventional attractiveness.

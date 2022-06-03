@@ -14,7 +14,7 @@ tags:
 The wars at home and abroad have always been connected. Dan interviews Nikhil Pal Singh on US attacks on Iran and the politics, history, and culture of American warmaking. 
 
 
-**Upcoming events:**
+Upcoming events:
 
 
 1/24 All-American Nativism Brooklyn book launch with Aziz Rana 
@@ -27,7 +27,7 @@ The wars at home and abroad have always been connected. Dan interviews Nikhil Pa
 [facebook.com/events/618607768707911/](https://facebook.com/events/618607768707911/)
 
 
-**Book tour (more to be announced soon!):**
+Book tour (more to be announced soon!):
 
 
 1/31 Providence 

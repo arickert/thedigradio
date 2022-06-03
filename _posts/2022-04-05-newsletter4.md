@@ -22,9 +22,9 @@ The Taliban’s rise was the unintended consequence of America’s Cold War fore
 
 Ali’s essays illustrate how the Afghan people have borne the costs of imperialistic hubris, Cold War rivalry, and America’s post-9/11 need for vengeance. Throughout, the reader is reminded of a basic point that eludes so many journalists and politicians: the crises facing Afghanistan today are the product of decades of policies which prioritized the political needs of U.S. elites over the safety, security, and independence of the Afghan people.
 
-**Listen to**
-**The Dig****’s interview with Tariq Ali**
-[**here**](https://www.thedigradio.com/podcast/afghanistan-with-tariq-ali)**.**
+Listen to
+The Dig’s interview with Tariq Ali
+[here](https://www.thedigradio.com/podcast/afghanistan-with-tariq-ali).
 
 Further Reading
 

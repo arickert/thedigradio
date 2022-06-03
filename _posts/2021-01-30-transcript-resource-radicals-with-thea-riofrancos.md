@@ -17,7 +17,7 @@ tags:
 [Listen to Episode](https://<a class="btn btn-theme-primary" href="https://www.thedigradio.com/podcast/resource-radicals-with-thea-riofrancos/">Listen to Episode</a>)
 
 
-**Daniel Denvir:**
+Daniel Denvir:
  
 It is no simple task for a poor country to escape its place in the world system. Global South countries like Ecuador, once known as Third World countries, have been consigned since colonial times to exporting primary commodities, from sugar and silver and bananas to oil and copper and low-wage manufactured goods, while capitalists in wealthy countries like the US control the most profitable top of the value chain. Not that First World capitalists share their spoils with First World workers—at least not since the neoliberal turn. Just as the capitalist system relies on a domestic order of class domination, within which capitalists exploit workers, it also fixes different countries in particular places in the global economic order. Ecuador, exporting goods like bananas and oil, is near the bottom. Those unequal domestic class and also racial orders are fundamentally linked to the unequal world system. Keeping that order in place is one reason that capitalism and imperialism go hand in hand.
 
@@ -37,11 +37,11 @@ And so the rights of Indigenous communities and nature came into conflict with e
 Thea Riofrancos is a professor of political science at Providence College and a Radcliffe Institute Fellow. She serves on DSA's Green New Deal campaign committee and is a co-author ofA Planet to Win: Why We Need a Green New Deal, and the author ofResource Radicals: From Petronationalism to Post-Extractivism in Ecuador. Thea is the Dig's senior advisor. 
 
 
-**DD:**
+DD:
 Why, in your mid-twenties in 2007, did you and I decide to move to Ecuador, and how did what we observed there help shape this book that you have written?
 
 
-**Thea Riofrancos:**
+Thea Riofrancos:
  In 2007, as you said, we decided to move to South America, and our choice of Ecuador was a bit arbitrary. It was eliminating countries that we had already spent a lot of time in, and we had a list of a few, and among them we chose Ecuador because it was a place where a left-wing government had just come to power in this broader moment that scholars call the Pink Tide, which was a sweep of left-wing governments across the continent. 
 
 
@@ -63,19 +63,19 @@ So we had this rise of the left to power after a long period of movement mobiliz
 The other thing that was quite interesting about Ecuador, in addition to the fact that conflict between movements and a left government started quite quickly after the left assumed power, was what the conflict was about. The conflict really hinged on the issues of resource extraction, socio-environmental contract around extraction, and indigenous territory sovereignty and self-determination. Those were the main points of conflict, not only between the state and movements, but also even within different factions of the state itself.
 
 
-**DD:**
+DD:
  And in terms of movements, Ecuador was and is home to the indigenous federation CONAIE, the most powerful indigenous movement in the Americas at certain moments and perhaps the most powerful social movement in Latin America at certain movements.
 
 
-**TR:**
+TR:
  Absolutely. Scholars have referred to the CONAIE at its moment of supreme strength in the 1990s especially as the most powerful movement in its mobilizing capacity and in its ability to topple multiple governments in Ecuador, as the most powerful movement in the hemisphere. It was a force to be contended with. By the time that Correa came to power, the movement had to some extent weakened, but was still an extremely important force, and re-emerged as an important articulator of popular protests under the Correa administration.
 
 
-**DD:**
+DD:
  You're right about this debate under Correa, who was president from 2007 through 2017—that it "emerged in a regional context characterized by two processes: the electoral success of leftist governments and a sustained commodity boom." Let's start with the context of the rise of left governments in the Pink Tide in Latin America. Ecuador is one of the Pink Tide countries that has received the least attention in the US. What do Pink Tide leaders mean by what they called "socialism for the 21st century"? And where did Correa's government fit into this broader set of leaders and governments that included Lula in Brazil, Chávez in Venezuela, Morales in Bolivia, Kirchner in Argentina, Vázquez in Uruguay? At the time at least, there was this conventional dichotomy drawn between good and bad, radical and moderate leftist governments in Latin America, but you argue that such categories don't really hold up upon closer inspection.
 
 
-**TR:**
+TR:
  To answer this question, I want to set the context a little bit more and pick up with some of the things I was saying previously—emphasizing to listeners less familiar with Latin American politics how world-historic (important for the whole planetary conjuncture) the coming-to-power of so many left-wing governments at once was. It's quite historically unusual. I think the only kind of parallel to make is the simultaneous rise of many social-democratic governments in Europe, but the rise of so many leftist governments in the Global South, in that context of empire, makes it additionally unique. Just to put it in perspective, in I think 2009 or 2010—what is the height of the Pink Tide—two-thirds of Latin Americans lived under left-of-center or more radically left-wing governments. 
 
 
@@ -88,11 +88,11 @@ Prior to the democratically-elected neoliberal governments, there were dictators
 But these categories are extremely unhelpful. First and foremost, they're not analytic categories; they're normative categories, and they're normative categories from a certain perspective, gazing on the Global South and saying, "What is the right and wrong path for governments in the Global South to take?" They immediately betray their normative positions, so I think they're suspect for that reason. Let's go to the figure of Correa in particular. Correa is classified as the ‘bad left,’ along with, generally, Morales and Chávez. Some of that is based on his rhetoric, which reproduces the tropes of Latin American leftism. It's anti-imperialist, it's about the state reasserting its power, it's about meeting social needs.
 
 
-**DD:**
+DD:
  And anti-imperialist being anti-US imperialism, in particular.
 
 
-**TR:**
+TR:
  Exactly. That is why scholars have classified him as ‘radical.’ But on the other hand, Correa, unlike Morales, and unlike Lula (who is characterized as ‘good left’) doesn't come from a social movement or labor background. He is a technocrat; he is an economist; he had previously served as a finance minister under another government. He is left wing; I am not doubting his left-wing credentials, although a lot of my book is about conflicts over how we define the left. But I think I would place him firmly on the left. He is a technocratic leftist with no history of social movement activity, and in no way is an organic intellectual leader like Morales was. 
 
 
@@ -102,11 +102,11 @@ Automatically, these categories break down, because it would actually be more us
 The last thing I'll say on this granular point—the other big reason that I really dislike these broad generic labels, to label entire countries as good or bad left—is that in Ecuador, there was a tremendous amount of contention, conflict, also at times collaboration between movement and state actors. To label the entire country under one moniker really effaces the fact that what the left's project was was up for debate. How to implement leftism in the context of the Global South under the thumb of empire was under debate. What tactics to use vis-à-vis a domestic ruling class that so recently had been politically hegemonic in the neoliberal period was up for question. And so these labels don't do justice to the more interesting thing, which is the internal tensions, dilemmas, and tradeoffs that marked the period of left rule.
 
 
-**DD:**
+DD:
  Your book is about this intra-left conflict over mining that was really a central political conflict throughout Correa's time in office. To what extent did these sorts of conflict over resource extraction emerge in other Pink Tide countries, and to the extent that they did not, why not? There are all of these different factors at play. Ecuador had a powerful indigenous movement, in contrast to, say, Venezuela, but Bolivia also had a massive indigenous movement. Environmental conflict was a feature, but I don't think a defining thing, of Morales's conflict with his base. Was Ecuador's experience exemplary or unique, or was it more of an omen, foreshadowing the kind of problems that any kind of left government to deal with ecological crisis will face?
 
 
-**TR:**
+TR:
  I think it's both exemplary and unique, but let me zoom out a bit and talk about the commodity boom for a moment. That was the other big process that you mentioned in your prior question. Two processes mark the political-economic conjuncture that I'm looking at in my book. On the one hand is the rise of the left to power, and all of the interesting questions and dilemmas that that posed, as I just discussed. That was a regional context. The other context is a global context. We can see that countries are nested in different political-economic scales. And the global context, economically, was marked by the commodity boom. That is an economic period, an economic cycle, that starts in roughly 2000 and ends in roughly 2014. It was driven primarily by China's rapid industrialization, but also by the industrialization of other so-called emerging economies: Brazil, Russia, India. 
 
 
@@ -122,19 +122,19 @@ But I think what sets Ecuador apart from Bolivia is a couple of things. There wa
 The last thing that sets Ecuador apart is its very strong indigenous movement with links to the environmentalist movement. We also have a new extractive sector, which makes extraction more contentious oftentimes; and in addition, Ecuador, more than Bolivia, is really tied to the boom-and-bust global cycle of the commodity boom, and tied to the Chinese economy. A lot of what Bolivia exports, primarily gas, is more regional in its economic ambit. As a result, China’s rapid industrialization phase coming to a close didn't as directly affect Bolivia's economic fortunes, and we can actually see that in that Bolivia's gas exports were less tied to this global boom and bust cycle, and the fact that the economic fortunes of Morales's government were much better than those of Correa's or Chávez's.
 
 
-**DD:**
+DD:
  And although Morales entered into a pretty major crisis and suffered a coup, MAS is now back in power as we speak.
 
 
-**TR:**
+TR:
  Absolutely. But that was a delayed response. Ultimately, Bolivia does feel the effects of global economic downturns, but it wasn't as immediately affected by the close of China's rapid industrialization period, as Ecuador was.
 
 
-**DD:**
+DD:
  This is a key paradox with the commodity boom. It operated within this pre-existing world system that marginalized countries like Ecuador, while at the same time, it created the fiscal basis for the Pink Tide's left rule. But it ultimately helped send the Pink Tide into crisis. Was it the main cause of the Pink Tide's crisis and decline, or were there other factors at play?
 
 
-**TR:**
+TR:
  There were other factors at play, but I think that you can't just ignore the fact of timing. Across the region, these various Pink Tide governments, starting in around 2014, really entered into serious political difficulties, and there were different reasons and conjunctures in each case. There were different balances of class and political power. There were different relationships to social movements and questions over how democratic the relationship between the state and movements was. 
 
 
@@ -153,11 +153,11 @@ And by the time the left came to power, Latin America had a different relationsh
 In many cases, they didn't nationalize extractive firms or expropriate them. But they did forcefully renegotiate contracts with oil companies, mining companies, soy companies, gas companies, and with a strong democratic mandate behind them, in order to increase the taxes and royalties that are paid to the state. So they basically made the gamble to stay in the global economy, and to renegotiate contracts so terms are better for the state and for the people.
 
 
-**DD:**
+DD:
  But the commodity boom will also allow left governments to boost social spending without radically confronting their domestic class system, something also lost in the radical rhetoric of Correa or Chávez, which meant that when the commodity boom went bust, the upper class was very much still there in a powerful economic position.
 
 
-**TR:**
+TR:
  The other reason that ‘resource rents,’ as they're called technically, are politically easy forms of financing social programs and public works is not just because the prices were high for the commodity, so a lot of money was coming in. They also avoided the question of deeper forms of class conflict, because if you have oil, mining, or gas money coming in, you can defer—punt into the future—the question of expropriating property of the wealthy. Or, less dramatically but equally challenging in Latin America, there's the question of taxing the rich more. 
 
 
@@ -167,11 +167,11 @@ It's amazing that Latin America has very low taxation rates; that is because the
 For anyone who hasn't witnessed them in Latin America, elite protests are very strange spectacles. They came out in force, and Correa withdrew it. He had implemented some other tax reform that was positive, but he didn't implement all the tax reforms that he wanted to. 
 
 
-**DD:**
+DD:
  Before we get into a lot more historical detail about Ecuador, what are the standard ways that this resource dependency we've been discussing in the context of the commodity boom is analyzed in social science? How does this complex case of Ecuador's intra-left struggle over extraction prove it to be insufficient?
 
 
-**TR:**
+TR:
  The standard way that scholars analyze resource extraction—the political economy of resource extraction—is through the lens of the resource curse, and related concepts like the rentier state or the petrostate. The resource curse idea is that resource dependency, the fiscal, economic dependency on the export of resources like oil, gas, or mining, results in two types of pathologies, one economic and the other political. The economic pathology is that there tends to be underinvestment in more ‘productive’ sectors of the economy; all of the investment flows to the resources sectors because they tend always to have a global market. 
 
 
@@ -184,11 +184,11 @@ Immediately, there are lots of problems with this, because there are lots of gov
 One way that I like to think about this particular problem—the fact that it doesn't attend to the specific positions of countries in the global system—is Timothy Mitchell's great line that all states are oil states. The resource curse states that the oil states are Saudi Arabia, Venezuela, Ecuador—countries that have large oil sectors and export them. But Mitchell is saying that the entire global economy runs on oil, and hopefully not for much longer. To say that just the countries that happen to have oil in their countries are the ‘oil states’ is a real misunderstanding of the way that oil and capitalism relate to one another.
 
 
-**DD:**
+DD:
  It's like the phrase ‘banana republic,’ which obscures which country is eating the bananas and which government is backing the banana-growers.
 
 
-**TR:**
+TR:
  Exactly. One issue is that it's methodologically nationalist. It takes countries as these national containers, and doesn't think about the relationships between them or their relationships to a global order. Now I'll get a bit more into the case of Ecuador to get the texture of why the resource curse is not a very useful way to think about what happened in Ecuador. 
 
 
@@ -201,19 +201,19 @@ This poorly describes what happened in Ecuador. I'm not at all saying that Corre
 You have the state paying a lot of lip service and policy reality to creating new participatory institutions for citizens to interact with the state. You have a constitution that dramatically expands collective rights, the rights that communities hold and that they can petition for. What you have is an efflorescence of practices and subjectivities on the terrain of democracy, and a fight over who is the, and how they enact their power. It's not at all a situation which somehow resource dependency unilaterally determines, going down the road to authoritarianism.
 
 
-**DD:**
+DD:
  Let's set some key historical context. Ecuador first became a petrostate under a military government in 1972, and that government saw oil as key to developing the country. What sort of military government was Ecuador's, and how did it fit into the third-world oil politics of that era? How was it that the military government "left an enduring ideological legacy of resource nationalism, which would later be reappropriated and radicalized by popular movements," as you write? That's normally not the legacy we think of with Latin American military governments.
 
 
-**TR:**
+TR:
  This period of dictatorship runs from the sixties to the late eighties and early nineties, depending on the specific contexts, but there were two decades that saw a lot of military governments across the region. Many of them are right-wing, and many of them come into power specifically as a counter-reaction to the growth of popular labor and popular movement power under prior governments that were more leftist or progressive, or more nationalist. They're specifically coming into power as reactionary forces. But not all military governments are the same, and at least in the cases I'm familiar with, which are Bolivia and Ecuador, there were military governments that came to power that were progressive in a sense, or at least had a nationalist developmentalist vision for the economy, and saw themselves as not primarily about repression—not to downplay the repression that those governments meted out, because they did—but more primarily about transitioning their countries up the ladder of economic development. This very much characterized the Rodríguez Lara government in Ecuador that came to power in 1972, and was in power until 1976. There was another military government right after that, and then in '79 you have democratization.
 
 
-The Rodríguez Lara government—this will be familiar to folks who are aware of the politics of oil in the 1970s—came to power, was bookended by these two major oil booms, these booms in oil prices that have their own reason and trajectory that I won't get into right now. The Ecuadorian government prior to Lara knew that there were oil reserves. They had recently been discovered in the late 1960s, and the military government came to power with the explicit aim of creating a petrostate in Ecuador, of creating a state that could oversee, assert its authority over the oil sector and attract and export that oil with the specific goal of national development. That was the ideology and the policy paradigm of the Rodríguez Lara government. They established a state-owned oil company that still exists today. They asserted much more state control over the territories where oil was found, and how the state related to foreign corporations. They also instituted some progressive and some unclassifiable reforms. In the progressive category, they instituted Ecuador's most major land reform, but they also instituted a policy called colonization, which was a policy to incentivize people from the highlands of Ecuador to move into the Amazon to help ‘develop’ the Amazon. That sets off lots of conflicts with indigenous communities. They also, as you mentioned, took a leading role in OPEC, in the early 1970s politics of OPEC. OPEC has become more dominated by Saudi Arabia since, but in the seventies, OPEC was a forum for the proliferation of left-ish or developmentalist resource-nationalist visions coming out of the Third World. It was the idea that the Third World had the right to manage or assert authority over its resources, and that it should aid the development of those countries, rather than the world-system or foreign capitalists. This was the rhetoric that the Rodríguez Lara government used. It was a piece of that broader moment that you discussed in your interview on the New International Economic Order, this moment of Third World solidarity and assertion of Third World political-economic power. OPEC, in a way, was one of the most successful artifacts of that moment because the New International Economic Order sought to create multiple such organizations related to different commodities that the Global South countries export. But oil was the one that got the most institutionalized.**DD:**
+The Rodríguez Lara government—this will be familiar to folks who are aware of the politics of oil in the 1970s—came to power, was bookended by these two major oil booms, these booms in oil prices that have their own reason and trajectory that I won't get into right now. The Ecuadorian government prior to Lara knew that there were oil reserves. They had recently been discovered in the late 1960s, and the military government came to power with the explicit aim of creating a petrostate in Ecuador, of creating a state that could oversee, assert its authority over the oil sector and attract and export that oil with the specific goal of national development. That was the ideology and the policy paradigm of the Rodríguez Lara government. They established a state-owned oil company that still exists today. They asserted much more state control over the territories where oil was found, and how the state related to foreign corporations. They also instituted some progressive and some unclassifiable reforms. In the progressive category, they instituted Ecuador's most major land reform, but they also instituted a policy called colonization, which was a policy to incentivize people from the highlands of Ecuador to move into the Amazon to help ‘develop’ the Amazon. That sets off lots of conflicts with indigenous communities. They also, as you mentioned, took a leading role in OPEC, in the early 1970s politics of OPEC. OPEC has become more dominated by Saudi Arabia since, but in the seventies, OPEC was a forum for the proliferation of left-ish or developmentalist resource-nationalist visions coming out of the Third World. It was the idea that the Third World had the right to manage or assert authority over its resources, and that it should aid the development of those countries, rather than the world-system or foreign capitalists. This was the rhetoric that the Rodríguez Lara government used. It was a piece of that broader moment that you discussed in your interview on the New International Economic Order, this moment of Third World solidarity and assertion of Third World political-economic power. OPEC, in a way, was one of the most successful artifacts of that moment because the New International Economic Order sought to create multiple such organizations related to different commodities that the Global South countries export. But oil was the one that got the most institutionalized.DD:
  What happened to Ecuador's oil politics under democratic and neoliberal governments that followed the military government? What role did neoliberalized resource politics play in provoking the rise of anti-neoliberal social movements like the CONAIE?
 
 
-**TR:**
+TR:
  You mentioned the resource nationalist ideology of the Rodríguez Lara government—this idea that the state should control its resources and use it for the benefit of the people. In addition to bequeathing an institutional legacy of a state-owned oil company, which outlives the military government, I'd also bequeath an ideological legacy of resource nationalism. It's important to note at this juncture, because it can get a little subtle, that the version of resource nationalism that the Rodríguez Lara government, as well as governments in Venezuela and throughout Latin America, tended to have was not anti-capitalist. It was anti-imperialist, though. It was against the power of the core states, the industrialized states, the former colonial powers. It was not anticapitalist per se. 
 
 
@@ -229,14 +229,14 @@ They radicalize it in the direction of anticapitalism. They make the connection 
 The emergence of this radical resource nationalism is partly an inheritance from the past, but it's also partly an innovation in resistance to a conjuncture of ruling-class elite forces that had aligned themselves behind neoliberalism.
 
 
-**DD:**
+DD:
  The history of Ecuador's indigenous movement is also key here in terms of understanding how the indigenous movement makes this turn, under Correa, from radical resource nationalism to anti-extractivism. You have highland or Andean indigenous organizing beginning all the way back in the 1930s, when rural peasant organizations allied with urban leftists to fight what was then the dominantsystem, which then ends in 1964 under the military government, which then lays the groundwork for the 1972 foundation of the highland indigenous federation Ecuarunari, which remains the largest indigenous federation in the country.
 
 
 But meanwhile, in the Amazon, there's a distinct but parallel process of indigenous organization that emerges, in your words, "in response to the dual threats of colonization and oil exploration among the Sarayaku, Shuar, and Achuar peoples." And that led to the creation of the first Amazon indigenous organization, the Organization of Indigenous Peoples of Pastaza, or OPIP, in 1978. And then, in 1980, the Amazon-wide federation CONFENIAE. How did these parallel but distinct processes of organization compare to each other, and how did their merger, creating CONAIE in 1986, create such a powerful and unified force? How did it weave together both this radical resource nationalism and, from the Amazon, this nascent anti-extractivism?
 
 
-**TR:**
+TR:
  It's a really interesting history of the parallel formation of two distinctly territorialized indigenous movements that come together, join forces to become, as discussed, the most powerful social movement in Ecuador and, at certain moments, in the hemisphere. In terms of the particularities of how the national indigenous movement came to formation in Ecuador, part of what made it so powerful was the way that class-based demands, relating to ownership, property, class relations and the means of production, and demands that center on ethnicity, language, and cultural self-determination, were at various moments interwoven. One maybe prevailed over the other, but the fact that we had both of these demands deeply embedded in the indigenous movement is an artifact of this parallel trajectory of the Amazonian and Andean movements, and an important part of its broader political power and eventual ability to articulate a broad popular bloc that went beyond self-identified indigenous communities to include neighborhood associations and labor unions, all sorts of popular movements that did not identify as indigenous.
 
 
@@ -252,19 +252,19 @@ In the mix of this were the peasant unions, communities starting to self-organiz
 In the Amazon, there was a very different trajectory, where the indigenous movement arose not out of conflicts in the agricultural sector out of land and labor, but more as a response to this dual threat. On the one hand, as I mentioned previously, state-led colonization of the Amazon, which was the state's attempt—first in the sixties, then in the seventies under the Rodríguez Lara dictatorship—to populate the Amazon more densely with highland people, some of whom wereand some of whom were highland indigenous people, to incentivize them to move with cheap land, credit, and loans.
 
 
-**DD:**
+DD:
  The process was called colonization.
 
 
-**TR:**
+TR:
  Exactly.
 
 
-**DD:**
+DD:
  And the people who settled there were called colonists.
 
 
-**TR:**
+TR:
  Yes. These were not upper-class people at all. The majority of them were working-class or lower middle-class, but they were seeking economic opportunity in the Amazon with state support. As they arrive in the Amazon, they encounter indigenous communities, nations, peoples that had been relatively autonomous. Their communities lived in large swaths of territory for hunting, fishing, ceremonial purposes, agriculture, and living. They had these territorialized, well-developed cultural systems that were now coming into direct conflict with a colonizing force. It wasn't the Spanish colonizing them, but it felt similar, and it was, as you said, called colonization.
 
 
@@ -280,11 +280,11 @@ Why is this national federation so powerful? Especially with the combination of 
 The mobilizing capacity became immediately clear. In just a few years after the national indigenous federation formed in 1986, there was the first nationwide indigenous uprising in 1990. In 1992, there was the next nationwide indigenous uprising; in '97 and '98, there were several more. One after the other, you see national uprisings that were able to mobilize across the country, both in situ and bringing people into the capital, in ways that European-descended elites had never seen before. 
 
 
-**DD:**
+DD:
  Though the indigenous movement is putting forward what you call this "key conceptual innovation," the idea of a plurinational polity, it's also, in the 1990s, at the lead of a "broad bloc of the oppressed." You write, "At this juncture, CONAIE's political project was at once indigenista and popular-democratic. The federation claimed to speak on behalf of a broad bloc of the oppressed, conceived of in both democratic (the people) and class (the poor) terms, and defined against a class of political-economic elites, the oligarchy. The identity articulation was not purely aspirational. It reflected on-the-ground alliances between indigenous and non-indigenous groups." You've already touched on this a bit, but what was it about the politics of the neoliberal nineties that allowed the CONAIE to emerge as such a force, not only on behalf of indigenous people but also on behalf of the oppressed majority of Ecuador?
 
 
-**TR:**
+TR:
  From the very beginning, that first indigenous uprising in 1990 put key demands on the table that were both ethnic and class-based in character. That is important because the class versions of those demands had a possibility of articulating with other groups, groups that also experienced the same forms of class oppression, though not the ethnic forms of discrimination and marginalization, as indigenous nations and peoples did. 
 
 
@@ -300,19 +300,19 @@ The CONAIE entered into a direct relationship with these other movements, and th
 This alliance represented the idea that the oppressed have multiple forms of oppression, but that what they share in common is being excluded from the political system and from the economic system. They have in common their exploitation and their marginalization, although it may take different forms, depending on their social location. They can ally around that, and what is interesting and unique about Ecuador is the way that the indigenous movement identified multiple oppressions and articulated its own internal intersectionality. That was key to its ability to connect to a broad array of other popular movements. The point of intersectionality is not to isolate in discrete corners of identities, but rather to identify the conditions and possibilities of solidarity. That is what the CONAIE did so successfully over so many years.
 
 
-**DD:**
+DD:
  And the Ecuador experience is distinct from Bolivia's, because in Bolivia, you see mass indigenous movements emerging often in the form of militant labor movements.
 
 
-**TR:**
+TR:
  Right. In Bolivia, the history of the indigenous movement is a little more closely tied to that of various types of labor unions. Further back in history, you have a very militant mine workers' union. We know from US history how militant mining unions tend to be. They were Trotskyist, very in the thick of anti-imperialist and anticapitalist politics of the day. Later, these miners, who had been laid off when the state-owned mine company was privatized in 1985, went to the coca-growing region of Bolivia, and they replicated their militant, hierarchical, politically and economically effective union formation in the coca-growing sector. That is the precise sector and union formation that Morales emerged from. Bolivia has a fascinating history of miners carrying their collective memory of discipline, coordination, and anticapitalist unionism with them to other parts of the country and sectors of the economy once they were massively laid off by the formerly state-owned mining company.
 
 
-**DD:**
+DD:
  During this period prior to Correa, you write that there was "a nascent rejection of oil-led development that coexisted alongside calls to nationalize oil resources. The hegemony of neoliberal policies allowed for this provisional alignment of social movement organizations with such distinct political trajectories and positions on extraction." What role did resource politics play in this period of social movement organization led by the CONAIE prior to Correa's rise, and how was it that neoliberal hegemony allowed anti-extractivism and radical resource nationalism, which would later come into such conflict under Correa, to coexist productively?
 
 
-**TR:**
+TR:
  I've emphasized the role of the CONAIE's discourse, tactics, and organizational forms, but I also could have emphasized the role of neoliberalism in constituting a unified target of various grievances. Elites rallied together under the banner of free-market reforms, which was ironically helpful in unifying popular forces because there were so many different things wrong with neoliberalism. Obviously, it created poverty and unemployment; it destroyed labor unions; it led to environmental devastation due to the forms of deregulation; it allowed foreign capital to control large swaths of the economy. Many different social positions could find a problem with neoliberalism, and they did.
 
 
@@ -328,14 +328,14 @@ This conflict sets off because in this neoliberal moment with various forces pus
 More militant anti-oil activism emerged in the Amazon. It wasn't initiated as a critique of the entire extractive model of development. It was more articulated as the specific threat of oil to indigenous cultural and territorial integrity. The demand was not necessarily an end to all oil extraction, but instead that indigenous peoples had a voice and veto power over oil extraction. Interestingly, every so often, new demands emerged, like "Maybe we should have a moratorium on oil." These were the seeds of a more oppositional stance to extraction, in contradistinction to radical resource nationalism, which is more about the people owning and democratizing resource sectors, and removing them from the hands of capital. This stance focused on the idea of no extraction at all, and importantly, it was articulated not just against foreign companies, like resource nationalism, but also against the state, because it saw the state's role in opening up new frontiers to accumulation by oil-driven dispossession.
 
 
-**DD:**
+DD:
  The CONAIE played a key role in ousting President Bucaram in 1997 and Mahuad in 2000. But then they suffered a huge blow to their power, influence, and credibility after they backed Lucio Gutiérrez, who first as a colonel had backed the 2000 coup against Mahuad but, after he was elected president in 2003, embraced neoliberalism and became extremely unpopular. CONAIE was on the margins when this movement known as the forajidos ousted Gutiérrez. This was the movement that formed the basis of Correa's campaign. 
 
 
 You write, "Notably, neither CONAIE, which had hitherto been the main articulator of political discontent and coordinator of protest, nor existing leftist political organizations played a role in this particular rebellion." Nonetheless, Correa went on to "re-deploy the very critique of neoliberalism voiced by CONAIE and their popular-sector allies over the past decade and a half." What did it mean for the forajidos, rather than the CONAIE, to be the proximate push for Ecuador's entry into the Pink Tide? What did that mean in turn for the sort of party Alianza País was founded to be?
 
 
-**TR:**
+TR:
  It's a complex history, and a fast-moving one. Every couple of years, there's a turning-point. In the late 1990s, there were a few years of deep economic crisis in Ecuador. There was a hyper-inflation crisis; there was widespread immiseration due in part to neoliberal reforms, but also to economic mismanagement. CONAIE decides to support a coup attempt against the government in power that presided over this hyperinflation crisis, and that also presided over the dollarization of Ecuador, which was intended to end the hyperinflation crisis. Ecuador uses the US dollar.
 
 
@@ -369,11 +369,11 @@ The CONAIE had played a major role in politicizing the Constitution, meaning tha
 Correa responded to that demand, which had at that point, because of the CONAIE's organizing work, become a widespread popular demand. He set up elections to install a constituent assembly, popular and democratically elected, and they got to work in 2007 in rewriting the Constitution and coming up with what constitutional scholars agree is one of the most, if not the most, progressive constitutions in the world, in terms of the way that it makes clear that popular sovereignty and democracy is the foundation of the state. It sets out a whole array of new collective economic, political, and cultural rights, applied to collectivities and not just individuals, in a departure from liberal constitutionalism. It also departs from all constitutionalisms because it gives legal standing to nature, empowering human individuals and communities to go to court for nature when its rights are violated.
 
 
-**DD:**
+DD:
  Before we get deeper into Ecuador's constituent assembly, what role did constituent assemblies play in the Pink Tide in general? Three countries have them: Ecuador, Bolivia, and Venezuela. As we continue to see in Chile today, why is Latin America exercising this form of constituent power, deemed such a consistent priority for the left?
 
 
-**TR:**
+TR:
  I want to recommend the work of another scholar: Angélica Bernal has written beautifully on constituent politics in Latin America, and specifically on the Pink Tide moment of those constituent politics. Part of answering your question is getting outside the blinders of American exceptionalism, which affects our viewpoints, even on the left. In the US it seems so unusual and dramatic to rewrite the Constitution, given that we have been living under this document for hundreds of years. Even on the left, there are rarely calls—not recently, at least—to rewrite the Constitution, even as people are calling for the abolition of the Electoral College and the Senate.
 
 
@@ -386,14 +386,14 @@ As in Bolivia and Venezuela, they also saw the Constituent Assembly as an import
 More so than totally re-founding the state of Ecuador, which it did in certain ways, the Constitution gave legitimacy to a lot of movement claims, and it allowed them to portray themselves, particularly the indigenous movement, as the defenders of the Constitution. This is interesting when you think of the dynamics of conflict between the state and movements—that movements put themselves in the position of being the defenders of a popular constitution.
 
 
-**DD:**
+DD:
  Ecuador's Constituent Assembly "provided a venue for the articulation of two political projects: a nascent anti-extractivism and radical resource nationalism." The final text of the 2008 Constitution retains vestiges of both. It empowers communities affected by extraction, and it grants rights to nature. It also asserts the state's exclusive control over sub-soil resources and biodiversity itself. When the assembly was convened, resource extraction did not yet divide the left, but soon after it convened, it did. 
 
 
 How did this divide begin to emerge in the assemblies' debates, and how did those debates shape the divides and conflicts that would follow, particularly over what it meant to exercise democratic control over Correa's proposed creation of a large-scale mining sector?
 
 
-**TR:**
+TR:
  In contrast to some of the ways that other scholars studied these constituent moments — these moments of re-authorization, creating a new basis of political legitimacy — I think of these moments, particularly in the case of Ecuador, as opening rather than closing political questions. They create a new terrain, a new set of terms available, new sources of legitimacy that different actors can claim. It opens a new cycle of contention, rather than closing and settling a cycle of contention. This is very much the case in the Constituent Assembly in Ecuador, where these big questions were raised, and in large part because of the intellectual influence of the national indigenous movement.
 
 
@@ -409,30 +409,30 @@ But the majority of Alianza País supported what the president supported, and he
 That problem was extractivism. Several months after the Constituent Assembly closed and the Constitution was ratified, Correa pushed through a bill that became the new national mining law, setting the framework for the inauguration of large-scale mining in Ecuador. Just months after all of these rights had been won for nature, buen vivir, plurinationalism, and other things at the constituent assembly, the indigenous movement turns around and has to confront the threat of the massive expansion of extractive activity, and of a specific extractive sector that is extremely land-intensive, that would result in the dispossession of entire communities. 
 
 
-**DD:**
+DD:
  They did so by embracing the Constitution as their own, even after the CONAIE only critically supported the referendum approving the Constitution. 
 
 
-**TR:**
+TR:
  Yes, and I think this is a good moment to pause and return to the dilemmas, tensions, and tradeoffs of the left coming to power, and how movements responded. The CONAIE threaded this needle in various ways over time. Their initial response to having a left-wing government in power, one that did not come from indigenous movements or from any social movements, was critical support. That was how they responded to the election of Correa, and it was how they responded to the ratification of the Constitution. The Constitution didn't contain all of their demands.
 
 
 As soon as the Constitution is ratified, they dropped the critical part, because they realized very intelligently that the Constitution was an extremely powerful tool to defend their rights and territories against the encroachment of extractivism. So they put aside the fact that they didn't get everything they wanted—for example, the placement of the indigenous language, Quechua, at the same level of Spanish as a national language; it's designated slightly differently in the Constitution—and they didn't win prior consent. They didn't win everything they wanted.
 
 
-**DD:**
+DD:
  But they acted as though they had won prior consent.
 
 
-**TR:**
+TR:
  They acted like they won because they took the Constitution on as their own. They realized and knew how much the Constitution itself was the outcome of trajectories of popular struggle, and they were not going to let the government own the Constitution, even though it wasn't entirely made in the image of the indigenous movement. They claimed it as a tool of legitimacy; they claimed it as a set of symbolic and discursive resources, of a new legal language. They took it to the streets and to the territories, using it tactically to defend territories against extraction. In doing so, they gave life to the Constitution. It was not a dead document; it was living, and it was not just any type of living document. It lived through the contentious activity of grassroots movements. 
 
 
-**DD:**
+DD:
  Correa, of course, did not attempt to engineer a green exit from the world system, a system that confines countries like Ecuador to primary commodity goods and exports. Instead, he tried to take advantage of the commodity boom by expanding large-scale mining. But did Correa's environmentalist opponents and indigenous opponents have an idea for how such an exit—an Ecuador without extraction—might happen? In your opinion, is such an exit even possible at all? Can you have green socialism in one country within an oil-fueled, capitalist world system?
 
 
-**TR:**
+TR:
  The answer to that last question is no, and I don't mean that in a nihilistic, pessimistic sense, as though it's not worth it to fight for such things. Rather, in order for Ecuador to transition out of so-called extractivism, changes at the regional and global scale would need to occur, and I think it's important for the US left to think about this. Unfortunately, over the past few decades, the US left has lost its internationalism and its orientation to the international, and lost the idea that a lot of what we are struggling for is something we struggle for both domestically and internationally. 
 
 
@@ -445,14 +445,14 @@ But on the question of fiscal resources, especially under conditions of debt—C
 They had visions for an eco-economy, but they felt like it was important to take advantage of the commodity boom in order to store up the resources. The problem is that once you commit to expanding the extractive frontier, you get hooked into it. It's challenging, because of the nature of the boom-and-bust cycles. You can't control when the boom is going to end, and all of a sudden, you find yourselves without financial resources, as happened under Correa; austerity was imposed.
 
 
-**DD:**
+DD:
  Latin Americans, leftists and otherwise, have long embraced something called ‘dependency theory"’ to explain their country's place in the world-system. That was the intellectual analog to an economic development model called ‘import substitution industrialization,’ which, before the neoliberal turn, sought to move Third World countries up the value chain to break them out of this subordinate position within the world system. How was ISI displaced by neoliberalism decades ago, and why was it that the Pink Tide failed to revive that model, or something like it? 
 
 
 You write, "Fundamentally, if in the mid-century variant of developmentalism, the goal was rapid industrialization, which would progressively reduce the share of the economy occupied by extraction while climbing the ladder of economic sophistication, the neo-developmentalism of the Pink Tide made peace with service-sector dominated labor markets and prioritized extraction over manufacturing, coordinating to protect prices, enforce standards for revenue sharing, or jointly adopt labor and environmental regulations, have competed for investment. They thus betrayed promises of regional integration and mutually reinforced their peripheral status."
 
 
-**TR:**
+TR:
  The question as to why the Pink Tide didn't revive ISI or revive more developmentalist orientations that would have sought to industrialize is one that I've already answered in terms of neoliberalism having already undermined the state's capacity to do so. It had already so invited the foreign capital domination of those economies, and had already so integrated those economies into global markets. And there was a commodity boom, so the temptation to use those resource rents rather than to do long-term capital investments to create an industrial base conspired against the resuscitation of developmentalism in its classical sense. 
 
 
@@ -471,11 +471,11 @@ And the issue with ISI is twofold. First, throughout ISI, you still need to impo
 There are also difficult political relationships, because the agro-exporting elites tend to be more conservative; they're not in love with being in alliance with the industrialists, because that puts them in indirect alliance with workers' unions. There are all sorts of political dilemmas to the ISI coalition. There are external, internal, economic, and political reasons that ISI comes to a close, and the stage for neoliberal hegemony is then set.
 
 
-**DD:**
+DD:
  How do these more recent conflicts over whether to extract fit into a longer history that is so often for the neoliberal turn, including for the heyday of ISI, that made energy and extraction workers such a powerful and militant vanguard of organized labor? What does this reveal about the role played by energy or by extraction more generally in capitalism, or in any mode of production, and what accounts for oil workers and miners in the past finding themselves at the vanguard of such movements, while more recently, in your book, anti-extraction movements have found themselves boxed in and relatively marginalized, while extraction workers are relatively powerless?
 
 
-**TR:**
+TR:
  This is a really interesting question on the relationship between extraction and capitalism on the one hand, and on the other hand, extraction and militant forms of critique and resistance, both labor and indigenous. There is a long history in Marxism, throughout the twentieth century, of thinking about imperialism as a specific form of expansion of capital to territories not previously under its ambit, or not fully integrated into capitalism, and of the kinds of violence and political power that are implicated with economics at those frontiers or vanguard settings of the expansion of capital. Luxemburg's writing on this is great, but so is Harvey's analysis of accumulation of dispossession—that at these frontiers of capital's expansion, we get some of the most violent forms of capital, often with state assistance. 
 
 
@@ -506,25 +506,25 @@ The difficulty was not of their own making, but it was a difficulty. It limited 
 What does a transitional program look like? What does it look like to slowly dismantle the bad and to replace it with the good? This is something that leftists around the world have to think of, because you never arrive to power in circumstances of your own choosing. You arrive to power with constraints, with legacies, with forces that want to get you out of power. You have to figure out ways to get from Point A to Point B that involve gradation, transition, complex temporalities of policymaking.
 
 
-**DD:**
+DD:
  A core problem that we may have missed for anti-extractive social movements in Ecuador is that it was a relatively small number of people affected who lived near where the mining was going to happen, and a relatively large number of people in cities like Quito who were benefiting from increased social spending under Correa, which creates a real problem.
 
 
-**TR:**
+TR:
  Exactly. Thank you for bringing that up. A way to conceive of this is what I call the uneven territoriality of extraction, and it's uneven in its harms, meaning that certain communities are marginalized, affected, and contaminated by the harms of extraction, but it's also uneven in its benefits. Sometimes that takes the form of corporations getting all the profits, or the state getting the resources and not distributing them. But in this case it took a more politically complex form, where masses of Ecuadorians, including working-class and indigenous Ecuadorians, benefited materially from the increased social spending and industrial investments that resource rents funded. 
 
 
 They also were ideologically invested in this resource nationalist idea, which movements had promoted for years, that the state should use the resources to the benefit of the people. There was a supreme irony in anti-extractive movements coming up against their own successes — the successes of their prior radical resource nationalism, the success of their demands that resource rents be redistributed to the people. But in the face of those successes, anti-extractive movements radicalized around a new pole of conflict, which was the question of extraction itself. 
 
 
-**DD:**
+DD:
  You cite a few examples of environmental struggles, with which this broader coalition that the CONAIE and social movements had been unable to recreate under Correa did somewhat emerge. One was in the southern highlands city of Cuenca, Ecuador's third largest city, where a proposed mining project "would affect their shared water supply, which irrigates both dairy and vegetable farms, and slakes urban demand"—unifying campesinos and city dwellers. 
 
 
 Another example was the YASunídos campaign, which gathered signatures for a referendum to block oil drilling in the Amazon's Yasuní national park. This emerged after Correa's proposal to the international community to not drill in the Yasuní in exchange for $3.6 million in international donations to compensate for the ecological debt owed to Ecuador. This failed, and the international community did not pay up. What did these campaigns accomplish, and what does that signal about how central politics linking environmental and economic demands, urban workers and rural peasants, might operate at a larger scale?
 
 
-**TR:**
+TR:
  Scale is exactly the question here. The uneven territoriality of extraction enables the political power of directly affected communities. Those communities located at the immediate sites of extraction have political power that rests at the same place as the power that workers have at a factory. It is their leverage to disrupt the circuits of extraction at their source, just like when workers go on strike and disrupt the production and accumulation of capital at its source. 
 
 
@@ -543,11 +543,11 @@ You can see the different constituencies involved, the different types of argume
 But both cases had appeals to scales and territorially-defined constituencies that exceed the ‘directly affected community,’ or even expand the notion of who is directly affected by extraction.
 
 
-**DD:**
+DD:
  You also mention the 2019 mass revolt against Correa's successor and erstwhile ally, Lenín Moreno, over austerity measures that he imposed as part of a deal with the IMF, which included, critically, ending a fuel subsidy. As you note, "Crucially, this provisional alliance was not anti-extractivist in orientation. It was, if anything, radical resource nationalist." What does it mean that that frame continues to be such a better one for mass mobilization and creating left popular alliances at this scale that is necessary to win?
 
 
-**TR:**
+TR:
  Part of what it demonstrates is something I mentioned earlier, the way that neoliberalism can help provisionally unify different social forces and massify social protests in a way that is more challenging when the left is in power. Moreno was ostensibly a leftist; he was Correa's vice president, but he came to power through a total bait-and-switch. He started implementing neoliberal reforms; he had a deal with the IMF, and one of the provisions of this deal with the IMF was that he eliminate the fuel subsidy, a very common thing in petrostates where diesel and gasoline are subsidized for ordinary people.
 
 
@@ -563,7 +563,7 @@ I also think that they weren't fighting for fuel, for more oil extraction. They 
 You can coherently have a transitional program that moves toward a post-extractive model of development. I think that, in a way, the CONAIE rediscovered that possibility in the heat of popular protest.
 
 
-**DD:**
+DD:
  You end your book, as you put it, on a "note of generosity to the left in power and the left in resistance." We didn't have time to talk about this, but the conflict between Correa and the CONAIE was particularly vitriolic because each side saw the other as betraying the left, as comrades who had betrayed their comrades.
 
 
@@ -573,7 +573,7 @@ You write, "Dilemmas are not feelings. They are the challenging choices in situa
 To close out, what lessons can we learn from Ecuador about the politics of transitioning away from fossil fuels and extraction, given the setup of a very unequal world system and the fact that some form of minimal extraction, as you're currently researching with regard to lithium, will always be necessary? Why do you think it's important for us on the left to struggle over these sorts of questions as dilemmas, rather than presuming that our comrades on different sides of intra-left debates are enemies?
 
 
-**TR:**
+TR:
  There are a few different lessons. One is somewhat counterintuitive—the necessity of both the left in power and the left in resistance, the left in the streets. We can't have a left program that just focuses on taking state power or that just focuses on a position of resistance. We actually need both, and we need them at the same time. Coming to power as the left should not signal the end of the street mobilization, or the popular power period of mobilization. We should think about this before we come to power, ideally—that's not usually the case—to avoid the deep polarization and utter antagonism between these forms of leftism, which did occur in Ecuador.
 
 

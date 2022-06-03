@@ -64,7 +64,7 @@ TB:Right, exactly! This would be an effective way to change out the McDonald's d
 DD:And decommodify it all at the same time. 
 
 
-**TB:**
+TB:
 Correct. This has been the effort since the start of the 20th century, you know, the Bolsheviks being, Kollontai particularly, being an early advocate for this. But in a way, wages for housework is not the same thing, but it is still identifying in a way the same problem, that housework is the problem and we need to abolish it in some way. 
 
 

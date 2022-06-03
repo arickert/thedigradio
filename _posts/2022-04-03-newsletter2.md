@@ -31,9 +31,9 @@ As Occupy faded, hundreds of former occupiers from across the country joined or 
 Occupy offered critical lessons about how a political movement can build power without losing sight of its core principles. If, as Astra argues in this week’s interview, the Left of a decade ago was allergic to power and electoral politics, today’s Left has found the antidote in strong, well-organized institutions that are increasingly capable of holding its leaders accountable. These are essential questions that are still at the heart of left organizing today — and will only become more urgent as the post-Occupy left keeps growing.
 
 
-**Listen to 
-The Dig’s interview with Astra Taylor**
-[**here**](https://www.thedigradio.com/podcast/occupy-at-10-with-astra-taylor)**.**
+Listen to 
+The Dig’s interview with Astra Taylor
+[here](https://www.thedigradio.com/podcast/occupy-at-10-with-astra-taylor).
 
 
 Further Reading

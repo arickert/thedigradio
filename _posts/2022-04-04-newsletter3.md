@@ -35,9 +35,9 @@ Robinson’s broad-tent openness to a range of scientific possibilities to save 
 [“Climate Anxiety Novel”](https://www.thedriftmag.com/climate-anxiety/) — Robinson’s work stands out as compellingly original approaches to possible climate futures. His latest epic 
 Ministry for the Future imagines how a plausible “best-case scenario” under climate change future might come about, raising difficult questions of left ecological politics that he discusses with Cohen.
 
-**Listen to 
-The Dig’s interview with Kim Stanley Robinson**
-[**here**](https://www.thedigradio.com/podcast/near-futures-with-kim-stanley-robinson)**.**
+Listen to 
+The Dig’s interview with Kim Stanley Robinson
+[here](https://www.thedigradio.com/podcast/near-futures-with-kim-stanley-robinson).
 
 This episode joins an extensive archive of 
 Diginterviews on 
