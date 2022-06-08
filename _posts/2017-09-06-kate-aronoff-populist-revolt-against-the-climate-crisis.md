@@ -16,4 +16,4 @@ The devastation wreaked by Hurricane Harvey has made the denial of climate chang
 Read the full transcript from Jacobin 
 [here](https://jacobinmag.com/2017/09/hurricane-harvey-irma-global-warming-the-dig).
 
-Thanks to our supporters at UNC Press and check out Knocking on Labor’s Door https://www.uncpress.org/book/9781469632070/knocking-on-labors-door/ Also, support us at https://Patreon.com/TheDig and help Houston out at https://homelesshouston.org/take-action/donate
+Thanks to our supporters at UNC Press and check out [Knocking on Labor’s Door](https://www.uncpress.org/book/9781469632070/knocking-on-labors-door/). Also, support us at [https://Patreon.com/TheDig](https://Patreon.com/TheDig) and help Houston out at [https://homelesshouston.org/take-action/donate](https://homelesshouston.org/take-action/donate).

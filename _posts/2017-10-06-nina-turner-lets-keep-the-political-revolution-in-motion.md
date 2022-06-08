@@ -14,6 +14,4 @@ tags:
 ---
 
 Former Ohio State Senator Nina Turner talks about being horrified by Trump, why single-payer is suddenly hot among likely 2020 Democratic contenders, and the work that Our Revolution is doing nationwide to fight the Democratic Party's neoliberal leadership. Thanks to our supporters at Verso Books, who just published 
-[Out of the Wreckage: A New Politics for an Age of Crisis](https://www.versobooks.com/books/2571-out-of-the-wreckage) by George Monbiot. Also, catch me in Atlanta at the International Drug Policy Reform 
-[conference](https://eformconference.org/) on O
-ctober 14.
+[Out of the Wreckage: A New Politics for an Age of Crisis](https://www.versobooks.com/books/2571-out-of-the-wreckage) by George Monbiot. Also, catch me in Atlanta at the International Drug Policy Reform [conference](https://eformconference.org/) on October 14.

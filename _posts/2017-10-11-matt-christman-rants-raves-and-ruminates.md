@@ -10,4 +10,4 @@ tags:
 - Matt Christman
 ---
 
-Chapo went on The Dig. Dan talks to @cushbomb about optimism, pessimism, Manitowoc, reptilians, why the internet might be mostly bad, and Dan’s personal connection to the PizzaGate coverup. Toss us some cash love at Patreon.com/thedig and check out The End of Policing by Alex Vitale, from our sponsors at Verso Books. https://www.versobooks.com/books/2426-the-end-of-policing
+Chapo went on The Dig. Dan talks to @cushbomb about optimism, pessimism, Manitowoc, reptilians, why the internet might be mostly bad, and Dan’s personal connection to the PizzaGate coverup. Toss us some cash love at Patreon.com/thedig and check out [The End of Policing by Alex Vitale](https://www.versobooks.com/books/2426-the-end-of-policing), from our sponsors at Verso Books. 

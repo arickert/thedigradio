@@ -10,4 +10,4 @@ tags:
 - Sarah Jones
 ---
 
-New Republic writer Sarah Jones joins Dan to talk about Trump's invocation of the "alt-left" and  to explain the term's unseemly centrist history. And more. We're gonna try doing two episodes each week now: the regular long Dig on Tuesdays and a shorter, hotter-take Diglet on Fridays. This will take more time and more money. If you listen to and love the show please support us at https://www.patreon.com/thedig
+New Republic writer Sarah Jones joins Dan to talk about Trump's invocation of the "alt-left" and  to explain the term's unseemly centrist history. And more. We're gonna try doing two episodes each week now: the regular long Dig on Tuesdays and a shorter, hotter-take Diglet on Fridays. This will take more time and more money. If you listen to and love the show please support us at [https://www.patreon.com/thedig](https://www.patreon.com/thedig).
