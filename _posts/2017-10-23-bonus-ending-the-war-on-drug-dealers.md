@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bonus: Ending the War on Drug Dealers"
-permalink: podcast/bonus-ending-the-war-on-drug-dealers
+permalink: podcast/bonus-ending-the-war-on-drug-dealers/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_59_-_DPA-Con.mp3
 post_id: 641
 categories: 

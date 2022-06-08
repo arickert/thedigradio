@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corey Robin: Trump's Reactionary Mind"
-permalink: podcast/corey-robin-trumps-reactionary-mind
+permalink: podcast/corey-robin-trumps-reactionary-mind/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_60_-_Robin.mp3
 post_id: 640
 categories: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Olympic-Size Swindle in LA with Molly Lambert and Jules Boykoff"
-permalink: podcast/an-olympic-size-swindle-in-la-with-molly-lambert-and-jules-boykoff
+permalink: podcast/an-olympic-size-swindle-in-la-with-molly-lambert-and-jules-boykoff/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_48_-_DSA_Olympics.mp3
 post_id: 653
 categories: 

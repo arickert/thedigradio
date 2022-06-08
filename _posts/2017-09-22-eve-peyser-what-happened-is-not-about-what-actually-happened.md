@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eve Peyser: What Happened Is Not About What Actually Happened"
-permalink: podcast/eve-peyser-what-happened-is-not-about-what-actually-happened
+permalink: podcast/eve-peyser-what-happened-is-not-about-what-actually-happened/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_50_-_Peyser.mp3
 post_id: 651
 categories: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Christy Thornton: Confronting the Neoliberal Narco-State in Mexico"
-permalink: transcripts/christy-thornton-confronting-the-neoliberal-narco-state-in-mexico
+permalink: transcripts/christy-thornton-confronting-the-neoliberal-narco-state-in-mexico/
 audiolink: 
 post_id: 3060
 categories: 

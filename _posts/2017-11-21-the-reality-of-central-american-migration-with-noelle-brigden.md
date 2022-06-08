@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Reality of Central American Migration with Noelle Brigden"
-permalink: podcast/the-reality-of-central-american-migration-with-noelle-brigden
+permalink: podcast/the-reality-of-central-american-migration-with-noelle-brigden/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_68_-_Bridgen.mp3
 post_id: 632
 categories: 

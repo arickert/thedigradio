@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Don't Criminalize Sex Work with Melissa Gira Grant"
-permalink: podcast/dont-criminalize-sex-work-with-melissa-gira-grant
+permalink: podcast/dont-criminalize-sex-work-with-melissa-gira-grant/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_66_-Grant.mp3
 post_id: 635
 categories: 

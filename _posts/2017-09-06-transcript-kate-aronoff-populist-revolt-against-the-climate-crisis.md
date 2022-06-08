@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Kate Aronoff: Populist Revolt Against The Climate Crisis"
-permalink: transcripts/kate-aronoff-populist-revolt-against-the-climate-crisis
+permalink: transcripts/kate-aronoff-populist-revolt-against-the-climate-crisis/
 audiolink: 
 post_id: 3041
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Matt Christman rants, raves, and ruminates"
-permalink: podcast/matt-christman-rants-raves-and-ruminates
+permalink: podcast/matt-christman-rants-raves-and-ruminates/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_56_-_Christman.mp3
 post_id: 644
 categories: 

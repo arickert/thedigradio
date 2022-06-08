@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Khaled Beydoun: The War on Terror Made Trump's Islamophobia A Reality"
-permalink: podcast/khaled-beydoun-the-war-on-terror-made-trumps-islamophobia-a-reality
+permalink: podcast/khaled-beydoun-the-war-on-terror-made-trumps-islamophobia-a-reality/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_51_-_Beydoun.mp3
 post_id: 650
 categories: 

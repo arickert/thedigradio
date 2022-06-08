@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: César Cuauhtémoc García Hernández: On DACA"
-permalink: transcripts/cesar-cuauhtemoc-garcia-hernandez-on-daca
+permalink: transcripts/cesar-cuauhtemoc-garcia-hernandez-on-daca/
 audiolink: 
 post_id: 3061
 categories: 

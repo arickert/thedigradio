@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thea Riofrancos: Left Power and Environmentalism in Ecuador"
-permalink: podcast/thea-riofrancos-left-power-and-environmentalism-in-ecuador
+permalink: podcast/thea-riofrancos-left-power-and-environmentalism-in-ecuador/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_37_-_TheaRiofrancos.mp3
 post_id: 666
 categories: 

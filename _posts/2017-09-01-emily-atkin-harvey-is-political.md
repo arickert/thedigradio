@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Emily Atkin: Harvey Is Political"
-permalink: podcast/emily-atkin-harvey-is-political
+permalink: podcast/emily-atkin-harvey-is-political/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_44_-_Atkin.mp3
 post_id: 657
 categories: 

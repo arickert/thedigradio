@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DSA Kicking Ass with Lee Carter and David Duhalde"
-permalink: podcast/dsa-kicking-ass-with-lee-carter-and-david-duhalde
+permalink: podcast/dsa-kicking-ass-with-lee-carter-and-david-duhalde/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_67_-Carter-Duhalde.mp3
 post_id: 633
 categories: 

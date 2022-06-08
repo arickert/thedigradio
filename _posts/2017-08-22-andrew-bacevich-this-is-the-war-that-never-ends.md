@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Andrew Bacevich: This Is the War That Never Ends"
-permalink: podcast/andrew-bacevich-this-is-the-war-that-never-ends
+permalink: podcast/andrew-bacevich-this-is-the-war-that-never-ends/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_41_-_Bacevich.mp3
 post_id: 660
 categories: 

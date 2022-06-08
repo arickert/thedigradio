@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Peace Can Happen in Korea with Tim Shorrock"
-permalink: transcripts/transcript-peace-can-happen-in-korea-with-tim-shorrock
+permalink: transcripts/transcript-peace-can-happen-in-korea-with-tim-shorrock/
 audiolink: 
 post_id: 1333
 categories:  []
@@ -17,5 +17,4 @@ But the conflict with North Korea didn’t begin with Trump. It stretches back t
 
 In the following interview — which first aired last month on Daniel Denvir’s Jacobin Radio podcast The Dig — veteran journalist Tim Shorrock details this often overlooked history and explains how it shapes the present standoff.
 
-Read the full transcript from Jacobin 
-[here](https://www.jacobinmag.com/2018/01/trump-north-korea-nuclear-weapons).
+Read the full transcript from Jacobin [here](https://www.jacobinmag.com/2018/01/trump-north-korea-nuclear-weapons).

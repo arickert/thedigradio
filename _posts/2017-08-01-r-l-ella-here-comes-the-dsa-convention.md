@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "R.L. & Ella: Here Comes the DSA Convention"
-permalink: podcast/r-l-ella-here-comes-the-dsa-convention
+permalink: podcast/r-l-ella-here-comes-the-dsa-convention/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_38_-_DSA.mp3
 post_id: 664
 categories: 

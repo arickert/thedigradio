@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alex Pareene: Trump’s Happy Place Is Racism"
-permalink: podcast/alex-pareene-trumps-happy-place-is-racism
+permalink: podcast/alex-pareene-trumps-happy-place-is-racism/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_42_-_Pareene.mp3
 post_id: 659
 categories: 

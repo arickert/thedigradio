@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bonus Episode: Larry Krasner's Full Interview"
-permalink: podcast/bonus-episode-larry-krasners-full-interview
+permalink: podcast/bonus-episode-larry-krasners-full-interview/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_53_-_Krasner.mp3
 post_id: 647
 categories: 

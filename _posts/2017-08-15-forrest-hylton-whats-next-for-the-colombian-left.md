@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Forrest Hylton: What's Next for the Colombian Left?"
-permalink: podcast/forrest-hylton-whats-next-for-the-colombian-left
+permalink: podcast/forrest-hylton-whats-next-for-the-colombian-left/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_38_-_Hylton.mp3
 post_id: 662
 categories: 

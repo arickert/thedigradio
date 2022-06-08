@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bhaskar on the Bolsheviks"
-permalink: podcast/bhaskar-on-the-bolsheviks
+permalink: podcast/bhaskar-on-the-bolsheviks/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_77_-_Sunkara.mp3
 post_id: 623
 categories: 
