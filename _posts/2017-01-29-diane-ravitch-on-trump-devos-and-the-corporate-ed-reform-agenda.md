@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diane Ravitch on Trump, DeVos and the corporate ed reform agenda"
-permalink: podcast/diane-ravitch-on-trump-devos-and-the-corporate-ed-reform-agenda
+permalink: podcast/diane-ravitch-on-trump-devos-and-the-corporate-ed-reform-agenda/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP8.mp3
 post_id: 693
 categories: 

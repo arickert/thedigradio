@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Richard Seymour: Labour's Got Momentum"
-permalink: podcast/richard-seymour-labours-got-momentum
+permalink: podcast/richard-seymour-labours-got-momentum/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_30_-Seymour.mp3
 post_id: 671
 categories: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Matt Bruenig on Why Welfare is Great and Why We Need More"
-permalink: transcripts/matt-bruenig-on-why-welfare-is-great-and-why-we-need-more
+permalink: transcripts/matt-bruenig-on-why-welfare-is-great-and-why-we-need-more/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP18-Bruenig.mp3
 post_id: 3062
 categories: 

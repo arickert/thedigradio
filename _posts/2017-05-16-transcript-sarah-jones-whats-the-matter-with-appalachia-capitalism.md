@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Sarah Jones: What's the Matter with Appalachia? Capitalism"
-permalink: transcripts/sarah-jones-whats-the-matter-with-appalachia-capitalism
+permalink: transcripts/sarah-jones-whats-the-matter-with-appalachia-capitalism/
 audiolink: 
 post_id: 3050
 categories: 

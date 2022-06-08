@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Keeanga-Yamahtta Taylor on Black Liberation and Socialism"
-permalink: transcript/keeanga-yamahtta-taylor-on-black-liberation-and-socialism
+permalink: transcript/keeanga-yamahtta-taylor-on-black-liberation-and-socialism/
 audiolink: 
 post_id: 3051
 categories: 

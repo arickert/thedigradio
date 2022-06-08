@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Naomi Klein: No Is Not Enough"
-permalink: podcast/naomi-klein-no-is-not-enough
+permalink: podcast/naomi-klein-no-is-not-enough/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_32_-_Klein.mp3
 post_id: 669
 categories: 

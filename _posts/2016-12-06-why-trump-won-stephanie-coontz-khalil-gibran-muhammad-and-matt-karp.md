@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Trump Won: Stephanie Coontz, Khalil Gibran Muhammad and Matt Karp"
-permalink: podcast/why-trump-won-stephanie-coontz-khalil-gibran-muhammad-and-matt-karp
+permalink: podcast/why-trump-won-stephanie-coontz-khalil-gibran-muhammad-and-matt-karp/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_Episode_2_-_FINAL2.mp3
 post_id: 699
 categories: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Peter Andreas: Trump's Wall Is Already Built"
-permalink: podcast/peter-andreas-trumps-wall-is-already-built
+permalink: podcast/peter-andreas-trumps-wall-is-already-built/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_28_-_Andreas.mp3
 post_id: 673
 categories: 

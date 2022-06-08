@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "David Dayen: Consider the Vampire Squid"
-permalink: podcast/david-dayen-consider-the-vampire-squid
+permalink: podcast/david-dayen-consider-the-vampire-squid/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_29_-_Dayen.mp3
 post_id: 672
 categories: 

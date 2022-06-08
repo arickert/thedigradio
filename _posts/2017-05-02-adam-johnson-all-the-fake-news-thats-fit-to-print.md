@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adam Johnson: All the fake news that’s fit to print"
-permalink: podcast/adam-johnson-all-the-fake-news-thats-fit-to-print
+permalink: podcast/adam-johnson-all-the-fake-news-thats-fit-to-print/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_23_-_Johnson.mp3
 post_id: 678
 categories: 

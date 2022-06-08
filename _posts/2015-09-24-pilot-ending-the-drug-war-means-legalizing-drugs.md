@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pilot: Ending the drug war means legalizing drugs"
-permalink: podcast/pilot-ending-the-drug-war-means-legalizing-drugs
+permalink: podcast/pilot-ending-the-drug-war-means-legalizing-drugs/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_EP_1_DRAFT2.mp3
 post_id: 700
 categories: 

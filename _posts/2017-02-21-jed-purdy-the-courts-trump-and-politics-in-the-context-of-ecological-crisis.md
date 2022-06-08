@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jed Purdy: The courts, Trump and politics in the context of ecological crisis"
-permalink: podcast/jed-purdy-the-courts-trump-and-politics-in-the-context-of-ecological-crisis
+permalink: podcast/jed-purdy-the-courts-trump-and-politics-in-the-context-of-ecological-crisis/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP12-_Purdy.mp3
 post_id: 689
 categories: 

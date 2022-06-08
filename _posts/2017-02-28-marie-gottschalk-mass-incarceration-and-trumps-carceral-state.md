@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Marie Gottschalk: Mass incarceration and Trump's carceral state"
-permalink: podcast/marie-gottschalk-mass-incarceration-and-trumps-carceral-state
+permalink: podcast/marie-gottschalk-mass-incarceration-and-trumps-carceral-state/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_Gottschalk2.mp3
 post_id: 688
 categories: 

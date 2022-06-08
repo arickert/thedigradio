@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neoliberal vs. Neofascist in France"
-permalink: podcast/neoliberal-vs-neofascist-in-france
+permalink: podcast/neoliberal-vs-neofascist-in-france/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_22_-_Budgen.mp3
 post_id: 679
 categories: 

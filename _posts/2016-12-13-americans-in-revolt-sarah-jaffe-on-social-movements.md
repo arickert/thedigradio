@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Americans in Revolt: Sarah Jaffe on social movements"
-permalink: podcast/americans-in-revolt-sarah-jaffe-on-social-movements
+permalink: podcast/americans-in-revolt-sarah-jaffe-on-social-movements/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_Episode_3_-_FINAL.mp3
 post_id: 698
 categories: 

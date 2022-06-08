@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building a diverse working class movement to transform America"
-permalink: podcast/building-a-diverse-working-class-movement-to-transform-america
+permalink: podcast/building-a-diverse-working-class-movement-to-transform-america/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP6_-_Nijmie.mp3
 post_id: 695
 categories: 

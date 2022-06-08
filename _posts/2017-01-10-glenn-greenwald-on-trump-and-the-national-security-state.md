@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Glenn Greenwald on Trump and the National Security State"
-permalink: podcast/glenn-greenwald-on-trump-and-the-national-security-state
+permalink: podcast/glenn-greenwald-on-trump-and-the-national-security-state/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_Episode_5_-_FINAL.mp3
 post_id: 696
 categories: 
