@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: MLK, Political Philosopher. With Tommie Shelby and Brandon Terry."
-permalink: transcripts/transcript-mlk-political-philosopher-with-tommie-shelby-and-brandon-terry
+permalink: transcripts/transcript-mlk-political-philosopher-with-tommie-shelby-and-brandon-terry/
 audiolink: 
 post_id: 1325
 categories:  []

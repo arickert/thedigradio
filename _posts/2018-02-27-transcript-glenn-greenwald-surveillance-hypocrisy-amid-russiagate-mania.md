@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Glenn Greenwald: Surveillance Hypocrisy Amid Russiagate Mania"
-permalink: transcripts/transcript-glenn-greenwald-surveillance-hypocrisy-amid-russiagate-mania
+permalink: transcripts/transcript-glenn-greenwald-surveillance-hypocrisy-amid-russiagate-mania/
 audiolink: 
 post_id: 1328
 categories:  []
