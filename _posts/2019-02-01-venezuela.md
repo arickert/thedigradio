@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Venezuela"
-permalink: podcast/venezuela
+permalink: podcast/venezuela/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_178_-_Venezuela.mp3
 post_id: 522
 categories: 
@@ -19,4 +19,4 @@ Meanwhile, many reactionaries throughout the Americas are pointing to Venezuela 
 
 Thanks to Verso. Check out their huge collection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

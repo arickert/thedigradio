@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Roots of White Power Violence with Kathleen Belew"
-permalink: podcast/the-roots-of-white-power-violence-with-kathleen-belew
+permalink: podcast/the-roots-of-white-power-violence-with-kathleen-belew/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_162_-_Belew.mp3
 post_id: 538
 categories: 
@@ -16,4 +16,4 @@ The man who carried out the massacre in Pittsburgh was apparently motivated by a
 
 Thanks to Verso Books and University of California Press. Check out the excellent titles they have for sale at www.versobooks.com and www.ucpress.edu
 
-Please support this podcast with money at patreon.com/TheDig
+Please support this podcast with money at [patreon.com/thedig](patreon.com/thedig)

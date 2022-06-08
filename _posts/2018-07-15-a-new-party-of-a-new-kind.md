@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A New Party of a New Kind"
-permalink: podcast/a-new-party-of-a-new-kind
+permalink: podcast/a-new-party-of-a-new-kind/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_131_-_AckermanAronoff.mp3
 post_id: 569
 categories: 
@@ -22,4 +22,4 @@ Thanks to Verso Books. Check out The Amateur: The Pleasures of Doing What You Lo
 
 
 
-And support this podcast with $ and access our weekly newsletter at patreon.com/TheDig
+And support this podcast with $ and access our weekly newsletter at [patreon.com/thedig](patreon.com/thedig)

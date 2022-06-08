@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stop Whore Stigma with Melissa Gira Grant"
-permalink: podcast/stop-whore-stigma-with-melissa-gira-grant
+permalink: podcast/stop-whore-stigma-with-melissa-gira-grant/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_135_-_GrantSESTA.mp3
 post_id: 565
 categories: 
@@ -16,4 +16,4 @@ Live recording of The Dig coming up in New York City. Friday, August 17, 7 PM at
 
 Thanks to Verso Books. Check out Mistaken Identity: Race and Class in the Age of Trump by Asad Haider versobooks.com/books/2716-mistaken-identity And The Amateur: The Pleasures of Doing What You Love by Andy Merrifield versobooks.com/books/2765-the-amateur
 
-Support this podcast with your $ at patreon.com/TheDig to receive our weekly newsletter
+Support this podcast with your $ at [patreon.com/TheDig](patreon.com/TheDig) to receive our weekly newsletter

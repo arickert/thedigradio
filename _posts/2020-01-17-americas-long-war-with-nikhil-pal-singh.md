@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "America's Long War with Nikhil Pal Singh"
-permalink: podcast/americas-long-war-with-nikhil-pal-singh
+permalink: podcast/americas-long-war-with-nikhil-pal-singh/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_235-NPS.mp3
 post_id: 1438
 categories: 

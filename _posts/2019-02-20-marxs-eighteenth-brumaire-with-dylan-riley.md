@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Marx's Eighteenth Brumaire with Dylan Riley"
-permalink: podcast/marxs-eighteenth-brumaire-with-dylan-riley
+permalink: podcast/marxs-eighteenth-brumaire-with-dylan-riley/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_182_-_Riley.mp3
 post_id: 518
 categories: 
@@ -19,4 +19,4 @@ Check out Dan's recent
 Thanks to NACLA, reporting on the Americas since 1967. Check out their collection of articles on Latin American politics at 
 [nacla.org](nacla.org). And thanks, as always, to Verso. Check out their huge collection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

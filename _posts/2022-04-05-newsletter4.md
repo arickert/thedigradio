@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Newsletter #4: The Long, Disastrous History of US Intervention in Afghanistan, with Tariq Ali"
-permalink: newsletter4
+permalink: newsletter4/
 audiolink: 
 post_id: 2027
 categories:  []

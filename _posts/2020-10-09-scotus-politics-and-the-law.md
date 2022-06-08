@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SCOTUS, Politics, and the Law"
-permalink: podcast/scotus-politics-and-the-law
+permalink: podcast/scotus-politics-and-the-law/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_275-SCOTUS.mp3
 post_id: 1774
 categories: 

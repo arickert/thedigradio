@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Defund Police Organizers Forum"
-permalink: podcast/defund-police-organizers-forum
+permalink: podcast/defund-police-organizers-forum/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_261-DefundPolice.mp3
 post_id: 1693
 categories: 

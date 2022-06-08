@@ -15,4 +15,4 @@ A timely interview from the archives: legal scholars Aziz Rana and Amna Akbar, a
 
 Find Eslanda at haymarketbooks.org/books/1769-eslanda
 
-Support The Dig at Patreon.com/TheDig
+Support The Dig at [patreon.com/thedig](patreon.com/thedig)

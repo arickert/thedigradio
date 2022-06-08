@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Newsletter #7: The Immense Possibilities at the Heart of Our Past and Present, with David Wengrow"
-permalink: newsletter7
+permalink: newsletter7/
 audiolink: 
 post_id: 2027
 categories:  []

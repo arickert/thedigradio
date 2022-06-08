@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Green New Deal Architect Rhiana Gunn-Wright"
-permalink: podcast/green-new-deal-architect-rhiana-gunn-wright
+permalink: podcast/green-new-deal-architect-rhiana-gunn-wright/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_185_-_RGW.mp3
 post_id: 515
 categories: 
@@ -16,6 +16,6 @@ Read Jacobin's Green New Deal series jacobinmag.com/series/green-new-deal
 
 Thanks to Verso. Check out their huge selection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
 
 EndFragment

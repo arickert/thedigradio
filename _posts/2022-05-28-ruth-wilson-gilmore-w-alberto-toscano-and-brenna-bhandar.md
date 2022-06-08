@@ -12,6 +12,6 @@ tags:
 
 What role does mass incarceration play in American political economy? What does that reveal about what sort of politics are required to overcome it? Ruth Wilson Gilmore with Alberto Toscano and Brenna Bhandar, who edited the new collection Abolition Geography: Essays Towards Liberation.
 
-Support The Dig at Patreon.com/TheDig
+Support The Dig at [patreon.com/thedig](patreon.com/thedig)
 
 Buy Assata Taught Me: State Violence, Racial Capitalism, and the Movement for Black Lives by Donna Murch haymarketbooks.org/books/1650-assata-taught-me

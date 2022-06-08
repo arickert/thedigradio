@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: What Now with Cornel West"
-permalink: podcast/transcript-what-now-with-cornel-west
+permalink: podcast/transcript-what-now-with-cornel-west/
 audiolink: 
 post_id: 1872
 categories: 

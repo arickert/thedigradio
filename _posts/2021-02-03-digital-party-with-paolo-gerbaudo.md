@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Digital Party with Paolo Gerbaudo"
-permalink: podcast/digital-party-with-paolo-gerbaudo
+permalink: podcast/digital-party-with-paolo-gerbaudo/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_291-Gerbaudo.mp3
 post_id: 1882
 categories: 

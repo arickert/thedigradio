@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blowback with Brendan James and Noah Kulwin"
-permalink: podcast/blowback-with-brendan-james-and-noah-kulwin
+permalink: podcast/blowback-with-brendan-james-and-noah-kulwin/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_253-James-Kulwin.mp3
 post_id: 1521
 categories: 

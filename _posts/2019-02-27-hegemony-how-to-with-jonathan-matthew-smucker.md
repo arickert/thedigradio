@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hegemony How-To with Jonathan Matthew Smucker"
-permalink: podcast/hegemony-how-to-with-jonathan-matthew-smucker
+permalink: podcast/hegemony-how-to-with-jonathan-matthew-smucker/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_183_-_Smucker.mp3
 post_id: 517
 categories: 
@@ -14,4 +14,4 @@ Dan's guest is long-time organizer Jonathan Matthew Smucker, the author of Hegem
 
 Thanks to Verso Books. Check out their huge collection of left-wing titles at www.versobooks.com
 
-Please support us with your money at Patreon.com/TheDig
+Please support us with your money at [patreon.com/thedig](patreon.com/thedig)

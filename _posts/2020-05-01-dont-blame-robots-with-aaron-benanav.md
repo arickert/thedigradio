@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Don't Blame Robots with Aaron Benanav"
-permalink: podcast/dont-blame-robots-with-aaron-benanav
+permalink: podcast/dont-blame-robots-with-aaron-benanav/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_255-Benanav.mp3
 post_id: 1526
 categories: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LA Teachers Strike with Sarah Jaffe"
-permalink: podcast/la-teachers-strike-with-sarah-jaffe
+permalink: podcast/la-teachers-strike-with-sarah-jaffe/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_175_-_JaffeUTLA.mp3
 post_id: 525
 categories: 
@@ -16,4 +16,4 @@ The teacher strike wave continues as more than 30,000 members of United Teachers
 
 Thanks to Verso Books. Check out their huge collection of left-wing titles at www.versobooks.com
 
-Support this podcast with your money at Patreon.com/TheDig
+Support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

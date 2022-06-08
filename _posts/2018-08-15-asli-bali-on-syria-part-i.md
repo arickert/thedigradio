@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aslı Bâli on Syria, Part I"
-permalink: podcast/asli-bali-on-syria-part-i
+permalink: podcast/asli-bali-on-syria-part-i/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_139_-_Bali.mp3
 post_id: 561
 categories: 
@@ -19,4 +19,4 @@ Live recording of The Dig coming up in New York City. Friday, August 17, 7 PM at
 
 Thanks to Verso Books. Check out New Dark Age: Technology and the End of the Future by James Bridle versobooks.com/books/2698-new-dark-age And Prisoners of the American Dream: Politics and Economy in the History of the US Working Class by Mike Davis versobooks.com/books/2759-prisoners-of-the-american-dream
 
-Support this podcast with your money at patreon.com/TheDig
+Support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

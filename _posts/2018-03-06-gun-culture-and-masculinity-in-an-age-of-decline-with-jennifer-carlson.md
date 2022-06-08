@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gun Culture and Masculinity in an Age of Decline with Jennifer Carlson"
-permalink: podcast/gun-culture-and-masculinity-in-an-age-of-decline-with-jennifer-carlson
+permalink: podcast/gun-culture-and-masculinity-in-an-age-of-decline-with-jennifer-carlson/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_92_-_Carlson.mp3
 post_id: 608
 categories: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Surviving This Plague with Amy Kapczynski and Gregg Gonsalves"
-permalink: podcast/surviving-this-plague-with-amy-kapczynski-and-gregg-gonsalves
+permalink: podcast/surviving-this-plague-with-amy-kapczynski-and-gregg-gonsalves/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_250-KapGon.mp3
 post_id: 1485
 categories: 

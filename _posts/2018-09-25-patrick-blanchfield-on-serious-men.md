@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Patrick Blanchfield on Serious Men"
-permalink: podcast/patrick-blanchfield-on-serious-men
+permalink: podcast/patrick-blanchfield-on-serious-men/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_150_-_BlanchfieldFear.mp3
 post_id: 550
 categories: 
@@ -19,4 +19,4 @@ Serious people in Washington are seduced by vapid and self-serving accounts of t
 
 Thanks to Verso Books. Check out their massive collective of left-wing books at versobooks.com
 
-Please support this podcast with your money at patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

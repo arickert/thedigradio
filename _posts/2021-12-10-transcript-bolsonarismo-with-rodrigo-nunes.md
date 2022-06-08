@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Bolsonarismo with Rodrigo Nunes"
-permalink: transcripts/bolsonarismo-with-rodrigo-nunes
+permalink: transcripts/bolsonarismo-with-rodrigo-nunes/
 audiolink: 
 post_id: 3044
 categories:
@@ -21,4 +21,4 @@ Read Rodrigo's essays:
 radicalphilosophy.com/article/of-what-is-bolsonaro-the-name
 publicbooks.org/are-we-in-denial-about-denial
 
-Support The Dig at Patreon.com/TheDig and get that newsletter
+Support The Dig at [patreon.com/TheDig](patreon.com/TheDig) and get that newsletter

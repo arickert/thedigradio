@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Race or Class? Bad Question. With Nikhil Pal Singh."
-permalink: podcast/race-or-class-bad-question-with-nikhil-pal-singh
+permalink: podcast/race-or-class-bad-question-with-nikhil-pal-singh/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_145_-_NPS.mp3
 post_id: 555
 categories: 
@@ -15,4 +15,4 @@ Nikhil Pal Singh on the unfortunate obsession shared by certain pundits, journal
 
 Thanks to Verso Books. Check out versobooks.com for loads of great left-wing titles.
 
-Support this podcast with your money at Patreon.com/TheDig
+Support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

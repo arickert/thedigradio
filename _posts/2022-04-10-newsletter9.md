@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Newsletter #9: Brazilian President Jair Bolsonaro Is a “Major Threat to Life on the Planet”"
-permalink: newsletter9
+permalink: newsletter9/
 audiolink: 
 post_id: 2027
 categories:  []

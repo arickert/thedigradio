@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Problem with the Problem with Appalachia"
-permalink: podcast/the-problem-with-the-problem-with-appalachia
+permalink: podcast/the-problem-with-the-problem-with-appalachia/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_148_-_Catte.mp3
 post_id: 552
 categories: 
@@ -17,4 +17,4 @@ For many, conservatives and liberals alike, Appalachia provides a skeleton key f
 Thanks to Verso Books, which has loads of great left-wing titles at www.versobooks.com. And thanks to University of California Press, which just published 
  by Barbara Ransby ucpress.edu/book/9780520292710/making-all-black-lives-matter
 
-Support this podcast with money at Patreon.com/TheDig
+Support this podcast with money at [patreon.com/thedig](patreon.com/thedig)

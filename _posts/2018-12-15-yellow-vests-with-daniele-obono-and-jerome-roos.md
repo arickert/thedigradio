@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yellow Vests with Danièle Obono and Jerome Roos"
-permalink: podcast/yellow-vests-with-daniele-obono-and-jerome-roos
+permalink: podcast/yellow-vests-with-daniele-obono-and-jerome-roos/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_169_-_ObonoRoos.mp3
 post_id: 531
 categories: 
@@ -19,4 +19,4 @@ Read Jerome's article in ROAR: roarmag.org/essays/gilets-jaunes-blown-old-politi
 
 Thanks to Verso Books. Check out their huge collection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

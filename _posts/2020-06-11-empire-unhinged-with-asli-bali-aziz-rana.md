@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Empire Unhinged with Aslı Bâli & Aziz Rana"
-permalink: podcast/empire-unhinged-with-asli-bali-aziz-rana
+permalink: podcast/empire-unhinged-with-asli-bali-aziz-rana/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_260-Ba_li-Rana.mp3
 post_id: 1683
 categories: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Identity, Power, and Speech with Olúfẹ́mi Táíwò"
-permalink: podcast/identity-power-and-speech-with-olufemi-taiwo
+permalink: podcast/identity-power-and-speech-with-olufemi-taiwo/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_283-Ta_i_wo_.mp3
 post_id: 1807
 categories: 

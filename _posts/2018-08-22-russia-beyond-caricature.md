@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Russia Beyond Caricature"
-permalink: podcast/russia-beyond-caricature
+permalink: podcast/russia-beyond-caricature/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_141_-_Guillory.mp3
 post_id: 559
 categories: 
@@ -15,4 +15,4 @@ Russia: the more your average American thinks about it, the less they seem to kn
 
 Thanks to Verso Books. Check out New Dark Age: Technology and the End of the Future by James Bridle versobooks.com/books/2698-new-dark-age And The Amateur: The Pleasures of Doing What You Love by Andy Merrifield versobooks.com/books/2765-the-amateur
 
-Support this podcast with your money at Patreon.com/TheDig
+Support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

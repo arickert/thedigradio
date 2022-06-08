@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fear City with Kim Phillips-Fein"
-permalink: podcast/fear-city-with-kim-phillips-fein
+permalink: podcast/fear-city-with-kim-phillips-fein/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_252-KPF.mp3
 post_id: 1516
 categories: 

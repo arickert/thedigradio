@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rossana Rodríguez-Sanchez, a Socialist for Chicago"
-permalink: podcast/rossana-rodriguez-sanchez-a-socialist-for-chicago
+permalink: podcast/rossana-rodriguez-sanchez-a-socialist-for-chicago/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_158_-_Rodriguez-Sanchez.mp3
 post_id: 542
 categories: 
@@ -15,4 +15,4 @@ Jacobin Managing Editor Micah Uetricht pulls Dave-Davies-duty for Dan and interv
 
 Thanks to Verso Books. Check out their huge selection of radical titles at www.versobooks.com
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

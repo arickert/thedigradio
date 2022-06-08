@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Socializing Ownership with Mathew Lawrence"
-permalink: podcast/socializing-ownership-with-mathew-lawrence
+permalink: podcast/socializing-ownership-with-mathew-lawrence/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_226-Lawrence.mp3
 post_id: 1407
 categories: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visions of Freedom: Maps"
-permalink: visions-of-freedom-maps
+permalink: visions-of-freedom-maps/
 audiolink: 
 post_id: 2062
 categories:  []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Class Politics of Suburban Racism with Matt Lassiter"
-permalink: podcast/the-class-politics-of-suburban-racism-with-matt-lassiter
+permalink: podcast/the-class-politics-of-suburban-racism-with-matt-lassiter/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_219-Lassiter.mp3
 post_id: 1373
 categories: 

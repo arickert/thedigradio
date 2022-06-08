@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bernie 2020 with Alex Press and Bhaskar Sunkara "
-permalink: podcast/bernie-2020-with-alex-press-and-bhaskar-sunkara
+permalink: podcast/bernie-2020-with-alex-press-and-bhaskar-sunkara/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_241-Press-Sunkara.mp3
 post_id: 1463
 categories: 

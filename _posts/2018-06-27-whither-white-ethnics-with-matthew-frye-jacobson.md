@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Whither White Ethnics with Matthew Frye Jacobson"
-permalink: podcast/whither-white-ethnics-with-matthew-frye-jacobson
+permalink: podcast/whither-white-ethnics-with-matthew-frye-jacobson/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_123_-_Jacobson.mp3
 post_id: 577
 categories: 

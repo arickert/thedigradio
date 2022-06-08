@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ukraine w/ Volodymyr Ishchenko"
-permalink: podcast/ukraine-w-volodymyr-ishchenko
+permalink: podcast/ukraine-w-volodymyr-ishchenko/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_341-Ishchenko.mp3
 post_id: 2108
 categories: 
@@ -22,4 +22,4 @@ lefteast.org/contradictions-post-soviet-ukraine-failure-ukraine-new-left/
 
 Tony Wood on Russia: thedigradio.com/podcast/russia-beyond-putin-with-tony-wood/
 
-Support The Dig at Patreon.com/TheDig
+Support The Dig at [patreon.com/thedig](patreon.com/thedig)

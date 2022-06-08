@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cancel Culture w/ Moira Weigel, Nikhil Pal Singh, Patrick Blanchfield"
-permalink: podcast/cancel-culture-w-moira-weigel-nikhil-pal-singh-patrick-blanchfield
+permalink: podcast/cancel-culture-w-moira-weigel-nikhil-pal-singh-patrick-blanchfield/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_305-Cancel.mp3
 post_id: 1953
 categories: 
@@ -25,4 +25,4 @@ Political correctness: how the right invented a phantom enemy by Moira Weigel th
 
 The Use of Free Speech in Society by Asad Haider versobooks.com/blogs/4793-the-use-of-free-speech-in-society
 
-Support this podcast at Patreon.com/TheDig
+Support this podcast at [patreon.com/thedig](patreon.com/thedig)

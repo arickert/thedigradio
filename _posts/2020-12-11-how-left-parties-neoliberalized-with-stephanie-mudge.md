@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Left Parties Neoliberalized with Stephanie Mudge"
-permalink: podcast/how-left-parties-neoliberalized-with-stephanie-mudge
+permalink: podcast/how-left-parties-neoliberalized-with-stephanie-mudge/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_284-Mudge.mp3
 post_id: 1809
 categories: 

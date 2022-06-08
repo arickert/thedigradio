@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Abolish the Family with Sophie Lewis"
-permalink: transcripts/transcript-abolish-the-family-with-sophie-lewis
+permalink: transcripts/transcript-abolish-the-family-with-sophie-lewis/
 audiolink: 
 post_id: 1267
 categories: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hindu Nationalism with Achin Vanaik"
-permalink: podcast/hindu-nationalism-with-achin-vanaik
+permalink: podcast/hindu-nationalism-with-achin-vanaik/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_223-Vanaik.mp3
 post_id: 1398
 categories: 

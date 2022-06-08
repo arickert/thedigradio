@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rethinking Migration with Aziz Rana"
-permalink: podcast/rethinking-migration-with-aziz-rana
+permalink: podcast/rethinking-migration-with-aziz-rana/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_173_-_Aziz_Migration.mp3
 post_id: 527
 categories: 
@@ -18,4 +18,4 @@ Typically, people think about migration as
 
 Thanks to Verso. Check out their huge collection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

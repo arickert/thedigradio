@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ebola in West Africa with Adia Benton"
-permalink: podcast/ebola-in-west-africa-with-adia-benton
+permalink: podcast/ebola-in-west-africa-with-adia-benton/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_258-Benton.mp3
 post_id: 1538
 categories: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Boots Riley on Sorry to Bother You and Communism"
-permalink: podcast/boots-riley-on-sorry-to-bother-you-and-communism
+permalink: podcast/boots-riley-on-sorry-to-bother-you-and-communism/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_137_-_Boots.mp3
 post_id: 563
 categories: 
@@ -18,4 +18,4 @@ Thanks to Verso Books. Check out Out of the Wreckage: A New Politics for an Age 
 
 
 
-Support this podcast with your $ at patreon.com/TheDig to receive our weekly newsletter
+Support this podcast with your $ at [patreon.com/TheDig](patreon.com/TheDig) to receive our weekly newsletter

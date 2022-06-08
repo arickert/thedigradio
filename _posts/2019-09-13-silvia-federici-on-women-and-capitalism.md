@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Silvia Federici on Women and Capitalism"
-permalink: podcast/silvia-federici-on-women-and-capitalism
+permalink: podcast/silvia-federici-on-women-and-capitalism/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_218-Federici.mp3
 post_id: 1369
 categories: 

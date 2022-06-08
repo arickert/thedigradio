@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mistaking Identity Politics"
-permalink: podcast/mistaking-identity-politics
+permalink: podcast/mistaking-identity-politics/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_132_-_Haider.mp3
 post_id: 568
 categories: 
@@ -19,7 +19,7 @@ And support this podcast with $ and access our weekly newsletter at patreon.com
 
 
 
-And support this podcast with $ and access our weekly newsletter at patreon.com/TheDig
+And support this podcast with $ and access our weekly newsletter at [patreon.com/thedig](patreon.com/thedig)
 
 
 

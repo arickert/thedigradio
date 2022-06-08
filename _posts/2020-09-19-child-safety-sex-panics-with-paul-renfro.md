@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Child Safety Sex Panics with Paul Renfro"
-permalink: podcast/child-safety-sex-panics-with-paul-renfro
+permalink: podcast/child-safety-sex-panics-with-paul-renfro/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_272-Renfro.mp3
 post_id: 1757
 categories: 

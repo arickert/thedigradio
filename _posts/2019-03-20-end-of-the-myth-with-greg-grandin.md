@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "End of the Myth with Greg Grandin"
-permalink: podcast/end-of-the-myth-with-greg-grandin
+permalink: podcast/end-of-the-myth-with-greg-grandin/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_187_-_Grandin.mp3
 post_id: 513
 categories: 
@@ -18,4 +18,4 @@ Thanks to University of California Press. Check out No Go WorldL How Fear Is Red
 
 And thanks to Verso. Check out their huge selection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

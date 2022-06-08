@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Un laboratorio del socialismo en Chile. Entrevista con Daniel Jadue."
-permalink: transcripts/transcript-un-laboratorio-del-socialismo-en-chile-entrevista-con-daniel-jadue
+permalink: transcripts/transcript-un-laboratorio-del-socialismo-en-chile-entrevista-con-daniel-jadue/
 audiolink: 
 post_id: 1305
 categories: 

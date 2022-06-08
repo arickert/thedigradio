@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AMLO Shatters Mexican Establishment"
-permalink: podcast/amlo-shatters-mexican-establishment
+permalink: podcast/amlo-shatters-mexican-establishment/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_126_-_Thornton.mp3
 post_id: 574
 categories: 
@@ -22,6 +22,6 @@ And Mistaken Identity: Race and Class in the Age of Trump by Asad Haider versobo
 You can find lots of great left Latin America news in English at 
 [nacla.org](nacla.org)
 
-Support this podcast with $ and access our weekly newsletter at patreon.com/TheDig
+Support this podcast with $ and access our weekly newsletter at [patreon.com/thedig](patreon.com/thedig)
 
  

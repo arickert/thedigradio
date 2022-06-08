@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Striketober"
-permalink: podcast/striketober
+permalink: podcast/striketober/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_330-Striketober.mp3
 post_id: 2056
 categories: 
@@ -18,4 +18,4 @@ Guest host Gabriel Winant interviews labor journalists Alex Press and Jonah Furm
 Listen to Primer, Alex's podcast about Amazon patreon.com/primerpodcast
 Listen to Victor's podcast WAIT, Why Am I Talking? podcasts.apple.com/us/podcast/wait-why-am-i-talking/id1515308564
 
-Support The Dig at Patreon.com/TheDig
+Support The Dig at [patreon.com/thedig](patreon.com/thedig)

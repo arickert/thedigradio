@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Post-Janus Plan for Labor"
-permalink: podcast/a-post-janus-plan-for-labor
+permalink: podcast/a-post-janus-plan-for-labor/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_133_-_Maisano.mp3
 post_id: 567
 categories: 
@@ -16,4 +16,4 @@ Thanks to Verso Books. Check out Mistaken Identity: Race and Class in the Age of
 
 Live Dig show in NYC on 8/17! Blockadia and Beyond: Left climate politics for the 21st century facebook.com/events/2042636042656908/?active_tab=about
 
-Support this podcast with your $ and receive our weekly newsletter and lefty books at patreon.com/TheDig
+Support this podcast with your $ and receive our weekly newsletter and lefty books at [patreon.com/thedig](patreon.com/thedig)

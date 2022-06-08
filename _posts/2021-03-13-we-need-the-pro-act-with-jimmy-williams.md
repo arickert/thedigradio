@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "We Need the PRO Act with Jimmy Williams"
-permalink: podcast/we-need-the-pro-act-with-jimmy-williams
+permalink: podcast/we-need-the-pro-act-with-jimmy-williams/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_297-Williams.mp3
 post_id: 1917
 categories: 

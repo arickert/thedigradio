@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Young Lords with Johanna Fernández"
-permalink: podcast/young-lords-with-johanna-fernandez
+permalink: podcast/young-lords-with-johanna-fernandez/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_264-Fernandez.mp3
 post_id: 1724
 categories: 

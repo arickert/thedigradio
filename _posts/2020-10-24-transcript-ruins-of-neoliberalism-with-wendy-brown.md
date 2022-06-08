@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Ruins of Neoliberalism with Wendy Brown"
-permalink: transcripts/transcript-ruins-of-neoliberalism-with-wendy-brown
+permalink: transcripts/transcript-ruins-of-neoliberalism-with-wendy-brown/
 audiolink: 
 post_id: 1861
 categories: 

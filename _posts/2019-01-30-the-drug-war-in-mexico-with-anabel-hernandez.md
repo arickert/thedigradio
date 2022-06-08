@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Drug War in Mexico with Anabel Hernández"
-permalink: podcast/the-drug-war-in-mexico-with-anabel-hernandez
+permalink: podcast/the-drug-war-in-mexico-with-anabel-hernandez/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_177_-_Hernandez.mp3
 post_id: 523
 categories: 
@@ -14,4 +14,4 @@ Joaquín "El Chapo" Guzmán, a leader of Mexico's Sinaloa Cartel, is on trial in
 
 Thanks to Verso. Check out their huge selection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

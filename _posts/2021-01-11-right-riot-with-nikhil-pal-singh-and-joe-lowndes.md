@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Right Riot with Nikhil Pal Singh and Joe Lowndes"
-permalink: podcast/right-riot-with-nikhil-pal-singh-and-joe-lowndes
+permalink: podcast/right-riot-with-nikhil-pal-singh-and-joe-lowndes/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_288-Lowndes-Singh.mp3
 post_id: 1832
 categories: 
@@ -20,4 +20,4 @@ Read Corey Robin's smart and short piece on impeachment
 Listen to Dan's interview with Joe Lowndes and Daniel Martinez HoSang & Joe Lowndes on their book Producers, Parasites, Patriots: Race and the New Right-Wing Politics of Precarity 
 [www.thedigradio.com/podcast/right-wing-racism-with-daniel-martinez-hosang-joe-lowndes/](https://www.thedigradio.com/podcast/right-wing-racism-with-daniel-martinez-hosang-joe-lowndes/)
 
-Support this podcast with money at Patreon.com/TheDig
+Support this podcast with money at [patreon.com/thedig](patreon.com/thedig)

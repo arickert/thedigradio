@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "War on Terror w/ Spencer Ackerman Part 1"
-permalink: podcast/war-on-terror-w-spencer-ackerman-part-1
+permalink: podcast/war-on-terror-w-spencer-ackerman-part-1/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_320-Ackerman.mp3
 post_id: 2019
 categories: 
@@ -16,4 +16,4 @@ Episode one of The Dig's three-part War on Terror series the with Spencer Ackerm
 
 Subscribe to Spencer's Substack: foreverwars.substack.com/people/2576701-spencer-ackerman
 
-Support The Dig at Patreon.com/TheDig and (very soon) get our weekly newsletter
+Support The Dig at [patreon.com/TheDig](patreon.com/TheDig) and (very soon) get our weekly newsletter

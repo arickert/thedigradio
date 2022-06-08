@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beyond Economism with Nancy Fraser"
-permalink: podcast/beyond-economism-with-nancy-fraser
+permalink: podcast/beyond-economism-with-nancy-fraser/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_147_-_Fraser.mp3
 post_id: 553
 categories: 

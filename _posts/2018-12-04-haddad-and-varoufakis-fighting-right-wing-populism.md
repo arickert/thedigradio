@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Haddad and Varoufakis Fighting Right-Wing Populism"
-permalink: podcast/haddad-and-varoufakis-fighting-right-wing-populism
+permalink: podcast/haddad-and-varoufakis-fighting-right-wing-populism/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_167_-_HaddadVaroufakis.mp3
 post_id: 533
 categories: 
@@ -17,4 +17,4 @@ On Saturday, Dan was in New York to interview Fernando Haddad and Yanis Varoufak
 
 Thanks to Verso Books. Check out their huge selection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

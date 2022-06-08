@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "From the archives: Paul Frymer on Westward Expansion"
-permalink: podcast/from-the-archives-paul-frymer-on-westward-expansion
+permalink: podcast/from-the-archives-paul-frymer-on-westward-expansion/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_230-Frymer.mp3
 post_id: 1422
 categories: 

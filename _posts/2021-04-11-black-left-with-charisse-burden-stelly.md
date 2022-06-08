@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Black Left with Charisse Burden-Stelly"
-permalink: podcast/black-left-with-charisse-burden-stelly
+permalink: podcast/black-left-with-charisse-burden-stelly/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_301-Burden-Stelly.mp3
 post_id: 1942
 categories: 
@@ -28,4 +28,4 @@ Read Burden-Stelly's work
 
 Meet with Charisse Burden-Stelly at the Dig's last Book Club event thedigradio.com/dig-book-club
 
-Support this podcast at Patreon.com/TheDig
+Support this podcast at [patreon.com/thedig](patreon.com/thedig)

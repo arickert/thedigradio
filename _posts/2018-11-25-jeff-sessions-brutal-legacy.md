@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jeff Sessions' Brutal Legacy"
-permalink: podcast/jeff-sessions-brutal-legacy
+permalink: podcast/jeff-sessions-brutal-legacy/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_165_-_Joseph.mp3
 post_id: 535
 categories: 
@@ -17,4 +17,4 @@ Guns in general, and American gun culture in particular, have created a horrific
 
 Thanks to University of California Press. Check out their excellent catalogue of books at ucpress.edu
 
-Support this podcast with your money at Patreon.com/TheDig
+Support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

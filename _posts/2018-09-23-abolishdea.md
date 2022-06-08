@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#AbolishDEA"
-permalink: podcast/abolishdea
+permalink: podcast/abolishdea/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_149_-_BeletskyDEA.mp3
 post_id: 551
 categories: 
@@ -16,4 +16,4 @@ The United States today exceeds at perpetually waging wars that it are destined 
 
 Thanks to Verso Books. Check out a huge catalogue of excellent left-wing books at versobooks.com
 
-Please support this podcast with money at Patreon.com/TheDig
+Please support this podcast with money at [patreon.com/thedig](patreon.com/thedig)

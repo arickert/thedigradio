@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aslı Bâli on Syria, Part II"
-permalink: podcast/asli-bali-on-syria-part-ii
+permalink: podcast/asli-bali-on-syria-part-ii/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_140_-_BaliPartII.mp3
 post_id: 560
 categories: 
@@ -19,4 +19,4 @@ Live recording of The Dig coming up in New York City. Friday, August 17, 7 PM at
 
 Thanks to Verso Books. Check outFor a Left Populism by Chantal Mouffe versobooks.com/books/2748-for-a-left-populism
 
-Support this podcast with your money at patreon.com/TheDig
+Support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

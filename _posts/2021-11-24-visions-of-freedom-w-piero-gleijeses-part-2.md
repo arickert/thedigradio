@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visions of Freedom w/ Piero Gleijeses Part 2"
-permalink: podcast/visions-of-freedom-w-piero-gleijeses-part-2
+permalink: podcast/visions-of-freedom-w-piero-gleijeses-part-2/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_333-Piero.mp3
 post_id: 2074
 categories: 
@@ -17,4 +17,4 @@ The second of Dan’s two-part interview with Piero Gleijeses on his book Vision
 
 Learn Southern African geography by studying these maps: thedigradio.com/visions-of-freedom-maps
 
-Support The Dig with money at Patreon.com/TheDig and receive our weekly newsletter.
+Support The Dig with money at [patreon.com/TheDig](patreon.com/TheDig) and receive our weekly newsletter.

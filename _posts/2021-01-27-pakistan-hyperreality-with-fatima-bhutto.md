@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pakistan Hyperreality with Fatima Bhutto"
-permalink: podcast/pakistan-hyperreality-with-fatima-bhutto
+permalink: podcast/pakistan-hyperreality-with-fatima-bhutto/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_290-Bhutto.mp3
 post_id: 1839
 categories: 

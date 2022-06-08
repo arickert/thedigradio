@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Cryptocurrency w/ Edward Ongweso Jr & Jacob Silverman"
-permalink: transcripts/cryptocurrency-w-edward-ongweso-jr-jacob-silverman
+permalink: transcripts/cryptocurrency-w-edward-ongweso-jr-jacob-silverman/
 audiolink: 
 post_id: 3048
 categories: 
@@ -18,4 +18,4 @@ Edward Ongweso Jr. and Jacob Silverman on cryptocurrency, NFTs, Elon Musk, the m
 
 Read Dan's new essay on border control politics: nplusonemag.com/online-only/online-only/border-crises/
 
-Support The Dig at Patreon.com/TheDig
+Support The Dig at [patreon.com/thedig](patreon.com/thedig)

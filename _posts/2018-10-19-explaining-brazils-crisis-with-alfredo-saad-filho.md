@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Explaining Brazil's Crisis with Alfredo Saad-Filho"
-permalink: podcast/explaining-brazils-crisis-with-alfredo-saad-filho
+permalink: podcast/explaining-brazils-crisis-with-alfredo-saad-filho/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_156_-_Saad-Filho.mp3
 post_id: 544
 categories: 
@@ -23,4 +23,4 @@ Read "Bolsonaro’s Conservative Revolution" by Matthew Aaron Richmond https://j
 
 Thanks to Verso Books. Check out their huge catalogue of left-wing books at www.versobooks.com
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

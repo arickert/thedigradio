@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Keeanga-Yamahtta Taylor on the Life of Howard Zinn"
-permalink: podcast/keeanga-yamahtta-taylor-on-the-life-of-howard-zinn
+permalink: podcast/keeanga-yamahtta-taylor-on-the-life-of-howard-zinn/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_161_-_KeeangaZinn.mp3
 post_id: 539
 categories: 
@@ -18,4 +18,4 @@ Historian Howard Zinn remains a model for left-wing intellectuals who want to no
 
 Thanks to Verso Books. Check out their huge collection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

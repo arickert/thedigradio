@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eco-Socialism and the Climate Crisis"
-permalink: podcast/eco-socialism-and-the-climate-crisis
+permalink: podcast/eco-socialism-and-the-climate-crisis/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_143_-_Blockadia.mp3
 post_id: 557
 categories: 
@@ -20,6 +20,6 @@ Dan spoke to Audrea Lim, Thea Riofrancos, Ashley Dawson and Daniel Aldana Cohen 
 
 Thanks to Verso. Check out so many good lefty titles at www.versobooks.com
 
-And please support this podcast with your money at Patreon.com/TheDig
+And please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
 
  

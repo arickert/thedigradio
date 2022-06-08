@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Barbara Ransby on Black Lives Matter"
-permalink: podcast/barbara-ransby-on-black-lives-matter
+permalink: podcast/barbara-ransby-on-black-lives-matter/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_DIg_-_EP_164_-_Ransby.mp3
 post_id: 536
 categories: 
@@ -16,4 +16,4 @@ by Dan’s guest, historian and activist Barbara Ransby.
 
 Thanks to Verso Books. Check out their huge selection of left-wing titles at www.versobooks.com
 
-Please support The Dig with your money at Patreon.com/TheDig
+Please support The Dig with your money at [patreon.com/thedig](patreon.com/thedig)

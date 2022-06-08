@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visions of Freedom w/ Piero Gleijeses Part 1"
-permalink: podcast/visions-of-freedom-w-piero-gleijeses-part-1
+permalink: podcast/visions-of-freedom-w-piero-gleijeses-part-1/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_332-Piero.mp3
 post_id: 2071
 categories: 
@@ -17,6 +17,6 @@ Part one of Dan's two-part interview with Piero Gleijeses on his book Visions of
 
 Learn Southern African geography by studying these maps: thedigradio.com/visions-of-freedom-maps
 
-Support The Dig with money at Patreon.com/TheDig and receive our weekly newsletter. 
+Support The Dig with money at [patreon.com/TheDig](patreon.com/TheDig) and receive our weekly newsletter. 
 
 Check out Six Faces of Globalization: Who Wins, Who Loses, and Why It Matters by Anthea Roberts and Nicolas Lamp hup.harvard.edu/catalog.php?isbn=9780674245952

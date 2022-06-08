@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bad Objects with Andrea Long Chu and Marissa Brostoff"
-permalink: podcast/bad-objects-with-andrea-long-chu-and-marissa-brostoff
+permalink: podcast/bad-objects-with-andrea-long-chu-and-marissa-brostoff/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_168_-_ChuBrostoff.mp3
 post_id: 532
 categories: 
@@ -18,4 +18,4 @@ Marissa Brostoff and Andrea Long Chu discuss Sex and the City and The X-Files, u
 
 Thank you to Verso Books. Check out their huge selection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

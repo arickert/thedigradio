@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Capitalism and Slavery. Part 1."
-permalink: podcast/capitalism-and-slavery-part-1
+permalink: podcast/capitalism-and-slavery-part-1/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_196-SlavHint1.mp3
 post_id: 988
 categories: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Newsletter #5: Desire Is Political, with Amia Srinivasan"
-permalink: newsletter5
+permalink: newsletter5/
 audiolink: 
 post_id: 2027
 categories:  []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kaniela Ing Is Fighting for Aloha"
-permalink: podcast/kaniela-ing-is-fighting-for-aloha
+permalink: podcast/kaniela-ing-is-fighting-for-aloha/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_134_-_Ing.mp3
 post_id: 566
 categories: 
@@ -19,6 +19,6 @@ Live recording of The Dig coming up in New York City. Friday, August 17, 7 PM at
 
 Thanks to Verso Books. Check out Radical Technologies: The Design of Everyday Life by Adam Greenfield versobooks.com/books/2742-radical-technologies
 
-Support this podcast with your $ at patreon.com/TheDig to receive our weekly newsletter
+Support this podcast with your $ at [patreon.com/TheDig](patreon.com/TheDig) to receive our weekly newsletter
 
  

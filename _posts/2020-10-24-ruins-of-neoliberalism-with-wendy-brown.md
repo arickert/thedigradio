@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ruins of Neoliberalism with Wendy Brown"
-permalink: podcast/ruins-of-neoliberalism-with-wendy-brown
+permalink: podcast/ruins-of-neoliberalism-with-wendy-brown/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_277-Brown.mp3
 post_id: 1780
 categories: 

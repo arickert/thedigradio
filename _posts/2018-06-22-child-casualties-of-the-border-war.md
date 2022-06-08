@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Child Casualties of the Border War"
-permalink: podcast/child-casualties-of-the-border-war
+permalink: podcast/child-casualties-of-the-border-war/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_122_-_3.mp3
 post_id: 578
 categories: 

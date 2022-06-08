@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Contradictions with Eric Levitz"
-permalink: podcast/contradictions-with-eric-levitz
+permalink: podcast/contradictions-with-eric-levitz/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_181_-_Levitz.mp3
 post_id: 519
 categories: 
@@ -16,4 +16,4 @@ magazine provides the sort of consistently thoughtful and deeply contextualized 
 Thanks to University of California Press. 
 [Check out American Prophet: The Life and Work of CareyMcWilliams](https://www.ucpress.edu/book/9780520304291/american-prophet) by Peter Richardson, with a foreword from Mike Davis.
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

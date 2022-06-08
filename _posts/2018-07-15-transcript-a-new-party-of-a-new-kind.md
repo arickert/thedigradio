@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: A New Party of a New Kind"
-permalink: transcripts/transcript-a-new-party-of-a-new-kind
+permalink: transcripts/transcript-a-new-party-of-a-new-kind/
 audiolink: 
 post_id: 1311
 categories:  []

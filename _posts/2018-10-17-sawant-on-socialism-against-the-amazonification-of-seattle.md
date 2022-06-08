@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sawant on Socialism Against the Amazonification of Seattle"
-permalink: podcast/sawant-on-socialism-against-the-amazonification-of-seattle
+permalink: podcast/sawant-on-socialism-against-the-amazonification-of-seattle/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_155_-_Sawant.mp3
 post_id: 545
 categories: 
@@ -44,4 +44,4 @@ StartFragmentEndFragment
 
 Thanks to Verso Books. Check out their enormous catalogue of left-wing books at www.versobooks.com
 
-Please support this podcast with money at Patreon.com/TheDig
+Please support this podcast with money at [patreon.com/thedig](patreon.com/thedig)

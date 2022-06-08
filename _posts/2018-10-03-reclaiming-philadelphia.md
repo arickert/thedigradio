@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reclaiming Philadelphia"
-permalink: podcast/reclaiming-philadelphia
+permalink: podcast/reclaiming-philadelphia/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_151_-_Reclaim.mp3
 post_id: 549
 categories: 
@@ -19,4 +19,4 @@ An interview with three members of Reclaim Philadelphia, which emerged from the 
 
 Thanks to Verso Books. Peruse their huge collection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

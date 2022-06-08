@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Combat Liberalism w/ Olúfẹ́mi Táíwò, Mindy Isser, & Zachary Hershman"
-permalink: podcast/combat-liberalism-w-olufemi-taiwo-mindy-isser-zachary-hershman
+permalink: podcast/combat-liberalism-w-olufemi-taiwo-mindy-isser-zachary-hershman/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_302-CombatLibs.mp3
 post_id: 1944
 categories: 

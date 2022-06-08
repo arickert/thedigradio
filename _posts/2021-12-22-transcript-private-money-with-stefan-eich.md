@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Private Money with Stefan Eich"
-permalink: transcripts/private-money-with-stefan-eich
+permalink: transcripts/private-money-with-stefan-eich/
 audiolink: 
 post_id: 3046
 categories:
@@ -18,6 +18,6 @@ Episode two of our two-part series on cryptocurrency: political theorist Stefan 
 
 Read Stefan's article: static1.squarespace.com/static/5ae8a7b625bf02c0b85aec02/t/5c923c13eef1a1ce843836ff/1553087508427/Stefan+Eich%2C+Old+Utopias%2C+New+Tax+Havens+%282019%29.pdf 
 
-Support The Dig at Patreon.com/TheDig
+Support The Dig at [patreon.com/thedig](patreon.com/thedig)
 
 Check out We're Not Here to Entertain: Punk Rock, Ronald Reagan, and the Real Culture War of 1980s America by Kevin Mattson global.oup.com/academic/product/were-not-here-to-entertain-9780190908232

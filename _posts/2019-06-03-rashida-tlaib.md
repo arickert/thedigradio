@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rashida Tlaib"
-permalink: podcast/rashida-tlaib
+permalink: podcast/rashida-tlaib/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_200-Tlaib.mp3
 post_id: 1093
 categories: 

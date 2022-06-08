@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Newsletter #1: The War on Terror Made Our World"
-permalink: newsletter1
+permalink: newsletter1/
 audiolink: 
 post_id: 2027
 categories:  []

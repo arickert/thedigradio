@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Madawi al-Rasheed on Saudi Royal Brutality"
-permalink: podcast/madawi-al-rasheed-on-saudi-royal-brutality
+permalink: podcast/madawi-al-rasheed-on-saudi-royal-brutality/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_160_-_alRasheed.mp3
 post_id: 540
 categories: 
@@ -16,4 +16,4 @@ The brutality of the Saudi royal family had been hiding in plain sight. It was a
 
 Thanks to Verso Books. Check out their huge collection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

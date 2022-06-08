@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Keywords of Capitalism with John Patrick Leary"
-permalink: podcast/keywords-of-capitalism-with-john-patrick-leary
+permalink: podcast/keywords-of-capitalism-with-john-patrick-leary/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-Ep_215-Leary.mp3
 post_id: 1342
 categories: 

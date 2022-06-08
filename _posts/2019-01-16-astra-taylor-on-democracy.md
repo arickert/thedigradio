@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Astra Taylor on Democracy"
-permalink: podcast/astra-taylor-on-democracy
+permalink: podcast/astra-taylor-on-democracy/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_174_-_TaylorDemocracy.mp3
 post_id: 526
 categories: 
@@ -19,4 +19,4 @@ editor Alyssa Battistoni interviews Astra Taylor on her new film
 
 Thanks to Verso Books. Check out their huge selection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

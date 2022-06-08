@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Planet to Win with Thea Riofrancos and Daniel Aldana Cohen"
-permalink: podcast/planet-to-win-with-thea-riofrancos-and-daniel-aldana-cohen
+permalink: podcast/planet-to-win-with-thea-riofrancos-and-daniel-aldana-cohen/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_234-TR-DAC.mp3
 post_id: 1436
 categories: 

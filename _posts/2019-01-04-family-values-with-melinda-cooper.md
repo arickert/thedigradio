@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Family Values with Melinda Cooper"
-permalink: podcast/family-values-with-melinda-cooper
+permalink: podcast/family-values-with-melinda-cooper/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_172_-_Cooper.mp3
 post_id: 528
 categories: 
@@ -17,6 +17,6 @@ Dan interviews Melinda Cooper about her book, Family Values: Between Neoliberali
 
 Thanks to Verso Books, which has a huge collection of excellent left-wing titles at www.versobooks.com
 
-Support this podcast with your money at Patreon.com/TheDig
+Support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
 
  

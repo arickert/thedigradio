@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Next Shift with Gabriel Winant"
-permalink: podcast/next-shift-with-gabriel-winant
+permalink: podcast/next-shift-with-gabriel-winant/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_339-Winant.mp3
 post_id: 2101
 categories: 
@@ -15,6 +15,6 @@ Historian Gabriel Winant discusses The Next Shift: The Fall of Industry and the 
 
 Listen to my past interview with Winant on the social worlds that make US politics and how that sociality is rooted in the economy, carceral state, social media, religion, and more thedigradio.com/podcast/the-social-question-with-gabriel-winant
 
-Support this podcast at Patreon.com/TheDig
+Support this podcast at [patreon.com/thedig](patreon.com/thedig)
 
 Check out The After-Normal: Brief, Alphabetical Essays on a Changing Planet, by David Carlin and Nicole Walker rosemetalpress.com/books/the-after-normal

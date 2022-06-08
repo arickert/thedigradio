@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Afghanistan with Tariq Ali"
-permalink: transcript/afghanistan-with-tariq-ali
+permalink: transcript/afghanistan-with-tariq-ali/
 audiolink: 
 post_id: 3043
 categories:
@@ -19,5 +19,5 @@ Legendary socialist scholar Tariq Ali on the long history of Afghanistan: the 19
 
 Pre-order Ali's forthcoming book The Forty-Year War in Afghanistan: A Chronicle Foretold versobooks.com/books/3939-the-forty-year-war-in-afghanistan
 
-Support this podcast at Patreon.com/TheDig and receive our weekly newsletter
+Support this podcast at [patreon.com/TheDig](patreon.com/TheDig) and receive our weekly newsletter
 

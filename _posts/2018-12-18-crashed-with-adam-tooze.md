@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crashed with Adam Tooze"
-permalink: podcast/crashed-with-adam-tooze
+permalink: podcast/crashed-with-adam-tooze/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_170_-Tooze.mp3
 post_id: 530
 categories: 
@@ -14,4 +14,4 @@ Historian Adam Tooze, the author of Crashed: How a Decade of Financial Crises Ch
 
 Thanks to Verso Books. Check out their huge selection of left-wing titles at www.versobooks.com
 
-Please support The Dig with your money at patreon.com/TheDig
+Please support The Dig with your money at [patreon.com/thedig](patreon.com/thedig)

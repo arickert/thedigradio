@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The French Situation with Sebastian Budgen and Danièle Obono"
-permalink: podcast/the-french-situation-with-sebastian-budgen-and-daniele-obono
+permalink: podcast/the-french-situation-with-sebastian-budgen-and-daniele-obono/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_203-France.mp3
 post_id: 1100
 categories: 

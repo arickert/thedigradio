@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Julia Salazar Brings Socialist Insurgency to Brooklyn"
-permalink: podcast/julia-salazar-brings-socialist-insurgency-to-brooklyn
+permalink: podcast/julia-salazar-brings-socialist-insurgency-to-brooklyn/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_130_-_Salazar.mp3
 post_id: 570
 categories: 
@@ -16,4 +16,4 @@ This week's super series on Alexandria Ocasio-Cortez's victory and the future of
 Get involved with the campaign at 
 salazarforsenate.com
 
-Support this podcast with $ and access our weekly newsletter at patreon.com/TheDig
+Support this podcast with $ and access our weekly newsletter at [patreon.com/thedig](patreon.com/thedig)

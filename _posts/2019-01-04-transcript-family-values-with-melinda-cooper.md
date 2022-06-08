@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Family Values with Melinda Cooper"
-permalink: transcripts/transcript-family-values-with-melinda-cooper
+permalink: transcripts/transcript-family-values-with-melinda-cooper/
 audiolink: 
 post_id: 1345
 categories:  []

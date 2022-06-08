@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Strike! with Jane McAlevey"
-permalink: podcast/strike-with-jane-mcalevey
+permalink: podcast/strike-with-jane-mcalevey/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_189_-_McAlevey.mp3
 post_id: 511
 categories: 
@@ -24,4 +24,4 @@ And her
 
 Thanks to Verso. Check out their huge selection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

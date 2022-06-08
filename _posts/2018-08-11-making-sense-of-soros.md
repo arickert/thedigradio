@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making Sense of Soros"
-permalink: podcast/making-sense-of-soros
+permalink: podcast/making-sense-of-soros/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_138_-_Bessner.mp3
 post_id: 562
 categories: 
@@ -19,4 +19,4 @@ Live recording of The Dig coming up in New York City. Friday, August 17, 7 PM at
 
 Thanks to Verso Books. Check out The Amateur: The Pleasures of Doing What You Love by Andy Merrifield versobooks.com/books/2765-the-amateur
 
-Support this podcast with your $ at patreon.com/TheDig to receive our weekly newsletter
+Support this podcast with your $ at [patreon.com/TheDig](patreon.com/TheDig) to receive our weekly newsletter

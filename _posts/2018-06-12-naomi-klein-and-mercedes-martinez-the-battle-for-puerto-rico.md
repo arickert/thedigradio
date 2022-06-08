@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Naomi Klein and Mercedes Martínez: The Battle for Puerto Rico"
-permalink: podcast/naomi-klein-and-mercedes-martinez-the-battle-for-puerto-rico
+permalink: podcast/naomi-klein-and-mercedes-martinez-the-battle-for-puerto-rico/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_120_-_KleinMartinez.mp3
 post_id: 580
 categories: 
@@ -23,4 +23,4 @@ Thanks to Verso Books. Check out A World to Win: The Life and Works of Karl Marx
 
 Also, register for the upcoming Socialism 2018 conference at SocialismConference.org
 
-Support this podcast with $ and get our weekly newsletter at patreon.com/TheDig
+Support this podcast with $ and get our weekly newsletter at [patreon.com/thedig](patreon.com/thedig)

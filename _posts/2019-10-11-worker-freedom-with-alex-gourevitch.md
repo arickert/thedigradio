@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Worker Freedom with Alex Gourevitch"
-permalink: podcast/worker-freedom-with-alex-gourevitch
+permalink: podcast/worker-freedom-with-alex-gourevitch/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_222-Gourevitch.mp3
 post_id: 1396
 categories: 

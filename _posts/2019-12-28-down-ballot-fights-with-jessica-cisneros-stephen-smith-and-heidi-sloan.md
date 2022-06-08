@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Down-Ballot Fights with Jessica Cisneros, Stephen Smith, and Heidi Sloan"
-permalink: podcast/down-ballot-fights-with-jessica-cisneros-stephen-smith-and-heidi-sloan
+permalink: podcast/down-ballot-fights-with-jessica-cisneros-stephen-smith-and-heidi-sloan/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_233-LeftRaces.mp3
 post_id: 1433
 categories: 

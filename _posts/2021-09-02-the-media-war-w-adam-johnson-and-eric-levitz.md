@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Media War w/ Adam Johnson and Eric Levitz"
-permalink: podcast/the-media-war-w-adam-johnson-and-eric-levitz
+permalink: podcast/the-media-war-w-adam-johnson-and-eric-levitz/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_319-MediaWar.mp3
 post_id: 2016
 categories: 
@@ -21,4 +21,4 @@ thecolumn.substack.com/p/on-afghanistan-withdrawal-nyts-peter
 
 Sign up for Adam's Substack: thecolumn.substack.com
 
-Support The Dig at Patreon.com/TheDig and get our (coming soon) weekly newsletter
+Support The Dig at [patreon.com/TheDig](patreon.com/TheDig) and get our (coming soon) weekly newsletter

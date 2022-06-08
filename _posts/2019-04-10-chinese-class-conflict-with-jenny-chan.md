@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chinese Class Conflict with Jenny Chan"
-permalink: podcast/chinese-class-conflict-with-jenny-chan
+permalink: podcast/chinese-class-conflict-with-jenny-chan/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_191_-_Chan.mp3
 post_id: 509
 categories: 
@@ -15,4 +15,4 @@ In the US, China is often viewed at best as a nefarious and enigmatic rival and 
 
 Thanks to Verso Books. Check out their huge selection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

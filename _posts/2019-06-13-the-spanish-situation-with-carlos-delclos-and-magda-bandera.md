@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Spanish Situation with Carlos Delclós and Magda Bandera"
-permalink: podcast/the-spanish-situation-with-carlos-delclos-and-magda-bandera
+permalink: podcast/the-spanish-situation-with-carlos-delclos-and-magda-bandera/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_204-Spain.mp3
 post_id: 1138
 categories: 

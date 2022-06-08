@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gun Culture is Neoliberalism with Patrick Blanchfield"
-permalink: podcast/gun-culture-is-neoliberalism-with-patrick-blanchfield
+permalink: podcast/gun-culture-is-neoliberalism-with-patrick-blanchfield/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_93_-_BlanchfieldGuns.mp3
 post_id: 607
 categories: 

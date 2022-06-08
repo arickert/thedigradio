@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lessons from the New Left with Max Elbaum"
-permalink: podcast/lessons-from-the-new-left-with-max-elbaum
+permalink: podcast/lessons-from-the-new-left-with-max-elbaum/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_153_-_Elbaum.mp3
 post_id: 547
 categories: 
@@ -17,4 +17,4 @@ Let’s ensure that the history of American socialism doesn’t repeat as farce.
 Thanks to Verso Books. Check out their huge catalogue of left-wing titles, including 
  at www.versobooks.com
 
-Please support this podcast with MONEY at patreon.com/TheDig
+Please support this podcast with MONEY at [patreon.com/thedig](patreon.com/thedig)

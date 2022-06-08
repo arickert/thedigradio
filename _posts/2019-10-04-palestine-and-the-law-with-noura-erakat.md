@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Palestine and the Law with Noura Erakat"
-permalink: podcast/palestine-and-the-law-with-noura-erakat
+permalink: podcast/palestine-and-the-law-with-noura-erakat/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_221-Noura.mp3
 post_id: 1393
 categories: 

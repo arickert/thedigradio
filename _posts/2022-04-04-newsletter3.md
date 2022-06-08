@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Newsletter #3: Imagining Utopia in a Time of Climate Disaster with Kim Stanley Robinson"
-permalink: newsletter3
+permalink: newsletter3/
 audiolink: 
 post_id: 2027
 categories:  []

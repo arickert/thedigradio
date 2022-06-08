@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Colonialism in Puerto Rico with Yarimar Bonilla"
-permalink: podcast/colonialism-in-puerto-rico-with-yarimar-bonilla
+permalink: podcast/colonialism-in-puerto-rico-with-yarimar-bonilla/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_227-Bonilla.mp3
 post_id: 1410
 categories: 

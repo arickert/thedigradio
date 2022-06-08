@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Populism's Power"
-permalink: podcast/populisms-power
+permalink: podcast/populisms-power/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_176_-_GrattanRiofrancos.mp3
 post_id: 524
 categories: 
@@ -23,6 +23,6 @@ nplusonemag.com/online-only/online-only/populism-without-the-people/
 
 Thanks to Verso. Check out their huge collection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
 
 EndFragment

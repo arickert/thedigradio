@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Theory of ISIS with Mohammad-Mahmoud Ould Mohamedou"
-permalink: podcast/a-theory-of-isis-with-mohammad-mahmoud-ould-mohamedou
+permalink: podcast/a-theory-of-isis-with-mohammad-mahmoud-ould-mohamedou/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_186_-_Mahmoud.mp3
 post_id: 514
 categories: 
@@ -18,4 +18,4 @@ by Peter Linebaugh ucpress.edu/book/9780520299467/red-round-globe-hot-burning
 
 And to Verso Books. Check out their huge selection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

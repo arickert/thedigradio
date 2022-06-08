@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Worldmaking after Empire with Adom Getachew"
-permalink: podcast/worldmaking-after-empire-with-adom-getachew
+permalink: podcast/worldmaking-after-empire-with-adom-getachew/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_224-Adom-G.mp3
 post_id: 1402
 categories: 

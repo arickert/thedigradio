@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Rashida Tlaib"
-permalink: transcripts/rashida-tlaib
+permalink: transcripts/rashida-tlaib/
 audiolink: 
 post_id: 3052
 categories:

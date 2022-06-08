@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Palestine Politics with Linda Sarsour"
-permalink: podcast/palestine-politics-with-linda-sarsour
+permalink: podcast/palestine-politics-with-linda-sarsour/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_179_-_Sarsour.mp3
 post_id: 521
 categories: 
@@ -21,4 +21,4 @@ Thanks to Verso. Check out their huge selection of left-wing titles at www.verso
 
  
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

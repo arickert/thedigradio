@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "David Harvey on Capital"
-permalink: podcast/david-harvey-on-capital
+permalink: podcast/david-harvey-on-capital/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_121_-_Harvey.mp3
 post_id: 579
 categories: 
@@ -29,7 +29,7 @@ Register for the Socialism 2018 conference (July 5-8, Chicago!) at socialismconf
 
  
 
-And support this podcast with $$ and access our weekly newsletter at patreon.com/TheDig
+And support this podcast with $$ and access our weekly newsletter at [patreon.com/thedig](patreon.com/thedig)
 
 
 

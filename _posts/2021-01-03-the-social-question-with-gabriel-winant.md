@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Social Question with Gabriel Winant"
-permalink: podcast/the-social-question-with-gabriel-winant
+permalink: podcast/the-social-question-with-gabriel-winant/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_287-Winant.mp3
 post_id: 1824
 categories: 

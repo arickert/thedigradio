@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Astra Taylor on Democracy"
-permalink: transcripts/transcript-astra-taylor-on-democracy
+permalink: transcripts/transcript-astra-taylor-on-democracy/
 audiolink: 
 post_id: 1251
 categories:  []

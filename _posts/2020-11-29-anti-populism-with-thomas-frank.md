@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anti-Populism with Thomas Frank"
-permalink: podcast/anti-populism-with-thomas-frank
+permalink: podcast/anti-populism-with-thomas-frank/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_282-Frank.mp3
 post_id: 1798
 categories: 

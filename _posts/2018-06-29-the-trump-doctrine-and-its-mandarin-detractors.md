@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Trump Doctrine and Its Mandarin Detractors"
-permalink: podcast/the-trump-doctrine-and-its-mandarin-detractors
+permalink: podcast/the-trump-doctrine-and-its-mandarin-detractors/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_124_-_Wertheim.mp3
 post_id: 576
 categories: 

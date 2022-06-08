@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Science for the People with Nafis Hasan and Frank Rosenthal"
-permalink: podcast/science-for-the-people-with-nafis-hasan-and-frank-rosenthal
+permalink: podcast/science-for-the-people-with-nafis-hasan-and-frank-rosenthal/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_258-SFTP.mp3
 post_id: 1536
 categories: 

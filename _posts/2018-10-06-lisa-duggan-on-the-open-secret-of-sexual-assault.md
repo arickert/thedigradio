@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lisa Duggan on the Open Secret of Sexual Assault"
-permalink: podcast/lisa-duggan-on-the-open-secret-of-sexual-assault
+permalink: podcast/lisa-duggan-on-the-open-secret-of-sexual-assault/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_152_-_Duggan.mp3
 post_id: 548
 categories: 
@@ -14,4 +14,4 @@ Christine Blasey Ford and other women have revealed that our political-economic 
 
 Thanks to Verso Books. Check out their huge catalogue of left-wing books at versobooks.com
 
-And please support this podcast with your money at Patreon.com/TheDig
+And please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

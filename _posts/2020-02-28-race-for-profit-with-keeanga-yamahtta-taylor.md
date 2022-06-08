@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Race for Profit with Keeanga-Yamahtta Taylor"
-permalink: podcast/race-for-profit-with-keeanga-yamahtta-taylor
+permalink: podcast/race-for-profit-with-keeanga-yamahtta-taylor/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_242-KYT.mp3
 post_id: 1465
 categories: 

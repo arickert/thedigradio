@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Socialism Wins in Chicago"
-permalink: podcast/why-socialism-wins-in-chicago
+permalink: podcast/why-socialism-wins-in-chicago/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_188_-_Chicago.mp3
 post_id: 512
 categories: 
@@ -18,4 +18,4 @@ web editor Miles Kampf-Lassin on how years of grassroots organizing—and partne
 
 Thanks to Verso. Check out their huge selection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

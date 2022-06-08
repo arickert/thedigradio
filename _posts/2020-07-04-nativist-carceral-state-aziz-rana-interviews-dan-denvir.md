@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nativist Carceral State: Aziz Rana interviews Dan Denvir"
-permalink: podcast/nativist-carceral-state-aziz-rana-interviews-dan-denvir
+permalink: podcast/nativist-carceral-state-aziz-rana-interviews-dan-denvir/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_262-Rana-Denvir.mp3
 post_id: 1716
 categories: 

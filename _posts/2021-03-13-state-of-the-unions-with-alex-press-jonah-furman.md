@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "State of the Unions with Alex Press & Jonah Furman"
-permalink: podcast/state-of-the-unions-with-alex-press-jonah-furman
+permalink: podcast/state-of-the-unions-with-alex-press-jonah-furman/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_296-Press-Furman.mp3
 post_id: 1915
 categories: 

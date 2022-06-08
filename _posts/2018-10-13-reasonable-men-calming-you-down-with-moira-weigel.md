@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reasonable Men Calming You Down with Moira Weigel"
-permalink: podcast/reasonable-men-calming-you-down-with-moira-weigel
+permalink: podcast/reasonable-men-calming-you-down-with-moira-weigel/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_154_-_MWeigel.mp3
 post_id: 546
 categories: 
@@ -16,4 +16,4 @@ Today, we’re addressing one of the most obnoxious corners of the identity poli
 
 Thanks to Verso Books. Check out their huge catalogue of left-wing books at www.versobooks.com
 
-Please support this podcast with you money at patreon.com/TheDig
+Please support this podcast with you money at [patreon.com/thedig](patreon.com/thedig)

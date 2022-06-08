@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Astra Taylor on Socialism, Democracy, Liberalism"
-permalink: podcast/astra-taylor-on-socialism-democracy-liberalism
+permalink: podcast/astra-taylor-on-socialism-democracy-liberalism/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-208-Taylor.mp3
 post_id: 1234
 categories: 
@@ -20,4 +20,4 @@ What is Democracy?on your preferred streaming service.
 And her book, 
 Democracy May Not Exist, But We'll Miss It When It's Gone, here: us.macmillan.com/books/9781250179845
 
-Support this podcast with your money at Patreon.com/TheDig
+Support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

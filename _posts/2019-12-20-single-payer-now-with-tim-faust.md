@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Single-Payer Now! with Tim Faust"
-permalink: podcast/single-payer-now-with-tim-faust
+permalink: podcast/single-payer-now-with-tim-faust/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_232-Faust.mp3
 post_id: 1430
 categories: 

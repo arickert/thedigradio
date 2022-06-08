@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Antibody, Ep 1: Existing Conditions"
-permalink: podcast/antibody-ep-1-existing-conditions
+permalink: podcast/antibody-ep-1-existing-conditions/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/Antibody_Episode_1.mp3
 post_id: 1665
 categories: 

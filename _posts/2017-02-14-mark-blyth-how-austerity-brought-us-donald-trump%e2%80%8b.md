@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mark Blyth: How Austerity Brought Us Donald Trump​"
-permalink: podcast/mark-blyth-how-austerity-brought-us-donald-trump/​
+permalink: podcast/mark-blyth-how-austerity-brought-us-donald-trump/​/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP11-_Blyth.mp3
 post_id: 690
 categories: 

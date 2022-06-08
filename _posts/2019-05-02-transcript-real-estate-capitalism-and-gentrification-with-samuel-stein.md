@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Real Estate Capitalism and Gentrification with Samuel Stein"
-permalink: transcripts/transcript-real-estate-capitalism-and-gentrification-with-samuel-stein
+permalink: transcripts/transcript-real-estate-capitalism-and-gentrification-with-samuel-stein/
 audiolink: 
 post_id: 1110
 categories: 
@@ -603,4 +603,4 @@ SS:
 
 DD:
  Samuel Stein is a PhD candidate in geography at the Graduate Center of the City University of New York, and author of 
-Capital City: Gentrification and the Real Estate State, out now from Verso Books. Thank you for listening to The Dig, from Jacobin Magazine. As Marx once said after remarking that, "the rent of land is established as a result of the struggle between tenant and landlord." While other podcasts have only interpreted the world in various ways, our point is to change it. We are posting new episodes every week, sometimes twice, recently more like once, but we'll be back to twice soon. The Dig was produced by Alex Lewis. Music by Jeffrey Brodsky. Thea Riofrancos is our managing editor. Our communications coordinator is Logan Dreher. Follow us on Twitter @thedigradio and please find us wherever you get podcasts and subscribe. And if it's on iTunes, or wherever, please leave us a nice review. Those reviews help introduce us to new listeners. What also does that is you telling other people about the show. Please make propaganda for us. And do find us at patreon.com/thedig and make a monthly contribution to keep this operation running strong.
+Capital City: Gentrification and the Real Estate State, out now from Verso Books. Thank you for listening to The Dig, from Jacobin Magazine. As Marx once said after remarking that, "the rent of land is established as a result of the struggle between tenant and landlord." While other podcasts have only interpreted the world in various ways, our point is to change it. We are posting new episodes every week, sometimes twice, recently more like once, but we'll be back to twice soon. The Dig was produced by Alex Lewis. Music by Jeffrey Brodsky. Thea Riofrancos is our managing editor. Our communications coordinator is Logan Dreher. Follow us on Twitter @thedigradio and please find us wherever you get podcasts and subscribe. And if it's on iTunes, or wherever, please leave us a nice review. Those reviews help introduce us to new listeners. What also does that is you telling other people about the show. Please make propaganda for us. And do find us at [patreon.com/TheDig](patreon.com/TheDig) and make a monthly contribution to keep this operation running strong.

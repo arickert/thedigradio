@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Newsletter #2: Occupy Paved the Way for Today’s Reborn Left"
-permalink: newsletter2
+permalink: newsletter2/
 audiolink: 
 post_id: 2027
 categories:  []

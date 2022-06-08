@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Settler-Colonial Revolutionaries with Joshua Simon"
-permalink: podcast/settler-colonial-revolutionaries-with-joshua-simon
+permalink: podcast/settler-colonial-revolutionaries-with-joshua-simon/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_225-Simon.mp3
 post_id: 1405
 categories: 

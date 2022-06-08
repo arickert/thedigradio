@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Abolish the Family with Sophie Lewis"
-permalink: podcast/abolish-the-family-with-sophie-lewis
+permalink: podcast/abolish-the-family-with-sophie-lewis/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_209-Lewis.mp3
 post_id: 1241
 categories: 

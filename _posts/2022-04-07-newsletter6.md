@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Newsletter #6: US Workers Are Pissed Off and Striking Back"
-permalink: newsletter6
+permalink: newsletter6/
 audiolink: 
 post_id: 2027
 categories:  []

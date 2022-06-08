@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unforgetting with Roberto Lovato"
-permalink: podcast/unforgetting-with-roberto-lovato
+permalink: podcast/unforgetting-with-roberto-lovato/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_276-Lovato.mp3
 post_id: 1777
 categories: 

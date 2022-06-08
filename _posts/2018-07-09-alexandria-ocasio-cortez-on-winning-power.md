@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alexandria Ocasio-Cortez on Winning Power"
-permalink: podcast/alexandria-ocasio-cortez-on-winning-power
+permalink: podcast/alexandria-ocasio-cortez-on-winning-power/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_127_-_AOC.mp3
 post_id: 573
 categories: 
@@ -21,7 +21,7 @@ Thanks to Verso Books. Check out A World to Win: The Life and Works of Karl Marx
 
 
 
-And support this podcast with $ and access our weekly newsletter at patreon.com/TheDig
+And support this podcast with $ and access our weekly newsletter at [patreon.com/thedig](patreon.com/thedig)
 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hong Kong with Au Loong Yu"
-permalink: podcast/hong-kong-with-au-loong-yu
+permalink: podcast/hong-kong-with-au-loong-yu/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_238-AuLoong.mp3
 post_id: 1452
 categories: 

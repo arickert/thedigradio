@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Color of Economic Anxiety"
-permalink: podcast/the-color-of-economic-anxiety
+permalink: podcast/the-color-of-economic-anxiety/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_159_-_Jabali.mp3
 post_id: 541
 categories: 
@@ -17,4 +17,4 @@ Recently, Dan spoke to Nikhil Pal Singh about the unfortunate and never-ending d
 
 Thanks to Verso Books. Check out their huge collection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

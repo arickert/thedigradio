@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inflation Politics with Tim Barker"
-permalink: podcast/inflation-politics-with-tim-barker
+permalink: podcast/inflation-politics-with-tim-barker/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_316-Barker.mp3
 post_id: 1993
 categories: 
@@ -20,4 +20,4 @@ email digradiopod@gmail.com for PDFs of the following two articles:
 The Vietnam War and the Political Economy of Full Employment  by Dean Baker, Robert Pollin and Elizabeth Zahrt
 Class Conflict and the "Natural Rate of Unemployment" by Robert Pollin
 
-Support The Dig at Patreon.com/TheDig...and join The Dig's brand new Discord!
+Support The Dig at [patreon.com/TheDig](patreon.com/TheDig)...and join The Dig's brand new Discord!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Brazil w/ Sabrina Fernandes & Andre Pagliarini"
-permalink: podcast/brazil-w-sabrina-fernandes-andre-pagliarini
+permalink: podcast/brazil-w-sabrina-fernandes-andre-pagliarini/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_334-Brazil.mp3
 post_id: 2077
 categories: 
@@ -16,4 +16,4 @@ Bolsonaro is presiding over mass COVID deaths and the destruction of the Amazon.
 
 Check out Sabrina's Tese Onze YouTube channel youtube.com/channel/UC0fGGprihDIlQ3ykWvcb9hg
 
-Support The Dig and receive our weekly newsletter at patreon.com/TheDig
+Support The Dig and receive our weekly newsletter at [patreon.com/thedig](patreon.com/thedig)

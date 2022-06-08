@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Law in Its Majestic Equality"
-permalink: podcast/the-law-in-its-majestic-equality
+permalink: podcast/the-law-in-its-majestic-equality/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_112_-_kapczynski.mp3
 post_id: 588
 categories: 
@@ -16,6 +16,6 @@ Dan’s guest is Amy Kapczynski, professor of law at Yale Law School, and a co-c
 
 Thanks to Verso Books. Check out Police: A Field Guide by David Correia and Tyler Wall versobooks.com/books/2530-police
 
-And support this podcast with $ at patreon.com/TheDig
+And support this podcast with $ at [patreon.com/thedig](patreon.com/thedig)
 
  

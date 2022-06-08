@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Our History Is the Future with Nick Estes"
-permalink: podcast/our-history-is-the-future-with-nick-estes
+permalink: podcast/our-history-is-the-future-with-nick-estes/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_207-Estes.mp3
 post_id: 1229
 categories: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Socialist Manifesto with Bhaskar Sunkara"
-permalink: podcast/socialist-manifesto-with-bhaskar-sunkara
+permalink: podcast/socialist-manifesto-with-bhaskar-sunkara/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_214-Bhaskar.mp3
 post_id: 1321
 categories: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "It’s Iron Stache"/
-permalink: podcast/its-iron-stache
+permalink: podcast/its-iron-stache/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_89_-_Bryce.mp3
 post_id: 611
 categories: 

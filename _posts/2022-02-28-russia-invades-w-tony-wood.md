@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Russia Invades w/ Tony Wood"
-permalink: podcast/russia-invades-w-tony-wood
+permalink: podcast/russia-invades-w-tony-wood/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_346-Wood.mp3
 post_id: 2128
 categories: 
@@ -20,4 +20,4 @@ Listen to past Dig eps for context on Russia’s invasion of Ukraine:
 Tony Wood on Russia and Putin: thedigradio.com/podcast/russia-beyond-putin-with-tony-wood
 Volodymyr Ishchenko on Ukraine: thedigradio.com/podcast/ukraine-w-volodymyr-ishchenko
 
-Support The Dig at Patreon.com/TheDig
+Support The Dig at [patreon.com/thedig](patreon.com/thedig)

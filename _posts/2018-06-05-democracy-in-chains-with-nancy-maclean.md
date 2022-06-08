@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Democracy in Chains with Nancy MacLean"
-permalink: podcast/democracy-in-chains-with-nancy-maclean
+permalink: podcast/democracy-in-chains-with-nancy-maclean/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_118_-_MacLean.mp3
 post_id: 582
 categories: 
@@ -19,4 +19,4 @@ Thank you to Verso Books. Check out Deport, Deprive, Extradite: 21st Century Sta
 
 Thank you to the Socialism 2018 conference. Register now at socialismconference.org
 
-Want to get access to our stellar weekly newsletter? You can do so by making a contribution to the long-run viability of this show at Patreon.com/TheDig
+Want to get access to our stellar weekly newsletter? You can do so by making a contribution to the long-run viability of this show at [patreon.com/thedig](patreon.com/thedig)

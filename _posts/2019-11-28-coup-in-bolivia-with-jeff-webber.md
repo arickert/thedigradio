@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coup in Bolivia with Jeff Webber"
-permalink: podcast/coup-in-bolivia-with-jeff-webber
+permalink: podcast/coup-in-bolivia-with-jeff-webber/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_229-Webber.mp3
 post_id: 1415
 categories: 

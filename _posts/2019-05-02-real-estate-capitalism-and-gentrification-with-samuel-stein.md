@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Real Estate Capitalism and Gentrification with Samuel Stein"
-permalink: podcast/real-estate-capitalism-and-gentrification-with-samuel-stein
+permalink: podcast/real-estate-capitalism-and-gentrification-with-samuel-stein/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_194_-_Stein.mp3
 post_id: 506
 categories: 
@@ -23,4 +23,4 @@ Check out the English transcript of last week's Spanish-language interview with 
 
 Thanks to Verso. Check out their massive left-wing book selection at www.versobooks.com
 
-Please support us with your cash at Patreon.com/TheDig
+Please support us with your cash at [patreon.com/thedig](patreon.com/thedig)

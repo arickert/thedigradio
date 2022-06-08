@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spain Part II: Rajoy Falls"
-permalink: podcast/spain-part-ii-rajoy-falls
+permalink: podcast/spain-part-ii-rajoy-falls/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_119_-_2.mp3
 post_id: 581
 categories: 

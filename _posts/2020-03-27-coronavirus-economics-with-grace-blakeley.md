@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coronavirus Economics with Grace Blakeley"
-permalink: podcast/coronavirus-economics-with-grace-blakeley
+permalink: podcast/coronavirus-economics-with-grace-blakeley/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_248-Blakeley.mp3
 post_id: 1480
 categories: 

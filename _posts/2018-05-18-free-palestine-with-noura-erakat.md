@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Free Palestine with Noura Erakat"
-permalink: podcast/free-palestine-with-noura-erakat
+permalink: podcast/free-palestine-with-noura-erakat/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_113_-_Erakat.mp3
 post_id: 587
 categories: 
@@ -18,4 +18,4 @@ Thanks to Verso Books. Check out Street Fighting Years: An Autobiography of the 
 
 Check out the Socialism 2018 conference at socialismconference.org
 
-And support this podcast with $ at patreon.com/TheDig
+And support this podcast with $ at [patreon.com/thedig](patreon.com/thedig)

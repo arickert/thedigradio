@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un laboratorio del socialismo en Chile. Entrevista con Daniel Jadue."
-permalink: podcast/un-laboratorio-del-socialismo-en-chile-entrevista-con-daniel-jadue
+permalink: podcast/un-laboratorio-del-socialismo-en-chile-entrevista-con-daniel-jadue/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_193_-_Jadue.mp3
 post_id: 507
 categories: 

@@ -21,4 +21,4 @@ Read the full transcript from Jacobin
 
 Check out César's blog at crimmigration.com
 
-Support us at Patreon.com/TheDig
+Support us at [patreon.com/thedig](patreon.com/thedig)

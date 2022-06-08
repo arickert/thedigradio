@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cyborg Revolution with Donna Haraway"
-permalink: podcast/cyborg-revolution-with-donna-haraway
+permalink: podcast/cyborg-revolution-with-donna-haraway/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_195_-_Haraway.mp3
 post_id: 505
 categories: 

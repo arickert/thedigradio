@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Black Socialism, Nationalism, Neoliberalism with Michael Dawson"
-permalink: podcast/black-socialism-nationalism-neoliberalism-with-michael-dawson
+permalink: podcast/black-socialism-nationalism-neoliberalism-with-michael-dawson/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_217-Dawson.mp3
 post_id: 1366
 categories: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A History of Neoliberalism with Quinn Slobodian"
-permalink: podcast/a-history-of-neoliberalism-with-quinn-slobodian
+permalink: podcast/a-history-of-neoliberalism-with-quinn-slobodian/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_163_-_Slobodian.mp3
 post_id: 537
 categories: 
@@ -48,4 +48,4 @@ StartFragmentEndFragment
 
 Thanks to Verso Books and University of California Press. Check out their titles at www.versobooks.com and ucpress.edu
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

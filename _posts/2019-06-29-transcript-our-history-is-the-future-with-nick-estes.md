@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Our History Is the Future with Nick Estes"
-permalink: transcripts/transcript-our-history-is-the-future-with-nick-estes
+permalink: transcripts/transcript-our-history-is-the-future-with-nick-estes/
 audiolink: 
 post_id: 1358
 categories: 

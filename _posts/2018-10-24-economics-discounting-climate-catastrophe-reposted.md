@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Economics Discounting Climate Catastrophe. REPOSTED."
-permalink: podcast/economics-discounting-climate-catastrophe-reposted
+permalink: podcast/economics-discounting-climate-catastrophe-reposted/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_157_-_Battistoni.mp3
 post_id: 543
 categories: 

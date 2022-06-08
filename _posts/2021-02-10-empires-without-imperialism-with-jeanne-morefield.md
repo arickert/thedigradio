@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Empires Without Imperialism with Jeanne Morefield"
-permalink: podcast/empires-without-imperialism-with-jeanne-morefield
+permalink: podcast/empires-without-imperialism-with-jeanne-morefield/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_292-Morefield.mp3
 post_id: 1885
 categories: 

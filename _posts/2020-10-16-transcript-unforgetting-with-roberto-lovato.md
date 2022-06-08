@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Unforgetting with Roberto Lovato"
-permalink: transcripts/transcript-unforgetting-with-roberto-lovato
+permalink: transcripts/transcript-unforgetting-with-roberto-lovato/
 audiolink: 
 post_id: 1855
 categories: 

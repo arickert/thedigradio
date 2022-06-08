@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Global Vaccine Apartheid with Achal Prabhala"
-permalink: podcast/global-vaccine-apartheid-with-achal-prabhala
+permalink: podcast/global-vaccine-apartheid-with-achal-prabhala/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_298-Prabhala.mp3
 post_id: 1922
 categories: 
@@ -25,5 +25,5 @@ nytimes.com/2020/12/07/opinion/covid-vaccines-patents.html
 nytimes.com/2021/02/05/opinion/covid-vaccines-china-russia.html
 theguardian.com/commentisfree/2020/oct/15/peoples-vaccine-coronavirus-covid-wto
 
-Support this podcast at Patreon.com/TheDig
+Support this podcast at [patreon.com/thedig](patreon.com/thedig)
 Join the Dig Book Club at thedigradio.com/dig-book-club

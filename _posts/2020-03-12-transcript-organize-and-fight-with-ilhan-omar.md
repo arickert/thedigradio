@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcript: Organize and Fight with Ilhan Omar"
-permalink: transcripts/organize-and-fight-with-ilhan-omar
+permalink: transcripts/organize-and-fight-with-ilhan-omar/
 audiolink: 
 post_id: 3040
 categories:

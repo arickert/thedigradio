@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Italian Left’s Collapse with David Broder"
-permalink: podcast/the-italian-lefts-collapse-with-david-broder
+permalink: podcast/the-italian-lefts-collapse-with-david-broder/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_125_-_Broder_.mp3
 post_id: 575
 categories: 
@@ -22,6 +22,6 @@ And register for the Socialism 2018 conference (July 5-8, Chicago!) at socialism
 
  
 
-And support this podcast with $ and access our weekly newsletter at patreon.com/TheDig
+And support this podcast with $ and access our weekly newsletter at [patreon.com/thedig](patreon.com/thedig)
 
  

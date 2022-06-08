@@ -17,4 +17,4 @@ Listen to Weber discuss her book How China Escaped Shock Therapy: thedigradio.co
 
 Look at Rupert’s precious puppy: twitter.com/rupert_russell/status/1511428696409837573?s=20&t=OPVNgfXuokFY6ZQYRkxe4g
 
-Support this podcast at Patreon.com/TheDig
+Support this podcast at [patreon.com/thedig](patreon.com/thedig)

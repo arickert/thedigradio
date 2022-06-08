@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Matt Bruenig Spreads the Wealth Around"
-permalink: podcast/matt-bruenig-spreads-the-wealth-around
+permalink: podcast/matt-bruenig-spreads-the-wealth-around/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_146_-_BruenigSWF.mp3
 post_id: 554
 categories: 
@@ -15,4 +15,4 @@ What socialism should offer is freedom by way of power and democratic control ov
 
 Thanks to Verso Books. Check out their huge catalogue of left-wing titles at versobooks.com
 
-Please support this podcast with your money at Patreon.com/TheDig
+Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)

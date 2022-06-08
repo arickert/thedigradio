@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Newsletter #8: Cuba’s Key Role in Fighting Apartheid in Angola Is All but Forgotten Today"
-permalink: newsletter8
+permalink: newsletter8/
 audiolink: 
 post_id: 2027
 categories:  []
