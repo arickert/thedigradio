@@ -21,6 +21,7 @@ jobs:
           path: ${{ env.DEVOPS_DIR }}
 
       - name: Hello World
+        run: pip install bs4
         run: python ${{ env.DEVOPS_DIR }}/hello_world.py
         shell: sh
 
