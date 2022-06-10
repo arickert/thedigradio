@@ -18,4 +18,4 @@ Support this podcast at [Patreon.com/TheDig](Patreon.com/TheDig) and get our wee
 
 Check out our most recent newsletter on the [Progressive Era roots of Clintonism’s conception of the “deserving poor”](thedigradio.com/newsletter32)
 
-Register for Socialism 2022 socialismconference.org 
+Register for [Socialism 2022](socialismconference.org)
