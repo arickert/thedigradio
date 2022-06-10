@@ -24,7 +24,7 @@ jobs:
           pip install beautifulsoup4
 
       - name: execute script
-        run: python ../scripts/update-episodes.py
+        run: python /scripts/update-episodes.py
       - name: Commit to the repo
         run: |
           git config --global user.name "GitHub Actions Bot"
