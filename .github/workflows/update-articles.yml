@@ -27,6 +27,3 @@ jobs:
           git add -all
           git commit -am "Update articles list"
           git push origin master
-
-
-#or git add .?
