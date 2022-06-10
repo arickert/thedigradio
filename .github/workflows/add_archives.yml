@@ -9,7 +9,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      - name: Check repo
       - uses: actions/checkout@v2
 
       - name: Jekyll Blog Archive
