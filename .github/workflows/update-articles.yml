@@ -1,9 +1,9 @@
 name: Update Articles
 
 on:
-  workflow_dispatch:
   schedule:
     - cron:  '*/5 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -11,7 +11,7 @@ jobs:
     
     steps:
       - name: Check repo
-      - uses: actions/checkout@v2
+        uses: actions/checkout@v2
       - name: Run script to get articles from dev.to
         uses: actions/setup-python@v2
         with:
