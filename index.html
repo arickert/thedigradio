@@ -35,7 +35,7 @@ title: Home
         {% if post2.audiolink != null %}
         <li style="font-size:2rem">
           <span style="color:#B2B2B2">Click </span>
-          <a href="{{post.permalink}}" style="color:#78C0A0">here</a>
+          <a href="{{post2.permalink}}" style="color:#78C0A0">here</a>
           <span style="color:#B2B2B2">to listen to the latest episode, featuring 
           {% for tag in post2.tags %}
           {% if forloop.last %}
@@ -51,7 +51,7 @@ title: Home
               {% if post3.audiolink!= null %}
               <li style="font-size:2rem">
                 <span style="color:#B2B2B2">Click </span>
-                <a href="{{post.permalink}}" style="color:#78C0A0">here</a>
+                <a href="{{post3.permalink}}" style="color:#78C0A0">here</a>
                 <span style="color:#B2B2B2">to listen to the latest episode, featuring 
                 {% for tag in post3.tags %}
                 {% if forloop.last %}
