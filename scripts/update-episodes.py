@@ -77,6 +77,5 @@ episode +="---\n"
 for p in body:
     episode+="\n"+p+"\n"
 print(episode)
-date="./_posts/2022-06-06-the-new-democrats-w-lily-geismer.md"
 with open(date, 'x') as f:
     f.write(episode)
