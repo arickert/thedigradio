@@ -17,4 +17,4 @@ Read Rodrigo's essays:
 radicalphilosophy.com/article/of-what-is-bolsonaro-the-name
 publicbooks.org/are-we-in-denial-about-denial
 
-Support The Dig at [patreon.com/TheDig](patreon.com/TheDig) and get that newsletter
+Support The Dig at [patreon.com/TheDig](http://www.patreon.com/TheDig)  and get that newsletter

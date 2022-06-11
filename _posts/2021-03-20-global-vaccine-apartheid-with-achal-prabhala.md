@@ -25,5 +25,5 @@ nytimes.com/2020/12/07/opinion/covid-vaccines-patents.html
 nytimes.com/2021/02/05/opinion/covid-vaccines-china-russia.html
 theguardian.com/commentisfree/2020/oct/15/peoples-vaccine-coronavirus-covid-wto
 
-Support this podcast at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 Join the Dig Book Club at thedigradio.com/dig-book-club

@@ -16,4 +16,4 @@ Bolsonaro is presiding over mass COVID deaths and the destruction of the Amazon.
 
 Check out Sabrina's Tese Onze YouTube channel youtube.com/channel/UC0fGGprihDIlQ3ykWvcb9hg
 
-Support The Dig and receive our weekly newsletter at [patreon.com/thedig](patreon.com/thedig)
+Support The Dig and receive our weekly newsletter at [patreon.com/thedig](http://www.patreon.com/TheDig) 

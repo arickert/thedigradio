@@ -18,4 +18,4 @@ Dan interviews the hosts of Time to Say Goodbye podcast on Asian American politi
 
 Check out Time to Say Goodbye wherever you get podcasts.
 
-Support The Dig at [patreon.com/thedig](patreon.com/thedig)
+Support The Dig at [patreon.com/thedig](http://www.patreon.com/TheDig) 

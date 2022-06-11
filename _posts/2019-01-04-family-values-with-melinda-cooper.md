@@ -17,6 +17,6 @@ Dan interviews Melinda Cooper about her book, Family Values: Between Neoliberali
 
 Thanks to Verso Books, which has a huge collection of excellent left-wing titles at www.versobooks.com
 
-Support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
  

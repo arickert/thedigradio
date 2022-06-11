@@ -20,4 +20,4 @@ Read Corey Robin's smart and short piece on impeachment
 Listen to Dan's interview with Joe Lowndes and Daniel Martinez HoSang & Joe Lowndes on their book Producers, Parasites, Patriots: Race and the New Right-Wing Politics of Precarity 
 [www.thedigradio.com/podcast/right-wing-racism-with-daniel-martinez-hosang-joe-lowndes/](https://www.thedigradio.com/podcast/right-wing-racism-with-daniel-martinez-hosang-joe-lowndes/)
 
-Support this podcast with money at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast with money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

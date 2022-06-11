@@ -19,4 +19,4 @@ editor Alyssa Battistoni interviews Astra Taylor on her new film
 
 Thanks to Verso Books. Check out their huge selection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

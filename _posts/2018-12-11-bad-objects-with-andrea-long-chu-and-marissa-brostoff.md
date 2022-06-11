@@ -18,4 +18,4 @@ Marissa Brostoff and Andrea Long Chu discuss Sex and the City and The X-Files, u
 
 Thank you to Verso Books. Check out their huge selection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

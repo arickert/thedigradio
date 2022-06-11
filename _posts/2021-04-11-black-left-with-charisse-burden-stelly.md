@@ -28,4 +28,4 @@ Read Burden-Stelly's work
 
 Meet with Charisse Burden-Stelly at the Dig's last Book Club event thedigradio.com/dig-book-club
 
-Support this podcast at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 

@@ -16,4 +16,4 @@ Edward Ongweso Jr. and Jacob Silverman on cryptocurrency, NFTs, Elon Musk, the m
 
 Read Dan's new essay on border control politics: nplusonemag.com/online-only/online-only/border-crises/
 
-Support The Dig at [patreon.com/thedig](patreon.com/thedig)
+Support The Dig at [patreon.com/thedig](http://www.patreon.com/TheDig) 

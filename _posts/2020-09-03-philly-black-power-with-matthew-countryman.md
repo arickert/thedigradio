@@ -17,4 +17,4 @@ Up South: Civil Rights and Black Power in Philadelphia.
 Join a Dig Book Club reading group and discuss 
 Up South with Countryman on September 12. Sign up here thedigradio.com/dig-book-club
 
-Support this podcast with a contribution at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast with a contribution at [patreon.com/thedig](http://www.patreon.com/TheDig) 

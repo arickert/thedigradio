@@ -22,4 +22,4 @@ lefteast.org/contradictions-post-soviet-ukraine-failure-ukraine-new-left/
 
 Tony Wood on Russia: thedigradio.com/podcast/russia-beyond-putin-with-tony-wood/
 
-Support The Dig at [patreon.com/thedig](patreon.com/thedig)
+Support The Dig at [patreon.com/thedig](http://www.patreon.com/TheDig) 

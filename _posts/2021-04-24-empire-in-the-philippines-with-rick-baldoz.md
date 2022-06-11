@@ -16,4 +16,4 @@ tags:
 
 US empire in the Philippines, Filipino migration, labor organizing in the fields, and the nativist campaign for Asian exclusion. Dan interviews Rick Baldoz on his remarkable book The Third Asiatic Invasion: Empire and Migration in Filipino America, 1898-1946.
 
-Please support this podcast at [patreon.com/thedig](patreon.com/thedig)
+Please support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 

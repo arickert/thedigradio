@@ -19,4 +19,4 @@ Thank you to Verso Books. Check out Deport, Deprive, Extradite: 21st Century Sta
 
 Thank you to the Socialism 2018 conference. Register now at socialismconference.org
 
-Want to get access to our stellar weekly newsletter? You can do so by making a contribution to the long-run viability of this show at [patreon.com/thedig](patreon.com/thedig)
+Want to get access to our stellar weekly newsletter? You can do so by making a contribution to the long-run viability of this show at [patreon.com/thedig](http://www.patreon.com/TheDig) 

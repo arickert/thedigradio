@@ -14,4 +14,4 @@ Historian Adam Tooze, the author of Crashed: How a Decade of Financial Crises Ch
 
 Thanks to Verso Books. Check out their huge selection of left-wing titles at www.versobooks.com
 
-Please support The Dig with your money at [patreon.com/thedig](patreon.com/thedig)
+Please support The Dig with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

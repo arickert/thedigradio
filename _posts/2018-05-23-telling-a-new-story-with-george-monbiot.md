@@ -17,4 +17,4 @@ Dan’s guest George Monbiot argues that the left needs a powerful new story to 
 
 Thanks to Verso Books. Check out A World to Win: The Life and Works of Karl Marx with Sven-Eric Liedman versobooks.com/events/1785-a-world-to-win-the-life-and-works-of-karl-marx-with-sven-eric-liedman
 
-Support this podcast with $ and get our weekly newsletter at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast with $ and get our weekly newsletter at [patreon.com/thedig](http://www.patreon.com/TheDig) 

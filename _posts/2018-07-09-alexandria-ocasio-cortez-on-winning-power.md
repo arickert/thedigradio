@@ -21,7 +21,7 @@ Thanks to Verso Books. Check out A World to Win: The Life and Works of Karl Marx
 
 
 
-And support this podcast with $ and access our weekly newsletter at [patreon.com/thedig](patreon.com/thedig)
+And support this podcast with $ and access our weekly newsletter at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
 
 

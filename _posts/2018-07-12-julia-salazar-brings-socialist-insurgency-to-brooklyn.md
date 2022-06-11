@@ -16,4 +16,4 @@ This week's super series on Alexandria Ocasio-Cortez's victory and the future of
 Get involved with the campaign at 
 salazarforsenate.com
 
-Support this podcast with $ and access our weekly newsletter at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast with $ and access our weekly newsletter at [patreon.com/thedig](http://www.patreon.com/TheDig) 

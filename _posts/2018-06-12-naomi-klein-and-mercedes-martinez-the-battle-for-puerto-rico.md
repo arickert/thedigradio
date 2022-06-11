@@ -23,4 +23,4 @@ Thanks to Verso Books. Check out A World to Win: The Life and Works of Karl Marx
 
 Also, register for the upcoming Socialism 2018 conference at SocialismConference.org
 
-Support this podcast with $ and get our weekly newsletter at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast with $ and get our weekly newsletter at [patreon.com/thedig](http://www.patreon.com/TheDig) 

@@ -23,4 +23,4 @@ Check out the English transcript of last week's Spanish-language interview with 
 
 Thanks to Verso. Check out their massive left-wing book selection at www.versobooks.com
 
-Please support us with your cash at [patreon.com/thedig](patreon.com/thedig)
+Please support us with your cash at [patreon.com/thedig](http://www.patreon.com/TheDig) 

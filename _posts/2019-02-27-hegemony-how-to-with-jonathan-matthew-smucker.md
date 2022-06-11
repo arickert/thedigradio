@@ -14,4 +14,4 @@ Dan's guest is long-time organizer Jonathan Matthew Smucker, the author of Hegem
 
 Thanks to Verso Books. Check out their huge collection of left-wing titles at www.versobooks.com
 
-Please support us with your money at [patreon.com/thedig](patreon.com/thedig)
+Please support us with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

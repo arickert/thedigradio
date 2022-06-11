@@ -16,4 +16,4 @@ Dan talks to Vanessa A. Bee, a consumer protection lawyer in D.C. and a social m
 
 Thanks to Verso Books. Check out Police: A Field Guide by David Correia and Tyler Wall versobooks.com/books/2530-police
 
-Support this podcast at [patreon.com/TheDig](patreon.com/TheDig) and access our new weekly newsletter.
+Support this podcast at [patreon.com/TheDig](http://www.patreon.com/TheDig)  and access our new weekly newsletter.

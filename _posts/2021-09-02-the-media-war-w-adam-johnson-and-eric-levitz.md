@@ -21,4 +21,4 @@ thecolumn.substack.com/p/on-afghanistan-withdrawal-nyts-peter
 
 Sign up for Adam's Substack: thecolumn.substack.com
 
-Support The Dig at [patreon.com/TheDig](patreon.com/TheDig) and get our (coming soon) weekly newsletter
+Support The Dig at [patreon.com/TheDig](http://www.patreon.com/TheDig)  and get our (coming soon) weekly newsletter

@@ -15,4 +15,4 @@ What socialism should offer is freedom by way of power and democratic control ov
 
 Thanks to Verso Books. Check out their huge catalogue of left-wing titles at versobooks.com
 
-Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

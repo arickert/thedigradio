@@ -17,4 +17,4 @@ Spanish politics are complicated. Dan speaks to Carlos Delclós, Kate Shea Baird
 
 Thanks to Verso Books. Check out Duty Free Art: Art in the Age of Planetary Civil War by Hito Steyerl versobooks.com/books/2553-duty-free-art. And Deport, Deprive, Extradite: 21st Century State Extremism by Nisha Kapoor versobooks.com/books/2551-deport-deprive-extradite
 
-Support this podcast at [patreon.com/TheDig](patreon.com/TheDig) and access our new weekly newsletter.
+Support this podcast at [patreon.com/TheDig](http://www.patreon.com/TheDig)  and access our new weekly newsletter.

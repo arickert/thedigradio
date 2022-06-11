@@ -15,4 +15,4 @@ Jacobin Managing Editor Micah Uetricht pulls Dave-Davies-duty for Dan and interv
 
 Thanks to Verso Books. Check out their huge selection of radical titles at www.versobooks.com
 
-Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

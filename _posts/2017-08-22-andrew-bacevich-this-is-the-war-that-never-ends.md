@@ -11,4 +11,4 @@ tags:
 - Andrew Bacevich
 ---
 
-This is the war that never ends. The War on Terror’s permanence should be remarkable. It should be an outrage. But it is precisely because the war has become permanent that it has long since been rendered normal. Dan’s guest is historian Andrew Bacevich. Please note: they spoke before Trump’s recent announcement that the US would double down on the Afghanistan War. And please support the show at [patreon.com/TheDig](patreon.com/TheDig). We can't do it without you.
+This is the war that never ends. The War on Terror’s permanence should be remarkable. It should be an outrage. But it is precisely because the war has become permanent that it has long since been rendered normal. Dan’s guest is historian Andrew Bacevich. Please note: they spoke before Trump’s recent announcement that the US would double down on the Afghanistan War. And please support the show at [patreon.com/TheDig](http://www.patreon.com/TheDig) . We can't do it without you.

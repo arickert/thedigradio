@@ -17,4 +17,4 @@ The second of Dan’s two-part interview with Piero Gleijeses on his book Vision
 
 Learn Southern African geography by studying these maps: thedigradio.com/visions-of-freedom-maps
 
-Support The Dig with money at [patreon.com/TheDig](patreon.com/TheDig) and receive our weekly newsletter.
+Support The Dig with money at [patreon.com/TheDig](http://www.patreon.com/TheDig)  and receive our weekly newsletter.

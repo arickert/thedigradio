@@ -16,4 +16,4 @@ The brutality of the Saudi royal family had been hiding in plain sight. It was a
 
 Thanks to Verso Books. Check out their huge collection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

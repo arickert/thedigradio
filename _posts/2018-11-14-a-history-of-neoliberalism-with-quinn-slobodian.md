@@ -48,4 +48,4 @@ StartFragmentEndFragment
 
 Thanks to Verso Books and University of California Press. Check out their titles at www.versobooks.com and ucpress.edu
 
-Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

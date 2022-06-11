@@ -17,4 +17,4 @@ Let’s ensure that the history of American socialism doesn’t repeat as farce.
 Thanks to Verso Books. Check out their huge catalogue of left-wing titles, including 
  at www.versobooks.com
 
-Please support this podcast with MONEY at [patreon.com/thedig](patreon.com/thedig)
+Please support this podcast with MONEY at [patreon.com/thedig](http://www.patreon.com/TheDig) 

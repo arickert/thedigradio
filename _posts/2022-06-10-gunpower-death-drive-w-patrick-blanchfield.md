@@ -14,8 +14,8 @@ tags:
 
 Patrick Blanchfield analyzes the long history of US gun violence and the American death drive. 
 
-Support this podcast at [Patreon.com/TheDig](Patreon.com/TheDig) and get our weekly newsletter by email.
+Support this podcast at [Patreon.com/TheDig](http://patreon.com/TheDig) and get our weekly newsletter by email.
 
-Check out our most recent newsletter on the [Progressive Era roots of Clintonism’s conception of the “deserving poor”](thedigradio.com/newsletter32)
+Check out our most recent newsletter on the [Progressive Era roots of Clintonism’s conception of the “deserving poor”](http://www.thedigradio.com/newsletter32)
 
-Register for [Socialism 2022](socialismconference.org)
+Register for [Socialism 2022](http://www.socialismconference.org)

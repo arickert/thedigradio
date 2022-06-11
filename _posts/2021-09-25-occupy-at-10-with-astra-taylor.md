@@ -14,6 +14,6 @@ tags:
 
 It's Occupy Wall Street's tenth anniversary. Dan interviews Astra Taylor.
 
-Support The Dig at [patreon.com/TheDig](patreon.com/TheDig) and get our new weekly newsletter.
+Support The Dig at [patreon.com/TheDig](http://www.patreon.com/TheDig)  and get our new weekly newsletter.
 
 Listen to other pods in the retrospective series https://rosalux.nyc/occupy/

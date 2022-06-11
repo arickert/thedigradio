@@ -12,4 +12,4 @@ tags:
 
 Journalist Kate Aronoff discusses climate policy and politics and her book Overheated: How Capitalism Broke the Planet—And How We Fight Back.
 
-Support this podcast at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 

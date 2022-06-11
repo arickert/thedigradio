@@ -15,6 +15,6 @@ Epidemiologist Justin Feldman makes a comprehensive and devastating critique of 
 
 Read Justin's essay: jmfeldman.medium.com/?p=88452c696f2
 
-Support this podcast at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
 Buy Angela Davis: An Autobiography haymarketbooks.org/books/1741-angela-davis

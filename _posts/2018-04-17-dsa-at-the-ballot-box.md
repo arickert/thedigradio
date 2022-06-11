@@ -20,6 +20,6 @@ Dan’s guests are Renée Paradis, a civil rights and criminal defense lawyer (@
 
  
 
-Thanks to Verso Books. Check out [Police: A Field Guide by David Correia and Tyler Wall](versobooks.com/books/2530-police) and [Where Freedom Starts: Sex Power Violence #MeToo](versobooks.com/blogs/3635-where-freedom-starts-sex-power-violence-metoo) And support this podcast with $ at [patreon.com/TheDig](patreon.com/TheDig)
+Thanks to Verso Books. Check out [Police: A Field Guide by David Correia and Tyler Wall](versobooks.com/books/2530-police) and [Where Freedom Starts: Sex Power Violence #MeToo](versobooks.com/blogs/3635-where-freedom-starts-sex-power-violence-metoo) And support this podcast with $ at [patreon.com/TheDig](http://www.patreon.com/TheDig) 
 
  

@@ -13,6 +13,6 @@ tags:
 
 Astra Taylor interviews archaeologist David Wengrow on The Dawn of Everything: A New History of Humanity, his new book co-authored with the late David Graeber. 
 
-Support us at [patreon.com/thedig](patreon.com/thedig)
+Support us at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
 Check out Hannah Arendt by Samantha Rose Hill reaktionbooks.co.uk/display.asp?ISB=9781789143799

@@ -16,4 +16,4 @@ The man who carried out the massacre in Pittsburgh was apparently motivated by a
 
 Thanks to Verso Books and University of California Press. Check out the excellent titles they have for sale at www.versobooks.com and www.ucpress.edu
 
-Please support this podcast with money at [patreon.com/thedig](patreon.com/thedig)
+Please support this podcast with money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

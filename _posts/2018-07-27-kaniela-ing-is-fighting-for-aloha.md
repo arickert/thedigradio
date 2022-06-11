@@ -19,6 +19,6 @@ Live recording of The Dig coming up in New York City. Friday, August 17, 7 PM at
 
 Thanks to Verso Books. Check out Radical Technologies: The Design of Everyday Life by Adam Greenfield versobooks.com/books/2742-radical-technologies
 
-Support this podcast with your $ at [patreon.com/TheDig](patreon.com/TheDig) to receive our weekly newsletter
+Support this podcast with your $ at [patreon.com/TheDig](http://www.patreon.com/TheDig)  to receive our weekly newsletter
 
  

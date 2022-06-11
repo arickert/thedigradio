@@ -14,4 +14,4 @@ Christine Blasey Ford and other women have revealed that our political-economic 
 
 Thanks to Verso Books. Check out their huge catalogue of left-wing books at versobooks.com
 
-And please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+And please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

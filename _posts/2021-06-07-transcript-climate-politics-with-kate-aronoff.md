@@ -14,6 +14,6 @@ Journalist Kate Aronoff discusses climate policy and politics and her book Overh
 
 Read the transcript [here](https://jacobinmag.com/2021/08/capitalism-climate-crisis-global-green-new-deal-clean-energy-fossil-fuel-industry)
 
-Support this podcast at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
 

@@ -17,4 +17,4 @@ Astra interviews Achal Prabhala on the lethal persistence of global vaccine apar
 
 Moderna's annual shareholder meeting is April 28th. Join Justice is Global, Boston DSA, and others to challenge vaccine profiteering at their Cambridge headquarters. Sign up at bitly.com/modernaaction
 
-Support this podcast at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 

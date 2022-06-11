@@ -15,6 +15,6 @@ tags:
 
 Feminist political theorist and organizer Verónica Gago on Argentina’s massive feminist movement and strike, the ties that bind domestic labor and financial exploitation, neoliberalism from below, and more.
 
-Support The Dig at [patreon.com/thedig](patreon.com/thedig)
+Support The Dig at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
 Check out Coup: A Story of Violence and Resistance in Bolivia haymarketbooks.org/books/1745-coup

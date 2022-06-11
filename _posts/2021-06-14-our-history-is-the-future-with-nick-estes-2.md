@@ -10,4 +10,4 @@ tags:  []
 
 The Dig is taking a break to play catch up this week and posting a favorite interview from our archives: Nick Estes on his book Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and the Long Tradition of Indigenous Resistance. First posted on June 29 2019.
 
-Support this podcast at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 

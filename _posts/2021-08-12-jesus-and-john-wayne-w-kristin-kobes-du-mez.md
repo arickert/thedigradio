@@ -16,6 +16,6 @@ tags:
 Dan interviews historian Kristin Kobes Du Mez on her book 
 Jesus and John Wayne: How White Evangelicals Corrupted a Faith and Fractured a Nation. "Having replaced the Jesus of the Gospels with the vengeful warrior Christ, it’s no wonder many came to think of Trump in the same way."
 
-Support The Dig at [patreon.com/thedig](patreon.com/thedig)
+Support The Dig at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
 We now have a Discord for patrons and, starting in September, a weekly email newsletter too. If you want to join our Discord and cannot afford to contribute, just send us an email.

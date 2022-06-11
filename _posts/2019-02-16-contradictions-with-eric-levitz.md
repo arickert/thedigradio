@@ -16,4 +16,4 @@ magazine provides the sort of consistently thoughtful and deeply contextualized 
 Thanks to University of California Press. 
 [Check out American Prophet: The Life and Work of CareyMcWilliams](https://www.ucpress.edu/book/9780520304291/american-prophet) by Peter Richardson, with a foreword from Mike Davis.
 
-Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

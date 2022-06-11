@@ -16,4 +16,4 @@ The teacher strike wave continues as more than 30,000 members of United Teachers
 
 Thanks to Verso Books. Check out their huge collection of left-wing titles at www.versobooks.com
 
-Support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

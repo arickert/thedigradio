@@ -18,4 +18,4 @@ How ecosocialists formed a powerful coalition with unions to fight for labor law
 
 Get involved in DSA's PRO Act fight: pro-act.dsausa.org
 Ryan Grim's post on breaking the filibuster: badnews.substack.com/p/how-the-filibuster-goes-down
-Support this podcast at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 

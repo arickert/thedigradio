@@ -19,6 +19,6 @@ Olúfẹmi Táíwò guest hosts an interview with Daniela Gabor and Ndongo Samba
 Read Daniela's work: people.uwe.ac.uk/Person/DanielaGabor
 Read Ndongo's work: rosalux.de/en/profile/es_detail/N8SVHTS8SA/ndongo-samba-sylla?cHash=ccf0c8d371bde0fecbac8337bbc6f832
 
-Support The Dig at [patreon.com/thedig](patreon.com/thedig)
+Support The Dig at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
 Buy The Border Crossed Us by Justin Akers Chacón: haymarketbooks.org/books/1655-the-border-crossed-us

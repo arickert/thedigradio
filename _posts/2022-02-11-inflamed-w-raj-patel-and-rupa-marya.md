@@ -19,4 +19,4 @@ tags:
 
 Industrial capitalism and colonialism are literally making us sick. Raj Patel and Rupa Marya on Inflamed: Deep Medicine and the Anatomy of Injustice.
 
-Support this podcast at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 

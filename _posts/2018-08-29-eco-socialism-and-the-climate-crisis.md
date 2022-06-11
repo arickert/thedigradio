@@ -20,6 +20,6 @@ Dan spoke to Audrea Lim, Thea Riofrancos, Ashley Dawson and Daniel Aldana Cohen 
 
 Thanks to Verso. Check out so many good lefty titles at www.versobooks.com
 
-And please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+And please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
  

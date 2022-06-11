@@ -16,4 +16,4 @@ Dan speaks to Elizabeth Rush, the author of 
 
 Thanks to Verso Books. Check out their massive collection of left-wing books for sale at versobooks.com
 
-And please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+And please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

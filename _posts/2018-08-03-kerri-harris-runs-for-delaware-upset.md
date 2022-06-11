@@ -18,4 +18,4 @@ Thanks to Verso Books. Check out Radical Technologies: The Design of Everyday Li
 
 
 
-Support this podcast with your $ at [patreon.com/TheDig](patreon.com/TheDig) to receive our weekly newsletter
+Support this podcast with your $ at [patreon.com/TheDig](http://www.patreon.com/TheDig)  to receive our weekly newsletter

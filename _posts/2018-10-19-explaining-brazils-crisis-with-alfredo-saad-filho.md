@@ -23,4 +23,4 @@ Read "Bolsonaro’s Conservative Revolution" by Matthew Aaron Richmond https://j
 
 Thanks to Verso Books. Check out their huge catalogue of left-wing books at www.versobooks.com
 
-Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

@@ -20,4 +20,4 @@ What is Democracy?on your preferred streaming service.
 And her book, 
 Democracy May Not Exist, But We'll Miss It When It's Gone, here: us.macmillan.com/books/9781250179845
 
-Support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

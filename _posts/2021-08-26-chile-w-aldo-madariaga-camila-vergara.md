@@ -18,4 +18,4 @@ jacobinlat.com/2021/06/19/el-neoliberalismo-atenta-contra-la-democracia-2
 newleftreview.org/sidecar/posts/burying-pinochet
 jacobinmag.com/2021/06/rene-rojas-interview-democracy-new-constitution-constituent-assembly-plebiscite-left-chile
 
-Support The Dig at [patreon.com/TheDig](patreon.com/TheDig) and (soon) receive our weekly newsletter.
+Support The Dig at [patreon.com/TheDig](http://www.patreon.com/TheDig)  and (soon) receive our weekly newsletter.

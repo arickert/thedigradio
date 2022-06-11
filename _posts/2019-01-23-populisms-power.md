@@ -23,6 +23,6 @@ nplusonemag.com/online-only/online-only/populism-without-the-people/
 
 Thanks to Verso. Check out their huge collection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
 EndFragment

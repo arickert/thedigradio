@@ -12,4 +12,4 @@ tags:
 - Brenden Beck
 ---
 
-Why have the size of American police departments grown so dramatically in recent decades, even as crime rates have fallen? One factor may have been the growing centrality of real estate for urban economies, according to a new article published in the journal by Adam Goldstein, a professor of sociology at Princeton, and Brenden Beck, a PhD student in sociology at CUNY. Thanks to our sponsors at Verso Books.Check out [Alex Vitale](versobooks.com/books/2426-the-end-of-policing) Support us with $ at [patreon.com/TheDig](patreon.com/TheDig).
+Why have the size of American police departments grown so dramatically in recent decades, even as crime rates have fallen? One factor may have been the growing centrality of real estate for urban economies, according to a new article published in the journal by Adam Goldstein, a professor of sociology at Princeton, and Brenden Beck, a PhD student in sociology at CUNY. Thanks to our sponsors at Verso Books.Check out [Alex Vitale](versobooks.com/books/2426-the-end-of-policing) Support us with $ at [patreon.com/TheDig](http://www.patreon.com/TheDig) .

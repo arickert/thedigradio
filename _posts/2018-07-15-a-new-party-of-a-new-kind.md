@@ -22,4 +22,4 @@ Thanks to Verso Books. Check out The Amateur: The Pleasures of Doing What You Lo
 
 
 
-And support this podcast with $ and access our weekly newsletter at [patreon.com/thedig](patreon.com/thedig)
+And support this podcast with $ and access our weekly newsletter at [patreon.com/thedig](http://www.patreon.com/TheDig) 

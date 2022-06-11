@@ -44,4 +44,4 @@ StartFragmentEndFragment
 
 Thanks to Verso Books. Check out their enormous catalogue of left-wing books at www.versobooks.com
 
-Please support this podcast with money at [patreon.com/thedig](patreon.com/thedig)
+Please support this podcast with money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

@@ -16,4 +16,4 @@ by Dan’s guest, historian and activist Barbara Ransby.
 
 Thanks to Verso Books. Check out their huge selection of left-wing titles at www.versobooks.com
 
-Please support The Dig with your money at [patreon.com/thedig](patreon.com/thedig)
+Please support The Dig with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

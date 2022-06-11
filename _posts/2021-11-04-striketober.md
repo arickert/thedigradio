@@ -18,4 +18,4 @@ Guest host Gabriel Winant interviews labor journalists Alex Press and Jonah Furm
 Listen to Primer, Alex's podcast about Amazon patreon.com/primerpodcast
 Listen to Victor's podcast WAIT, Why Am I Talking? podcasts.apple.com/us/podcast/wait-why-am-i-talking/id1515308564
 
-Support The Dig at [patreon.com/thedig](patreon.com/thedig)
+Support The Dig at [patreon.com/thedig](http://www.patreon.com/TheDig) 

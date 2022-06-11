@@ -15,4 +15,4 @@ tags:
 Historian Kelly Lytle Hernández tells the story of human caging in Los Angeles, from the Spanish Conquest to the mid-twentieth century, in her new book. It's a story of indigenous exploitation and elimination, immigrant detention and deportation, and the suppression of cross-border revolutionary movements. Thanks to our sponsors at Verso Books. Check out [George Monbiot](versobooks.com/books/2
 571-out-of-the-wreckage)
 
-Support us with your $ at [patreon.com/TheDig](patreon.com/TheDig).
+Support us with your $ at [patreon.com/TheDig](http://www.patreon.com/TheDig) .

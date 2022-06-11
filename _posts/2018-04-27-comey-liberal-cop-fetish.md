@@ -18,4 +18,4 @@ Here’s [Patrick’s review](thebaffler.com/latest/prig-and-pig-blanchfield).
 
  
 
-Thanks to Verso Books. Check out [Revolution in the Air: Sixties Radicals Turn to Lenin, Mao and Che by Max Elbaum](versobooks.com/books/2707-revolution-in-the-air) And [Deport, Deprive, Extradite: 21st Century State Extremism by Nisha Kapoor](versobooks.com/books/2551-deport-deprive-extradite) And support this podcast with $ at [patreon.com/TheDig](patreon.com/TheDig)
+Thanks to Verso Books. Check out [Revolution in the Air: Sixties Radicals Turn to Lenin, Mao and Che by Max Elbaum](versobooks.com/books/2707-revolution-in-the-air) And [Deport, Deprive, Extradite: 21st Century State Extremism by Nisha Kapoor](versobooks.com/books/2551-deport-deprive-extradite) And support this podcast with $ at [patreon.com/TheDig](http://www.patreon.com/TheDig) 

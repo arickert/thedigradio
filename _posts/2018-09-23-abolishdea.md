@@ -16,4 +16,4 @@ The United States today exceeds at perpetually waging wars that it are destined 
 
 Thanks to Verso Books. Check out a huge catalogue of excellent left-wing books at versobooks.com
 
-Please support this podcast with money at [patreon.com/thedig](patreon.com/thedig)
+Please support this podcast with money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

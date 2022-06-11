@@ -16,4 +16,4 @@ Read the latest newsletter. It’s on what Ruthie meant when she said abolition 
 
 Listen to [Geismer’s first Dig interview](thedigradio.com/podcast/race-and-class-in-the-liberal-suburbs-with-lily-geismer)
 
-[Support The Dig](Patreon.com/TheDig) 
+[Support The Dig](http://www.patreon.com/TheDig) 

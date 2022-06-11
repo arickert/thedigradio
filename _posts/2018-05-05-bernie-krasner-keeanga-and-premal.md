@@ -19,4 +19,4 @@ Dan just moderated a discussion in Philadelphia with Senator Sanders, along with
 
 And so this is why Bernie Sanders came to Philly: to learn about what has gone so horribly wrong with the criminal justice system and how we can all organize and do the hard work to make it right.
 
-Thanks to Verso Books. Check out [Crashing the Party: From the Bernie Sanders Campaign to a Progressive Movement by Heather Gautney](versobooks.com/books/2549-crashing-the-party). And please make a contribution to support the long-run viability of this show at [Patreon.com/TheDig](Patreon.com/TheDig)
+Thanks to Verso Books. Check out [Crashing the Party: From the Bernie Sanders Campaign to a Progressive Movement by Heather Gautney](versobooks.com/books/2549-crashing-the-party). And please make a contribution to support the long-run viability of this show at [Patreon.com/TheDig](http://www.patreon.com/TheDig) 

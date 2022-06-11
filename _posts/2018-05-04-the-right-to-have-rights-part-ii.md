@@ -18,4 +18,4 @@ Dan’s guests today, Stephanie DeGooyer and Astra Taylor, just wrote a book abo
 
 Also: check out and support the soon-to-be-made documentary [Socialism: An American Story](https://www.kickstarter.com/projects/socialismmovie/socialism-an-american-story)
 
-Thanks to Verso Books. Check out [Police: A Field Guide by David Correia and Tyler Wall](versobooks.com/books/2530-police). And [Work: The Last 1,000 Years by Andrea Komlosy](versobooks.com/books/2608-work). And please make a contribution to support the long-run viability of this show at [Patreon.com/TheDig](Patreon.com/TheDig)
+Thanks to Verso Books. Check out [Police: A Field Guide by David Correia and Tyler Wall](versobooks.com/books/2530-police). And [Work: The Last 1,000 Years by Andrea Komlosy](versobooks.com/books/2608-work). And please make a contribution to support the long-run viability of this show at [Patreon.com/TheDig](http://www.patreon.com/TheDig) 

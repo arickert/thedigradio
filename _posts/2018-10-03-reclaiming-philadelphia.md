@@ -19,4 +19,4 @@ An interview with three members of Reclaim Philadelphia, which emerged from the 
 
 Thanks to Verso Books. Peruse their huge collection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

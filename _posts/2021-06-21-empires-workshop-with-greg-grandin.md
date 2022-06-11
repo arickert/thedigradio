@@ -14,6 +14,6 @@ tags:
 
 The history of the United States is in no small part the history of US intervention in Latin America. Historian Greg Grandin on his classic book Empire's Workshop: Latin America, the United States, and the Making of an Imperial Republic.
 
-Support this podcast at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
 Watch our new Dig video shorts on YouTube: youtube.com/watch?v=LcZb3A986p0

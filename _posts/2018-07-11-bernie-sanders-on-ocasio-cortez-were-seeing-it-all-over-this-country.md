@@ -15,4 +15,4 @@ tags:  []
 
 Capitol Hill used to be a lonely place for a leftist. And, frankly, it still is. But now that Alexandria Ocasio-Cortez appears to be headed to Washington, Senator Bernie Sanders will likely have some powerful company. Today, Sanders is Dan's guest, and they're talking about the impact of Ocasio-Cortez's victory and where the left goes from here. This is the latest interview in this week's Ocasio-Cortez super series, which has already included interviews with Ocasio-Cortez and Cynthia Nixon. Next up is DSA member Julia Salazar, who is running for state senate in Brooklyn.
 
-Support this podcast with $ and access our weekly newsletter at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast with $ and access our weekly newsletter at [patreon.com/thedig](http://www.patreon.com/TheDig) 

@@ -18,4 +18,4 @@ What are rights worth when government denies people the very right to have right
 
 My guests today, Stephanie DeGooyer and Astra Taylor, just wrote a book about this for Verso, called the The Right to Have Rights. This is part 1. Part 2 will be posted on Thursday or Friday.
 
-Thanks to Verso Books. Check out [Hara Hotel: A Tale of Syrian Refugees in Greece by Teresa Thornhill](versobooks.com/books/2713-hara-hotel). And [Work: The Last 1,000 Years by Andrea Komlosy](versobooks.com/books/2608-work). And please make a contribution to support the long-run viability of this show at [Patreon.com/TheDig](Patreon.com/TheDig)
+Thanks to Verso Books. Check out [Hara Hotel: A Tale of Syrian Refugees in Greece by Teresa Thornhill](versobooks.com/books/2713-hara-hotel). And [Work: The Last 1,000 Years by Andrea Komlosy](versobooks.com/books/2608-work). And please make a contribution to support the long-run viability of this show at [Patreon.com/TheDig](http://www.patreon.com/TheDig) 

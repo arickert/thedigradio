@@ -29,7 +29,7 @@ Register for the Socialism 2018 conference (July 5-8, Chicago!) at socialismconf
 
  
 
-And support this podcast with $$ and access our weekly newsletter at [patreon.com/thedig](patreon.com/thedig)
+And support this podcast with $$ and access our weekly newsletter at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
 
 

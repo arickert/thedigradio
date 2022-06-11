@@ -17,4 +17,4 @@ DONATE NOW to the Palestinian people:
 We Are Not Numbers wearenotnumbers.org/home/donate
 Multiple organizations: muftah.org/organizations-working-in-palestine-that-need-your-support/#.YKQaGZNKhpT
 
-Support this podcast at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 

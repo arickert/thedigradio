@@ -18,4 +18,4 @@ Thanks to Verso Books. Check out Street Fighting Years: An Autobiography of the 
 
 Check out the Socialism 2018 conference at socialismconference.org
 
-And support this podcast with $ at [patreon.com/thedig](patreon.com/thedig)
+And support this podcast with $ at [patreon.com/thedig](http://www.patreon.com/TheDig) 

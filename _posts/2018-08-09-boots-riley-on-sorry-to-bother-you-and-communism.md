@@ -18,4 +18,4 @@ Thanks to Verso Books. Check out Out of the Wreckage: A New Politics for an Age 
 
 
 
-Support this podcast with your $ at [patreon.com/TheDig](patreon.com/TheDig) to receive our weekly newsletter
+Support this podcast with your $ at [patreon.com/TheDig](http://www.patreon.com/TheDig)  to receive our weekly newsletter

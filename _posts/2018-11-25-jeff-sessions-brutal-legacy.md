@@ -17,4 +17,4 @@ Guns in general, and American gun culture in particular, have created a horrific
 
 Thanks to University of California Press. Check out their excellent catalogue of books at ucpress.edu
 
-Support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

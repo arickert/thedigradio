@@ -19,4 +19,4 @@ Live recording of The Dig coming up in New York City. Friday, August 17, 7 PM at
 
 Thanks to Verso Books. Check outFor a Left Populism by Chantal Mouffe versobooks.com/books/2748-for-a-left-populism
 
-Support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

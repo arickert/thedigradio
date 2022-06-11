@@ -14,4 +14,4 @@ It's the latest installment in our ongoing series on the left and electoral poli
 
  
 
-Thanks to Verso Books. Check out [Hara Hotel: A Tale of Syrian Refugees in Greece by Teresa Thornhill](versobooks.com/books/2713-hara-hotel). And [Work: The Last 1,000 Years by Andrea Komlosy](versobooks.com/books/2608-work). And please make a contribution to support the long-run viability of this show at [Patreon.com/TheDig](Patreon.com/TheDig)
+Thanks to Verso Books. Check out [Hara Hotel: A Tale of Syrian Refugees in Greece by Teresa Thornhill](versobooks.com/books/2713-hara-hotel). And [Work: The Last 1,000 Years by Andrea Komlosy](versobooks.com/books/2608-work). And please make a contribution to support the long-run viability of this show at [Patreon.com/TheDig](http://www.patreon.com/TheDig) 

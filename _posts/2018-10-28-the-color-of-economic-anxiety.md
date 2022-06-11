@@ -17,4 +17,4 @@ Recently, Dan spoke to Nikhil Pal Singh about the unfortunate and never-ending d
 
 Thanks to Verso Books. Check out their huge collection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

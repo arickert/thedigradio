@@ -25,4 +25,4 @@ Political correctness: how the right invented a phantom enemy by Moira Weigel th
 
 The Use of Free Speech in Society by Asad Haider versobooks.com/blogs/4793-the-use-of-free-speech-in-society
 
-Support this podcast at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 

@@ -11,4 +11,4 @@ tags:
 ---
 Mariame Kaba and Geo Maher discuss police, the politics of policing, abolition, reform—and more.
 
-Support this podcast at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 

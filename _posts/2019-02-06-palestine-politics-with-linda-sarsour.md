@@ -21,4 +21,4 @@ Thanks to Verso. Check out their huge selection of left-wing titles at www.verso
 
  
 
-Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

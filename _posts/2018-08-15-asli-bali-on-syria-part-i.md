@@ -19,4 +19,4 @@ Live recording of The Dig coming up in New York City. Friday, August 17, 7 PM at
 
 Thanks to Verso Books. Check out New Dark Age: Technology and the End of the Future by James Bridle versobooks.com/books/2698-new-dark-age And Prisoners of the American Dream: Politics and Economy in the History of the US Working Class by Mike Davis versobooks.com/books/2759-prisoners-of-the-american-dream
 
-Support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

@@ -15,4 +15,4 @@ Josie Duffy Rice on Justice in America, her new podcast from The Appeal that she
 
 Thanks to Verso Books. Check out For a Left Populism by Chantal Mouffe versobooks.com/books/2748-for-a-left-populism
 
-Support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

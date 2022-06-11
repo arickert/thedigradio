@@ -17,4 +17,4 @@ Alexandria Ocasio-Cortez's victory should make New York Gov. Andrew Cuomo, a lar
 
 Thanks to Verso. Check out Mistaken Identity: Race and Class in the Age of Trump by Asad Haider versobooks.com/books/2716-mistaken-identity
 
-Support this podcast with $ and access our weekly newsletter at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast with $ and access our weekly newsletter at [patreon.com/thedig](http://www.patreon.com/TheDig) 

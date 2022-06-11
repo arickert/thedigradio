@@ -19,4 +19,4 @@ Serious people in Washington are seduced by vapid and self-serving accounts of t
 
 Thanks to Verso Books. Check out their massive collective of left-wing books at versobooks.com
 
-Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

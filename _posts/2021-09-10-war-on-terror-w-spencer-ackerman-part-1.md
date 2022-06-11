@@ -16,4 +16,4 @@ Episode one of The Dig's three-part War on Terror series the with Spencer Ackerm
 
 Subscribe to Spencer's Substack: foreverwars.substack.com/people/2576701-spencer-ackerman
 
-Support The Dig at [patreon.com/TheDig](patreon.com/TheDig) and (very soon) get our weekly newsletter
+Support The Dig at [patreon.com/TheDig](http://www.patreon.com/TheDig)  and (very soon) get our weekly newsletter

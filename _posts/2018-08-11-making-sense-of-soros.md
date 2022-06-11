@@ -19,4 +19,4 @@ Live recording of The Dig coming up in New York City. Friday, August 17, 7 PM at
 
 Thanks to Verso Books. Check out The Amateur: The Pleasures of Doing What You Love by Andy Merrifield versobooks.com/books/2765-the-amateur
 
-Support this podcast with your $ at [patreon.com/TheDig](patreon.com/TheDig) to receive our weekly newsletter
+Support this podcast with your $ at [patreon.com/TheDig](http://www.patreon.com/TheDig)  to receive our weekly newsletter

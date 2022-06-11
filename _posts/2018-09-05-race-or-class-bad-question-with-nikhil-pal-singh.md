@@ -15,4 +15,4 @@ Nikhil Pal Singh on the unfortunate obsession shared by certain pundits, journal
 
 Thanks to Verso Books. Check out versobooks.com for loads of great left-wing titles.
 
-Support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

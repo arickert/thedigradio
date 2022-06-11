@@ -15,4 +15,4 @@ tags:
 
 The second of our two-part interview with sociologist Ho-fung Hung on Chinese political and economic history. This episode covers the 2008 financial crisis, how China’s response deepened global and domestic economic imbalances and (alongside the US) heightened geopolitical conflict, the current situation—including Russia’s invasion—and a lot more. Listen to part one first if you haven't already.
 
-Support this podcast at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 

@@ -14,4 +14,4 @@ tags:
 Dan interviews historian Robin D.G. Kelley on his classic book 
 Hammer and Hoe: Alabama Communists during the Great Depression.
 
-Please support this podcast at [patreon.com/thedig](patreon.com/thedig)
+Please support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 

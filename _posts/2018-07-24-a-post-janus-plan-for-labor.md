@@ -16,4 +16,4 @@ Thanks to Verso Books. Check out Mistaken Identity: Race and Class in the Age of
 
 Live Dig show in NYC on 8/17! Blockadia and Beyond: Left climate politics for the 21st century facebook.com/events/2042636042656908/?active_tab=about
 
-Support this podcast with your $ and receive our weekly newsletter and lefty books at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast with your $ and receive our weekly newsletter and lefty books at [patreon.com/thedig](http://www.patreon.com/TheDig) 

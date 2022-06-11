@@ -14,4 +14,4 @@ Joaquín "El Chapo" Guzmán, a leader of Mexico's Sinaloa Cartel, is on trial in
 
 Thanks to Verso. Check out their huge selection of left-wing titles at www.versobooks.com
 
-Please support this podcast with your money at [patreon.com/thedig](patreon.com/thedig)
+Please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

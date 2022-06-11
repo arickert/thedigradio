@@ -17,4 +17,4 @@ For many, conservatives and liberals alike, Appalachia provides a skeleton key f
 Thanks to Verso Books, which has loads of great left-wing titles at www.versobooks.com. And thanks to University of California Press, which just published 
  by Barbara Ransby ucpress.edu/book/9780520292710/making-all-black-lives-matter
 
-Support this podcast with money at [patreon.com/thedig](patreon.com/thedig)
+Support this podcast with money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

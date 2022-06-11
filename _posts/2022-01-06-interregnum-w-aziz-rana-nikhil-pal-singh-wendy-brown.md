@@ -14,4 +14,4 @@ tags:
 
 Everyone feels bad right now because conditions are awful and the outlook is bleak. What is going on, and where might things be headed? How might we become unstuck from this interregnum? Dan interviews returning guests Aziz Rana, Nikhil Pal Singh, and Wendy Brown.
 
-Support The Dig at [patreon.com/thedig](patreon.com/thedig)
+Support The Dig at [patreon.com/thedig](http://www.patreon.com/TheDig) 
