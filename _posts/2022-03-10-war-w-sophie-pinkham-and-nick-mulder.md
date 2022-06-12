@@ -18,4 +18,4 @@ Sophie Pinkham and Nick Mulder on the war, its origins, how it’s being experie
 
 Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
-Buy Angela Davis: An Autobiography haymarketbooks.org/books/1741-angela-davis
+[Buy Angela Davis: An Autobiography](haymarketbooks.org/books/1741-angela-davis)
