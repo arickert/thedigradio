@@ -15,4 +15,4 @@ Destin Jenkins on his book The Bonds of Inequality: Debt and the Making of the A
 
 Support The Dig at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
-Tickets for live NYC show on The Return of Labor Militancy: eventbrite.com/e/the-return-of-labor-militancy-with-the-dig-and-jacobin-tickets-320732338057
+[Tickets for live NYC show on The Return of Labor Militancy](eventbrite.com/e/the-return-of-labor-militancy-with-the-dig-and-jacobin-tickets-320732338057)
