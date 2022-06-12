@@ -17,4 +17,4 @@ Listen to my past interview with Winant on the social worlds that make US politi
 
 Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
-Check out The After-Normal: Brief, Alphabetical Essays on a Changing Planet, by David Carlin and Nicole Walker rosemetalpress.com/books/the-after-normal
+Check out [The After-Normal: Brief, Alphabetical Essays on a Changing Planet, by David Carlin and Nicole Walker](rosemetalpress.com/books/the-after-normal)
