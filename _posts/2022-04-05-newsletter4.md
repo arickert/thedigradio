@@ -33,8 +33,7 @@ The end of America’s longest war occasioned numerous reflections, including re
 [The Nation](https://www.thenation.com/article/world/9-11-war-terror/). Challenging the post-hoc defense of the invasion of Afghanistan as a war to liberate women, 
 [Anand Gopal](https://www.newyorker.com/magazine/2021/09/13/the-other-afghan-women) writes about the experiences of Afghan women living outside of Kabul. In a conversation hosted by 
 [Jewish Currents](https://jewishcurrents.org/no-one-wants-to-listen-to-the-afghan-people/),Marya Hannun and Mejgan Massoumi also center the experiences of Afghans, and in 
-[Jacobin](https://jacobinmag.com/2021/05/biden-administration-afghanistan-war-withdrawl-opium-us-military),historian Alfred W. McCoy takes on the “
-[hubris of American empire](https://jacobinmag.com/2021/05/biden-administration-afghanistan-war-withdrawl-opium-us-military).”
+[Jacobin](https://jacobinmag.com/2021/05/biden-administration-afghanistan-war-withdrawl-opium-us-military),historian Alfred W. McCoy takes on the “[hubris of American empire](https://jacobinmag.com/2021/05/biden-administration-afghanistan-war-withdrawl-opium-us-military).”
 
 From 
 The Dig’s archives, check out 

@@ -20,8 +20,7 @@ Yet somehow, that war receives scant attention these days. Little of the volumin
 
 
 Which makes Spencer Ackerman’s new book 
-[Reign of Terror: How the 9/11 Era Destabilized America and Produced Trump](https://www.penguinrandomhouse.com/books/622555/reign-of-terror-by-spencer-ackerman/) (Viking) essential reading. Ackerman, a longtime national security reporter who writes the Substack “
-[Forever Wars](https://substack.com/profile/2576701-spencer-ackerman)” and won a Pulitzer at the 
+[Reign of Terror: How the 9/11 Era Destabilized America and Produced Trump](https://www.penguinrandomhouse.com/books/622555/reign-of-terror-by-spencer-ackerman/) (Viking) essential reading. Ackerman, a longtime national security reporter who writes the Substack “[Forever Wars](https://substack.com/profile/2576701-spencer-ackerman)” and won a Pulitzer at the 
 Guardian for his reporting on the Edward Snowden revelations, traces the violence and toxicity unleashed by the twenty-year War on Terror: nativism, Islamophobia, erosion of civil liberties, militarization of police powers at home, indefinite detention abroad, torture, expansion of “anti-terrorist” military action far beyond the Middle East, the roles played by a bloodthirsty Republican Party convinced of its ability and right to reshape the world through violence and a Democratic Party that shamefully capitulates to the GOP’s framing of the war, the successful harvesting of the worst of these developments by Donald Trump, and much more. He discusses all of this in a three-part conversation with 
 The Dig.
 

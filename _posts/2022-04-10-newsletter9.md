@@ -29,13 +29,12 @@ This episode is the first of two Dig
 [here](https://www.thedigradio.com/podcast/bolsonarismo-with-rodrigo-nunes/).
 
  
-
+Further Reading
 
 
 *Jacobin* has covered Brazilian politics and history closely over the years. Subscribers can explore this vast archive [here](https://jacobinmag.com/location/brazil), and everyone can read Sabrina Fernandes’s piece “[Bolsonaro Is Criminalizing the Brazilian Left](https://www.jacobinmag.com/2021/08/jair-bolsonaro-brazil-law-and-order-far-right-politics).” If you read Portuguese, you can also examine 
 [Jacobin Brazil](https://jacobin.com.br/). Andre Pagliarini’s most recent article for 
- is “
-[Climate Negotiations With Bolsonaro a Lost Cause](https://brazilian.report/opinion/2021/11/11/climate-negotiations-bolsonaro/).” 
+ is “[Climate Negotiations With Bolsonaro a Lost Cause](https://brazilian.report/opinion/2021/11/11/climate-negotiations-bolsonaro/).” 
 
 For another Dig interview on Brazil, check out this 
 [2018 interview with Alfredo Saad-Filho](https://www.thedigradio.com/podcast/explaining-brazils-crisis-with-alfredo-saad-filho/). And for those in search of a concise introduction to Brazilian history since the 1964 dictatorship, including the rise and fall of Lula and the ascent of Bolsonaro, you can’t do much better than Perry Anderson’s 

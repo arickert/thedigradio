@@ -49,5 +49,5 @@ Jacobin’s
 New Left Reviewon the ecological politics of growth versus degrowth summarized by Lola Seaton in 
 [“Green Questions,”](https://newleftreview.org/issues/ii115/articles/lola-seaton-green-questions) and two books: Holly Jean Buck’s work on left geo-engineering, 
 [After Geoengineering: Climate Tragedy, Repair, and Restoration](https://www.versobooks.com/books/3091-after-geoengineering),and Fredric Jameson’s magisterial Marxist study of science fiction, 
-[Archaeologies of the Future: The Desire Called Utopia and Other Science Fictions](https://www.versobooks.com/books/243-archaeologies-of-the-future),which concludes with a chapter on Kim Stanley Robinson’s 
+[Archaeologies of the Future: The Desire Called Utopia and Other Science Fictions](https://www.versobooks.com/books/243-archaeologies-of-the-future), which concludes with a chapter on Kim Stanley Robinson’s 
 Marstrilogy.

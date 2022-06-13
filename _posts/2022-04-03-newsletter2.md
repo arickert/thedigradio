@@ -42,7 +42,7 @@ Belabored podcast, recently
 [interviewed Ruth Milkman and Nastaran Mohit](https://www.dissentmagazine.org/blog/belabored-the-legacy-of-occupy-wall-street), an organizer and one of the study’s interviewers, about their reflections on the movement a decade on. For 
 Jacobin, Doug Singsen reminds us of 
 [unions’ critical and often underplayed role](https://jacobinmag.com/2021/09/occupy-wall-street-ows-zuccotti-park-nyc-labor-movement-unions-collaboration) in various OWS occupations across the country, while Ross Barkan argues the 
-[media was too quick to deem Occupy a failure](https://jacobinmag.com/2021/09/occupy-wall-street-new-york-city-dsa-bloomberg-cuomo).And questions still linger about Occupy’s most influential political currents. Former occupier and current Pennsylvania State Senator Nikil Saval and 
+[media was too quick to deem Occupy a failure](https://jacobinmag.com/2021/09/occupy-wall-street-new-york-city-dsa-bloomberg-cuomo). And questions still linger about Occupy’s most influential political currents. Former occupier and current Pennsylvania State Senator Nikil Saval and 
 Intercept columnist Natasha Lennard recently discussed 
 [whether Occupy was more socialist or anarchist in nature](https://www.thenation.com/article/activism/occupy-socialist-anarchist/) in 
 The Nation.
