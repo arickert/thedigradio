@@ -1,8 +1,8 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
+import markdownify
 import re
 
-####edge case italics
 
 page=urlopen("https://thedig.blubrry.net/")
 html = page.read().decode("utf-8")
@@ -12,7 +12,7 @@ a=soup.find_all(class_="title")
 newep=a[0]["href"]
 
 #### if statement
-# newep="https://thedig.blubrry.net/podcast/contradictions-with-eric-levitz/"
+newep="https://thedig.blubrry.net/podcast/young-lords-with-johanna-fernandez/"
 newpage=urlopen(newep)
 newhtml = newpage.read().decode("utf-8")
 
@@ -60,12 +60,15 @@ bod_soup.pop(0)
 bod_soup.pop(-1)
 
 for p in bod_soup:
-    paragraph=""
-    for item in p.descendants:
-        if item.string != None:
-            paragraph += item.string
-    body.append(paragraph)
-
+    body.append(markdownify.markdownify(str(p)))
+    # print(markdownify.markdownify(p.html))
+    # paragraph=""
+    # # for item in p.descendants:
+    # #     print(item)
+    # #     if item.string != None:
+    # #         paragraph += item.string
+    # body.append(paragraph)
+print(body)
 episode="---\nlayout: post\ntitle: "
 episode+= '"'+title+'"\npermalink: '+permalink+"\naudiolink: "+audiolink+"\ncategories:\n"
 for c in categories:
@@ -73,9 +76,10 @@ for c in categories:
 episode+="tags:\n"
 for t in tags:
     episode+= "- "+t+"\n"
-episode +="---\n"
+episode +="---\n\n"
 for p in body:
-    episode+="\n"+p+"\n"
-print(episode)
+    episode+=p
+
+print (episode)
 with open(date, 'x') as f:
     f.write(episode)
