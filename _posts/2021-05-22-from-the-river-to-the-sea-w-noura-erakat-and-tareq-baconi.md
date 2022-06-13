@@ -14,7 +14,7 @@ tags:
 Dan speaks with Noura Erakat and Tareq Baconi: an in-depth interview on Israeli apartheid and dispossession, the history and future of the Palestinian struggle, Israeli politics, media false equivalences, and shifting US public opinion toward Palestine.
 
 DONATE NOW to the Palestinian people:
-We Are Not Numbers wearenotnumbers.org/home/donate
-Multiple organizations: muftah.org/organizations-working-in-palestine-that-need-your-support/#.YKQaGZNKhpT
+[We Are Not Numbers](https://www.wearenotnumbers.org/home/donate)
+[Multiple organizations](https://www.muftah.org/organizations-working-in-palestine-that-need-your-support/#.YKQaGZNKhpT)
 
 Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 

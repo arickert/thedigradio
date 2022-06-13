@@ -12,8 +12,7 @@ tags:
 - Donna Haraway
 ---
 
-Donna Haraway's work defies disciplines, combining insights from both biology and feminist thought, and drawing on her own involvement in political projects organized around feminism and radical science. Haraway’s most recent book, 
-, takes up these questions as the fragility of earth’s webs of life is becoming frighteningly and increasingly apparent. What are the ethical and political demands in the face of the most pressing threat of our era—catastrophic climate change? To stay with the trouble, Haraway argues, is to reject technofixes that will save us from doom on the one hand, and on the other, to reject the pessimistic idea that “it’s too late” to make the world better. The book outlines a view of what Haraway calls “multispecies flourishing” and the obstacles to achieving it through theoretical insights and speculative fiction imaginings. Interviewed by 
+Donna Haraway's work defies disciplines, combining insights from both biology and feminist thought, and drawing on her own involvement in political projects organized around feminism and radical science. Haraway’s most recent book, Staying With the Trouble: Making Kin in the Chthulucene, takes up these questions as the fragility of earth’s webs of life is becoming frighteningly and increasingly apparent. What are the ethical and political demands in the face of the most pressing threat of our era—catastrophic climate change? To stay with the trouble, Haraway argues, is to reject technofixes that will save us from doom on the one hand, and on the other, to reject the pessimistic idea that “it’s too late” to make the world better. The book outlines a view of what Haraway calls “multispecies flourishing” and the obstacles to achieving it through theoretical insights and speculative fiction imaginings. Interviewed by 
  editorial board member Alyssa Battistoni.
 
 Thanks to n+1. To get 25% off a one-year subscription, go to 

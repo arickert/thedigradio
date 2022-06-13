@@ -14,6 +14,6 @@ tags:
 
 Edward Ongweso Jr. and Jacob Silverman on cryptocurrency, NFTs, Elon Musk, the metaverse, meme stocks, and techno-utopianism amid the crushing reality of our neoliberal hellscape. The first in a two-episode series on crypto. 
 
-Read Dan's new essay on border control politics: nplusonemag.com/online-only/online-only/border-crises/
+Read Dan's new essay on [border control politics](https://www.nplusonemag.com/online-only/online-only/border-crises/)
 
 Support The Dig at [patreon.com/thedig](http://www.patreon.com/TheDig) 

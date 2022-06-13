@@ -12,15 +12,6 @@ tags:
 [Listen to Episode](https://www.thedigradio.com/podcast/family-values-with-melinda-cooper/)
 
 
-Daniel Denvir:
-
-
-Family Values: Between Neoliberalism and the New Social Conservatism,
-
-
-
-
-
 Family Values: Between Neoliberalism and the New Social ConservatismCurrencies: New Thinking for Financial Times
 
 

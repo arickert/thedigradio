@@ -15,4 +15,4 @@ Astra Taylor interviews archaeologist David Wengrow on The Dawn of Everything: A
 
 Support us at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
-Check out Hannah Arendt by Samantha Rose Hill reaktionbooks.co.uk/display.asp?ISB=9781789143799
+Check out [Hannah Arendt by Samantha Rose Hill](https://www.reaktionbooks.co.uk/display.asp?ISB=9781789143799)

@@ -16,5 +16,4 @@ What are the politics of sex? Incels, porn, sexual racism, the feminist sex wars
 
 Want our very good weekly newsletter emailed to you? Support us at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
-Interested in the book advertised on this week's Dig?
-thenewpress.com/books/empire-of-rubber
+[Interested in the book advertised on this week's Dig?](https://www.thenewpress.com/books/empire-of-rubber)

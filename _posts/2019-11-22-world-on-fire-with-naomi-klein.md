@@ -10,8 +10,7 @@ tags:
 - Naomi Klein
 ---
 
-Dan interviews Naomi Klein on her new essay collection 
-On Fire: The Burning Case for a Green New Deal.
+Dan interviews Naomi Klein on her new essay collection On Fire: The Burning Case for a Green New Deal.
 
 Thanks to University of California Press. Check out their huge selection of titles at 
 [ucpress.edu](https://ucpress.edu)

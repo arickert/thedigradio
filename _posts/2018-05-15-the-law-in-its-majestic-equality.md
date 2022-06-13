@@ -14,7 +14,7 @@ tags:
 
 Dan’s guest is Amy Kapczynski, professor of law at Yale Law School, and a co-convenor of LPEblog.org.
 
-Thanks to Verso Books. Check out Police: A Field Guide by David Correia and Tyler Wall versobooks.com/books/2530-police
+Thanks to Verso Books. Check out [Police: A Field Guide by David Correia and Tyler Wall](https://www.versobooks.com/books/2530-police)
 
 And support this podcast with $ at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 

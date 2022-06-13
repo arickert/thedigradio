@@ -19,10 +19,10 @@ the issue in right-wing politics? How does today’s cancel culture discourse di
 there there? Some problems with The Discourse that we should reflect upon? 
 
 Readings:
-Some “Politically Incorrect” Pathways Through PC by Stuart Hall ram-wan.net/restrepo/hall/some%20politically%20incorrect%20pathways.pdf
+Some “Politically Incorrect” Pathways Through PC by [Stuart Hall](https://www.ram-wan.net/restrepo/hall/some%20politically%20incorrect%20pathways.pdf)
 
-Political correctness: how the right invented a phantom enemy by Moira Weigel theguardian.com/us-news/2016/nov/30/political-correctness-how-the-right-invented-phantom-enemy-donald-trump
+[Political correctness: how the right invented a phantom enemy by Moira Weigel](https://www.theguardian.com/us-news/2016/nov/30/political-correctness-how-the-right-invented-phantom-enemy-donald-trump)
 
-The Use of Free Speech in Society by Asad Haider versobooks.com/blogs/4793-the-use-of-free-speech-in-society
+[The Use of Free Speech in Society by Asad Haider](https://www.versobooks.com/blogs/4793-the-use-of-free-speech-in-society)
 
 Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 

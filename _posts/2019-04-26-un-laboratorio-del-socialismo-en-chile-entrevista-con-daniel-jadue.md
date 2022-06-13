@@ -13,11 +13,10 @@ tags:
 [View Transcript](https://www.jacobinmag.com/2019/04/communist-party-chile-left-governance-recoleta)
 
 
-*This episode of 
- is a special 
+*This episode of The Digis a special 
  in Spanish. Visit 
 [for a transcript in English](https://jacobinmag.com/2019/04/communist-party-chile-left-governance-recoleta). Este episodio de 
- es un 
+The Dig es un 
  especial en español. Entra a 
 [para una transcripción en inglés](https://jacobinmag.com/2019/04/communist-party-chile-left-governance-recoleta).*
 

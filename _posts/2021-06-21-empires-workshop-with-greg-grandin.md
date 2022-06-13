@@ -16,4 +16,4 @@ The history of the United States is in no small part the history of US intervent
 
 Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
-Watch our new Dig video shorts on YouTube: youtube.com/watch?v=LcZb3A986p0
+Watch our new Dig video shorts on [YouTube](https://www.youtube.com/watch?v=LcZb3A986p0)

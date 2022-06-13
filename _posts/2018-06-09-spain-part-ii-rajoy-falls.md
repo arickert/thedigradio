@@ -20,12 +20,11 @@ Production note: Dan sounds like he’s speaking in an aquarium or calling into 
 
 
 Thanks to Verso. Check out Street Fighting Years: An Autobiography of the Sixties by Tariq Ali 
-[versobooks.com/books/2666-
-street-fighting-years](https://versobooks.com/books/2666-street-fighting-years)
+[versobooks.com/books/2666-street-fighting-years](https://versobooks.com/books/2666-street-fighting-years)
 
 
 
-Also, register for the upcoming Socialism 2018 conference at SocialismConference.org
+Also, register for the upcoming Socialism 2018 conference at [SocialismConference.org](https://www.SocialismConference.org)
 
 
 

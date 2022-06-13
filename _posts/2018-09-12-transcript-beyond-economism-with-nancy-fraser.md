@@ -12,27 +12,6 @@ tags:
 [Listen to Episode](https://www.thedigradio.com/podcast/beyond-economism-with-nancy-fraser/)
 
 
-Daniel Denvir:
-
-
-Capitalism: A Conversation in Critical Theory,
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Capitalism: A Conversation in Critical Theory,
-
-
 DD: Nancy Fraser, welcome to The Dig. 
 
 

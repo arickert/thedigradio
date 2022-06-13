@@ -15,6 +15,6 @@ A laundry list of modest policy solutions is not enough, it turns out. It's not 
 
 Dan’s guest George Monbiot argues that the left needs a powerful new story to win power and change lives in his new book, Out of the Wreckage: A New Politics for an Age of Crisis.
 
-Thanks to Verso Books. Check out A World to Win: The Life and Works of Karl Marx with Sven-Eric Liedman versobooks.com/events/1785-a-world-to-win-the-life-and-works-of-karl-marx-with-sven-eric-liedman
+Thanks to Verso Books. Check out [A World to Win: The Life and Works of Karl Marx with Sven-Eric Liedman](https://www.versobooks.com/events/1785-a-world-to-win-the-life-and-works-of-karl-marx-with-sven-eric-liedman)
 
 Support this podcast with $ and get our weekly newsletter at [patreon.com/thedig](http://www.patreon.com/TheDig) 

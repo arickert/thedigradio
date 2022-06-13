@@ -14,7 +14,7 @@ tags:
 
 Tony Wood returns to The Dig to discuss Russia’s invasion, what it reflects about Russian politics and geopolitics today and historically, and how the Left should be thinking about it all.
 
-[Tony's LRB essay](lrb.co.uk/the-paper/v44/n04/tony-wood2/why-didn-t-they-stop-it)
+[Tony's LRB essay](http://www.lrb.co.uk/the-paper/v44/n04/tony-wood2/why-didn-t-they-stop-it)
 
 Listen to past Dig eps for context on Russia’s invasion of Ukraine:
 Tony Wood on Russia and Putin: thedigradio.com/podcast/russia-beyond-putin-with-tony-wood

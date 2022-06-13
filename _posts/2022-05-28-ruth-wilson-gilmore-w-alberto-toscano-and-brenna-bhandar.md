@@ -14,4 +14,4 @@ What role does mass incarceration play in American political economy? What does 
 
 Support The Dig at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
-Buy [Assata Taught Me: State Violence, Racial Capitalism, and the Movement for Black Lives by Donna Murch](haymarketbooks.org/books/1650-assata-taught-me)
+Buy [Assata Taught Me: State Violence, Racial Capitalism, and the Movement for Black Lives by Donna Murch](http://www.haymarketbooks.org/books/1650-assata-taught-me)

@@ -13,6 +13,6 @@ tags:
 
 A timely interview from the archives: legal scholars Aziz Rana and Amna Akbar, and Movement for Black Lives lawyer Marbre Stahly-Butts, on SCOTUS, liberal court veneration, and other big questions on the law and politics facing the left.
 
-Find Eslanda at [haymarketbooks.org/books/1769-eslanda](haymarketbooks.org/books/1769-eslanda)
+Find Eslanda at [haymarketbooks.org/books/1769-eslanda](http://www.haymarketbooks.org/books/1769-eslanda)
 
 Support The Dig at [patreon.com/thedig](http://www.patreon.com/TheDig) 

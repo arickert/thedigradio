@@ -21,15 +21,14 @@ David Harvey has taught Capital to huge numbers of people everywhere. Dan interv
 
  
 
-Thanks to Verso. Check out Mistaken Identity: Race and Class in the Age of Trump by Asad Haider versobooks.com/books/2716-mistaken-identity
+Thanks to Verso. Check out [Mistaken Identity: Race and Class in the Age of Trump by Asad Haider](versobooks.com/books/2716-mistaken-identity)
 
  
 
-Register for the Socialism 2018 conference (July 5-8, Chicago!) at socialismconference.org
+Register for the Socialism 2018 conference (July 5-8, Chicago!) at [socialismconference.org](socialismconference.org)
 
- 
 
-And support this podcast with $$ and access our weekly newsletter at [patreon.com/thedig](http://www.patreon.com/TheDig) 
+And support this podcast with $ and access our weekly newsletter at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
 
 

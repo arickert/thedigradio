@@ -14,6 +14,6 @@ tags:  []
 
 Episode one of The Dig's three-part War on Terror series the with Spencer Ackerman: 9/11, bipartisan war fever, and George W. Bush.
 
-Subscribe to Spencer's Substack: foreverwars.substack.com/people/2576701-spencer-ackerman
+Subscribe to [Spencer's Substack](https://www.foreverwars.substack.com/people/2576701-spencer-ackerman)
 
 Support The Dig at [patreon.com/TheDig](http://www.patreon.com/TheDig)  and (very soon) get our weekly newsletter

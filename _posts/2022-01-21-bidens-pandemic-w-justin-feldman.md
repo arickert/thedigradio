@@ -13,8 +13,8 @@ tags:
 
 Epidemiologist Justin Feldman makes a comprehensive and devastating critique of Biden's pandemic response. 
 
-[Read Justin's essay](jmfeldman.medium.com/?p=88452c696f2)
+[Read Justin's essay](https://www.jmfeldman.medium.com/?p=88452c696f2)
 
 Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
-[Buy Angela Davis: An Autobiography](haymarketbooks.org/books/1741-angela-davis)
+[Buy Angela Davis: An Autobiography](https://www.haymarketbooks.org/books/1741-angela-davis)

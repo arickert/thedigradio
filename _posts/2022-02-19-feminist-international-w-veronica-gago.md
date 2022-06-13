@@ -17,4 +17,4 @@ Feminist political theorist and organizer Verónica Gago on Argentina’s massiv
 
 Support The Dig at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 
-Check out [Coup: A Story of Violence and Resistance in Bolivia](haymarketbooks.org/books/1745-coup)
+Check out [Coup: A Story of Violence and Resistance in Bolivia](http://www.haymarketbooks.org/books/1745-coup)

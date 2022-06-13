@@ -19,8 +19,8 @@ The US colony of Puerto Rico has been repeatedly shocked and Puerto Ricans are t
 
 This is is the subject of Naomi Klein's new book from Haymarket, The Battle For Paradise: Puerto Rico Takes on the Disaster Capitalists. Today, Klein returns to The Dig, and is joined by Mercedes Martínez, president of the Puerto Rican Teachers Federation.
 
-Thanks to Verso Books. Check out A World to Win: The Life and Works of Karl Marx with Sven-Eric Liedman versobooks.com/events/1785-a-world-to-win-the-life-and-works-of-karl-marx-with-sven-eric-liedman
+Thanks to Verso Books. Check out [A World to Win: The Life and Works of Karl Marx with Sven-Eric Liedman](https://www.versobooks.com/events/1785-a-world-to-win-the-life-and-works-of-karl-marx-with-sven-eric-liedman)
 
-Also, register for the upcoming Socialism 2018 conference at SocialismConference.org
+Also, register for the upcoming Socialism 2018 conference at [SocialismConference.org](https://www.SocialismConference.org)
 
 Support this podcast with $ and get our weekly newsletter at [patreon.com/thedig](http://www.patreon.com/TheDig) 

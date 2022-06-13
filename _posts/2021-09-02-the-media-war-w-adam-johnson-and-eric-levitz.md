@@ -15,10 +15,8 @@ tags:
 
 Media critic Adam Johnson and New York Magazine's Eric Levitz on the media's warmongering attack on Biden's withdrawal of US troops from Afghanistan. 
 
-Further reading: 
-nymag.com/intelligencer/2021/08/media-bias-biden-polls-approval-afghanistan-withdrawal.html
-thecolumn.substack.com/p/on-afghanistan-withdrawal-nyts-peter
+[Further](https://www.nymag.com/intelligencer/2021/08/media-bias-biden-polls-approval-afghanistan-withdrawal.html)[reading](https://www.thecolumn.substack.com/p/on-afghanistan-withdrawal-nyts-peter)
 
-Sign up for Adam's Substack: thecolumn.substack.com
+Sign up for [Adam's Substack](https://www.thecolumn.substack.com)
 
 Support The Dig at [patreon.com/TheDig](http://www.patreon.com/TheDig)  and get our (coming soon) weekly newsletter

@@ -11,7 +11,7 @@ tags:
 
 [Listen to Episode](https://www.thedigradio.com/podcast/naomi-klein-and-mercedes-martinez-the-battle-for-puerto-rico/)
 
-he US colony of Puerto Rico has suffered a series of shocks in recent years. In 2006, tax breaks intended to lure manufacturers to the island expired, prompting widespread capital flight. Then, the financial crisis hit, and the island’s government borrowed huge sums of money.
+The US colony of Puerto Rico has suffered a series of shocks in recent years. In 2006, tax breaks intended to lure manufacturers to the island expired, prompting widespread capital flight. Then, the financial crisis hit, and the island’s government borrowed huge sums of money.
 
 The resulting debt crisis was followed by widespread public sector layoffs. Since then, the federal PROMESA law created an unelected financial oversight and management board, or Junta, which has moved to impose yet more austerity on the island. And that was before Hurricane Maria hit.
 

@@ -10,4 +10,4 @@ tags:  []
 
 A Striketober episode from The Dig archives.
 
-Support The Dig at [patreon.com/TheDig](http://www.patreon.com/TheDig)  and receive our weekly newsletter by email
+Support The Dig at [patreon.com/TheDig](http://www.patreon.com/TheDig) and receive our weekly newsletter by email
