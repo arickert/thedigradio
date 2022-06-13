@@ -7,7 +7,7 @@ layout: default
   {% unless page.title contains "Newsletter" %}
   <span style="color:#B2B2B2" class="post-date">{{ page.date | date_to_string }}</span>
   {% if page.audiolink != null %}
-  <audio controls><source src="{{page.audiolink}}" type="audio/mpeg">Your browser does not support the audio tag.</audio>
+  <audio style="width:60%" controls><source src="{{page.audiolink}}" type="audio/mpeg">Your browser does not support the audio tag.</audio>
   {% endif %}
   {% endunless %}
     {{ content }}

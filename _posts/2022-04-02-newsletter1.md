@@ -53,8 +53,8 @@ New York Times’ Michelle Goldberg
 
 We at 
 The Dig have covered the War on Terror closely over the years. Take a look in our 
-[vast](https://www.thedigradio.com/tag/middle-east/) 
-[archive](https://www.thedigradio.com/tag/imperialism-and-foreign-policy/) for similar further coverage, such as our conversation with Nikhil Pal Singh on the 
+[vast](https://www.thedigradio.com/category/middle-east/) 
+[archive](https://www.thedigradio.com/category/imperialism-and-foreign-policy) for similar further coverage, such as our conversation with Nikhil Pal Singh on the 
 [connection between war abroad and war at home](https://www.thedigradio.com/podcast/americas-long-war-with-nikhil-pal-singh/), our 
 [two-part](https://www.thedigradio.com/podcast/petro-capitalism-with-timothy-mitchell-part-i/) 
 [interview](https://www.thedigradio.com/podcast/petro-imperialism-with-timothy-mitchell-part-ii/) on “petro-capitalism” with Timothy Mitchell, or our conversation with historian Andrew Bacevich on our 
