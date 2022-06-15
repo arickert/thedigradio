@@ -14,11 +14,11 @@ Today, we're talking about Italy, where a so-called "populist" alliance of the F
 
  
 
-Thanks to Verso. Check out Radical Technologies: The Design of Everyday Life by Adam Greenfield versobooks.com/books/2742-radical-technologies
+Thanks to Verso. Check out [Radical Technologies: The Design of Everyday Life by Adam Greenfield](versobooks.com/books/2742-radical-technologies)
 
  
 
-And register for the Socialism 2018 conference (July 5-8, Chicago!) at socialismconference.org
+And register for the Socialism 2018 conference (July 5-8, Chicago!) at [socialismconference.org](socialismconference.org)
 
  
 

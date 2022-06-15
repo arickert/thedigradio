@@ -10,10 +10,8 @@ tags:
 - Kathleen Belew
 ---
 
-The man who carried out the massacre in Pittsburgh was apparently motivated by a belief that Jewish people were conspiring to destroy the white race by way of orchestrating mass immigration. It's a conspiracy theory with deep roots in America's violent white power movement and that today is echoed by Trump and 
-. Dan interviews Kathleen Belew on her book 
-, a history of the white power revolutionary movement from 1975-1995.
+The man who carried out the massacre in Pittsburgh was apparently motivated by a belief that Jewish people were conspiring to destroy the white race by way of orchestrating mass immigration. It's a conspiracy theory with deep roots in America's violent white power movement and that today is echoed by Trump and Fox News. Dan interviews Kathleen Belew on her book Bring The War Home: The White Power Movement and Paramilitary America, a history of the white power revolutionary movement from 1975-1995.
 
-Thanks to Verso Books and University of California Press. Check out the excellent titles they have for sale at www.versobooks.com and www.ucpress.edu
+Thanks to Verso Books and University of California Press. Check out the excellent titles they have for sale at [www.versobooks.com](www.versobooks.com) and www.ucpress.edu
 
 Please support this podcast with money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

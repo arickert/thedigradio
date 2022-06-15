@@ -15,7 +15,7 @@ tags:
 
 Dan interviews Melinda Cooper about her book, Family Values: Between Neoliberalism and the New Social Conservatism, which makes the case that neoliberalism and social conservatism have been consistent collaborators in creating an economy that redistributed wealth ruthlessly upwards with a risk-absorbing family at its privatized center.
 
-Thanks to Verso Books, which has a huge collection of excellent left-wing titles at www.versobooks.com
+Thanks to Verso Books, which has a huge collection of excellent left-wing titles at [www.versobooks.com](www.versobooks.com)
 
 Support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 

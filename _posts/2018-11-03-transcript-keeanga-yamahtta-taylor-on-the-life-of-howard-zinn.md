@@ -22,8 +22,7 @@ As Eric Foner wrote in an obituary for the Nation, “Few historians managed to 
 I have long been struck by how many excellent students of history first had their passion for the past sparked by reading Howard Zinn. Sometimes, to be sure, his account tended toward the Manichaean, an oversimplified narrative of the battle between the forces of light and darkness. But 
 A People’s History taught an inspiring and salutary lesson — that despite all too frequent repression, if America has a history to celebrate it lies in the social movements that have made this a better country.
 
-Keeanga-Yamahtta Taylor, professor of African-American studies at Princeton University, has written a foreword to a new edition of 
-You Can’t Be Neutral on a Moving Train, Zinn’s autobiography. Daniel Denvir spoke with Taylor about Zinn’s life and legacy for his podcast the Dig. 
+Keeanga-Yamahtta Taylor, professor of African-American studies at Princeton University, has written a foreword to a new edition of You Can’t Be Neutral on a Moving Train, Zinn’s autobiography. Daniel Denvir spoke with Taylor about Zinn’s life and legacy for his podcast the Dig. 
 
 Read the full transcript from Jacobin 
 [here.](https://www.jacobinmag.com/2018/11/howard-zinns-life-on-the-frontlines)

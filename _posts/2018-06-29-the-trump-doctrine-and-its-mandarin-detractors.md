@@ -18,14 +18,14 @@ Peace has broken out across the Korean Peninsula—or, at least, the odds that D
 
  
 
-Thanks to Verso. Check out Mistaken Identity: Race and Class in the Age of Trump by Asad Haider versobooks.com/books/2716-mistaken-identity
+Thanks to Verso. Check out [Mistaken Identity: Race and Class in the Age of Trump by Asad Haider](versobooks.com/books/2716-mistaken-identity)
 
  
 
-And register for the Socialism 2018 conference (July 5-8, Chicago!) at socialismconference.org
+And register for the Socialism 2018 conference (July 5-8, Chicago!) at [socialismconference.org](socialismconference.org)
 
  
 
-Support this podcast with $ and access our weekly newsletter at patreon.com/TheDig
+Support this podcast with $ and access our weekly newsletter at [patreon.com/TheDig](patreon.com/TheDig)
 
  

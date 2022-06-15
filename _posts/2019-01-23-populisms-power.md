@@ -15,13 +15,13 @@ Democracy is the proposition that the people should govern themselves. But who a
 
 Check out Thea's n+1 essays on populism here:
 
-nplusonemag.com/issue-28/politics/democracy-without-the-people-2/
+[nplusonemag.com/issue-28/politics/democracy-without-the-people-2/](nplusonemag.com/issue-28/politics/democracy-without-the-people-2/)
 
-nplusonemag.com/online-only/online-only/zombie-liberalism/
+[nplusonemag.com/online-only/online-only/zombie-liberalism/](nplusonemag.com/online-only/online-only/zombie-liberalism/)
 
-nplusonemag.com/online-only/online-only/populism-without-the-people/
+[nplusonemag.com/online-only/online-only/populism-without-the-people/](nplusonemag.com/online-only/online-only/populism-without-the-people/)
 
-Thanks to Verso. Check out their huge collection of left-wing titles at www.versobooks.com
+Thanks to Verso. Check out their huge collection of left-wing titles at [www.versobooks.com](www.versobooks.com)
 
 Please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 

@@ -18,7 +18,7 @@ Today's episode is a long one. It's the first of two this week on climate politi
 
 Dan spoke to Audrea Lim, Thea Riofrancos, Ashley Dawson and Daniel Aldana Cohen about how the left should respond to the climate crisis—and how that response, for better or for worse, will require a deep transformation in social and economic relations, and also in our built environment and how we inhabit it. In other words, eco-socialism is the only solution because we can't achieve real ecological balance without socialism, and true socialism that delivers liberation would be concretely impossible without ecological balance.
 
-Thanks to Verso. Check out so many good lefty titles at www.versobooks.com
+Thanks to Verso. Check out so many good lefty titles at [www.versobooks.com](www.versobooks.com)
 
 And please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 
 

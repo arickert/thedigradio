@@ -16,27 +16,6 @@ tags:
 [Listen to Episode](https://www.thedigradio.com/podcast/our-history-is-the-future-with-nick-estes/)
 
 
-Daniel Denvir:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Our History is the Future: Standing Rock Versus the Dakota Access Pipelineand the Long Tradition of Indigenous Resistance
-
-
-
-
-
 Our History is the Future: Standing Rock Versus the Dakota Access Pipeline, and the Long Tradition of Indigenous Resistance
 
 

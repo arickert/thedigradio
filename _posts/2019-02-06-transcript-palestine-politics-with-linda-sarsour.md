@@ -12,8 +12,7 @@ tags:
 [Listen to Episode](https://www.thedigradio.com/podcast/palestine-politics-with-linda-sarsour/)
 
 
-Daniel Denvir
-: 
+Daniel Denvir: 
 Welcome to The Dig, a podcast from Jacobin Magazine. My name is Daniel Denvir and I'm temporarily broadcasting from Santiago de Chile. Two new left-wing Muslim women elected to Congress, Palestinian American Rashid Tlaib and Somali American Ilhan Omar, are resetting the congressional debate over Palestine. In response, they have been met with vociferous and slanderous attacks. On the one hand, this is exciting. We've never had people in Congress who not only criticize Israeli brutality but also support the Boycott, Divestment, and Sanctions movement. On the other hand, the current debate is a sobering reminder of how, amongst American elected officials, overwhelming bipartisan and nearly unconditional support for Israel remains the norm even as Democratic voters moved sharply to the left and sharply in opposition to the occupation. 
 
 Here's Linda Sarsour, a Brooklyn-born Palestinian Muslim American activist and organizer. She's the co-founder of Empower Change, the first Muslim founded and led online organizing platform, and is a national organizer with the Women's March.

@@ -16,6 +16,6 @@ tags:
 
 Marissa Brostoff and Andrea Long Chu discuss Sex and the City and The X-Files, unraveling the tangled history of Marxism and queer theory, Cynthia Nixon the democratic socialist versus Miranda the straight corporate lawyer misrecognized as a lesbian, feminism as consumption in Giuliani's New York, the remarkable resilience of heterosexuality, the Cold War's paranoiac aftershocks, history's startling return, the alt-right’s nostalgia for postmodernism, the takeover of reality by reality TV, men with tinfoil hats decrying the deep state from the heights of power, and the possibilities of stitching socialism and queer politics together into a robust movement for human liberation.
 
-Thank you to Verso Books. Check out their huge selection of left-wing titles at www.versobooks.com
+Thank you to Verso Books. Check out their huge selection of left-wing titles at [www.versobooks.com](www.versobooks.com)
 
 Please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

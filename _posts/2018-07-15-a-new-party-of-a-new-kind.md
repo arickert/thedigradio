@@ -16,9 +16,9 @@ tags:
 
 The last episode in this week's Ocasio-Cortez super series. First, an interview with Seth Ackerman on his essay "A Blueprint for a New Party," which lays out a strategy for building independent socialist power effectively, which means opportunistically seizing the Democratic Party ballot line when necessary. jacobinmag.com/2016/11/bernie-sanders-democratic-labor-party-ackerman/
 
-Then, Kate Aronoff on her article "A Revolution From Within," which explains Our Revolution and Justice Democrats, two organizations formed out of the Bernie campaign that are playing critical roles in the left electoral insurgency. dissentmagazine.org/article/transforming-electoral-process-our-revolution-justice-democrats
+Then, Kate Aronoff on her article "A Revolution From Within," which explains Our Revolution and Justice Democrats, two organizations formed out of the Bernie campaign that are playing critical roles in the [left electoral insurgency.](dissentmagazine.org/article/transforming-electoral-process-our-revolution-justice-democrats)
 
-Thanks to Verso Books. Check out The Amateur: The Pleasures of Doing What You Love by Andy Merrifield versobooks.com/books/2765-the-amateur
+Thanks to Verso Books. Check out [The Amateur: The Pleasures of Doing What You Love by Andy Merrifield](versobooks.com/books/2765-the-amateur)
 
 
 

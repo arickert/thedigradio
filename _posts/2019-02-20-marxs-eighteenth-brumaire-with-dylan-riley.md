@@ -17,6 +17,6 @@ Check out Dan's recent
 [NYT op-ed](https://www.nytimes.com/2019/02/11/opinion/democrats-border-security-wall.html)The Case Against Border Security.
 
 Thanks to NACLA, reporting on the Americas since 1967. Check out their collection of articles on Latin American politics at 
-[nacla.org](nacla.org). And thanks, as always, to Verso. Check out their huge collection of left-wing titles at www.versobooks.com
+[nacla.org](nacla.org). And thanks, as always, to Verso. Check out their huge collection of left-wing titles at [www.versobooks.com](www.versobooks.com)
 
 Please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 

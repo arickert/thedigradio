@@ -17,7 +17,7 @@ Two left-wing Muslim women newly elected to Congress—Palestinian-American Rash
 
  
 
-Thanks to Verso. Check out their huge selection of left-wing titles at www.versobooks.com
+Thanks to Verso. Check out their huge selection of left-wing titles at [www.versobooks.com](www.versobooks.com)
 
  
 

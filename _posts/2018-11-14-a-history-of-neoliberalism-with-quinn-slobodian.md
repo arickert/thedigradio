@@ -11,11 +11,11 @@ tags:
 ---
 
 Neoliberalism: we all hate it, but what does it mean? Dan talks to intellectual historian Quinn Slobodian about his book 
-, which tells the story of neoliberalism's Geneva School—including Ludwig von Mises, Friedrich Hayek, and Wilhelm Röpke—and their vision for a new imperial order establishing rules to protect the market from political interference. It's a movement that begins with nostalgia for the bygone Habsburg Empire, moves on to fights against the decolonized world's efforts to create a New International Economic Order, and that plays a key role in forming the European Economic Community and the WTO.
+Globalists: The End of Empire and the Birth of Neoliberalism, which tells the story of neoliberalism's Geneva School—including Ludwig von Mises, Friedrich Hayek, and Wilhelm Röpke—and their vision for a new imperial order establishing rules to protect the market from political interference. It's a movement that begins with nostalgia for the bygone Habsburg Empire, moves on to fights against the decolonized world's efforts to create a New International Economic Order, and that plays a key role in forming the European Economic Community and the WTO.
 
 Live Dig interview in NYC with Yanis Varoufakis onChallenging the New Right-Populism
 Saturday December 1, 6pm. The New School's Arnhold Hall at the Theresa Lang Student Center.
 
-Thanks to Verso Books and University of California Press. Check out their titles at www.versobooks.com and ucpress.edu
+Thanks to Verso Books and University of California Press. Check out their titles at [www.versobooks.com](www.versobooks.com) and [ucpress.edu](ucpress.edu)
 
 Please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 
