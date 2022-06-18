@@ -12,7 +12,6 @@ a=soup.find_all(class_="title")
 newep=a[0]["href"]
 
 #### if statement
-newep="https://thedig.blubrry.net/podcast/young-lords-with-johanna-fernandez/"
 newpage=urlopen(newep)
 newhtml = newpage.read().decode("utf-8")
 
