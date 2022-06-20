@@ -14,9 +14,9 @@ categories:
 
 Know Your Enemy hosts Matthew Sitman and Sam Adler-Bell on terrifyingly protean right-wing American politics.
 
-Check out our [newsletter](thedigradio.com/newsletter)
+Check out our [newsletter](https://thedigradio.com/newsletter)
 
-Read [James Pogue on the New Right](vanityfair.com/news/2022/04/inside-the-new-right-where-peter-thiel-is-placing-his-biggest-bets)
+Read [James Pogue on the New Right](https://vanityfair.com/news/2022/04/inside-the-new-right-where-peter-thiel-is-placing-his-biggest-bets)
 
-Read [Mie Inouye’s Boston Review article on union salts](bostonreview.net/articles/labors-militant-minority/)
+Read [Mie Inouye’s Boston Review article on union salts](https://bostonreview.net/articles/labors-militant-minority/)
 
