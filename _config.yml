@@ -59,3 +59,9 @@ collections:
   archives:
     output: true
     permalink: /archives/:path/
+
+# Redirect
+custom_redirects:
+  - from: /feed/podcast/
+    to: https://thedig.blubrry.net/feed/podcast
+    type: permanent
