@@ -4,9 +4,9 @@ title: "In This House w/ Jared Clemons"
 permalink: podcast/in-this-house-w-jared-clemons/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_362-Clemons.mp3
 categories:
+- Jared Clemons
 tags:
 - Black Political Thought
-- Jared Clemons
 - Liberalism
 - Racism
 ---
