@@ -4,11 +4,11 @@ title: "In This House w/ Jared Clemons"
 permalink: podcast/in-this-house-w-jared-clemons/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_362-Clemons.mp3
 categories:
-- Jared Clemons
-tags:
 - Black Political Thought
 - Liberalism
 - Racism
+tags:
+- Jared Clemons
 ---
 
 Political scientist Jared Clemons on feckless liberal anti-racism: how In This House We Believe racial liberalism leaves racial capitalism’s inequalities in place and why, drawing on Martin Luther King and A. Philip Randolph, the Black Freedom Movement instead needs solidarity with the multi-racial working class.
