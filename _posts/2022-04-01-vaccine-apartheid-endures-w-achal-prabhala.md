@@ -15,6 +15,6 @@ tags:
 
 Astra interviews Achal Prabhala on the lethal persistence of global vaccine apartheid. Moderna is selfishly refusing to share or even sell (license) its mRNA technology, leaving much of the world unprotected from the pandemic and incubating new variants.
 
-Moderna's annual shareholder meeting is April 28th. Join Justice is Global, Boston DSA, and others to challenge vaccine profiteering at their Cambridge headquarters. Sign up at [bitly.com/modernaaction](http://www.bitly.com/modernaaction)
+Moderna's annual shareholder meeting is April 28th. Join Justice is Global, Boston DSA, and others to challenge vaccine profiteering at their Cambridge headquarters. Sign up at [bitly.com/modernaaction](http://www.bit.ly/modernaaction)
 
 Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 
