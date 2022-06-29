@@ -14,6 +14,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 # Optimize Jekyll
 exclude:
@@ -59,3 +60,8 @@ collections:
     output: true
     permalink: /archives/:path/
 
+# Redirect
+# custom_redirects:
+#   - from: /feed/podcast/
+#     to: https://thedig.blubrry.net/feed/podcast
+#     type: permanent
