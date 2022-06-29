@@ -1,7 +1,7 @@
 ---
 layout: default
 title: podcast
-# redirect_to: https://thedig.blubrry.net/feed/podcast/
+redirect_to: https://thedig.blubrry.net/feed/podcast/
 ---
 
 ```xml
