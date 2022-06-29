@@ -1,2 +1,4 @@
-Redirect 301 "/feed/podcast" "https://thedig.blubrry.net/feed/podcast"
-Redirect 301 "/feed/podcast/" "https://thedig.blubrry.net/feed/podcast"
+RewriteEngine on
+
+Redirect 301 /feed/podcast https://thedig.blubrry.net/feed/podcast
+Redirect 301 /feed/podcast/ "https://thedig.blubrry.net/feed/podcast
