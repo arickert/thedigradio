@@ -6,7 +6,6 @@ import re
 
 page=urlopen("https://thedig.blubrry.net/")
 html = page.read().decode("utf-8")
-# print(html)
 soup = BeautifulSoup(html, "html.parser")
 a=soup.find_all(class_="title")
 newep=a[0]["href"]
@@ -46,13 +45,7 @@ for a in cont:
     st = a.string
     if "Tagged" not in st:
         if "," not in st:
-            if "Daniel Denvir" in st:
-                catflag=True
-            else:
-                if catflag==False:
-                    tags.append(st)
-                elif catflag==True:
-                    categories.append(st)
+            categories.append(st)
 
 bod_soup=newsoup.find_all("p")
 bod_soup.pop(0)
@@ -67,7 +60,27 @@ for p in bod_soup:
     # #     if item.string != None:
     # #         paragraph += item.string
     # body.append(paragraph)
-print(body)
+
+final=body[0][slice(0,10)]
+if final == "Featuring ":
+    b1=body[0][10:-1]
+    pflag=False
+    onindex=b1.find("on")
+    b2=b1[slice(0,onindex)]
+    while pflag==False:
+        com=b2.find(",")
+        name = b2[0:com]
+
+        if b2.find(",")== -1:     
+            pflag=True
+
+
+
+        com+=2
+        b2=b2[com:]
+        tags.append(name)
+
+print(tags)
 episode="---\nlayout: post\ntitle: "
 episode+= '"'+title+'"\npermalink: '+permalink+"\naudiolink: "+audiolink+"\ncategories:\n"
 for c in categories:
@@ -79,6 +92,5 @@ episode +="---\n\n"
 for p in body:
     episode+=p
 
-print (episode)
 with open(date, 'x') as f:
     f.write(episode)
