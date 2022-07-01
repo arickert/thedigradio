@@ -4,6 +4,7 @@ title: "Identity, Power, and Speech with Olúfẹ́mi Táíwò"
 permalink: podcast/identity-power-and-speech-with-olufemi-taiwo-2/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_363-Taiwo.mp3
 categories:
+- Olúfẹ́mi Táíwò
 tags:
 - Identity Politics
 - Racism
