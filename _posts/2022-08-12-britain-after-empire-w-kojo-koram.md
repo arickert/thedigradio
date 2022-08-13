@@ -2,7 +2,7 @@
 layout: post
 title: "Britain After Empire w/ Kojo Koram"
 permalink: podcast/britain-after-empire-w-kojo-koram/
-audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_367-Koram.mp3
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_367-Koram-fixed.mp3
 categories:
 - Colonialism
 - Decolonization
