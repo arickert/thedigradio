@@ -5,6 +5,7 @@ permalink: podcast/a-history-of-neoliberalism-w-quinn-slobodian/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_369-Slobodian.mp3
 categories:
 - Neoliberalism
+- Archive
 tags:
 - Quinn Slobodian
 ---
