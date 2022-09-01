@@ -15,7 +15,7 @@ title: Archive
 {% if post.categories contains page.category or post.category == page.category %}
     {% unless post.categories contains "Archive" %}
         {% include postbox.md %}
-    {% unless post.tags contains "Archive" %}
+    {% endunless %}
 {% endif %}    
 
 {% endfor %}
