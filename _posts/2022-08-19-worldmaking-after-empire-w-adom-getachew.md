@@ -4,6 +4,7 @@ title: "Worldmaking after Empire w/ Adom Getachew"
 permalink: podcast/worldmaking-after-empire-w-adom-getachew-rerun/
 audiolink: https://content.blubrry.com/thedig/The_Dig-EP_368-Getachew.mp3
 categories:
+- Archives
 tags:
 - Adom Getachew
 ---
