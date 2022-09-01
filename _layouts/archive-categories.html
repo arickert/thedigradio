@@ -13,7 +13,7 @@ title: Archive
 
 {% for post in site.posts %}
 {% if post.categories contains page.category or post.category == page.category %}
-    {% unless post.tags contains "Archive" %}
+    {% unless post.categories contains "Archive" %}
         {% include postbox.md %}
     {% unless post.tags contains "Archive" %}
 {% endif %}    
