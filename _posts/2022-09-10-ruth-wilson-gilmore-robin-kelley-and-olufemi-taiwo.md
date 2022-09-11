@@ -9,7 +9,7 @@ categories:
 tags:
 - Olúfẹ́mi Táíwò
 - Robin D.G. Kelley
-- and Ruth Wil
+- Ruth Wilson Gilmore
 ---
 
 Featuring Olúfẹ́mi Táíwò, Robin D.G. Kelley, and Ruth Wilson Gilmore on racial capitalism, intergenerational organizing, internationalism, and a whole lot more. Dan’s live Dig interview from the Socialism 2022 conference in Chicago.
