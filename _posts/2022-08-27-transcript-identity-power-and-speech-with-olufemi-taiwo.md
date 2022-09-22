@@ -8,7 +8,7 @@ categories:
 - Identity Politics
 - Racism
 tags: 
-- Olúfẹ́mi Táíwò
+- Olufemi Taiwo
 - Transcripts
 ---
 
