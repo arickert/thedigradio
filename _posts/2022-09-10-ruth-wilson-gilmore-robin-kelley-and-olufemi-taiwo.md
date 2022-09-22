@@ -4,7 +4,7 @@ title: "Ruth Wilson Gilmore, Robin Kelley, and Olúfẹ́mi Táíwò"
 permalink: podcast/ruth-wilson-gilmore-robin-kelley-and-olufemi-taiwo/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_371-Socialism2022.mp3
 categories:
-- 
+- Racism
 tags:
 - Olufemi Taiwo
 - Robin D.G. Kelley
