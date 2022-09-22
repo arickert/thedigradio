@@ -7,7 +7,7 @@ title: Topics
 
 <div style="width:100%; text-align:justify" id="archives">
 
-{% assign sortedPosts = site.categories | sort %}
+{% assign sortedPosts = site.categories %}
 {% for category in sortedPosts %}
     {% unless category contains "Archive" %}
         {% capture category_name %}{{ category | first }}{% endcapture %}
