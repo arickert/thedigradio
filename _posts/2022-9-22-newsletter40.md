@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Newsletter #40: Putting Internationalism at the Heart of Our Politics, with Olúfẹ́mi O. Táíwò, Ruth Wilson Gilmore, and Robin D. G. Kelley"
+title: "Newsletter #40: Putting Internationalism at the Heart of Our Politics, with Olufemi O. Taiwo, Ruth Wilson Gilmore, and Robin D. G. Kelley"
 permalink: newsletter40
 audiolink: 
 categories:  []
