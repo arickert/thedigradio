@@ -18,7 +18,7 @@ layout: default
     Topics:
     {% endif %}
     {% for category in page.categories %}
-      <a style="color:#78C0A0" href="{{site.baseurl}}/category/{{category|slugify}}">{{category}}</a>
+      <a style="color:#78C0A0" href='{{site.baseurl}}/category/{{category|slugify: "ascii"}}'>{{category}}</a>
     {% endfor %}
 </div>
 
@@ -27,7 +27,7 @@ layout: default
     Guests:
     {% endif %}
     {% for tag in page.tags %}  
-      <a style="color:#78C0A0" href="{{site.baseurl}}/tag/{{tag|slugify}}">{{tag}} </a>
+      <a style="color:#78C0A0" href='{{site.baseurl}}/tag/{{tag|slugify: "ascii"}}'>{{tag}} </a>
     {% endfor %}
 </div>
 
