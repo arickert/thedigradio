@@ -6,7 +6,7 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 2036
 categories: 
 - Environment
-- literature
+- Literature
 tags: 
 - Kim Stanley Robinson
 ---
