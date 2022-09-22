@@ -9,7 +9,7 @@ categories:
 - Socialism
 tags: 
 - Mindy Isser
-- Olúfẹ́mi Táíwò
+- Olufemi Taiwo
 - Zachary Hershman
 ---
 
