@@ -17,7 +17,7 @@ title: Guests
             <div style="padding-bottom:1.5rem; flex: 1 0 auto; height: 20px; width:330px; color: #78C0A0"> {{ new }} </div>
         {% endif %}
     {% endif %}
-    <div style="padding-bottom:1.5rem;flex: 1 0 auto; font-size: 0.75rem; height: 20px; width:330px; color: #B2B2B2"> <a  style="color: #B2B2B2" href='{{site.baseurl}}/tag/{{tag_name | replace: ".", "ö" |slugify: "ascii"}}'  class="tag-head">{{ tag_name }} </a></div>
+    <div style="padding-bottom:1.5rem;flex: 1 0 auto; font-size: 0.75rem; height: 20px; width:330px; color: #B2B2B2"> <a  style="color: #B2B2B2" href='{{site.baseurl}}/tag/{{tag_name | replace: " ", "-" |slugify: "ascii"}}'  class="tag-head">{{ tag_name }} </a></div>
     {% capture old_name %}{{ tag | first }}{% endcapture %}
 
 {% endfor %}
