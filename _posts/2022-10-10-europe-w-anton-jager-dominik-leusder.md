@@ -12,7 +12,7 @@ categories:
 - European Union
 - Monetary Policy
 tags:
-- An
+- Anton Jäger
 ---
 
 Featuring Anton Jäger and Dominik Leusder on Europe and the European Union from the crises of social democratic welfare states in the 1970s and 80s, the Maastricht Treaty of 1992, through the eurozone crisis, to the present moment of war in Ukraine, renewed NATO expansion, and a resurgent far right.
