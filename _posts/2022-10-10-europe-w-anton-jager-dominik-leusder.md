@@ -4,15 +4,15 @@ title: "Europe w/ Anton Jäger & Dominik Leusder"
 permalink: podcast/europe-w-anton-jager-dominik-leusder/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_375-Europe.mp3
 categories:
-- Anton Jäger
 - Brexit
-- Dominik Leusder
 - Europe
 - European History
 - European Union
 - Monetary Policy
 tags:
 - Anton Jäger
+- Dominik Leusder
+
 ---
 
 Featuring Anton Jäger and Dominik Leusder on Europe and the European Union from the crises of social democratic welfare states in the 1970s and 80s, the Maastricht Treaty of 1992, through the eurozone crisis, to the present moment of war in Ukraine, renewed NATO expansion, and a resurgent far right.
