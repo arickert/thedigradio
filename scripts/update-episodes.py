@@ -65,7 +65,7 @@ final=body[0][slice(0,10)]
 if final == "Featuring ":
     b1=body[0][10:-1]
     pflag=False
-    onindex=b1.find("on")
+    onindex=b1.find(" on")
     b2=b1[slice(0,onindex)]
     while pflag==False:
         com=b2.find(",")
@@ -74,7 +74,12 @@ if final == "Featuring ":
         if b2.find(",")== -1:     
             pflag=True
 
-
+            if b2.find(" and ")>3:
+                andloc=b2.find(" and ")
+                tags.append(b2[:andloc])
+                andloc+=5
+                tags.append(b2[andloc:])
+                break
 
         com+=2
         b2=b2[com:]
