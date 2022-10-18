@@ -66,24 +66,29 @@ if final == "Featuring ":
     b1=body[0][10:-1]
     pflag=False
     onindex=b1.find(" on")
+    print(onindex)
     b2=b1[slice(0,onindex)]
-    while pflag==False:
-        com=b2.find(",")
-        name = b2[0:com]
+    print(b2)
+    if b2.find(",")==-1:
+        tags.append(b2)
+    else:
+        while pflag==False:
+            com=b2.find(",")
+            name = b2[0:com+1]
+            print(name)
+            if b2.find(",")== -1:     
+                pflag=True
 
-        if b2.find(",")== -1:     
-            pflag=True
+                if b2.find(" and ")>3:
+                    andloc=b2.find(" and ")
+                    tags.append(b2[:andloc])
+                    andloc+=5
+                    tags.append(b2[andloc:])
+                    break
 
-            if b2.find(" and ")>3:
-                andloc=b2.find(" and ")
-                tags.append(b2[:andloc])
-                andloc+=5
-                tags.append(b2[andloc:])
-                break
-
-        com+=2
-        b2=b2[com:]
-        tags.append(name)
+            com+=2
+            b2=b2[com:]
+            tags.append(name)
 
 print(tags)
 episode="---\nlayout: post\ntitle: "
