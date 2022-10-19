@@ -6,6 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 694
 categories: 
 - Socialism
+- Trump
+- Electoral Politics
 tags: 
 - Anand Gopal
 - Jeremy Scahill
