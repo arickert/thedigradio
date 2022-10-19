@@ -7,6 +7,7 @@ post_id: 696
 categories: 
 - Imperialism and Foreign Policy
 - Mass Surveillance
+- Trump
 tags: 
 - Glenn Greenwald
 ---
