@@ -7,6 +7,7 @@ post_id: 692
 categories: 
 - Immigration
 - Social Movements
+- Trump
 tags: 
 - Linda Sarsour
 - Nicholas Espíritu
