@@ -8,6 +8,7 @@ categories:
 - Electoral Politics
 - Europe
 - Fascism
+- Neoliberalism
 - Right-Wing Politics
 - France
 tags: 
