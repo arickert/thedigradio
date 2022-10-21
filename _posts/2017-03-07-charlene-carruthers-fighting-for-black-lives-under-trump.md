@@ -7,6 +7,7 @@ post_id: 687
 categories: 
 - Racism
 - Social Movements
+- Trump
 tags: 
 - Charlene Carruthers
 ---
