@@ -7,6 +7,8 @@ post_id: 678
 categories: 
 - Imperialism and Foreign Policy
 - Media Bias
+- Media
+- Trump
 tags: 
 - Adam Johnson
 ---
