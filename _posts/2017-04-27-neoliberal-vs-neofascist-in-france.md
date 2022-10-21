@@ -7,6 +7,9 @@ post_id: 679
 categories: 
 - Electoral Politics
 - Europe
+- Fascism
+- Right-Wing Politics
+- France
 tags: 
 - Sebastian Budgen
 ---
