@@ -7,6 +7,9 @@ post_id: 690
 categories: 
 - Economics
 - Europe
+- The Dig Live
+- Trump
+- US Politics
 tags: 
 - Mark Blyth
 ---
