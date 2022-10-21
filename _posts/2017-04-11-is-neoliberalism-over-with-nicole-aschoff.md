@@ -7,6 +7,8 @@ post_id: 682
 categories: 
 - Economics
 - Political Theory
+- Neoliberalism
+- Trump
 tags: 
 - Nicole Aschoff
 ---
