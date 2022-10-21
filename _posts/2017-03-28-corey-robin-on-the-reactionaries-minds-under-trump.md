@@ -6,6 +6,7 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 684
 categories: 
 - Political Theory
+- Trump
 tags: 
 - Corey Robin
 ---
