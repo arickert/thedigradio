@@ -7,6 +7,7 @@ post_id: 683
 categories: 
 - Economics
 - Healthcare
+- Obama
 tags: 
 - Matt Bruenig
 ---
