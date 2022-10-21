@@ -8,6 +8,8 @@ categories:
 - Racism
 - Social Movements
 - Socialism
+- Black Politics
+- Black Political Thought
 tags: 
 - Keeanga-Yamahtta Taylor
 ---
