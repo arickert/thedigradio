@@ -7,6 +7,8 @@ post_id: 670
 categories: 
 - Criminal Justice
 - Racism
+- Prison Reform
+- Black Politics
 tags: 
 - James Forman Jr.
 ---
