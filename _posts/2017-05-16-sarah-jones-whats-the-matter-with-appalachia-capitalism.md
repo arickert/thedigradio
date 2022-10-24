@@ -8,6 +8,7 @@ categories:
 - Economics
 - Socialism
 - US Politics
+- Organizing
 tags: 
 - Sarah Jones
 ---
