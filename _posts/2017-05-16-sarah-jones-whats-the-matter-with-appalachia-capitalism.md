@@ -7,6 +7,7 @@ post_id: 675
 categories: 
 - Economics
 - Socialism
+- US Politics
 tags: 
 - Sarah Jones
 ---
