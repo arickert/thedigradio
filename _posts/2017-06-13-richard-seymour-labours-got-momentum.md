@@ -7,6 +7,9 @@ post_id: 671
 categories: 
 - Electoral Politics
 - Europe
+- UK Labour Party
+- United Kingdom
+- Electoral Politics
 tags: 
 - Richard Seymour
 ---
