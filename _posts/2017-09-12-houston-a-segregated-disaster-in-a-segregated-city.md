@@ -8,6 +8,8 @@ categories:
 - Environment
 - Racism
 - Transportation and Cities
+- Urban Politics
+- Environmental Justice
 tags: 
 - John Henneberger
 - Robert Bullard
