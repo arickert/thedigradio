@@ -6,6 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 663
 categories: 
 - Latin America
+- Mexico
+- Trump
+- Global Politics
 tags: 
 - Christy Thornton
 ---
