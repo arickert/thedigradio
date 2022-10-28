@@ -6,7 +6,11 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 646
 categories: 
 - Criminal Justice
+- Electoral Politics
 - Racism
+- Prison Reform
+- Judiciary
+- Gun Culture
 tags: 
 - Ben Levin
 ---
