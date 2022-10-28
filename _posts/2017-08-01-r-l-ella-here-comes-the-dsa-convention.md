@@ -7,6 +7,8 @@ post_id: 664
 categories: 
 - Social Movements
 - Socialism
+- DSA
+- Organizing
 tags: 
 - Ella Mahoney
 - R.L. Stephens
