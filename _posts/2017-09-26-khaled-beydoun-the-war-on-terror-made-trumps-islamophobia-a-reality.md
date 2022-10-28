@@ -7,6 +7,7 @@ post_id: 650
 categories: 
 - Imperialism and Foreign Policy
 - Racism
+- War on Terror
 tags: 
 - Khaled Beydoun
 ---
