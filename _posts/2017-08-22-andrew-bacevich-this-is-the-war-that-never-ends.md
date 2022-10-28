@@ -10,6 +10,7 @@ categories:
 - War on Terror
 - Afghanistan
 - US Politics
+- George W. Bush
 tags: 
 - Andrew Bacevich
 ---
