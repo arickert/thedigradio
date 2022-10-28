@@ -7,6 +7,8 @@ post_id: 659
 categories: 
 - Electoral Politics
 - Racism
+- Trump
+- Right-Wing Politics
 tags: 
 - Alex Pareene
 ---
