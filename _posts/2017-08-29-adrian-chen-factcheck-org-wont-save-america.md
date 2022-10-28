@@ -6,6 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 658
 categories: 
 - The Discourse
+- Internet
+- Digital Politics
+- 
 tags: 
 - Adrian Chen
 ---
