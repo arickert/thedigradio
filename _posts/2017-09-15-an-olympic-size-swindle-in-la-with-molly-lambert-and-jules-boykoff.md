@@ -7,6 +7,8 @@ post_id: 653
 categories: 
 - Criminal Justice
 - Socialism
+- DSA
+- Sports
 tags: 
 - Jules Boykoff
 - Molly Lambert
