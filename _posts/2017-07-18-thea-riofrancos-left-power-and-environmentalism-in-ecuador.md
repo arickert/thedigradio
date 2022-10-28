@@ -7,6 +7,10 @@ post_id: 666
 categories: 
 - Environment
 - Latin America
+- Ecuador
+- Environmental Justice
+- Global Politics
+- Indigenous Struggles
 tags: 
 - Thea Riofrancos
 ---
