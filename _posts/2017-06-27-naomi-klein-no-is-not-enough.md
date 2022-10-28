@@ -7,6 +7,8 @@ post_id: 669
 categories: 
 - Organizing
 - Socialism
+- Trump
+- Right-Wing Politics
 tags: 
 - Naomi Klein
 ---
