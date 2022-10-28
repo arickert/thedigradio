@@ -7,6 +7,9 @@ post_id: 660
 categories: 
 - Imperialism and Foreign Policy
 - Middle East
+- War on Terror
+- Afghanistan
+- US Politics
 tags: 
 - Andrew Bacevich
 ---
