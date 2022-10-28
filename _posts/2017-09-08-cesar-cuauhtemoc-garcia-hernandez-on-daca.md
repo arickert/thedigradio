@@ -6,7 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 655
 categories:
 - Immigration
-- Imperialism and Border Control
+- Imperialism and Foreign Policy
+- Border Patrol
 - Trump
 tags:
 - César Cuauhtémoc García Hernández
