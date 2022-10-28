@@ -6,6 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 665
 categories: 
 - Latin America
+- Venezuela
+- Global Politics
+- Social Movements
 tags: 
 - Alejandro Velasco
 ---
