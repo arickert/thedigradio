@@ -8,6 +8,8 @@ categories:
 - Criminal Justice
 - Electoral Politics
 - Racism
+- Prison Reform
+- Judiciary
 tags: 
 - Larry Krasner
 ---
