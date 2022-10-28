@@ -9,6 +9,7 @@ categories:
 - Electoral Politics
 - Environment
 - Racism
+- Puerto Rico
 tags: 
 - Brandy Jensen
 - Marisol LeBrón
