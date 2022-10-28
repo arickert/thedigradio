@@ -6,6 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 662
 categories: 
 - Latin America
+- Colombia
+- Global Politics
 tags: 
 - Forrest Hylton
 ---
