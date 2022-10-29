@@ -7,6 +7,11 @@ post_id: 604
 categories: 
 - Political Theory
 - Racism
+- Black Political Thought
+- Black Politics
+- US History
+- MLK
+- Black Power
 tags: 
 - Brandon Terry
 - Tommie Shelby
