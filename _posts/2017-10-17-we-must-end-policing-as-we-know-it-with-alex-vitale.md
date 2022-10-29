@@ -10,6 +10,7 @@ categories:
 - Police
 - Prison Reform
 - US Politics
+- Criminal Justice
 tags: 
 - Alex Vitale
 ---
