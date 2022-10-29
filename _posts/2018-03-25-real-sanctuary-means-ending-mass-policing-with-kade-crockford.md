@@ -12,6 +12,7 @@ categories:
 - Imperialism and Foreign Policy
 - Border Patrol
 - US Politics
+- Police
 tags: 
 - Kade Crockford
 ---
