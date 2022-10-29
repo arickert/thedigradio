@@ -12,6 +12,7 @@ categories:
 - Middle East
 - Capitalism
 - Global Politics
+- Energy
 tags: 
 - Timothy Mitchell
 ---
