@@ -8,6 +8,10 @@ categories:
 - Economics
 - Environment
 - Imperialism and Foreign Policy
+- Oil
+- Middle East
+- Capitalism
+- Global Politics
 tags: 
 - Timothy Mitchell
 ---
