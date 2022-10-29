@@ -9,6 +9,7 @@ categories:
 - Electoral Politics
 - Organizing
 - Social Movements
+- Neoliberalism
 tags: 
 - Nina Turner
 ---
