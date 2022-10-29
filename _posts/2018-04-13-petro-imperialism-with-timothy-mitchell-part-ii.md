@@ -8,11 +8,16 @@ categories:
 - Economics
 - Environment
 - Imperialism and Foreign Policy
+- Energy
+- Oil
+- Global Politics
+- Middle East
+- US Politics
 tags: 
 - Timothy Mitchell
 ---
 
-Historian and political theorist Timothy Mitchell joins Dan for the second of a two-part interview on his book Carbon Democracy: Political Power in the Age of Oil, published in 2011 by Verso. In part 1, we talked about a lot of things, including how the rise of coal made both industrial capitalism and newly powerful worker resistance possible; and how the shift to oil then facilitated the persistence of imperialism in a decolonizing world while thwarting worker organizing. In this installment, we discuss imperialist assaults on worker struggles in Iraq and Iran, the cooptation of those struggles by nationalist elites, and how those imperialist attacks facilitated the rise of the Baathist security state.
+Historian and political theorist Timothy Mitchell joins Dan for the second of a two-part interview on his book *Carbon Democracy: Political Power in the Age of Oil*, published in 2011 by Verso. In part 1, we talked about a lot of things, including how the rise of coal made both industrial capitalism and newly powerful worker resistance possible; and how the shift to oil then facilitated the persistence of imperialism in a decolonizing world while thwarting worker organizing. In this installment, we discuss imperialist assaults on worker struggles in Iraq and Iran, the cooptation of those struggles by nationalist elites, and how those imperialist attacks facilitated the rise of the Baathist security state.
 
 We'll also look at how the true history of the 70s oil shock undermines the conventional account, how the protection of minorities was used to legitimate imperialism, how petro-dollars fueled the global arms trade, in what sense the Iraq War has been a war for oil, and the US strategy to seek advantage through the continuation of conflict and instability across the Middle East. Finally, we'll address petro-imperialism’s bedrock alliance with right-wing Islamists against democratic movements of the left in Saudi Arabia and beyond, and why we must fight to ensure that the coming energy transition is a just one. That review of Yascha Mounk's book that Dan wrote with [Thea Riofrancos](https://nplusonemag.com/online-only/online-only/zombie-liberalism/)
 
