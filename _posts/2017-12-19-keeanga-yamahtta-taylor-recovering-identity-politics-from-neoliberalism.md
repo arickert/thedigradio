@@ -13,7 +13,6 @@ categories:
 - Black Politics
 - Organizing
 - Social Movements
-- US History
 tags: 
 - Keeanga-Yamahtta Taylor
 ---
