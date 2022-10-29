@@ -8,6 +8,8 @@ categories:
 - Immigration
 - Imperialism and Foreign Policy
 - Latin America
+- Global Politics
+- Central America
 tags: 
 - Noelle Brigden
 ---
