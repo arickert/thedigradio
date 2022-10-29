@@ -6,6 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 641
 categories: 
 - Criminal Justice
+- Drugs
+- The Dig Live
 tags: 
 - Asha Bandele
 - Constanza Sánchez Avilé
