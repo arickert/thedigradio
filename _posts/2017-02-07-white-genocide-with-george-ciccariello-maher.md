@@ -7,7 +7,6 @@ post_id: 691
 categories: 
 - Education
 - Racism
-- Race
 - Speech Acts
 tags: 
 - George Cicariello-Maher
