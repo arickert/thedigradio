@@ -11,6 +11,7 @@ categories:
 - Global Politics
 - World History
 - US History
+- Cold War
 tags: 
 - Tim Shorrock
 ---
