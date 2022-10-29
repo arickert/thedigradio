@@ -6,6 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 636
 categories: 
 - Electoral Politics
+- US Politics
+- Neoliberalism
 tags: 
 - Eric Levitz
 - Molly Ball
