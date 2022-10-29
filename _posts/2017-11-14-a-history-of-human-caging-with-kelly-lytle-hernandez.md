@@ -8,6 +8,8 @@ categories:
 - Criminal Justice
 - Immigration
 - Indigenous Struggles
+- US History
+- Prison Reform
 tags: 
 - Kelly Lytle Hernández
 ---
