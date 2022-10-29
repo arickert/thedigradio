@@ -8,6 +8,8 @@ categories:
 - Electoral Politics
 - Imperialism and Foreign Policy
 - US History
+- Cold War
+- US Politics
 tags: 
 - Aziz Rana
 ---
