@@ -7,6 +7,8 @@ post_id: 605
 categories: 
 - Electoral Politics
 - Socialism
+- US Politics
+- DSA
 tags: 
 - Elizabeth Fiedler
 - Sara Inammorato
