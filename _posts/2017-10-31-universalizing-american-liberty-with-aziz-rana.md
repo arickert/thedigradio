@@ -9,6 +9,8 @@ categories:
 - Indigenous Struggles
 - Political Theory
 - Racism
+- US History
+- Nationalism
 tags: 
 - Aziz Rana
 ---
