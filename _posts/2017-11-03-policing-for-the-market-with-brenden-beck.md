@@ -8,6 +8,10 @@ categories:
 - Criminal Justice
 - Economics
 - Transportation and Cities
+- Police
+- Criminal Justice
+- Prison Reform
+- Urban Politics
 tags: 
 - Brenden Beck
 ---
