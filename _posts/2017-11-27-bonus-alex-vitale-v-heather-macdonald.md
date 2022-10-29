@@ -6,6 +6,8 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 630
 categories: 
 - Criminal Justice
+- Police
+- Urban Politics
 tags: 
 - Alex Vitale
 - Heather MacDonald
