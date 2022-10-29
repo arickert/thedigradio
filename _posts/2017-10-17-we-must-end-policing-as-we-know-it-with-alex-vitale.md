@@ -7,8 +7,11 @@ post_id: 643
 categories: 
 - Criminal Justice
 - Racism
+- Police
+- Prison Reform
+- US Politics
 tags: 
 - Alex Vitale
 ---
 
-In his new book The End of Policing Brooklyn College sociologist @avitale makes the case that technocratic reforms won't fix American policing. In reality, we can only fix policing by ending the carceral state and defeating neoliberalism. Thanks to Verso Books for their support. Check out [Alt-America: The Rise of the Radical Right in the Age of Trump by David Neiwert](versobooks.com/books/2535-alt-america) Support us with your $ at [patreon.com/thedig](http://www.patreon.com/TheDig) 
+In his new book *The End of Policing* Brooklyn College sociologist @avitale makes the case that technocratic reforms won't fix American policing. In reality, we can only fix policing by ending the carceral state and defeating neoliberalism. Thanks to Verso Books for their support. Check out [Alt-America: The Rise of the Radical Right in the Age of Trump by David Neiwert](versobooks.com/books/2535-alt-america) Support us with your $ at [patreon.com/thedig](http://www.patreon.com/TheDig) 
