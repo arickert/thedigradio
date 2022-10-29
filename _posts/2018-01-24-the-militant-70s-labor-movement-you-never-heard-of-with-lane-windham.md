@@ -6,6 +6,10 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 617
 categories: 
 - Labor Movement
+- Economics
+- US History
+- Organizing
+- Social Movements
 tags: 
 - Lane Windham
 ---
