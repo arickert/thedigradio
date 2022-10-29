@@ -7,6 +7,8 @@ post_id: 606
 categories: 
 - Labor Movement
 - Organizing
+- Judiciary
+- US Politics
 tags: 
 - Gabriel Winant
 - Sarah Jaffe
