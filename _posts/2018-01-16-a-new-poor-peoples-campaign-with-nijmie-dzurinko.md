@@ -12,6 +12,8 @@ categories:
 - Racism
 - Social Movements
 - Socialism
+- Black Politics
+- US History
 tags: 
 - Nijmie Dzurinko
 ---
