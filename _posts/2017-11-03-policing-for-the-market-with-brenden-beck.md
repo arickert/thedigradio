@@ -12,6 +12,7 @@ categories:
 - Criminal Justice
 - Prison Reform
 - Urban Politics
+- Neoliberalism
 tags: 
 - Brenden Beck
 ---
