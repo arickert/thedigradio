@@ -7,6 +7,11 @@ post_id: 628
 categories: 
 - Economics
 - Electoral Politics
+- Clinton
+- Neoliberalism
+- Electoral Politics
+- Trump
+- US History
 tags: 
 - Robert Reich
 ---
