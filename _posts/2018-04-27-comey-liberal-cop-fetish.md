@@ -6,6 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 594
 categories: 
 - Criminal Justice
+- Police
+- US Politics
+- Mass Surveillance
 tags: 
 - Patrick Blanchfield
 ---
