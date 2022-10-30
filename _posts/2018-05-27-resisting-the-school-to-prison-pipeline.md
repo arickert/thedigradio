@@ -7,6 +7,7 @@ post_id: 585
 categories: 
 - Criminal Justice
 - Education
+- Police
 tags: 
 - Dakota Hall
 - Dmitri Holtzman
