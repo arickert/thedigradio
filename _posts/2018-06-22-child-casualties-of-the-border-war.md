@@ -6,6 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 578
 categories: 
 - Immigration
+- Border Patrol
+- US Politics
+- Trump
 tags: 
 - Dara Lind
 ---
