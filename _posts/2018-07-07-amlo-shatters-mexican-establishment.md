@@ -6,6 +6,7 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 574
 categories: 
 - Latin America
+- Mexico
 tags: 
 - Christy Thornton
 ---
@@ -15,9 +16,7 @@ Leftist Andrés Manuel López Obrador, or AMLO, won an overwhelming victory in M
 Thanks to Verso. Check out 
 Out of the Wreckage: A New Politics for an Age of Crisis by George Monbiot, now out in [paperback](versobooks.com/books/2732-out-of-the-wreckage George did a Dig interview too blubrry.com/thedig/34202825/telling-a-new-story-with-george-monbiot/)
 
-And Mistaken Identity: Race and Class in the Age of Trump by [Asad Haider](versobooks.com/books/2716-mistaken-identity)
-
-
+And [*Mistaken Identity: Race and Class in the Age of Trump* by Asad Haider](versobooks.com/books/2716-mistaken-identity)
 
 You can find lots of great left Latin America news in English at 
 [nacla.org](nacla.org)
