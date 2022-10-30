@@ -7,14 +7,15 @@ post_id: 593
 categories: 
 - Immigration
 - Political Theory
+- Human Rights
+- Hannah Arendt
+- World History
 tags: 
 - Astra Taylor
 - Stephanie DeGooyer
 ---
 
 What are rights worth when government denies people the very right to have rights? Political theorist Hannah Arendt recognized this loss of "the right to have rights" as millions of refugees found themselves without a national home in the wake of world wars. Human rights, it became clear, proved to be an empty promise for those excluded from citizenship—the foundational right to be a member of a political community. Today, this insight remains a critical one as a record number of humans transit the globe in search of economic and physical security, and far-right nativists and establishment liberals alike scapegoat them for the chaos and precarity unleashed by neoliberalism and war. As a result, migrants are condemned to second-class citizenship or even death in the Mediterranean and desert Mexican-American borderlands.
-
-
 
 My guests today, Stephanie DeGooyer and Astra Taylor, just wrote a book about this for Verso, called the The Right to Have Rights. This is part 1. Part 2 will be posted on Thursday or Friday.
 
