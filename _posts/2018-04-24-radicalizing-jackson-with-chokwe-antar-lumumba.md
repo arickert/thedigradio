@@ -6,6 +6,7 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 595
 categories: 
 - Electoral Politics
+- US Politics
 tags: 
 - Chokwe Antar Lumumba
 ---
