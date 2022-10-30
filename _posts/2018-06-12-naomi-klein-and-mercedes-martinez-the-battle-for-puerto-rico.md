@@ -7,13 +7,15 @@ post_id: 580
 categories: 
 - Economics
 - Environment
+- Puerto Rico
+- Latin America
+- Imperialism and Foreign Policy
 tags: 
 - Mercedes Martínez
 - Naomi Klein
 ---
 
 [View Transcript](https://www.jacobinmag.com/2018/06/the-shock-doctrine-comes-to-puerto-rico)
-
 
 The US colony of Puerto Rico has been repeatedly shocked and Puerto Ricans are traumatized. That is precisely what successful shock doctrines like this one—which wants to remake the island into a utopia for rich Americans and crypto-bros and a dystopia for everyone else—depend upon.
 
