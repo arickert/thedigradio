@@ -7,6 +7,7 @@ post_id: 584
 categories: 
 - Electoral Politics
 - Europe
+- Spain
 tags: 
 - Bécquer Seguín
 - Carlos Delclós
