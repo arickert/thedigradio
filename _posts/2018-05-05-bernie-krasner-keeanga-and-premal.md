@@ -7,6 +7,11 @@ post_id: 591
 categories: 
 - Bernie Sanders
 - Criminal Justice
+- The Dig Live
+- Prison Reform
+- Urban Politics
+- US Politics
+- Electoral Politics
 tags: 
 - Keeanga-Yamahtta Taylor
 - Larry Krasner
@@ -14,8 +19,6 @@ tags:
 ---
 
 Dan just moderated a discussion in Philadelphia with Senator Sanders, along with Philadelphia District Attorney Larry Krasner, scholar and frequent Dig guest Keeanga-Yamahtta Taylor and veteran defense lawyer and advocate Premal Dharia. Bernie came to Philly because what's happening here is extraordinarily important: it's a city where for years cops have committed abuses and engaged in corruption with near impunity, and where prosecutors long looked the other way while feeding poor young black and brown men into the present-day peculiar institution of mass incarceration. Last year, Philadelphia elected Krasner, a long-time civil rights champion who pledged to fight the to end mass incarceration, as its district attorney. And that happened for the same reason that Bernie came out of nowhere and nearly ran away with the Democratic nomination in 2016: their message tapped into and was lifted up by massive grassroots movements, representing and speaking to an emerging majority that wants transformative change.
-
-
 
 And so this is why Bernie Sanders came to Philly: to learn about what has gone so horribly wrong with the criminal justice system and how we can all organize and do the hard work to make it right.
 
