@@ -7,6 +7,9 @@ post_id: 573
 categories: 
 - Electoral Politics
 - Media Bias
+- Socialism
+- US Politics
+- AOC
 tags: 
 - Alexandria Ocasio-Cortez
 - Ryan Grim
