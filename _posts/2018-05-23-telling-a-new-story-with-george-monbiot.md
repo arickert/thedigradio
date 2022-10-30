@@ -7,6 +7,8 @@ post_id: 586
 categories: 
 - Electoral Politics
 - Socialism
+- Organizing
+- Socialism
 tags: 
 - George Monbiot
 ---
