@@ -7,6 +7,9 @@ post_id: 592
 categories: 
 - Immigration
 - Political Theory
+- Human Rights
+- Hannah Arendt
+- World History
 tags: 
 - Astra Taylor
 - Stephanie DeGooyer
