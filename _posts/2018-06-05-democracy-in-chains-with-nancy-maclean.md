@@ -7,6 +7,11 @@ post_id: 582
 categories: 
 - Economics
 - Political Theory
+- Libertarianism
+- Property
+- Right-Wing Politics
+- US Politics
+- US History
 tags: 
 - Nancy MacLean
 ---
