@@ -8,7 +8,6 @@ categories:
 - The Discourse
 - Internet
 - Digital Politics
-- 
 tags: 
 - Adrian Chen
 ---
