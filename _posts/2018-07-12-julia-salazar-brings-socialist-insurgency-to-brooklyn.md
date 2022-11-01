@@ -7,6 +7,9 @@ post_id: 570
 categories: 
 - Electoral Politics
 - Organizing
+- Socialism
+- DSA
+- New York City
 tags: 
 - Julia Salazar
 ---
