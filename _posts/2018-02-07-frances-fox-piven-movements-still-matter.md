@@ -9,7 +9,6 @@ categories:
 - Social Movements
 - Political Theory
 - Organizing
-- 
 tags: 
 - Frances Fox Piven
 ---
