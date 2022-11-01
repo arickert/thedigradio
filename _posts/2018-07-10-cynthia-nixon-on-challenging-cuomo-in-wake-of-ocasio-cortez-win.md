@@ -6,6 +6,7 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-
 post_id: 572
 categories: 
 - Electoral Politics
+- New York City
 tags: 
 - Cynthia Nixon
 ---
