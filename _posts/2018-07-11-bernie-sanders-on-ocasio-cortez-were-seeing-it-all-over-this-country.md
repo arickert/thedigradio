@@ -7,6 +7,10 @@ post_id: 571
 categories: 
 - Bernie Sanders
 - Electoral Politics
+- AOC
+- DSA
+- Socialism
+- US Politics
 tags:  []
 ---
 
