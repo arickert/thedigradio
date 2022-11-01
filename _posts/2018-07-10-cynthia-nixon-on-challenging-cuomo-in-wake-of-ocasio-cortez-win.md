@@ -7,6 +7,8 @@ post_id: 572
 categories: 
 - Electoral Politics
 - New York City
+- AOC
+- Socialism
 tags: 
 - Cynthia Nixon
 ---
