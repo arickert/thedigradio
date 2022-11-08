@@ -7,7 +7,7 @@ post_id: 652
 categories: 
 - Imperialism and Foreign Policy
 - Trump
-- Right-Wing Politics
+- Right Wing Politics
 - US Politics
 - Global Politics
 - Nationalism

@@ -7,7 +7,7 @@ post_id: 1780
 categories: 
 - Donald Trump
 - Neoliberalism
-- Right-Wing Politics
+- Right Wing Politics
 tags: 
 - Wendy Brown
 ---

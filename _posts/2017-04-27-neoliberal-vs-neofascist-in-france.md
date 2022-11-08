@@ -9,7 +9,7 @@ categories:
 - Europe
 - Fascism
 - Neoliberalism
-- Right-Wing Politics
+- Right Wing Politics
 - France
 tags: 
 - Sebastian Budgen

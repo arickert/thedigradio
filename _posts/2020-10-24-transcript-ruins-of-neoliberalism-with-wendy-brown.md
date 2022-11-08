@@ -7,7 +7,7 @@ post_id: 1861
 categories: 
 - Donald Trump
 - Neoliberalism
-- Right-Wing Politics
+- Right Wing Politics
 tags: 
 - Transcripts
 - Wendy Brown

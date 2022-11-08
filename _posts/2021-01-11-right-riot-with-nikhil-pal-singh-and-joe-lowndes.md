@@ -6,7 +6,7 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1832
 categories: 
 - Donald Trump
-- Right-Wing Politics
+- Right Wing Politics
 tags: 
 - Joe Lowndes
 - Nikhil Pal Singh

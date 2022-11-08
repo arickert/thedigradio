@@ -6,7 +6,7 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 post_id: 1184
 categories: 
 - Italy
-- Right-Wing Politics
+- Right Wing Politics
 tags: 
 - David Broder
 - Lorenzo Zamponi

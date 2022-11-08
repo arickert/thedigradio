@@ -8,7 +8,7 @@ categories:
 - Organizing
 - Socialism
 - Trump
-- Right-Wing Politics
+- Right Wing Politics
 tags: 
 - Naomi Klein
 ---

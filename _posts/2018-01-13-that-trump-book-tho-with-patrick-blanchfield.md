@@ -8,7 +8,7 @@ categories:
 - Trump
 - Imperialism and Foreign Policy
 - Media Bias
-- Right-Wing Politics
+- Right Wing Politics
 tags: 
 - Patrick Blanchfield
 ---

@@ -7,7 +7,7 @@ post_id: 1885
 categories: 
 - Imperialism and Foreign Policy
 - Liberalism
-- Right-Wing Politics
+- Right Wing Politics
 tags: 
 - Jeanne Morefield
 ---

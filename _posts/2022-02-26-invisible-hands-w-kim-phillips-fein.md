@@ -5,7 +5,7 @@ permalink: podcast/invisible-hands-w-kim-phillips-fein/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_345-Phillips-Fein.mp3
 post_id: 2124
 categories: 
-- Right-Wing Politics
+- Right Wing Politics
 - US History
 tags: 
 - Kim Phillips-Fein

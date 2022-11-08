@@ -9,7 +9,7 @@ categories:
 - Political Theory
 - Libertarianism
 - Property
-- Right-Wing Politics
+- Right Wing Politics
 - US Politics
 - US History
 tags: 

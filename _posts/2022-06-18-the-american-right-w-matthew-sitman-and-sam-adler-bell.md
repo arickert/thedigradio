@@ -3,13 +3,13 @@ layout: post
 title: "The American Right w/ Matthew Sitman and Sam Adler-Bell"
 permalink: podcast/the-american-right-w-matthew-sitman-and-sam-adler-bell/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_361-KYE.mp3
+categories:
+- Right Wing Politics
+- US History
+- US Politics
 tags:
 - Sam Adler-Bell
 - Matt Sitman
-categories:
-- Right-Wing Politics
-- US History
-- US Politics
 ---
 
 Know Your Enemy hosts Matthew Sitman and Sam Adler-Bell on terrifyingly protean right-wing American politics.

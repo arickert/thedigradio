@@ -7,7 +7,7 @@ post_id: 677
 categories: 
 - Economics
 - Trump
-- Right-Wing Politics
+- Right Wing Politics
 tags: 
 - Dean Baker
 ---

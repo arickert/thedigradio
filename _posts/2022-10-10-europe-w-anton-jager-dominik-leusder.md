@@ -10,7 +10,7 @@ categories:
 - European Union
 - Monetary Policy
 tags:
-- Anton Jäger
+- Anton Jager
 - Dominik Leusder
 
 ---
