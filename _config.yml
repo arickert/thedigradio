@@ -58,3 +58,6 @@ collections:
     output: true
     permalink: /archives/:path/
 
+# Google Analytics
+google_analytics: G-Z98LECCJ9Y  
+
