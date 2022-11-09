@@ -18,11 +18,11 @@
   <div id="sidebar" class="container sidebar-sticky">
     <div class="sidebar-about" >
       <h1>
-        <a href="/" alt="home" style="color:#78C0A0; padding-left: 0.6rem;text-decoration: none;font-size: 2.5rem;line-height: 0;">
+        <a href="/" aria-label="home" style="color:#78C0A0; padding-left: 0.6rem;text-decoration: none;font-size: 2.5rem;line-height: 0;">
           the 
         </a>
 </h1>
-      <h1 class="digtitle" style=" color:#78C0A0; padding-left: 0.5rem;line-height: 0.45;font-size: 5.3rem;"><a alt="Home" style="color:#78C0A0" href="/">
+      <h1 class="digtitle" style=" color:#78C0A0; padding-left: 0.5rem;line-height: 0.45;font-size: 5.3rem;"><a aria-label="Home" style="color:#78C0A0" href="/">
         Dig
     </a></h1>
       <p class="lead" style="margin-bottom:0.7rem" >{{ site.description }}</p>
@@ -40,43 +40,35 @@
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" alt="{{ node.title }}" href="{{ node.url }}">{{ node.title }}</a>
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" aria-label="{{ node.title }}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" alt="Patreon" href="https://www.patreon.com/thedig">Contribute</a>
-      <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
+      <a class="sidebar-nav-item" aria-label="Patreon" href="https://www.patreon.com/thedig">Contribute</a>
     </nav>
-    <div class="icon-bar" style="justify-content:center" >
-       <a href="https://podcasts.apple.com/us/podcast/the-dig/id1043245989?mt=2&ls=1" alt="Apple">
-        <i class="fa-brands fa-apple" style="color:#515151;"></i>        
-      </a>
-      <!-- <a href="https://www.stitcher.com/show/the-dig-2">
-        <i class="fa-brands fa-spotify"></i>
-
-      </a> -->
-      <a href="https://open.spotify.com/show/2noCXQGBJp76DR2qcxETPy" alt="Spotify">
-        <i class="fa-brands fa-spotify" style="color:#515151;"></i>
-
-      </a>
-      <a href="https://subscribeonandroid.com/www.thedigradio.com/podcast/" alt="Android">
-        <i class="fa-brands fa-android" style="color:#515151;"></i>
-      </a>
-      <a href="https://thedig.blubrry.net/feed/podcast/" alt="RSS">
-        <i class="fa-solid fa-square-rss" style="color:#515151;"></i>
-      </a>
-      <a href="https://twitter.com/thedigradio" alt="Twitter">
-        <i class="fa-brands fa-twitter" style="color:#515151;"></i> 
-      </a>
-      <a href="https://www.facebook.com/thedigradio" alt="Facebook">
-        <i class="fa-brands fa-facebook" style="color:#515151;"></i>
-      </a>
-    </div>
       
-
-
   </div>
+  <div id="iconbar" class="icon-bar" style="justify-content:center" >
+    <a href="https://podcasts.apple.com/us/podcast/the-dig/id1043245989?mt=2&ls=1" aria-label="Apple">
+     <i class="fa-brands fa-apple" style="color:#515151;"></i>        
+   </a>
+   <a href="https://open.spotify.com/show/2noCXQGBJp76DR2qcxETPy" aria-label="Spotify">
+     <i class="fa-brands fa-spotify" style="color:#515151;"></i>
+   </a>
+   <a href="https://subscribeonandroid.com/www.thedigradio.com/podcast/" aria-label="Android">
+     <i class="fa-brands fa-android" style="color:#515151;"></i>
+   </a>
+   <a href="https://thedig.blubrry.net/feed/podcast/" aria-label="RSS">
+     <i class="fa-solid fa-square-rss" style="color:#515151;"></i>
+   </a>
+   <a href="https://twitter.com/thedigradio" aria-label="Twitter">
+     <i class="fa-brands fa-twitter" style="color:#515151;"></i> 
+   </a>
+   <a href="https://www.facebook.com/thedigradio" aria-label="Facebook">
+     <i class="fa-brands fa-facebook" style="color:#515151;"></i>
+   </a>
+ </div>
 </div>
 </div>
 
@@ -89,6 +81,7 @@
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         sidebar: document.getElementById('sidebar'),
+        iconbar: document.getElementById("iconbar"),
         json: '../../public/search.json',
         searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
@@ -102,5 +95,7 @@
       function myFunction() {
       const navElement = document.getElementById("sidebar2");
       navElement.classList.toggle("mystyle");
+      const navElementicon = document.getElementById("iconbar");
+      navElementicon.classList.toggle("mystyle");
       }
     </script>

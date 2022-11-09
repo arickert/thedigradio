@@ -300,7 +300,8 @@
       let options = {
         searchInput: null,
         resultsContainer: null,
-        sidebar: null, 
+        sidebar: null,
+        iconbar: null ,
         json: [],
         success: Function.prototype,
         searchResultTemplate: '<ul><li><a href="{url}" title="{desc}">{title}</a></li></ul>',
@@ -385,12 +386,14 @@
     
       function emptyResultsContainer () {
         options.resultsContainer.innerHTML = ''
-        options.sidebar.style.visibility= "visible"
+        options.sidebar.style.visibility= "visible";
+        options.iconbar.style.visibility= "visible"
       }
     
       function appendToResultsContainer (text) {
         options.resultsContainer.innerHTML += text
-        options.sidebar.style.visibility= "hidden"
+        options.iconbar.style.visibility= "hidden";
+        options.sidebar.style.visibility= "hidden";
 
       }
     
