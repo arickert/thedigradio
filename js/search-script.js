@@ -303,7 +303,7 @@
         sidebar: null, 
         json: [],
         success: Function.prototype,
-        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+        searchResultTemplate: '<ul><li><a href="{url}" title="{desc}">{title}</a></li></ul>',
         templateMiddleware: Function.prototype,
         sortMiddleware: function () {
           return 0
