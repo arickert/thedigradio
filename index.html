@@ -15,7 +15,6 @@ title: Home
   
   {% for post in site.posts limit:1 %}
     {% if post.audiolink != null %}
-    <ul>
       <li style="font-size:2rem">
         <span style="color:#B2B2B2">Click </span>
         <a href="{{post.permalink}}" style="color:#78C0A0">here</a>
@@ -30,13 +29,10 @@ title: Home
         {% endfor %}
       </span>
       </li>
-    </ul>
 
     {% else %}
       {% for post2 in site.posts offset:1 limit:1 %}
         {% if post2.audiolink != null %}
-        <ul>
-
         <li style="font-size:2rem">
           <span style="color:#B2B2B2">Click </span>
           <a href="{{post2.permalink}}" style="color:#78C0A0">here</a>
@@ -50,11 +46,9 @@ title: Home
           {% endfor %}
         </span>
         </li>
-      </ul>
         {% else %}
             {% for post3 in site.posts offset:2 limit:1 %}
               {% if post3.audiolink!= null %}
-              <ul>
               <li style="font-size:2rem">
                 <span style="color:#B2B2B2">Click </span>
                 <a href="{{post3.permalink}}" style="color:#78C0A0">here</a>
@@ -68,7 +62,6 @@ title: Home
                 {% endfor %}
               </span>
               </li>
-              </ul>
               {% endif %}
             {% endfor %}
         {% endif %}
@@ -77,5 +70,6 @@ title: Home
   {% endfor %}
   
   </div>
+  </li>
   </section>
   
