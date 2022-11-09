@@ -61,7 +61,7 @@ html::-webkit-scrollbar-track{
 
 @font-face {font-family: "Scala";
   src: url("fonts/CourierPrimeSans.ttf");
-  /* font-display: swap; */
+  font-display: swap;
 } 
 
 
