@@ -11,7 +11,7 @@ title: Topics
 {% for category in sortedPosts %}
     {% unless category contains "Archive" %}
         {% capture category_name %}{{ category | first }}{% endcapture %}
-            <a style="color:#B2B2B2; font-size:0.8rem" href='{{ site.baseurl }}/category/{{category_name| slugify: "ascii" }}' class="category-head1">{{ category_name }} </a>
+            <a alt="{{ category_name }}" style="color:#B2B2B2; font-size:0.8rem" href='{{ site.baseurl }}/category/{{category_name| slugify: "ascii" }}' class="category-head1">{{ category_name }} </a>
             <span style="color:#515151; font-size:0.8rem">&#8226;</span>
     {% endunless %}
 {% endfor %}

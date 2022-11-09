@@ -18,11 +18,11 @@
   <div id="sidebar" class="container sidebar-sticky">
     <div class="sidebar-about" >
       <h1>
-        <a href="/" style="color:#78C0A0; padding-left: 0.6rem;text-decoration: none;font-size: 2.5rem;line-height: 0;">
+        <a href="/" alt="home" style="color:#78C0A0; padding-left: 0.6rem;text-decoration: none;font-size: 2.5rem;line-height: 0;">
           the 
         </a>
 </h1>
-      <h1 class="digtitle" style=" color:#78C0A0; padding-left: 0.5rem;line-height: 0.45;font-size: 5.3rem;"><a style="color:#78C0A0" href="/">
+      <h1 class="digtitle" style=" color:#78C0A0; padding-left: 0.5rem;line-height: 0.45;font-size: 5.3rem;"><a alt="Home" style="color:#78C0A0" href="/">
         Dig
     </a></h1>
       <p class="lead" style="margin-bottom:0.7rem" >{{ site.description }}</p>
@@ -40,49 +40,42 @@
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" alt="{{ node.title }}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="https://www.patreon.com/thedig">Contribute</a>
+      <a class="sidebar-nav-item" alt="Patreon" href="https://www.patreon.com/thedig">Contribute</a>
       <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
     </nav>
     <div class="icon-bar" style="justify-content:center" >
-       <a href="https://podcasts.apple.com/us/podcast/the-dig/id1043245989?mt=2&ls=1">
+       <a href="https://podcasts.apple.com/us/podcast/the-dig/id1043245989?mt=2&ls=1" alt="Apple">
         <i class="fa-brands fa-apple" style="color:#515151;"></i>        
-        <!-- <img wid  th="10" height="10" src="{{ site.url }}/assets/apple-touch-icon-precomposed.png"> -->
       </a>
       <!-- <a href="https://www.stitcher.com/show/the-dig-2">
         <i class="fa-brands fa-spotify"></i>
 
       </a> -->
-      <a href="https://open.spotify.com/show/2noCXQGBJp76DR2qcxETPy">
+      <a href="https://open.spotify.com/show/2noCXQGBJp76DR2qcxETPy" alt="Spotify">
         <i class="fa-brands fa-spotify" style="color:#515151;"></i>
 
-        <!-- <img width="25" height="25" src="{{ site.url }}/assets/Icon-Spotify-PNG.png"> -->
       </a>
-      <a href="https://subscribeonandroid.com/www.thedigradio.com/podcast/">
+      <a href="https://subscribeonandroid.com/www.thedigradio.com/podcast/" alt="Android">
         <i class="fa-brands fa-android" style="color:#515151;"></i>
-        <!-- <img width="10" height="10" src="{{ site.url }}/assets/apple-touch-icon-precomposed.png"> -->
       </a>
-      <a href="https://thedig.blubrry.net/feed/podcast/">
+      <a href="https://thedig.blubrry.net/feed/podcast/" alt="RSS">
         <i class="fa-solid fa-square-rss" style="color:#515151;"></i>
-        <!-- <img width="10" height="10" src="{{ site.url }}/assets/rss-icon.png"> -->
       </a>
-      <a href="https://twitter.com/thedigradio">
+      <a href="https://twitter.com/thedigradio" alt="Twitter">
         <i class="fa-brands fa-twitter" style="color:#515151;"></i> 
-        <!-- <img width="10" height="10" src="{{ site.url }}/assets/rss-icon.png"> -->
       </a>
-      <a href="https://www.facebook.com/thedigradio">
+      <a href="https://www.facebook.com/thedigradio" alt="Facebook">
         <i class="fa-brands fa-facebook" style="color:#515151;"></i>
-                <!-- <img width="10" height="10" src="{{ site.url }}/assets/rss-icon.png"> -->
       </a>
     </div>
       
 
 
-    <!-- <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> -->
   </div>
 </div>
 </div>
