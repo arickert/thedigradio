@@ -4,7 +4,7 @@ title: Iran
 ---
 
 
-<h1 class="page-title">{{ page.title }}</h1>
+<h1 class="page-title">History of Modern Iran</h1>
 
 <section class="recent-posts">
 <div class="row listrecent">
