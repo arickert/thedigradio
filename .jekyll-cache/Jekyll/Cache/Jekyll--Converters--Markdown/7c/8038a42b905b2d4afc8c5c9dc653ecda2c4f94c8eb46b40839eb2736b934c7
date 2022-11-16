@@ -1,4 +1,5 @@
-I"Ӱ<!-- <div id="archives">
+I"
+�<!-- <div id="archives">
 
     
     <p></p>
@@ -1544,20 +1545,18 @@
 
 <!-- Begin List Posts
 ================================================== -->
-
-<h1 class="page-title">Newsletter</h1>
+<h1 class="page-title">Antibody</h1>
 
 <section class="recent-posts">
+<div class="section-title mt-2">
+    <h6 style="color: #B2B2B2; font-weight:normal">Antibody is a narrative series about how Covid-19 has changed everything and nothing at all. </h6>
+</div>
 <div class="row listrecent">
-<ul style="color: #515151; padding-left:25px">
 
-    
 
+    
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter46">Newsletter #46: Iran’s Revolutionary Past, with Eskandar Sadeghi and Golnar Nikpour</a>
-    </li>
     
 
 
@@ -1565,59 +1564,35 @@
 
 
     
-
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter45">Newsletter #45: Reading the French Revolution Today, with Laura Mason</a>
-    </li>
     
 
 
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter44">Newsletter #44: Great Hours, Small People with Anton Jäger and Dominik Leusder</a>
-    </li>
     
 
 
     
-
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter43">Newsletter #43: Telling Labor’s Story with Daisy Pitkin</a>
-    </li>
     
 
 
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter42">Newsletter #42: Class War in the Courtroom, with Laura Weinrib</a>
-    </li>
     
 
 
     
-
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter41">Newsletter #41: We Need Emancipatory Counterfactuals, with Thulani Davis</a>
-    </li>
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter40">Newsletter #40: Putting Internationalism at the Heart of Our Politics, with Olufemi O. Taiwo, Ruth Wilson Gilmore, and Robin D. G. Kelley</a>
-    </li>
     
 
 
@@ -1627,10 +1602,6 @@
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter39">Newsletter #39: The Periphery of the Periphery, with Rahmane Idrissa</a>
-    </li>
     
 
 
@@ -1644,12 +1615,8 @@
 
 
     
-
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter38">Newsletter #38: The Absurdity and Danger of British Imperial Nostalgia, with Kojo Koram</a>
-    </li>
     
 
 
@@ -1665,10 +1632,6 @@
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter37">Newsletter #37: Building a Better World When the Old One Has Been Eviscerated, with Matt Christman</a>
-    </li>
     
 
 
@@ -1676,12 +1639,8 @@
 
 
     
-
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter36">Newsletter #36: Which Post-Capitalist Transition? with Evgeny Morozov</a>
-    </li>
     
 
 
@@ -1691,40 +1650,24 @@
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter35">Newsletter #35: In This House, We Believe, with Jared Clemons</a>
-    </li>
     
 
 
     
-
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter34">Newsletter #34: The US Right’s New Dreams, with Matthew Sitman and Sam Adler-Bell</a>
-    </li>
     
 
 
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter33">Newsletter #33: American Guns and American Exceptionalism, with Patrick Blanchfield</a>
-    </li>
     
 
 
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter32">Newsletter #32: The New Democrats and an Old Approach to Poverty, with Lily Geismer</a>
-    </li>
     
 
 
@@ -1732,19 +1675,11 @@
 
 
     
-
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter31/">Newsletter #31: Prison Abolition and Communism, with Ruth Wilson Gilmore, Alberto Toscano, and Brenna Bhandar</a>
-    </li>
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter30/">Newsletter #30: Dependency Theory Is Essential to Understanding Our World, with Margarita Fajardo</a>
-    </li>
     
 
 
@@ -1758,220 +1693,107 @@
 
 
     
-
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter29/">Newsletter #29: Can Labor Rise Again?, with Rob Baril, Jaz Brisack, Luis Feliz Leon, Alex Press, and Chris Smalls</a>
-    </li>
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter28/">Newsletter #28: Hegemony, Order, and Rivalry Before the West, with Ayşe Zarakol</a>
-    </li>
     
-
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter27/">Newsletter #27: Local Debts and Global Narratives, with Destin Jenkins</a>
-    </li>
     
 
 
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter26/">Newsletter #26: Life Under Inflation and Price Chaos, with Rupert Russell and Isabella Weber</a>
-    </li>
     
-
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter25/">Newsletter #25: Defund, Abolition, and Remaking Our World, with Mariame Kaba and Geo Maher</a>
-    </li>
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter24/">Newsletter #24: How to End Global Vaccine Appartheid, with Achal Prabhala</a>
-    </li>
     
-
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter23/">Newsletter #23: A New Age of Empire, with Ho-fung Hung</a>
-    </li>
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter22/">Newsletter #22: Capitalist China, with Ho-fung Hung</a>
-    </li>
     
-
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter21/">Newsletter #21: A Left Internationalist Response to Russia’s Invasion of Ukraine, with Sophie Pinkham and Nick Mulder</a>
-    </li>
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter20/">Newsletter #20: Slapping Back the Invisible Hand, with Kim Phillips-Fein </a>
-    </li>
     
 
 
     
-
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter19/">Newsletter #19: War in Ukraine on a Burning Planet, with Tony Wood</a>
-    </li>
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter18/">Newsletter #18: A Radical — and Popular — Feminism in Latin America and Around the World, with Verónica Gago</a>
-    </li>
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter17/">Newsletter #17: The Maladies of Colonial Capitalism, with Raj Patel and Rupa Marya</a>
-    </li>
     
-
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter16/">Newsletter #16: The Real Story of What’s Happening in Ukraine, with Volodymyr Ishchenko</a>
-    </li>
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter15/">Newsletter #15: Joe Biden Has Failed in His Fight Against Coronavirus, with Justin Feldman</a>
-    </li>
     
 
 
     
-
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter14/">Newsletter #14: Building Left Power in Disorienting Times, with Aziz Rana, Nikhil Pal Singh, and Wendy Brown</a>
-    </li>
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter13/">Newsletter #13: A Path Forward for Workers in Rust Belt America, with Gabriel Winant</a>
-    </li>
     
-
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter12/">Newsletter #12: Money Is Inherently Political, with Stefan Eich</a>
-    </li>
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter11/">Newsletter #11: The False Promises of Cryptocurrency with Edward Ongweso, Jr. and Jacob Silverman</a>
-    </li>
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter10/">Newsletter #10: How Neoliberalism Creates Right-Wing Reaction, with Rodrigo Nunes</a>
-    </li>
     
-
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter9/">Newsletter #9: Brazilian President Jair Bolsonaro Is a “Major Threat to Life on the Planet”</a>
-    </li>
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter8/">Newsletter #8: Cuba’s Key Role in Fighting Apartheid in Angola Is All but Forgotten Today</a>
-    </li>
     
 
 
     
-
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter7/">Newsletter #7: The Immense Possibilities at the Heart of Our Past and Present, with David Wengrow</a>
-    </li>
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter6/">Newsletter #6: US Workers Are Pissed Off and Striking Back</a>
-    </li>
     
-
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter5/">Newsletter #5: Desire Is Political, with Amia Srinivasan</a>
-    </li>
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter4/">Newsletter #4: The Long, Disastrous History of US Intervention in Afghanistan, with Tariq Ali</a>
-    </li>
     
 
 
-
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter3/">Newsletter #3: Imagining Utopia in a Time of Climate Disaster with Kim Stanley Robinson</a>
-    </li>
     
-
 
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter2/">Newsletter #2: Occupy Paved the Way for Today’s Reborn Left</a>
-    </li>
     
 
 
+    
+
 
-    <li style="margin-bottom:0.5rem">
-    <a style="color: #B2B2B2" href="/newsletter1/">Newsletter #1: The War on Terror Made Our World</a>
-    </li>
     
 
 
@@ -2270,20 +2092,84 @@
 
 
     
+
+
 
+    
 
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        
+        <div class="card-body">
+            <h3 class="card-title" style="margin-bottom:0 color: #78C0A0">
+                <a class="text-dark" style="color: #78C0A0" href="//podcast/antibody-ep-3-combat/">Antibody, Ep 3: Combat</a>
+            </h3>
+            
+            <small class="text-muted" style="color:#BEBBBB">16 Jun 2020</small>
+            
+            <br />
+            <small class="card-text mt-2" style="color:#B2B2B2; font-weight:normal">In this episode: 
+All Cops Are Idiots (featuring Kafui Attoh, you can buy his book here: 
+ugapress.org/book/9780820354217/rights-in-transit)
+</small>
+        </div>
+    </div>
+</div>
     
 
 
     
+
 
+
+    
 
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        
+        <div class="card-body">
+            <h3 class="card-title" style="margin-bottom:0 color: #78C0A0">
+                <a class="text-dark" style="color: #78C0A0" href="//podcast/antibody-ep-2-making-contact/">Antibody, Ep 2: Making Contact</a>
+            </h3>
+            
+            <small class="text-muted" style="color:#BEBBBB">08 Jun 2020</small>
+            
+            <br />
+            <small class="card-text mt-2" style="color:#B2B2B2; font-weight:normal">In this episode:
+The Corner (featuring 
+Pablo Alvarado and the 
+National Day Laborer Organizing Network)
+</small>
+        </div>
+    </div>
+</div>
     
 
 
     
 
 
+
+    
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        
+        <div class="card-body">
+            <h3 class="card-title" style="margin-bottom:0 color: #78C0A0">
+                <a class="text-dark" style="color: #78C0A0" href="//podcast/antibody-ep-1-existing-conditions/">Antibody, Ep 1: Existing Conditions</a>
+            </h3>
+            
+            <small class="text-muted" style="color:#BEBBBB">31 May 2020</small>
+            
+            <br />
+            <small class="card-text mt-2" style="color:#B2B2B2; font-weight:normal">In this episode:
+Zoom Canvas (featuring 
+Nikil Saval)
+</small>
+        </div>
+    </div>
+</div>
     
 
 
@@ -3158,9 +3044,9 @@
 
 
     
+
 
 
-</ul>
 </div>
 </section>
 :ET

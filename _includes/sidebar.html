@@ -37,10 +37,15 @@
       {% endcomment %}
 
       {% assign pages_list = site.pages %}
+      {% assign series = "Iran,Antibody,Ho-fung Hung,War on Terror w" | split: ',' %}
+
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
+            {% unless series contains node.title %}
+
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" aria-label="{{ node.title }}" href="{{ node.url }}">{{ node.title }}</a>
+            {% endunless %}
           {% endif %}
         {% endif %}
       {% endfor %}
