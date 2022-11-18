@@ -34,7 +34,11 @@ title: Series
       {% if post.title contains newpage.title %}
         {% unless post.title contains "Transcript" %}
             {% unless post.title contains "Newsletter" %}
+                {% unless post.title contains "Isabella" %}
+
                 <li><a href="{{ post.url }}" style="color: #B2B2B2" >{{ post.title }}</a></li>
+                {% endunless %}
+
             {% endunless %}
         {% endunless %}
       {% endif %}
