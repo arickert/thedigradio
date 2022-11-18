@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ho-fung Hung
+title: China
 ---
 
 <!-- <div id="archives">
@@ -13,7 +13,7 @@ title: Ho-fung Hung
 
 <!-- Begin List Posts
 ================================================== -->
-<h1 class="page-title">{{ page.title }}</h1>
+<h1 class="page-title">The History of Capitalism and China</h1>
 
 
 <section class="recent-posts">
