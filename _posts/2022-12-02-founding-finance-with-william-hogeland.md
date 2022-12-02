@@ -8,8 +8,9 @@ categories:
 - Finance
 - US Constitution
 - US History
-- William Hogeland
 tags:
+- William Hogeland
+- Astra Taylor
 ---
 
 Astra Taylor interviews William Hogeland on his book Founding Finance: How Debt, Speculation, Foreclosures, Protests, and Crackdowns Made Us a Nation. Hogeland recovers a fascinating crop of mostly-forgotten rebels, the movements they led, and their radical demands that put the landlords and lenders of their day on edge. He also recounts the complex and sometimes deadly machinations that went into suppressing them in order to create a nation that was safe for the owning and investing classes.
