@@ -21,7 +21,8 @@ Where the British had been inclined to dispossess indigenous land in a formalize
 
 As we gauge the meaning of revolutionary-era debates and clashes in the youthful United States, remember that the intensity of those debates was partly because their outcomes rendered advantage in settler-colonial developments that established what Greer calls a “pecuniary interest in genocide.” 
 
-*Further Reading and Listening *
+*Further Reading and Listening*
+
 Allan Greer’s book is *[Property and Dispossession: Natives, Empires, and Land in Early Modern North America](https://www.cambridge.org/core/books/property-and-dispossession/86E2CDC237D929515DE3DC78BC2EFBCA)*. It’s a great book — and far from the only great book that Greer has published over the years. 
 
 If you want to follow the threads of this newsletter further west and into the nineteenth century, read William Cronon’s [Nature’s Metropolis: Chicago and the Great West](https://wwnorton.com/books/Natures-Metropolis). It’s one of the best history books I’ve ever read. 
