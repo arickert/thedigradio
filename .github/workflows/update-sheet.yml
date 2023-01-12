@@ -26,4 +26,4 @@ jobs:
           pip install httpx
 
       - name: execute script
-        run: python ./scripts/zillow.py
+        run: python /scripts/zillow.py
