@@ -8,7 +8,7 @@ title: Episodes
   <h2 style="color:#78C0A0" >{{ yearMonth.name }}</h2>
   <ul style="color:#515151; padding-left:25px" >
     {% for post in yearMonth.items %}
-      {% unless post.title contains "Newsletter" or post.title contains "Transcript" or post.title contains "excerpts" %}
+      {% unless post.title contains "Newsletter" or post.title contains "Transcript" or post.title contains "Selections" %}
         <li><a href="{{ post.url }}" style="color: #B2B2B2" >{{ post.title }}</a></li>
       {% endunless %}
     {% endfor %}
