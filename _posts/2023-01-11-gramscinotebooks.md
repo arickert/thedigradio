@@ -7,6 +7,8 @@ categories:
 tags: 
 ---
 
+**Read Michael Denning's New Left Review article on Antonio Gramsci [here](https://newleftreview.org/issues/ii129/articles/michael-denning-everyone-a-legislator)**
+
 **Begin with Gramsci’s account of the two halves of his own project, a modern Prince, that is, a rewriting of Machiavelli’s *The Prince* (9 pages)**
 
 “Brief Notes on Machiavelli’s Politics”  SPN 125-133 (9p from Q13.1)
