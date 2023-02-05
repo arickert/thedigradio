@@ -15,7 +15,7 @@ tags:
 - Shanti Singh
 - Tracy Rosenthal
 - René Moya
-- Cea Weaver.
+- Cea Weaver
 ---
 
 Featuring Shanti Singh, Tracy Rosenthal, René Moya, and Cea Weaver on the politics and practice of organizing tenants.
