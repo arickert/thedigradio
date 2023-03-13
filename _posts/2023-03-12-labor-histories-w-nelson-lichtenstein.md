@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Labor Histories w/ Nelson Lichtenstein"
-permalink: podcast/labor-histories-w-nelson-lichtenstein/
+permalink: podcast/labor-histories-w-nelson-lichtenstein-2/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_396-Lichtenstein.mp3
 categories:
 - Labor Movement
