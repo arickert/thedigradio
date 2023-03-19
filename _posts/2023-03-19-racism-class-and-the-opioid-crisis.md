@@ -11,8 +11,8 @@ categories:
 - Jules Netherland
 - Medicine
 tags:
-- Helena Hansen,
-- Jules Netherland,
+- Helena Hansen
+- Jules Netherland
 - 
 ---
 
