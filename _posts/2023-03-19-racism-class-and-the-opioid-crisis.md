@@ -13,7 +13,7 @@ categories:
 tags:
 - Helena Hansen
 - Jules Netherland
-- 
+- David Herzberg
 ---
 
 Featuring Helena Hansen, Jules Netherland, and David Herzberg on how American capitalism and its illusions of whiteness both created the opioid crisis and shaped the response to it. We are discussing their book *Whiteout: How Racial Capitalism Changed the Color of Opioids in America*.
