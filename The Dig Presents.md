@@ -14,11 +14,9 @@ title: ...Presents
 <p>
 The Dig Presents is a monthly series that features original documentary reporting, personal narrative, and other sonic experiments from a wide range of contributors. 
 </p>
-<br>
 <p>
 Produced and edited by Liza Yeager and Mitchell Johnson.
 </p> 
-<br>
 <p>
 If you’re interested in pitching a story to The Dig Presents, email thedigpresents@gmail.com. </p> </h6>
 </div>
