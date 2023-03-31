@@ -1,11 +1,291 @@
 [
   
     {
+      "title"    : "Sexual Hegemony w/ Max Fox and Chris Nealon",
+      "category" : "",
+      "tags"     : "Max Fox and Chris Nealon",
+      "url"      : "//podcast/sexual-hegemony-w-max-fox-and-chris-nealon/",
+      "date"     : "2023-03-25 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Racism, Class, and the Opioid Crisis",
+      "category" : "",
+      "tags"     : "Helena Hansen, Jules Netherland, David Herzberg",
+      "url"      : "//podcast/racism-class-and-the-opioid-crisis/",
+      "date"     : "2023-03-19 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #62: Studying American Capitalism to Transform It, w/ Nelson Lichtenstein",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter62",
+      "date"     : "2023-03-17 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Labor Histories w/ Nelson Lichtenstein",
+      "category" : "",
+      "tags"     : "Nelson Lichtenstein",
+      "url"      : "//podcast/labor-histories-w-nelson-lichtenstein-2/",
+      "date"     : "2023-03-13 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #61: Challenging the Myths of American Militarism w/ Nadia Abu El-Haj ",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter61",
+      "date"     : "2023-03-10 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "American Militarism w/ Nadia Abu El-Haj",
+      "category" : "",
+      "tags"     : "Nadia Abu El-Haj",
+      "url"      : "//podcast/american-militarism-w-nadia-abu-el-haj/",
+      "date"     : "2023-03-05 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Newsletter #60: Hegemonic Militarism, with Nadia Abu El-Haj",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter60",
+      "date"     : "2023-03-04 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Newsletter #59: The Bad New Days of Higher Education, with Dennis Hogan",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter59",
+      "date"     : "2023-02-27 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Combat Trauma w/ Nadia Abu El-Haj",
+      "category" : "",
+      "tags"     : "Nadia Abu El-Haj",
+      "url"      : "//podcast/combat-trauma-w-nadia-abu-el-haj/",
+      "date"     : "2023-02-25 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Newsletter #58: Beating Back the Neoliberalization of Higher Ed, with Donna Murch and Todd Wolfson",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter58",
+      "date"     : "2023-02-23 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Higher Ed Industrial Unionism w/ Donna Murch and Todd Wolfson",
+      "category" : "",
+      "tags"     : "Donna Murch and Todd Wolfson",
+      "url"      : "//podcast/higher-ed-industrial-unionism-w-donna-murch-and-todd-wolfson/",
+      "date"     : "2023-02-17 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Newsletter #57: Housing Organizing Is Worker Organizing, with Rene Moya, Tracy Rosenthal, Shanti Singh, and Cea Weaver",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter57",
+      "date"     : "2023-02-10 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Higher Ed Crisis w/ Dennis Hogan",
+      "category" : "",
+      "tags"     : "Dennis Hogan",
+      "url"      : "//podcast/higher-ed-crisis-w-dennis-hogan/",
+      "date"     : "2023-02-10 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "The Politics and Practice of Tenant Organizing",
+      "category" : "",
+      "tags"     : "Shanti Singh, Tracy Rosenthal, René Moya, Cea Weaver",
+      "url"      : "//podcast/the-politics-and-practice-of-tenant-organizing/",
+      "date"     : "2023-02-05 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Newsletter #56: Freedom Dreams and Counter-Histories, with Robin D.G. Kelley",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter56",
+      "date"     : "2023-02-01 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Newsletter #55: Gramsci Says, “Don’t Mourn — Think, Then Organize!” with Michael Denning",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter55",
+      "date"     : "2023-01-29 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Freedom Dreams w/ Robin D.G. Kelley",
+      "category" : "",
+      "tags"     : "Robin D.G. Kelley",
+      "url"      : "//podcast/freedom-dreams-w-robin-d-g-kelley/",
+      "date"     : "2023-01-27 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Gramsci, Organization, Crisis w/ Michael Denning",
+      "category" : "",
+      "tags"     : "Michael Denning",
+      "url"      : "//podcast/gramsci-organization-crisis-w-michael-denning/",
+      "date"     : "2023-01-21 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Newsletter #54: Gramsci’s Good Sense, with Michael Denning",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter54",
+      "date"     : "2023-01-20 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Gramsci &amp; Hegemony w/ Michael Denning",
+      "category" : "",
+      "tags"     : "Michael Denning",
+      "url"      : "//podcast/gramsci-hegemony-w-michael-denning/",
+      "date"     : "2023-01-14 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Selections from the Prison Notebooks excerpts",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//gramscinotebooks",
+      "date"     : "2023-01-11 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Newsletter #53: The Fight Over Inflation Is the Fight of Labor Against Capital, w/ Tim Barker",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter53",
+      "date"     : "2023-01-06 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "The Capitalist Conjuncture w/ Tim Barker",
+      "category" : "",
+      "tags"     : "historian Tim Barker",
+      "url"      : "//podcast/the-capitalist-conjuncture-w-tim-barker/",
+      "date"     : "2022-12-31 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Newsletter #52: Using the Twentieth Century for the Twenty-First, with Edward Goetz",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter52",
+      "date"     : "2022-12-28 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Monetary Politics w/ Tim Barker",
+      "category" : "",
+      "tags"     : "historian Tim Barker",
+      "url"      : "//podcast/monetary-politics-w-tim-barker/",
+      "date"     : "2022-12-22 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "New Deal Ruins w/ Edward Goetz",
+      "category" : "",
+      "tags"     : "Edward Goetz",
+      "url"      : "//podcast/new-deal-ruins-w-edward-goetz/",
+      "date"     : "2022-12-17 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Newsletter #51: Social Housing for a Socialist Future, w/ Gail Radford",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter51",
+      "date"     : "2022-12-14 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Modern Housing w/ Gail Radford",
+      "category" : "",
+      "tags"     : "Gail Radford",
+      "url"      : "//podcast/modern-housing-w-gail-radford/",
+      "date"     : "2022-12-11 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Newsletter #50: The Economics of the American Revolution, with William Hogeland",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter50",
+      "date"     : "2022-12-07 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Founding Finance with William Hogeland",
+      "category" : "",
+      "tags"     : "William Hogeland, Astra Taylor",
+      "url"      : "//podcast/founding-finance-with-william-hogeland/",
+      "date"     : "2022-12-02 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Newsletter #49: Understanding Iran Beyond East-West Binaries, with Eskander Sadeghi-Boroujerdi and Golnar Nikpour",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter49",
+      "date"     : "2022-11-23 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "The “Woke Mob” Made Them MAGA?",
+      "category" : "",
+      "tags"     : "Daniel Denvir",
+      "url"      : "//podcast/the-woke-mob-made-them-maga/",
+      "date"     : "2022-11-22 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Iran, 1997-2022: Reform, Reaction, and Crisis",
+      "category" : "",
+      "tags"     : "Eskandar Sadeghi-Boroujerdi and Golnar Nikpour",
+      "url"      : "//podcast/iran-1997-2022-reform-reaction-and-crisis/",
+      "date"     : "2022-11-18 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Newsletter #48: Iran’s “Passive Revolution,” with Eskandar Sadeghi-Boroujerdi and Golnar Nikpour",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter48",
+      "date"     : "2022-11-16 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Iran, 1979-1997: Islamic Republic, War, and Thermidor",
+      "category" : "",
+      "tags"     : "Eskandar Sadeghi-Boroujerdi and Golnar Nikpour",
+      "url"      : "//podcast/iran-1979-1997-islamic-republic-war-and-thermidor/",
+      "date"     : "2022-11-15 00:00:00 -0800"
+    } ,
+  
+    {
       "title"    : "Newsletter #47: The Coup Against Iran’s Mohammed Mosaddegh and the Limits of Sovereignty, with Golnar Nikpour and Eskandar Sadeghi-Boroujerdi",
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter47",
-      "date"     : "2022-11-09 00:00:00 -0500"
+      "date"     : "2022-11-09 00:00:00 -0800"
     } ,
   
     {
@@ -13,7 +293,7 @@
       "category" : "",
       "tags"     : "Eskandar Sadeghi-Boroujerdi, Golnar Nikpour",
       "url"      : "//podcast/iran-1953-1979-from-the-shah-to-islamic-revolution/",
-      "date"     : "2022-11-07 00:00:00 -0500"
+      "date"     : "2022-11-07 00:00:00 -0800"
     } ,
   
     {
@@ -21,7 +301,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter46",
-      "date"     : "2022-11-03 00:00:00 -0400"
+      "date"     : "2022-11-03 00:00:00 -0700"
     } ,
   
     {
@@ -29,7 +309,7 @@
       "category" : "",
       "tags"     : "Eskandar Sadeghi-Boroujerdi and Golnar Nikpour",
       "url"      : "//podcast/iran-1941-1953-tudeh-mosaddegh-oil-and-the-cia-mi6-coup/",
-      "date"     : "2022-11-01 00:00:00 -0400"
+      "date"     : "2022-11-01 00:00:00 -0700"
     } ,
   
     {
@@ -37,7 +317,7 @@
       "category" : "",
       "tags"     : "Eskandar Sadeghi-Boroujerdi, Golnar Nikpour",
       "url"      : "//podcast/iran-1906-1941-w-eskandar-sadeghi-golnar-nikpour/",
-      "date"     : "2022-10-27 00:00:00 -0400"
+      "date"     : "2022-10-27 00:00:00 -0700"
     } ,
   
     {
@@ -45,7 +325,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter45",
-      "date"     : "2022-10-22 00:00:00 -0400"
+      "date"     : "2022-10-22 00:00:00 -0700"
     } ,
   
     {
@@ -53,7 +333,7 @@
       "category" : "",
       "tags"     : "Laura Mason",
       "url"      : "//podcast/conspiracy-of-equals-w-laura-mason/",
-      "date"     : "2022-10-17 00:00:00 -0400"
+      "date"     : "2022-10-17 00:00:00 -0700"
     } ,
   
     {
@@ -61,7 +341,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter44",
-      "date"     : "2022-10-16 00:00:00 -0400"
+      "date"     : "2022-10-16 00:00:00 -0700"
     } ,
   
     {
@@ -69,7 +349,7 @@
       "category" : "",
       "tags"     : "Anton Jager, Dominik Leusder",
       "url"      : "//podcast/europe-w-anton-jager-dominik-leusder/",
-      "date"     : "2022-10-10 00:00:00 -0400"
+      "date"     : "2022-10-10 00:00:00 -0700"
     } ,
   
     {
@@ -77,7 +357,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter43",
-      "date"     : "2022-10-04 00:00:00 -0400"
+      "date"     : "2022-10-04 00:00:00 -0700"
     } ,
   
     {
@@ -85,7 +365,7 @@
       "category" : "",
       "tags"     : "Daisy Pitkin",
       "url"      : "//podcast/on-the-line-w-daisy-pitkin/",
-      "date"     : "2022-10-02 00:00:00 -0400"
+      "date"     : "2022-10-02 00:00:00 -0700"
     } ,
   
     {
@@ -93,7 +373,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter42",
-      "date"     : "2022-09-30 00:00:00 -0400"
+      "date"     : "2022-09-30 00:00:00 -0700"
     } ,
   
     {
@@ -101,7 +381,7 @@
       "category" : "",
       "tags"     : "Laura Weinrib",
       "url"      : "//podcast/taming-free-speech-w-laura-weinrib/",
-      "date"     : "2022-09-25 00:00:00 -0400"
+      "date"     : "2022-09-25 00:00:00 -0700"
     } ,
   
     {
@@ -109,7 +389,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter41",
-      "date"     : "2022-09-24 00:00:00 -0400"
+      "date"     : "2022-09-24 00:00:00 -0700"
     } ,
   
     {
@@ -117,7 +397,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter40",
-      "date"     : "2022-09-22 00:00:00 -0400"
+      "date"     : "2022-09-22 00:00:00 -0700"
     } ,
   
     {
@@ -125,7 +405,7 @@
       "category" : "",
       "tags"     : "Thulani Davis",
       "url"      : "//podcast/emancipation-circuit-w-thulani-davis/",
-      "date"     : "2022-09-18 00:00:00 -0400"
+      "date"     : "2022-09-18 00:00:00 -0700"
     } ,
   
     {
@@ -133,7 +413,7 @@
       "category" : "",
       "tags"     : "Olufemi Taiwo, Robin D.G. Kelley, Ruth Wilson Gilmore",
       "url"      : "//podcast/ruth-wilson-gilmore-robin-kelley-and-olufemi-taiwo/",
-      "date"     : "2022-09-10 00:00:00 -0400"
+      "date"     : "2022-09-10 00:00:00 -0700"
     } ,
   
     {
@@ -141,7 +421,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter39",
-      "date"     : "2022-09-10 00:00:00 -0400"
+      "date"     : "2022-09-10 00:00:00 -0700"
     } ,
   
     {
@@ -149,7 +429,7 @@
       "category" : "",
       "tags"     : "Rahmane Idrissa",
       "url"      : "//podcast/the-sahel-w-rahmane-idrissa/",
-      "date"     : "2022-09-02 00:00:00 -0400"
+      "date"     : "2022-09-02 00:00:00 -0700"
     } ,
   
     {
@@ -157,7 +437,7 @@
       "category" : "",
       "tags"     : "Olufemi Taiwo, Transcripts",
       "url"      : "//transcripts/identity-power-and-speech-with-olufemi-taiwo/",
-      "date"     : "2022-08-27 00:00:00 -0400"
+      "date"     : "2022-08-27 00:00:00 -0700"
     } ,
   
     {
@@ -165,7 +445,7 @@
       "category" : "",
       "tags"     : "Quinn Slobodian",
       "url"      : "//podcast/a-history-of-neoliberalism-w-quinn-slobodian/",
-      "date"     : "2022-08-27 00:00:00 -0400"
+      "date"     : "2022-08-27 00:00:00 -0700"
     } ,
   
     {
@@ -173,7 +453,7 @@
       "category" : "",
       "tags"     : "Adom Getachew",
       "url"      : "//podcast/worldmaking-after-empire-w-adom-getachew-rerun/",
-      "date"     : "2022-08-19 00:00:00 -0400"
+      "date"     : "2022-08-19 00:00:00 -0700"
     } ,
   
     {
@@ -181,7 +461,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter38",
-      "date"     : "2022-08-19 00:00:00 -0400"
+      "date"     : "2022-08-19 00:00:00 -0700"
     } ,
   
     {
@@ -189,7 +469,7 @@
       "category" : "",
       "tags"     : "Ruth Wilson Gilmore, Alberto Toscano, Brenna Bhandar, Transcripts",
       "url"      : "//transcripts/ruth-wilson-gilmore-w-alberto-toscano-and-brenna-bhandar/",
-      "date"     : "2022-08-18 00:00:00 -0400"
+      "date"     : "2022-08-18 00:00:00 -0700"
     } ,
   
     {
@@ -197,7 +477,7 @@
       "category" : "",
       "tags"     : "Ho-fung Hung, Transcripts",
       "url"      : "//transcripts/clash-of-empires-w-ho-fung-hung/",
-      "date"     : "2022-08-17 00:00:00 -0400"
+      "date"     : "2022-08-17 00:00:00 -0700"
     } ,
   
     {
@@ -205,7 +485,7 @@
       "category" : "",
       "tags"     : "Ho-fung Hung, Transcripts",
       "url"      : "//transcripts/china-boom-w-ho-fung-hung/",
-      "date"     : "2022-08-16 00:00:00 -0400"
+      "date"     : "2022-08-16 00:00:00 -0700"
     } ,
   
     {
@@ -213,7 +493,7 @@
       "category" : "",
       "tags"     : "Kojo Koram",
       "url"      : "//podcast/britain-after-empire-w-kojo-koram/",
-      "date"     : "2022-08-12 00:00:00 -0400"
+      "date"     : "2022-08-12 00:00:00 -0700"
     } ,
   
     {
@@ -221,7 +501,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter37",
-      "date"     : "2022-08-02 00:00:00 -0400"
+      "date"     : "2022-08-02 00:00:00 -0700"
     } ,
   
     {
@@ -229,7 +509,7 @@
       "category" : "",
       "tags"     : "Matt Christman",
       "url"      : "//podcast/dead-generations-w-matt-christman/",
-      "date"     : "2022-07-30 00:00:00 -0400"
+      "date"     : "2022-07-30 00:00:00 -0700"
     } ,
   
     {
@@ -237,7 +517,7 @@
       "category" : "",
       "tags"     : "Nancy Fraser",
       "url"      : "//podcast/how-capitalism-works-w-nancy-fraser/",
-      "date"     : "2022-07-17 00:00:00 -0400"
+      "date"     : "2022-07-17 00:00:00 -0700"
     } ,
   
     {
@@ -245,7 +525,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter36",
-      "date"     : "2022-07-15 00:00:00 -0400"
+      "date"     : "2022-07-15 00:00:00 -0700"
     } ,
   
     {
@@ -253,7 +533,7 @@
       "category" : "",
       "tags"     : "Lily Geismer, Transcripts",
       "url"      : "//transcripts/the-new-democrats-w-lily-geismer/",
-      "date"     : "2022-07-14 00:00:00 -0400"
+      "date"     : "2022-07-14 00:00:00 -0700"
     } ,
   
     {
@@ -261,7 +541,7 @@
       "category" : "",
       "tags"     : "Evgeny Morozov",
       "url"      : "//podcast/its-still-capitalism-w-evgeny-morozov/",
-      "date"     : "2022-07-08 00:00:00 -0400"
+      "date"     : "2022-07-08 00:00:00 -0700"
     } ,
   
     {
@@ -269,7 +549,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter35",
-      "date"     : "2022-07-03 00:00:00 -0400"
+      "date"     : "2022-07-03 00:00:00 -0700"
     } ,
   
     {
@@ -277,7 +557,7 @@
       "category" : "",
       "tags"     : "Olufemi Taiwo",
       "url"      : "//podcast/identity-power-and-speech-with-olufemi-taiwo-2/",
-      "date"     : "2022-07-01 00:00:00 -0400"
+      "date"     : "2022-07-01 00:00:00 -0700"
     } ,
   
     {
@@ -285,7 +565,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter34",
-      "date"     : "2022-06-25 00:00:00 -0400"
+      "date"     : "2022-06-25 00:00:00 -0700"
     } ,
   
     {
@@ -293,7 +573,7 @@
       "category" : "",
       "tags"     : "Jared Clemons",
       "url"      : "//podcast/in-this-house-w-jared-clemons/",
-      "date"     : "2022-06-24 00:00:00 -0400"
+      "date"     : "2022-06-24 00:00:00 -0700"
     } ,
   
     {
@@ -301,7 +581,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter33",
-      "date"     : "2022-06-21 00:00:00 -0400"
+      "date"     : "2022-06-21 00:00:00 -0700"
     } ,
   
     {
@@ -309,7 +589,7 @@
       "category" : "",
       "tags"     : "Sam Adler-Bell, Matt Sitman",
       "url"      : "//podcast/the-american-right-w-matthew-sitman-and-sam-adler-bell/",
-      "date"     : "2022-06-18 00:00:00 -0400"
+      "date"     : "2022-06-18 00:00:00 -0700"
     } ,
   
     {
@@ -317,7 +597,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter32",
-      "date"     : "2022-06-10 00:00:00 -0400"
+      "date"     : "2022-06-10 00:00:00 -0700"
     } ,
   
     {
@@ -325,7 +605,7 @@
       "category" : "",
       "tags"     : "Patrick Blanchfield",
       "url"      : "//podcast/gunpower-death-drive-w-patrick-blanchfield/",
-      "date"     : "2022-06-10 00:00:00 -0400"
+      "date"     : "2022-06-10 00:00:00 -0700"
     } ,
   
     {
@@ -333,7 +613,7 @@
       "category" : "",
       "tags"     : "Lily Geismer",
       "url"      : "//podcast/the-new-democrats-w-lily-geismer/",
-      "date"     : "2022-06-05 00:00:00 -0400"
+      "date"     : "2022-06-05 00:00:00 -0700"
     } ,
   
     {
@@ -341,7 +621,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter31/",
-      "date"     : "2022-06-02 00:00:00 -0400"
+      "date"     : "2022-06-02 00:00:00 -0700"
     } ,
   
     {
@@ -349,7 +629,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter30/",
-      "date"     : "2022-06-02 00:00:00 -0400"
+      "date"     : "2022-06-02 00:00:00 -0700"
     } ,
   
     {
@@ -357,7 +637,7 @@
       "category" : "",
       "tags"     : "Ruth Wilson Gilmore, Alberto Toscano, Brenna Bhandar",
       "url"      : "//podcast/ruth-wilson-gilmore-w-alberto-toscano-and-brenna-bhandar/",
-      "date"     : "2022-05-28 00:00:00 -0400"
+      "date"     : "2022-05-28 00:00:00 -0700"
     } ,
   
     {
@@ -365,7 +645,7 @@
       "category" : "",
       "tags"     : "Margarita Fajardo",
       "url"      : "//podcast/center-and-periphery-w-margarita-fajardo/",
-      "date"     : "2022-05-21 00:00:00 -0400"
+      "date"     : "2022-05-21 00:00:00 -0700"
     } ,
   
     {
@@ -373,7 +653,7 @@
       "category" : "",
       "tags"     : "Chris Smalls, Jaz Brisack, Rob Baril, Alex Press, Luis Feliz Leon",
       "url"      : "//podcast/the-return-of-labor-militancy/",
-      "date"     : "2022-05-13 00:00:00 -0400"
+      "date"     : "2022-05-13 00:00:00 -0700"
     } ,
   
     {
@@ -381,7 +661,7 @@
       "category" : "",
       "tags"     : "Aziz Rana, Amna Akbar, Marbre Stahly-Butts",
       "url"      : "//podcast/scotus-politics-and-the-law-w-aziz-rana-amna-akbar-marbre-stahly-butts/",
-      "date"     : "2022-05-07 00:00:00 -0400"
+      "date"     : "2022-05-07 00:00:00 -0700"
     } ,
   
     {
@@ -389,7 +669,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter29/",
-      "date"     : "2022-05-01 00:00:00 -0400"
+      "date"     : "2022-05-01 00:00:00 -0700"
     } ,
   
     {
@@ -397,7 +677,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter28/",
-      "date"     : "2022-05-01 00:00:00 -0400"
+      "date"     : "2022-05-01 00:00:00 -0700"
     } ,
   
     {
@@ -405,7 +685,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter27/",
-      "date"     : "2022-05-01 00:00:00 -0400"
+      "date"     : "2022-05-01 00:00:00 -0700"
     } ,
   
     {
@@ -413,7 +693,7 @@
       "category" : "",
       "tags"     : "Ayse Zarakol",
       "url"      : "//podcast/before-the-west-w-ayse-zarakol/",
-      "date"     : "2022-04-28 00:00:00 -0400"
+      "date"     : "2022-04-28 00:00:00 -0700"
     } ,
   
     {
@@ -421,7 +701,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter26/",
-      "date"     : "2022-04-27 00:00:00 -0400"
+      "date"     : "2022-04-27 00:00:00 -0700"
     } ,
   
     {
@@ -429,7 +709,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter25/",
-      "date"     : "2022-04-26 00:00:00 -0400"
+      "date"     : "2022-04-26 00:00:00 -0700"
     } ,
   
     {
@@ -437,7 +717,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter24/",
-      "date"     : "2022-04-25 00:00:00 -0400"
+      "date"     : "2022-04-25 00:00:00 -0700"
     } ,
   
     {
@@ -445,7 +725,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter23/",
-      "date"     : "2022-04-24 00:00:00 -0400"
+      "date"     : "2022-04-24 00:00:00 -0700"
     } ,
   
     {
@@ -453,7 +733,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter22/",
-      "date"     : "2022-04-23 00:00:00 -0400"
+      "date"     : "2022-04-23 00:00:00 -0700"
     } ,
   
     {
@@ -461,7 +741,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter21/",
-      "date"     : "2022-04-22 00:00:00 -0400"
+      "date"     : "2022-04-22 00:00:00 -0700"
     } ,
   
     {
@@ -469,7 +749,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter20/",
-      "date"     : "2022-04-21 00:00:00 -0400"
+      "date"     : "2022-04-21 00:00:00 -0700"
     } ,
   
     {
@@ -477,7 +757,7 @@
       "category" : "",
       "tags"     : "Destin Jenkins",
       "url"      : "//podcast/bonds-of-inequality-w-destin-jenkins/",
-      "date"     : "2022-04-21 00:00:00 -0400"
+      "date"     : "2022-04-21 00:00:00 -0700"
     } ,
   
     {
@@ -485,7 +765,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter19/",
-      "date"     : "2022-04-20 00:00:00 -0400"
+      "date"     : "2022-04-20 00:00:00 -0700"
     } ,
   
     {
@@ -493,7 +773,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter18/",
-      "date"     : "2022-04-19 00:00:00 -0400"
+      "date"     : "2022-04-19 00:00:00 -0700"
     } ,
   
     {
@@ -501,7 +781,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter17/",
-      "date"     : "2022-04-18 00:00:00 -0400"
+      "date"     : "2022-04-18 00:00:00 -0700"
     } ,
   
     {
@@ -509,7 +789,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter16/",
-      "date"     : "2022-04-17 00:00:00 -0400"
+      "date"     : "2022-04-17 00:00:00 -0700"
     } ,
   
     {
@@ -517,7 +797,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter15/",
-      "date"     : "2022-04-16 00:00:00 -0400"
+      "date"     : "2022-04-16 00:00:00 -0700"
     } ,
   
     {
@@ -525,7 +805,7 @@
       "category" : "",
       "tags"     : "Mariame Kaba, Geo Maher",
       "url"      : "//podcast/police-w-mariame-kaba-and-geo-maher/",
-      "date"     : "2022-04-15 00:00:00 -0400"
+      "date"     : "2022-04-15 00:00:00 -0700"
     } ,
   
     {
@@ -533,7 +813,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter14/",
-      "date"     : "2022-04-15 00:00:00 -0400"
+      "date"     : "2022-04-15 00:00:00 -0700"
     } ,
   
     {
@@ -541,7 +821,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter13/",
-      "date"     : "2022-04-14 00:00:00 -0400"
+      "date"     : "2022-04-14 00:00:00 -0700"
     } ,
   
     {
@@ -549,7 +829,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter12/",
-      "date"     : "2022-04-13 00:00:00 -0400"
+      "date"     : "2022-04-13 00:00:00 -0700"
     } ,
   
     {
@@ -557,7 +837,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter11/",
-      "date"     : "2022-04-12 00:00:00 -0400"
+      "date"     : "2022-04-12 00:00:00 -0700"
     } ,
   
     {
@@ -565,7 +845,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter10/",
-      "date"     : "2022-04-11 00:00:00 -0400"
+      "date"     : "2022-04-11 00:00:00 -0700"
     } ,
   
     {
@@ -573,7 +853,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter9/",
-      "date"     : "2022-04-10 00:00:00 -0400"
+      "date"     : "2022-04-10 00:00:00 -0700"
     } ,
   
     {
@@ -581,7 +861,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter8/",
-      "date"     : "2022-04-09 00:00:00 -0400"
+      "date"     : "2022-04-09 00:00:00 -0700"
     } ,
   
     {
@@ -589,7 +869,7 @@
       "category" : "",
       "tags"     : "Rupert Russell, Isabella Weber",
       "url"      : "//podcast/price-wars-w-rupert-russell-isabella-weber/",
-      "date"     : "2022-04-08 00:00:00 -0400"
+      "date"     : "2022-04-08 00:00:00 -0700"
     } ,
   
     {
@@ -597,7 +877,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter7/",
-      "date"     : "2022-04-08 00:00:00 -0400"
+      "date"     : "2022-04-08 00:00:00 -0700"
     } ,
   
     {
@@ -605,7 +885,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter6/",
-      "date"     : "2022-04-07 00:00:00 -0400"
+      "date"     : "2022-04-07 00:00:00 -0700"
     } ,
   
     {
@@ -613,7 +893,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter5/",
-      "date"     : "2022-04-06 00:00:00 -0400"
+      "date"     : "2022-04-06 00:00:00 -0700"
     } ,
   
     {
@@ -621,7 +901,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter4/",
-      "date"     : "2022-04-05 00:00:00 -0400"
+      "date"     : "2022-04-05 00:00:00 -0700"
     } ,
   
     {
@@ -629,7 +909,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter3/",
-      "date"     : "2022-04-04 00:00:00 -0400"
+      "date"     : "2022-04-04 00:00:00 -0700"
     } ,
   
     {
@@ -637,7 +917,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter2/",
-      "date"     : "2022-04-03 00:00:00 -0400"
+      "date"     : "2022-04-03 00:00:00 -0700"
     } ,
   
     {
@@ -645,7 +925,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//newsletter1/",
-      "date"     : "2022-04-02 00:00:00 -0400"
+      "date"     : "2022-04-02 00:00:00 -0700"
     } ,
   
     {
@@ -653,7 +933,7 @@
       "category" : "",
       "tags"     : "Achal Prabhala",
       "url"      : "//podcast/vaccine-apartheid-endures-w-achal-prabhala/",
-      "date"     : "2022-04-01 00:00:00 -0400"
+      "date"     : "2022-04-01 00:00:00 -0700"
     } ,
   
     {
@@ -661,7 +941,7 @@
       "category" : "",
       "tags"     : "Ho-fung Hung",
       "url"      : "//podcast/clash-of-empires-w-ho-fung-hung/",
-      "date"     : "2022-03-23 00:00:00 -0400"
+      "date"     : "2022-03-23 00:00:00 -0700"
     } ,
   
     {
@@ -669,7 +949,7 @@
       "category" : "",
       "tags"     : "Ho-fung Hung",
       "url"      : "//podcast/china-boom-w-ho-fung-hung/",
-      "date"     : "2022-03-18 00:00:00 -0400"
+      "date"     : "2022-03-18 00:00:00 -0700"
     } ,
   
     {
@@ -677,7 +957,7 @@
       "category" : "",
       "tags"     : "Nick Mulder, Sophie Pinkham",
       "url"      : "//podcast/war-w-sophie-pinkham-and-nick-mulder/",
-      "date"     : "2022-03-10 00:00:00 -0500"
+      "date"     : "2022-03-10 00:00:00 -0800"
     } ,
   
     {
@@ -685,7 +965,7 @@
       "category" : "",
       "tags"     : "Tony Wood",
       "url"      : "//podcast/russia-invades-w-tony-wood/",
-      "date"     : "2022-02-28 00:00:00 -0500"
+      "date"     : "2022-02-28 00:00:00 -0800"
     } ,
   
     {
@@ -693,7 +973,7 @@
       "category" : "",
       "tags"     : "Kim Phillips-Fein",
       "url"      : "//podcast/invisible-hands-w-kim-phillips-fein/",
-      "date"     : "2022-02-26 00:00:00 -0500"
+      "date"     : "2022-02-26 00:00:00 -0800"
     } ,
   
     {
@@ -701,7 +981,7 @@
       "category" : "",
       "tags"     : "Verónica Gago",
       "url"      : "//podcast/feminist-international-w-veronica-gago/",
-      "date"     : "2022-02-19 00:00:00 -0500"
+      "date"     : "2022-02-19 00:00:00 -0800"
     } ,
   
     {
@@ -709,7 +989,7 @@
       "category" : "",
       "tags"     : "Raj Patel, Rupa Marya",
       "url"      : "//podcast/inflamed-w-raj-patel-and-rupa-marya/",
-      "date"     : "2022-02-11 00:00:00 -0500"
+      "date"     : "2022-02-11 00:00:00 -0800"
     } ,
   
     {
@@ -717,7 +997,7 @@
       "category" : "",
       "tags"     : "Tony Wood, Transcripts",
       "url"      : "//transcripts/russia-invades-w-tony-wood/",
-      "date"     : "2022-02-08 00:00:00 -0500"
+      "date"     : "2022-02-08 00:00:00 -0800"
     } ,
   
     {
@@ -725,7 +1005,7 @@
       "category" : "",
       "tags"     : "Daniela Gabor, Ndongo Samba Sylla",
       "url"      : "//podcast/financial-empire-w-daniela-gabor-ndongo-samba-sylla/",
-      "date"     : "2022-02-04 00:00:00 -0500"
+      "date"     : "2022-02-04 00:00:00 -0800"
     } ,
   
     {
@@ -733,7 +1013,7 @@
       "category" : "",
       "tags"     : "Volodymyr Ishchenko",
       "url"      : "//podcast/ukraine-w-volodymyr-ishchenko/",
-      "date"     : "2022-01-28 00:00:00 -0500"
+      "date"     : "2022-01-28 00:00:00 -0800"
     } ,
   
     {
@@ -741,7 +1021,7 @@
       "category" : "",
       "tags"     : "Justin Feldman",
       "url"      : "//podcast/bidens-pandemic-w-justin-feldman/",
-      "date"     : "2022-01-21 00:00:00 -0500"
+      "date"     : "2022-01-21 00:00:00 -0800"
     } ,
   
     {
@@ -749,7 +1029,7 @@
       "category" : "",
       "tags"     : "Gabriel Winant",
       "url"      : "//podcast/next-shift-with-gabriel-winant/",
-      "date"     : "2022-01-14 00:00:00 -0500"
+      "date"     : "2022-01-14 00:00:00 -0800"
     } ,
   
     {
@@ -757,7 +1037,7 @@
       "category" : "",
       "tags"     : "Aziz Rana, Nikhil Pal Singh, Wendy Brown",
       "url"      : "//podcast/interregnum-w-aziz-rana-nikhil-pal-singh-wendy-brown/",
-      "date"     : "2022-01-06 00:00:00 -0500"
+      "date"     : "2022-01-06 00:00:00 -0800"
     } ,
   
     {
@@ -765,7 +1045,7 @@
       "category" : "",
       "tags"     : "Stefan Eich, Transcripts",
       "url"      : "//transcripts/private-money-with-stefan-eich/",
-      "date"     : "2021-12-22 00:00:00 -0500"
+      "date"     : "2021-12-22 00:00:00 -0800"
     } ,
   
     {
@@ -773,7 +1053,7 @@
       "category" : "",
       "tags"     : "Stefan Eich",
       "url"      : "//podcast/private-money-with-stefan-eich/",
-      "date"     : "2021-12-22 00:00:00 -0500"
+      "date"     : "2021-12-22 00:00:00 -0800"
     } ,
   
     {
@@ -781,7 +1061,7 @@
       "category" : "",
       "tags"     : "Edward Ongweso Jr, Jacob Silverman, Transcripts",
       "url"      : "//transcripts/cryptocurrency-w-edward-ongweso-jr-jacob-silverman/",
-      "date"     : "2021-12-16 00:00:00 -0500"
+      "date"     : "2021-12-16 00:00:00 -0800"
     } ,
   
     {
@@ -789,7 +1069,7 @@
       "category" : "",
       "tags"     : "Edward Ongweso Jr, Jacob Silverman",
       "url"      : "//podcast/cryptocurrency-w-edward-ongweso-jr-jacob-silverman/",
-      "date"     : "2021-12-16 00:00:00 -0500"
+      "date"     : "2021-12-16 00:00:00 -0800"
     } ,
   
     {
@@ -797,7 +1077,7 @@
       "category" : "",
       "tags"     : "Jair Bolsonaro, Rodrigo Nunes, Transcripts",
       "url"      : "//transcripts/bolsonarismo-with-rodrigo-nunes/",
-      "date"     : "2021-12-10 00:00:00 -0500"
+      "date"     : "2021-12-10 00:00:00 -0800"
     } ,
   
     {
@@ -805,7 +1085,7 @@
       "category" : "",
       "tags"     : "Jair Bolsonaro, Rodrigo Nunes",
       "url"      : "//podcast/bolsonarismo-with-rodrigo-nunes/",
-      "date"     : "2021-12-10 00:00:00 -0500"
+      "date"     : "2021-12-10 00:00:00 -0800"
     } ,
   
     {
@@ -813,7 +1093,7 @@
       "category" : "",
       "tags"     : "Andre Pagliarini, Sabrina Fernandes",
       "url"      : "//podcast/brazil-w-sabrina-fernandes-andre-pagliarini/",
-      "date"     : "2021-12-03 00:00:00 -0500"
+      "date"     : "2021-12-03 00:00:00 -0800"
     } ,
   
     {
@@ -821,7 +1101,7 @@
       "category" : "",
       "tags"     : "Piero Gleijeses",
       "url"      : "//podcast/visions-of-freedom-w-piero-gleijeses-part-2/",
-      "date"     : "2021-11-24 00:00:00 -0500"
+      "date"     : "2021-11-24 00:00:00 -0800"
     } ,
   
     {
@@ -829,7 +1109,7 @@
       "category" : "",
       "tags"     : "Piero Gleijeses",
       "url"      : "//podcast/visions-of-freedom-w-piero-gleijeses-part-1/",
-      "date"     : "2021-11-19 00:00:00 -0500"
+      "date"     : "2021-11-19 00:00:00 -0800"
     } ,
   
     {
@@ -837,7 +1117,7 @@
       "category" : "",
       "tags"     : "David Wengrow",
       "url"      : "//podcast/the-dawn-of-everything-w-david-wengrow/",
-      "date"     : "2021-11-10 00:00:00 -0500"
+      "date"     : "2021-11-10 00:00:00 -0800"
     } ,
   
     {
@@ -845,7 +1125,7 @@
       "category" : "",
       "tags"     : "Alex Press, Gabriel Winant, Jonah Furman, Victor P. Bouzi",
       "url"      : "//podcast/striketober/",
-      "date"     : "2021-11-04 00:00:00 -0400"
+      "date"     : "2021-11-04 00:00:00 -0700"
     } ,
   
     {
@@ -853,7 +1133,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//podcast/strike-with-jane-mcalevey-2/",
-      "date"     : "2021-10-28 00:00:00 -0400"
+      "date"     : "2021-10-28 00:00:00 -0700"
     } ,
   
     {
@@ -861,7 +1141,7 @@
       "category" : "",
       "tags"     : "Amia Srinivasan",
       "url"      : "//podcast/the-right-to-sex-with-amia-srinivasan/",
-      "date"     : "2021-10-20 00:00:00 -0400"
+      "date"     : "2021-10-20 00:00:00 -0700"
     } ,
   
     {
@@ -869,7 +1149,7 @@
       "category" : "",
       "tags"     : "Yael Bridge",
       "url"      : "//podcast/the-big-scary-s-word-w-yael-bridge/",
-      "date"     : "2021-10-18 00:00:00 -0400"
+      "date"     : "2021-10-18 00:00:00 -0700"
     } ,
   
     {
@@ -877,7 +1157,7 @@
       "category" : "",
       "tags"     : "Tariq Ali, Transcripts",
       "url"      : "//transcript/afghanistan-with-tariq-ali/",
-      "date"     : "2021-10-12 00:00:00 -0400"
+      "date"     : "2021-10-12 00:00:00 -0700"
     } ,
   
     {
@@ -885,7 +1165,7 @@
       "category" : "",
       "tags"     : "Tariq Ali",
       "url"      : "//podcast/afghanistan-with-tariq-ali/",
-      "date"     : "2021-10-12 00:00:00 -0400"
+      "date"     : "2021-10-12 00:00:00 -0700"
     } ,
   
     {
@@ -893,7 +1173,7 @@
       "category" : "",
       "tags"     : "Kim Stanley Robinson",
       "url"      : "//podcast/near-futures-with-kim-stanley-robinson/",
-      "date"     : "2021-10-03 00:00:00 -0400"
+      "date"     : "2021-10-03 00:00:00 -0700"
     } ,
   
     {
@@ -901,7 +1181,7 @@
       "category" : "",
       "tags"     : "Astra Taylor",
       "url"      : "//podcast/occupy-at-10-with-astra-taylor/",
-      "date"     : "2021-09-25 00:00:00 -0400"
+      "date"     : "2021-09-25 00:00:00 -0700"
     } ,
   
     {
@@ -909,7 +1189,7 @@
       "category" : "",
       "tags"     : "Spencer Ackerman",
       "url"      : "//podcast/war-on-terror-w-spencer-ackerman-part-3/",
-      "date"     : "2021-09-20 00:00:00 -0400"
+      "date"     : "2021-09-20 00:00:00 -0700"
     } ,
   
     {
@@ -917,7 +1197,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//podcast/war-on-terror-w-spencer-ackerman-part-2/",
-      "date"     : "2021-09-15 00:00:00 -0400"
+      "date"     : "2021-09-15 00:00:00 -0700"
     } ,
   
     {
@@ -925,7 +1205,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//podcast/war-on-terror-w-spencer-ackerman-part-1/",
-      "date"     : "2021-09-10 00:00:00 -0400"
+      "date"     : "2021-09-10 00:00:00 -0700"
     } ,
   
     {
@@ -933,7 +1213,7 @@
       "category" : "",
       "tags"     : "Adam Johnson, Eric Levitz",
       "url"      : "//podcast/the-media-war-w-adam-johnson-and-eric-levitz/",
-      "date"     : "2021-09-02 00:00:00 -0400"
+      "date"     : "2021-09-02 00:00:00 -0700"
     } ,
   
     {
@@ -941,7 +1221,7 @@
       "category" : "",
       "tags"     : "Aldo Madariaga, Camila Vergara",
       "url"      : "//podcast/chile-w-aldo-madariaga-camila-vergara/",
-      "date"     : "2021-08-26 00:00:00 -0400"
+      "date"     : "2021-08-26 00:00:00 -0700"
     } ,
   
     {
@@ -949,7 +1229,7 @@
       "category" : "",
       "tags"     : "Kristin Kobes Du Mez",
       "url"      : "//podcast/jesus-and-john-wayne-w-kristin-kobes-du-mez/",
-      "date"     : "2021-08-12 00:00:00 -0400"
+      "date"     : "2021-08-12 00:00:00 -0700"
     } ,
   
     {
@@ -957,7 +1237,7 @@
       "category" : "",
       "tags"     : "Tim Barker",
       "url"      : "//podcast/inflation-politics-with-tim-barker/",
-      "date"     : "2021-07-28 00:00:00 -0400"
+      "date"     : "2021-07-28 00:00:00 -0700"
     } ,
   
     {
@@ -965,7 +1245,7 @@
       "category" : "",
       "tags"     : "Isabella Weber",
       "url"      : "//podcast/how-china-escaped-shock-therapy-w-isabella-weber/",
-      "date"     : "2021-07-13 00:00:00 -0400"
+      "date"     : "2021-07-13 00:00:00 -0700"
     } ,
   
     {
@@ -973,7 +1253,7 @@
       "category" : "",
       "tags"     : "Doug Henwood",
       "url"      : "//podcast/the-ruling-class-with-doug-henwood/",
-      "date"     : "2021-06-29 00:00:00 -0400"
+      "date"     : "2021-06-29 00:00:00 -0700"
     } ,
   
     {
@@ -981,7 +1261,7 @@
       "category" : "",
       "tags"     : "Greg Grandin",
       "url"      : "//podcast/empires-workshop-with-greg-grandin/",
-      "date"     : "2021-06-21 00:00:00 -0400"
+      "date"     : "2021-06-21 00:00:00 -0700"
     } ,
   
     {
@@ -989,7 +1269,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//podcast/our-history-is-the-future-with-nick-estes-2/",
-      "date"     : "2021-06-14 00:00:00 -0400"
+      "date"     : "2021-06-14 00:00:00 -0700"
     } ,
   
     {
@@ -997,7 +1277,7 @@
       "category" : "",
       "tags"     : "Kate Aronoff, Transcripts",
       "url"      : "//transcripts/climate-politics-with-kate-aronoff/",
-      "date"     : "2021-06-07 00:00:00 -0400"
+      "date"     : "2021-06-07 00:00:00 -0700"
     } ,
   
     {
@@ -1005,7 +1285,7 @@
       "category" : "",
       "tags"     : "Kate Aronoff",
       "url"      : "//podcast/climate-politics-with-kate-aronoff/",
-      "date"     : "2021-06-07 00:00:00 -0400"
+      "date"     : "2021-06-07 00:00:00 -0700"
     } ,
   
     {
@@ -1013,7 +1293,7 @@
       "category" : "",
       "tags"     : "Ashik Siddique, Gustavo Gordillo, Sydney Ghazarian, Thea Riofrancos",
       "url"      : "//podcast/organizing-dsas-pro-act-campaign/",
-      "date"     : "2021-05-31 00:00:00 -0400"
+      "date"     : "2021-05-31 00:00:00 -0700"
     } ,
   
     {
@@ -1021,7 +1301,7 @@
       "category" : "",
       "tags"     : "Noura Erakat, Tareq Baconi",
       "url"      : "//podcast/from-the-river-to-the-sea-w-noura-erakat-and-tareq-baconi/",
-      "date"     : "2021-05-22 00:00:00 -0400"
+      "date"     : "2021-05-22 00:00:00 -0700"
     } ,
   
     {
@@ -1029,7 +1309,7 @@
       "category" : "",
       "tags"     : "Aya Alghazzawi, Issam Adwan",
       "url"      : "//podcast/gaza-with-aya-alghazzawi-issam-adwan/",
-      "date"     : "2021-05-18 00:00:00 -0400"
+      "date"     : "2021-05-18 00:00:00 -0700"
     } ,
   
     {
@@ -1037,7 +1317,7 @@
       "category" : "",
       "tags"     : "Robin D.G. Kelley",
       "url"      : "//podcast/hammer-and-hoe-with-robin-d-g-kelley/",
-      "date"     : "2021-05-15 00:00:00 -0400"
+      "date"     : "2021-05-15 00:00:00 -0700"
     } ,
   
     {
@@ -1045,7 +1325,7 @@
       "category" : "",
       "tags"     : "Moira Weigel, Nikhil Pal Singh, Patrick Blanchfield",
       "url"      : "//podcast/cancel-culture-w-moira-weigel-nikhil-pal-singh-patrick-blanchfield/",
-      "date"     : "2021-05-09 00:00:00 -0400"
+      "date"     : "2021-05-09 00:00:00 -0700"
     } ,
   
     {
@@ -1053,7 +1333,7 @@
       "category" : "",
       "tags"     : "Laleh Khalili",
       "url"      : "//podcast/big-ship-capitalism-with-laleh-khalili/",
-      "date"     : "2021-04-30 00:00:00 -0400"
+      "date"     : "2021-04-30 00:00:00 -0700"
     } ,
   
     {
@@ -1061,7 +1341,7 @@
       "category" : "",
       "tags"     : "Rick Baldoz",
       "url"      : "//podcast/empire-in-the-philippines-with-rick-baldoz/",
-      "date"     : "2021-04-24 00:00:00 -0400"
+      "date"     : "2021-04-24 00:00:00 -0700"
     } ,
   
     {
@@ -1069,7 +1349,7 @@
       "category" : "",
       "tags"     : "Mindy Isser, Olufemi Taiwo, Zachary Hershman",
       "url"      : "//podcast/combat-liberalism-w-olufemi-taiwo-mindy-isser-zachary-hershman/",
-      "date"     : "2021-04-16 00:00:00 -0400"
+      "date"     : "2021-04-16 00:00:00 -0700"
     } ,
   
     {
@@ -1077,7 +1357,7 @@
       "category" : "",
       "tags"     : "Charisse Burden-Stelly",
       "url"      : "//podcast/black-left-with-charisse-burden-stelly/",
-      "date"     : "2021-04-11 00:00:00 -0400"
+      "date"     : "2021-04-11 00:00:00 -0700"
     } ,
   
     {
@@ -1085,7 +1365,7 @@
       "category" : "",
       "tags"     : "Andy Liu, Jay Caspian Kang, Tammy Kim",
       "url"      : "//podcast/asian-america-w-andy-liu-jay-caspian-kang-tammy-kim/",
-      "date"     : "2021-04-01 00:00:00 -0400"
+      "date"     : "2021-04-01 00:00:00 -0700"
     } ,
   
     {
@@ -1093,7 +1373,7 @@
       "category" : "",
       "tags"     : "Fred Turner",
       "url"      : "//podcast/counterculture-to-cyberculture-with-fred-turner/",
-      "date"     : "2021-03-26 00:00:00 -0400"
+      "date"     : "2021-03-26 00:00:00 -0700"
     } ,
   
     {
@@ -1101,7 +1381,7 @@
       "category" : "",
       "tags"     : "Achal Prabhala",
       "url"      : "//podcast/global-vaccine-apartheid-with-achal-prabhala/",
-      "date"     : "2021-03-20 00:00:00 -0400"
+      "date"     : "2021-03-20 00:00:00 -0700"
     } ,
   
     {
@@ -1109,7 +1389,7 @@
       "category" : "",
       "tags"     : "Jimmy Williams",
       "url"      : "//podcast/we-need-the-pro-act-with-jimmy-williams/",
-      "date"     : "2021-03-13 00:00:00 -0500"
+      "date"     : "2021-03-13 00:00:00 -0800"
     } ,
   
     {
@@ -1117,7 +1397,7 @@
       "category" : "",
       "tags"     : "Alex Press, Jonah Furman",
       "url"      : "//podcast/state-of-the-unions-with-alex-press-jonah-furman/",
-      "date"     : "2021-03-13 00:00:00 -0500"
+      "date"     : "2021-03-13 00:00:00 -0800"
     } ,
   
     {
@@ -1125,7 +1405,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//podcast/revisiting-racecraft-with-barbara-and-karen-fields-2/",
-      "date"     : "2021-03-05 00:00:00 -0500"
+      "date"     : "2021-03-05 00:00:00 -0800"
     } ,
   
     {
@@ -1133,7 +1413,7 @@
       "category" : "",
       "tags"     : "Sarah Jaffe",
       "url"      : "//podcast/work-wont-love-you-back-with-sarah-jaffe/",
-      "date"     : "2021-02-25 00:00:00 -0500"
+      "date"     : "2021-02-25 00:00:00 -0800"
     } ,
   
     {
@@ -1141,7 +1421,7 @@
       "category" : "",
       "tags"     : "Matt Sitman, Sam Adler-Bell",
       "url"      : "//podcast/conservative-intelligentsia-with-sam-adler-bell-matt-sitman/",
-      "date"     : "2021-02-18 00:00:00 -0500"
+      "date"     : "2021-02-18 00:00:00 -0800"
     } ,
   
     {
@@ -1149,7 +1429,7 @@
       "category" : "",
       "tags"     : "Jeanne Morefield",
       "url"      : "//podcast/empires-without-imperialism-with-jeanne-morefield/",
-      "date"     : "2021-02-10 00:00:00 -0500"
+      "date"     : "2021-02-10 00:00:00 -0800"
     } ,
   
     {
@@ -1157,7 +1437,7 @@
       "category" : "",
       "tags"     : "Paolo Gerbaudo",
       "url"      : "//podcast/digital-party-with-paolo-gerbaudo/",
-      "date"     : "2021-02-03 00:00:00 -0500"
+      "date"     : "2021-02-03 00:00:00 -0800"
     } ,
   
     {
@@ -1165,7 +1445,7 @@
       "category" : "",
       "tags"     : "Thea Riofrancos, Transcripts",
       "url"      : "//transcripts/transcript-resource-radicals-with-thea-riofrancos/",
-      "date"     : "2021-01-30 00:00:00 -0500"
+      "date"     : "2021-01-30 00:00:00 -0800"
     } ,
   
     {
@@ -1173,7 +1453,7 @@
       "category" : "",
       "tags"     : "Fatima Bhutto",
       "url"      : "//podcast/pakistan-hyperreality-with-fatima-bhutto/",
-      "date"     : "2021-01-27 00:00:00 -0500"
+      "date"     : "2021-01-27 00:00:00 -0800"
     } ,
   
     {
@@ -1181,7 +1461,7 @@
       "category" : "",
       "tags"     : "Thea Riofrancos",
       "url"      : "//podcast/resource-radicals-with-thea-riofrancos/",
-      "date"     : "2021-01-19 00:00:00 -0500"
+      "date"     : "2021-01-19 00:00:00 -0800"
     } ,
   
     {
@@ -1189,7 +1469,7 @@
       "category" : "",
       "tags"     : "Joe Lowndes, Nikhil Pal Singh",
       "url"      : "//podcast/right-riot-with-nikhil-pal-singh-and-joe-lowndes/",
-      "date"     : "2021-01-11 00:00:00 -0500"
+      "date"     : "2021-01-11 00:00:00 -0800"
     } ,
   
     {
@@ -1197,7 +1477,7 @@
       "category" : "",
       "tags"     : "Gabriel Winant",
       "url"      : "//podcast/the-social-question-with-gabriel-winant/",
-      "date"     : "2021-01-03 00:00:00 -0500"
+      "date"     : "2021-01-03 00:00:00 -0800"
     } ,
   
     {
@@ -1205,7 +1485,7 @@
       "category" : "",
       "tags"     : "Melinda Cooper",
       "url"      : "//podcast/family-values-with-melinda-cooper-2/",
-      "date"     : "2020-12-27 00:00:00 -0500"
+      "date"     : "2020-12-27 00:00:00 -0800"
     } ,
   
     {
@@ -1213,7 +1493,7 @@
       "category" : "",
       "tags"     : "Jake Werner, Tobita Chow",
       "url"      : "//podcast/china-and-the-us-with-tobita-chow-and-jake-werner/",
-      "date"     : "2020-12-19 00:00:00 -0500"
+      "date"     : "2020-12-19 00:00:00 -0800"
     } ,
   
     {
@@ -1221,7 +1501,7 @@
       "category" : "",
       "tags"     : "Stephanie Mudge",
       "url"      : "//podcast/how-left-parties-neoliberalized-with-stephanie-mudge/",
-      "date"     : "2020-12-11 00:00:00 -0500"
+      "date"     : "2020-12-11 00:00:00 -0800"
     } ,
   
     {
@@ -1229,7 +1509,7 @@
       "category" : "",
       "tags"     : "Olufemi Taiwo",
       "url"      : "//podcast/identity-power-and-speech-with-olufemi-taiwo/",
-      "date"     : "2020-12-05 00:00:00 -0500"
+      "date"     : "2020-12-05 00:00:00 -0800"
     } ,
   
     {
@@ -1237,7 +1517,7 @@
       "category" : "",
       "tags"     : "Thomas Frank",
       "url"      : "//podcast/anti-populism-with-thomas-frank/",
-      "date"     : "2020-11-29 00:00:00 -0500"
+      "date"     : "2020-11-29 00:00:00 -0800"
     } ,
   
     {
@@ -1245,7 +1525,7 @@
       "category" : "",
       "tags"     : "Megan Ming Francis",
       "url"      : "//podcast/the-naacps-anti-lynching-struggle-with-megan-ming-francis/",
-      "date"     : "2020-11-22 00:00:00 -0500"
+      "date"     : "2020-11-22 00:00:00 -0800"
     } ,
   
     {
@@ -1253,7 +1533,7 @@
       "category" : "",
       "tags"     : "Mike Davis",
       "url"      : "//podcast/mike-davis-on-this-moment/",
-      "date"     : "2020-11-13 00:00:00 -0500"
+      "date"     : "2020-11-13 00:00:00 -0800"
     } ,
   
     {
@@ -1261,7 +1541,7 @@
       "category" : "",
       "tags"     : "Cornel West",
       "url"      : "//podcast/what-now-with-cornel-west/",
-      "date"     : "2020-11-06 00:00:00 -0500"
+      "date"     : "2020-11-06 00:00:00 -0800"
     } ,
   
     {
@@ -1269,7 +1549,7 @@
       "category" : "",
       "tags"     : "Cornel West",
       "url"      : "//podcast/transcript-what-now-with-cornel-west/",
-      "date"     : "2020-11-06 00:00:00 -0500"
+      "date"     : "2020-11-06 00:00:00 -0800"
     } ,
   
     {
@@ -1277,7 +1557,7 @@
       "category" : "",
       "tags"     : "Naomi Klein, Nikhil Pal Singh",
       "url"      : "//podcast/2020-with-naomi-klein-and-nikhil-pal-singh/",
-      "date"     : "2020-10-30 00:00:00 -0400"
+      "date"     : "2020-10-30 00:00:00 -0700"
     } ,
   
     {
@@ -1285,7 +1565,7 @@
       "category" : "",
       "tags"     : "Transcripts, Wendy Brown",
       "url"      : "//transcripts/transcript-ruins-of-neoliberalism-with-wendy-brown/",
-      "date"     : "2020-10-24 00:00:00 -0400"
+      "date"     : "2020-10-24 00:00:00 -0700"
     } ,
   
     {
@@ -1293,7 +1573,7 @@
       "category" : "",
       "tags"     : "Wendy Brown",
       "url"      : "//podcast/ruins-of-neoliberalism-with-wendy-brown/",
-      "date"     : "2020-10-24 00:00:00 -0400"
+      "date"     : "2020-10-24 00:00:00 -0700"
     } ,
   
     {
@@ -1301,7 +1581,7 @@
       "category" : "",
       "tags"     : "Roberto Lovato",
       "url"      : "//podcast/unforgetting-with-roberto-lovato/",
-      "date"     : "2020-10-16 00:00:00 -0400"
+      "date"     : "2020-10-16 00:00:00 -0700"
     } ,
   
     {
@@ -1309,7 +1589,7 @@
       "category" : "",
       "tags"     : "Roberto Lovato, Transcripts",
       "url"      : "//transcripts/transcript-unforgetting-with-roberto-lovato/",
-      "date"     : "2020-10-16 00:00:00 -0400"
+      "date"     : "2020-10-16 00:00:00 -0700"
     } ,
   
     {
@@ -1317,7 +1597,7 @@
       "category" : "",
       "tags"     : "Amna Akbar, Aziz Rana, Marbre Stahly-Butts",
       "url"      : "//podcast/scotus-politics-and-the-law/",
-      "date"     : "2020-10-09 00:00:00 -0400"
+      "date"     : "2020-10-09 00:00:00 -0700"
     } ,
   
     {
@@ -1325,7 +1605,7 @@
       "category" : "",
       "tags"     : "Bathsheba Demuth",
       "url"      : "//podcast/arctic-energy-frontiers-with-bathsheba-demuth/",
-      "date"     : "2020-10-02 00:00:00 -0400"
+      "date"     : "2020-10-02 00:00:00 -0700"
     } ,
   
     {
@@ -1333,7 +1613,7 @@
       "category" : "",
       "tags"     : "Astra Taylor, Mass Incarceration, Meredith Whittaker",
       "url"      : "//podcast/demystifying-big-tech-with-meredith-whittaker/",
-      "date"     : "2020-09-25 00:00:00 -0400"
+      "date"     : "2020-09-25 00:00:00 -0700"
     } ,
   
     {
@@ -1341,7 +1621,7 @@
       "category" : "",
       "tags"     : "Paul Renfro",
       "url"      : "//podcast/child-safety-sex-panics-with-paul-renfro/",
-      "date"     : "2020-09-19 00:00:00 -0400"
+      "date"     : "2020-09-19 00:00:00 -0700"
     } ,
   
     {
@@ -1349,7 +1629,7 @@
       "category" : "",
       "tags"     : "Daniel Bessner, Simon Torracinta, Tithi Bhattacharya",
       "url"      : "//podcast/higher-ed-in-crisis/",
-      "date"     : "2020-09-12 00:00:00 -0400"
+      "date"     : "2020-09-12 00:00:00 -0700"
     } ,
   
     {
@@ -1357,7 +1637,7 @@
       "category" : "",
       "tags"     : "Matthew Countryman",
       "url"      : "//podcast/philly-black-power-with-matthew-countryman/",
-      "date"     : "2020-09-03 00:00:00 -0400"
+      "date"     : "2020-09-03 00:00:00 -0700"
     } ,
   
     {
@@ -1365,7 +1645,7 @@
       "category" : "",
       "tags"     : "Yanis Varoufakis",
       "url"      : "//podcast/yanis-varoufakis-on-the-economic-situation/",
-      "date"     : "2020-08-23 00:00:00 -0400"
+      "date"     : "2020-08-23 00:00:00 -0700"
     } ,
   
     {
@@ -1373,7 +1653,7 @@
       "category" : "",
       "tags"     : "Andres Celin, Rapheal Randall",
       "url"      : "//podcast/organize-to-win-with-andres-celin-and-rapheal-randall/",
-      "date"     : "2020-08-14 00:00:00 -0400"
+      "date"     : "2020-08-14 00:00:00 -0700"
     } ,
   
     {
@@ -1381,7 +1661,7 @@
       "category" : "",
       "tags"     : "Kelly Lytle Hernández",
       "url"      : "//podcast/border-patrol-with-kelly-lytle-hernandez/",
-      "date"     : "2020-08-08 00:00:00 -0400"
+      "date"     : "2020-08-08 00:00:00 -0700"
     } ,
   
     {
@@ -1389,7 +1669,7 @@
       "category" : "",
       "tags"     : "Matthew Frye Jacobson",
       "url"      : "//podcast/goodbye-columbus-with-matthew-frye-jacobson/",
-      "date"     : "2020-07-31 00:00:00 -0400"
+      "date"     : "2020-07-31 00:00:00 -0700"
     } ,
   
     {
@@ -1397,7 +1677,7 @@
       "category" : "",
       "tags"     : "Stuart Schrader",
       "url"      : "//podcast/cops-and-counterinsurgency-with-stuart-schrader/",
-      "date"     : "2020-07-24 00:00:00 -0400"
+      "date"     : "2020-07-24 00:00:00 -0700"
     } ,
   
     {
@@ -1405,7 +1685,7 @@
       "category" : "",
       "tags"     : "Johanna Fernández",
       "url"      : "//podcast/young-lords-with-johanna-fernandez/",
-      "date"     : "2020-07-16 00:00:00 -0400"
+      "date"     : "2020-07-16 00:00:00 -0700"
     } ,
   
     {
@@ -1413,7 +1693,7 @@
       "category" : "",
       "tags"     : "Jared Loggins, Wendi Muse",
       "url"      : "//podcast/read-this-not-white-fragility-with-jared-loggins-and-wendi-muse/",
-      "date"     : "2020-07-10 00:00:00 -0400"
+      "date"     : "2020-07-10 00:00:00 -0700"
     } ,
   
     {
@@ -1421,7 +1701,7 @@
       "category" : "",
       "tags"     : "Aziz Rana",
       "url"      : "//podcast/nativist-carceral-state-aziz-rana-interviews-dan-denvir/",
-      "date"     : "2020-07-04 00:00:00 -0400"
+      "date"     : "2020-07-04 00:00:00 -0700"
     } ,
   
     {
@@ -1429,7 +1709,7 @@
       "category" : "",
       "tags"     : "Mike Davis",
       "url"      : "//podcast/mike-davis-on-prisoners-of-the-american-dream/",
-      "date"     : "2020-06-25 00:00:00 -0400"
+      "date"     : "2020-06-25 00:00:00 -0700"
     } ,
   
     {
@@ -1437,7 +1717,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//podcast/defund-police-organizers-forum/",
-      "date"     : "2020-06-20 00:00:00 -0400"
+      "date"     : "2020-06-20 00:00:00 -0700"
     } ,
   
     {
@@ -1445,7 +1725,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//podcast/antibody-ep-3-combat/",
-      "date"     : "2020-06-16 00:00:00 -0400"
+      "date"     : "2020-06-16 00:00:00 -0700"
     } ,
   
     {
@@ -1453,7 +1733,7 @@
       "category" : "",
       "tags"     : "Aslı Bâli, Aziz Rana",
       "url"      : "//podcast/empire-unhinged-with-asli-bali-aziz-rana/",
-      "date"     : "2020-06-11 00:00:00 -0400"
+      "date"     : "2020-06-11 00:00:00 -0700"
     } ,
   
     {
@@ -1461,7 +1741,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//podcast/antibody-ep-2-making-contact/",
-      "date"     : "2020-06-08 00:00:00 -0400"
+      "date"     : "2020-06-08 00:00:00 -0700"
     } ,
   
     {
@@ -1469,7 +1749,7 @@
       "category" : "",
       "tags"     : "Cathy Cohen, Jasson Perez, Malaika Jabali",
       "url"      : "//podcast/uprising-with-cathy-cohen-jasson-perez-malaika-jabali/",
-      "date"     : "2020-06-04 00:00:00 -0400"
+      "date"     : "2020-06-04 00:00:00 -0700"
     } ,
   
     {
@@ -1477,7 +1757,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//podcast/antibody-ep-1-existing-conditions/",
-      "date"     : "2020-05-31 00:00:00 -0400"
+      "date"     : "2020-05-31 00:00:00 -0700"
     } ,
   
     {
@@ -1485,7 +1765,7 @@
       "category" : "",
       "tags"     : "Adia Benton",
       "url"      : "//podcast/ebola-in-west-africa-with-adia-benton/",
-      "date"     : "2020-05-23 00:00:00 -0400"
+      "date"     : "2020-05-23 00:00:00 -0700"
     } ,
   
     {
@@ -1493,7 +1773,7 @@
       "category" : "",
       "tags"     : "Frank Rosenthal, Nafis Hasan",
       "url"      : "//podcast/science-for-the-people-with-nafis-hasan-and-frank-rosenthal/",
-      "date"     : "2020-05-16 00:00:00 -0400"
+      "date"     : "2020-05-16 00:00:00 -0700"
     } ,
   
     {
@@ -1501,7 +1781,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//podcast/from-the-archives-beyond-economism-with-nancy-fraser/",
-      "date"     : "2020-05-09 00:00:00 -0400"
+      "date"     : "2020-05-09 00:00:00 -0700"
     } ,
   
     {
@@ -1509,7 +1789,7 @@
       "category" : "",
       "tags"     : "Aaron Benanav",
       "url"      : "//podcast/dont-blame-robots-with-aaron-benanav/",
-      "date"     : "2020-05-01 00:00:00 -0400"
+      "date"     : "2020-05-01 00:00:00 -0700"
     } ,
   
     {
@@ -1517,7 +1797,7 @@
       "category" : "",
       "tags"     : "Meagan Day, Micah Uetricht",
       "url"      : "//podcast/bigger-than-bernie-with-meagan-day-micah-uetricht/",
-      "date"     : "2020-04-23 00:00:00 -0400"
+      "date"     : "2020-04-23 00:00:00 -0700"
     } ,
   
     {
@@ -1525,7 +1805,7 @@
       "category" : "",
       "tags"     : "Brendan James, Noah Kulwin",
       "url"      : "//podcast/blowback-with-brendan-james-and-noah-kulwin/",
-      "date"     : "2020-04-17 00:00:00 -0400"
+      "date"     : "2020-04-17 00:00:00 -0700"
     } ,
   
     {
@@ -1533,7 +1813,7 @@
       "category" : "",
       "tags"     : "Kim Phillips-Fein",
       "url"      : "//podcast/fear-city-with-kim-phillips-fein/",
-      "date"     : "2020-04-13 00:00:00 -0400"
+      "date"     : "2020-04-13 00:00:00 -0700"
     } ,
   
     {
@@ -1541,7 +1821,7 @@
       "category" : "",
       "tags"     : "Jasson Perez, Sarah Jaffe",
       "url"      : "//podcast/organizing-now-with-sarah-jaffe-jasson-perez/",
-      "date"     : "2020-04-08 00:00:00 -0400"
+      "date"     : "2020-04-08 00:00:00 -0700"
     } ,
   
     {
@@ -1549,7 +1829,7 @@
       "category" : "",
       "tags"     : "Amy Kapczynski, Gregg Gonsalves",
       "url"      : "//podcast/surviving-this-plague-with-amy-kapczynski-and-gregg-gonsalves/",
-      "date"     : "2020-04-03 00:00:00 -0400"
+      "date"     : "2020-04-03 00:00:00 -0700"
     } ,
   
     {
@@ -1557,7 +1837,7 @@
       "category" : "",
       "tags"     : "Eric Levitz",
       "url"      : "//podcast/who-got-bailed-out-with-eric-levitz/",
-      "date"     : "2020-03-30 00:00:00 -0400"
+      "date"     : "2020-03-30 00:00:00 -0700"
     } ,
   
     {
@@ -1565,7 +1845,7 @@
       "category" : "",
       "tags"     : "Grace Blakeley",
       "url"      : "//podcast/coronavirus-economics-with-grace-blakeley/",
-      "date"     : "2020-03-27 00:00:00 -0400"
+      "date"     : "2020-03-27 00:00:00 -0700"
     } ,
   
     {
@@ -1573,7 +1853,7 @@
       "category" : "",
       "tags"     : "Mike Davis",
       "url"      : "//podcast/mike-davis-on-coronavirus-politics/",
-      "date"     : "2020-03-20 00:00:00 -0400"
+      "date"     : "2020-03-20 00:00:00 -0700"
     } ,
   
     {
@@ -1581,7 +1861,7 @@
       "category" : "",
       "tags"     : "Jabari Brisport, Marcela Mitaynes, Phara Souffrant Forrest, Samelys López",
       "url"      : "//podcast/nyc-dsa-on-the-ballot/",
-      "date"     : "2020-03-18 00:00:00 -0400"
+      "date"     : "2020-03-18 00:00:00 -0700"
     } ,
   
     {
@@ -1589,7 +1869,7 @@
       "category" : "",
       "tags"     : "Ryan Grim",
       "url"      : "//podcast/weve-got-people-with-ryan-grim/",
-      "date"     : "2020-03-14 00:00:00 -0400"
+      "date"     : "2020-03-14 00:00:00 -0700"
     } ,
   
     {
@@ -1597,7 +1877,7 @@
       "category" : "",
       "tags"     : "Ilhan Omar, Transcripts",
       "url"      : "//transcripts/organize-and-fight-with-ilhan-omar/",
-      "date"     : "2020-03-12 00:00:00 -0400"
+      "date"     : "2020-03-12 00:00:00 -0700"
     } ,
   
     {
@@ -1605,7 +1885,7 @@
       "category" : "",
       "tags"     : "Ilhan Omar",
       "url"      : "//podcast/organize-and-fight-with-ilhan-omar/",
-      "date"     : "2020-03-12 00:00:00 -0400"
+      "date"     : "2020-03-12 00:00:00 -0700"
     } ,
   
     {
@@ -1613,7 +1893,7 @@
       "category" : "",
       "tags"     : "Michael Brooks, Natalie Shure",
       "url"      : "//podcast/bernie-2020-with-michael-brooks-and-natalie-shure/",
-      "date"     : "2020-03-02 00:00:00 -0500"
+      "date"     : "2020-03-02 00:00:00 -0800"
     } ,
   
     {
@@ -1621,7 +1901,7 @@
       "category" : "",
       "tags"     : "Keeanga-Yamahtta Taylor",
       "url"      : "//podcast/race-for-profit-with-keeanga-yamahtta-taylor/",
-      "date"     : "2020-02-28 00:00:00 -0500"
+      "date"     : "2020-02-28 00:00:00 -0800"
     } ,
   
     {
@@ -1629,7 +1909,7 @@
       "category" : "",
       "tags"     : "Alex Press, Bhaskar Sunkara",
       "url"      : "//podcast/bernie-2020-with-alex-press-and-bhaskar-sunkara/",
-      "date"     : "2020-02-26 00:00:00 -0500"
+      "date"     : "2020-02-26 00:00:00 -0800"
     } ,
   
     {
@@ -1637,7 +1917,7 @@
       "category" : "",
       "tags"     : "Giuliana Chamedes",
       "url"      : "//podcast/catholic-anticommunism-with-giuliana-chamedes/",
-      "date"     : "2020-02-21 00:00:00 -0500"
+      "date"     : "2020-02-21 00:00:00 -0800"
     } ,
   
     {
@@ -1645,7 +1925,7 @@
       "category" : "",
       "tags"     : "Daniel Martinez HoSang, Joe Lowndes",
       "url"      : "//podcast/right-wing-racism-with-daniel-martinez-hosang-joe-lowndes/",
-      "date"     : "2020-02-14 00:00:00 -0500"
+      "date"     : "2020-02-14 00:00:00 -0800"
     } ,
   
     {
@@ -1653,7 +1933,7 @@
       "category" : "",
       "tags"     : "Au Loong Yu",
       "url"      : "//podcast/hong-kong-with-au-loong-yu/",
-      "date"     : "2020-02-07 00:00:00 -0500"
+      "date"     : "2020-02-07 00:00:00 -0800"
     } ,
   
     {
@@ -1661,7 +1941,7 @@
       "category" : "",
       "tags"     : "Martin Hägglund",
       "url"      : "//podcast/this-life-with-martin-hagglund/",
-      "date"     : "2020-01-31 00:00:00 -0500"
+      "date"     : "2020-01-31 00:00:00 -0800"
     } ,
   
     {
@@ -1669,7 +1949,7 @@
       "category" : "",
       "tags"     : "Astra Taylor, Daniel Denvir",
       "url"      : "//podcast/daniel-denvir-interviewed-by-astra-taylor/",
-      "date"     : "2020-01-23 00:00:00 -0500"
+      "date"     : "2020-01-23 00:00:00 -0800"
     } ,
   
     {
@@ -1677,7 +1957,7 @@
       "category" : "",
       "tags"     : "Nikhil Pal Singh",
       "url"      : "//podcast/americas-long-war-with-nikhil-pal-singh/",
-      "date"     : "2020-01-17 00:00:00 -0500"
+      "date"     : "2020-01-17 00:00:00 -0800"
     } ,
   
     {
@@ -1685,7 +1965,7 @@
       "category" : "",
       "tags"     : "Daniel Aldana Cohen, Thea Riofrancos",
       "url"      : "//podcast/planet-to-win-with-thea-riofrancos-and-daniel-aldana-cohen/",
-      "date"     : "2020-01-09 00:00:00 -0500"
+      "date"     : "2020-01-09 00:00:00 -0800"
     } ,
   
     {
@@ -1693,7 +1973,7 @@
       "category" : "",
       "tags"     : "Heidi Sloan, Jessica Cisneros, Stephen Smith",
       "url"      : "//podcast/down-ballot-fights-with-jessica-cisneros-stephen-smith-and-heidi-sloan/",
-      "date"     : "2019-12-28 00:00:00 -0500"
+      "date"     : "2019-12-28 00:00:00 -0800"
     } ,
   
     {
@@ -1701,7 +1981,7 @@
       "category" : "",
       "tags"     : "Tim Faust",
       "url"      : "//podcast/single-payer-now-with-tim-faust/",
-      "date"     : "2019-12-20 00:00:00 -0500"
+      "date"     : "2019-12-20 00:00:00 -0800"
     } ,
   
     {
@@ -1709,7 +1989,7 @@
       "category" : "",
       "tags"     : "Michael Hardt",
       "url"      : "//podcast/capitalism-with-michael-hardt/",
-      "date"     : "2019-12-13 00:00:00 -0500"
+      "date"     : "2019-12-13 00:00:00 -0800"
     } ,
   
     {
@@ -1717,7 +1997,7 @@
       "category" : "",
       "tags"     : "Paul Frymer",
       "url"      : "//podcast/from-the-archives-paul-frymer-on-westward-expansion/",
-      "date"     : "2019-12-06 00:00:00 -0500"
+      "date"     : "2019-12-06 00:00:00 -0800"
     } ,
   
     {
@@ -1725,7 +2005,7 @@
       "category" : "",
       "tags"     : "Jeff Webber",
       "url"      : "//podcast/coup-in-bolivia-with-jeff-webber/",
-      "date"     : "2019-11-28 00:00:00 -0500"
+      "date"     : "2019-11-28 00:00:00 -0800"
     } ,
   
     {
@@ -1733,7 +2013,7 @@
       "category" : "",
       "tags"     : "Naomi Klein",
       "url"      : "//podcast/world-on-fire-with-naomi-klein/",
-      "date"     : "2019-11-22 00:00:00 -0500"
+      "date"     : "2019-11-22 00:00:00 -0800"
     } ,
   
     {
@@ -1741,7 +2021,7 @@
       "category" : "",
       "tags"     : "Yarimar Bonilla",
       "url"      : "//podcast/colonialism-in-puerto-rico-with-yarimar-bonilla/",
-      "date"     : "2019-11-15 00:00:00 -0500"
+      "date"     : "2019-11-15 00:00:00 -0800"
     } ,
   
     {
@@ -1749,7 +2029,7 @@
       "category" : "",
       "tags"     : "Mathew Lawrence",
       "url"      : "//podcast/socializing-ownership-with-mathew-lawrence/",
-      "date"     : "2019-11-08 00:00:00 -0500"
+      "date"     : "2019-11-08 00:00:00 -0800"
     } ,
   
     {
@@ -1757,7 +2037,7 @@
       "category" : "",
       "tags"     : "Joshua Simon",
       "url"      : "//podcast/settler-colonial-revolutionaries-with-joshua-simon/",
-      "date"     : "2019-11-01 00:00:00 -0400"
+      "date"     : "2019-11-01 00:00:00 -0700"
     } ,
   
     {
@@ -1765,7 +2045,7 @@
       "category" : "",
       "tags"     : "Adom Getachew",
       "url"      : "//podcast/worldmaking-after-empire-with-adom-getachew/",
-      "date"     : "2019-10-27 00:00:00 -0400"
+      "date"     : "2019-10-27 00:00:00 -0700"
     } ,
   
     {
@@ -1773,7 +2053,7 @@
       "category" : "",
       "tags"     : "Achin Vanaik",
       "url"      : "//podcast/hindu-nationalism-with-achin-vanaik/",
-      "date"     : "2019-10-18 00:00:00 -0400"
+      "date"     : "2019-10-18 00:00:00 -0700"
     } ,
   
     {
@@ -1781,7 +2061,7 @@
       "category" : "",
       "tags"     : "Alex Gourevitch",
       "url"      : "//podcast/worker-freedom-with-alex-gourevitch/",
-      "date"     : "2019-10-11 00:00:00 -0400"
+      "date"     : "2019-10-11 00:00:00 -0700"
     } ,
   
     {
@@ -1789,7 +2069,7 @@
       "category" : "",
       "tags"     : "Noura Erakat",
       "url"      : "//podcast/palestine-and-the-law-with-noura-erakat/",
-      "date"     : "2019-10-04 00:00:00 -0400"
+      "date"     : "2019-10-04 00:00:00 -0700"
     } ,
   
     {
@@ -1797,7 +2077,7 @@
       "category" : "",
       "tags"     : "Lisa Duggan",
       "url"      : "//podcast/ayn-rands-optimistic-cruelty-with-lisa-duggan/",
-      "date"     : "2019-09-26 00:00:00 -0400"
+      "date"     : "2019-09-26 00:00:00 -0700"
     } ,
   
     {
@@ -1805,7 +2085,7 @@
       "category" : "",
       "tags"     : "Matt Lassiter",
       "url"      : "//podcast/the-class-politics-of-suburban-racism-with-matt-lassiter/",
-      "date"     : "2019-09-20 00:00:00 -0400"
+      "date"     : "2019-09-20 00:00:00 -0700"
     } ,
   
     {
@@ -1813,7 +2093,7 @@
       "category" : "",
       "tags"     : "Silvia Federici",
       "url"      : "//podcast/silvia-federici-on-women-and-capitalism/",
-      "date"     : "2019-09-13 00:00:00 -0400"
+      "date"     : "2019-09-13 00:00:00 -0700"
     } ,
   
     {
@@ -1821,7 +2101,7 @@
       "category" : "",
       "tags"     : "Michael Dawson",
       "url"      : "//podcast/black-socialism-nationalism-neoliberalism-with-michael-dawson/",
-      "date"     : "2019-09-06 00:00:00 -0400"
+      "date"     : "2019-09-06 00:00:00 -0700"
     } ,
   
     {
@@ -1829,7 +2109,7 @@
       "category" : "",
       "tags"     : "Roxanne Dunbar-Ortiz",
       "url"      : "//podcast/roxanne-dunbar-ortiz-on-indigenous-history/",
-      "date"     : "2019-08-28 00:00:00 -0400"
+      "date"     : "2019-08-28 00:00:00 -0700"
     } ,
   
     {
@@ -1837,7 +2117,7 @@
       "category" : "",
       "tags"     : "John Patrick Leary",
       "url"      : "//podcast/keywords-of-capitalism-with-john-patrick-leary/",
-      "date"     : "2019-08-22 00:00:00 -0400"
+      "date"     : "2019-08-22 00:00:00 -0700"
     } ,
   
     {
@@ -1845,7 +2125,7 @@
       "category" : "",
       "tags"     : "Bhaskar Sunkara",
       "url"      : "//podcast/socialist-manifesto-with-bhaskar-sunkara/",
-      "date"     : "2019-08-16 00:00:00 -0400"
+      "date"     : "2019-08-16 00:00:00 -0700"
     } ,
   
     {
@@ -1853,7 +2133,7 @@
       "category" : "",
       "tags"     : "Emily Guendelsberger",
       "url"      : "//podcast/on-the-clock-with-emily-guendelsberger/",
-      "date"     : "2019-08-10 00:00:00 -0400"
+      "date"     : "2019-08-10 00:00:00 -0700"
     } ,
   
     {
@@ -1861,7 +2141,7 @@
       "category" : "",
       "tags"     : "Lily Geismer",
       "url"      : "//podcast/race-and-class-in-the-liberal-suburbs-with-lily-geismer/",
-      "date"     : "2019-08-02 00:00:00 -0400"
+      "date"     : "2019-08-02 00:00:00 -0700"
     } ,
   
     {
@@ -1869,7 +2149,7 @@
       "category" : "",
       "tags"     : "Aziz Rana",
       "url"      : "//podcast/from-the-archives-aziz-rana-on-two-faces-of-american-freedom/",
-      "date"     : "2019-07-26 00:00:00 -0400"
+      "date"     : "2019-07-26 00:00:00 -0700"
     } ,
   
     {
@@ -1877,7 +2157,7 @@
       "category" : "",
       "tags"     : "Alondra Carrillo, Pablo Abufom",
       "url"      : "//podcast/the-struggle-in-chile-with-pablo-abufom-alondra-carrillo/",
-      "date"     : "2019-07-19 00:00:00 -0400"
+      "date"     : "2019-07-19 00:00:00 -0700"
     } ,
   
     {
@@ -1885,7 +2165,7 @@
       "category" : "",
       "tags"     : "Sophie Lewis, Transcripts",
       "url"      : "//transcripts/transcript-abolish-the-family-with-sophie-lewis/",
-      "date"     : "2019-07-11 00:00:00 -0400"
+      "date"     : "2019-07-11 00:00:00 -0700"
     } ,
   
     {
@@ -1893,7 +2173,7 @@
       "category" : "",
       "tags"     : "Sophie Lewis",
       "url"      : "//podcast/abolish-the-family-with-sophie-lewis/",
-      "date"     : "2019-07-11 00:00:00 -0400"
+      "date"     : "2019-07-11 00:00:00 -0700"
     } ,
   
     {
@@ -1901,7 +2181,7 @@
       "category" : "",
       "tags"     : "Astra Taylor",
       "url"      : "//podcast/astra-taylor-on-socialism-democracy-liberalism/",
-      "date"     : "2019-07-05 00:00:00 -0400"
+      "date"     : "2019-07-05 00:00:00 -0700"
     } ,
   
     {
@@ -1909,7 +2189,7 @@
       "category" : "",
       "tags"     : "Nick Estes, Transcripts",
       "url"      : "//transcripts/transcript-our-history-is-the-future-with-nick-estes/",
-      "date"     : "2019-06-29 00:00:00 -0400"
+      "date"     : "2019-06-29 00:00:00 -0700"
     } ,
   
     {
@@ -1917,7 +2197,7 @@
       "category" : "",
       "tags"     : "Nick Estes",
       "url"      : "//podcast/our-history-is-the-future-with-nick-estes/",
-      "date"     : "2019-06-29 00:00:00 -0400"
+      "date"     : "2019-06-29 00:00:00 -0700"
     } ,
   
     {
@@ -1925,7 +2205,7 @@
       "category" : "",
       "tags"     : "Tony Wood",
       "url"      : "//podcast/russia-beyond-putin-with-tony-wood/",
-      "date"     : "2019-06-19 00:00:00 -0400"
+      "date"     : "2019-06-19 00:00:00 -0700"
     } ,
   
     {
@@ -1933,7 +2213,7 @@
       "category" : "",
       "tags"     : "David Broder, Lorenzo Zamponi, Marta Fana",
       "url"      : "//podcast/the-italian-situation-with-david-broder-lorenzo-zamponi-and-marta-fana/",
-      "date"     : "2019-06-15 00:00:00 -0400"
+      "date"     : "2019-06-15 00:00:00 -0700"
     } ,
   
     {
@@ -1941,7 +2221,7 @@
       "category" : "",
       "tags"     : "Ada Colau, Carlos Delclós, Magda Bandera",
       "url"      : "//podcast/the-spanish-situation-with-carlos-delclos-and-magda-bandera/",
-      "date"     : "2019-06-13 00:00:00 -0400"
+      "date"     : "2019-06-13 00:00:00 -0700"
     } ,
   
     {
@@ -1949,7 +2229,7 @@
       "category" : "",
       "tags"     : "Danièle Obono, Sebastian Budgen",
       "url"      : "//podcast/the-french-situation-with-sebastian-budgen-and-daniele-obono/",
-      "date"     : "2019-06-08 00:00:00 -0400"
+      "date"     : "2019-06-08 00:00:00 -0700"
     } ,
   
     {
@@ -1957,7 +2237,7 @@
       "category" : "",
       "tags"     : "Grace Blakeley, Jeremy Corbyn, Maya Goodfellow, Richard Seymour",
       "url"      : "//podcast/labours-brexit-bind-with-grace-blakeley-maya-goodfellow-and-richard-seymour/",
-      "date"     : "2019-06-07 00:00:00 -0400"
+      "date"     : "2019-06-07 00:00:00 -0700"
     } ,
   
     {
@@ -1965,7 +2245,7 @@
       "category" : "",
       "tags"     : "Chris Bickerton, Jerome Roos",
       "url"      : "//podcast/the-european-situation-with-chris-bickerton-and-jerome-roos/",
-      "date"     : "2019-06-05 00:00:00 -0400"
+      "date"     : "2019-06-05 00:00:00 -0700"
     } ,
   
     {
@@ -1973,7 +2253,7 @@
       "category" : "",
       "tags"     : "Rashida Tlaib, Transcripts",
       "url"      : "//transcripts/rashida-tlaib/",
-      "date"     : "2019-06-03 00:00:00 -0400"
+      "date"     : "2019-06-03 00:00:00 -0700"
     } ,
   
     {
@@ -1981,7 +2261,7 @@
       "category" : "",
       "tags"     : "Rashida Tlaib",
       "url"      : "//podcast/rashida-tlaib/",
-      "date"     : "2019-06-03 00:00:00 -0400"
+      "date"     : "2019-06-03 00:00:00 -0700"
     } ,
   
     {
@@ -1989,7 +2269,7 @@
       "category" : "",
       "tags"     : "Malaika Jabali, Wendi Muse",
       "url"      : "//podcast/bernie-and-black-voters-with-malaika-jabali-and-wendi-muse/",
-      "date"     : "2019-05-30 00:00:00 -0400"
+      "date"     : "2019-05-30 00:00:00 -0700"
     } ,
   
     {
@@ -1997,7 +2277,7 @@
       "category" : "",
       "tags"     : "Doug Henwood",
       "url"      : "//podcast/doug-henwood-on-dsa/",
-      "date"     : "2019-05-25 00:00:00 -0400"
+      "date"     : "2019-05-25 00:00:00 -0700"
     } ,
   
     {
@@ -2005,7 +2285,7 @@
       "category" : "",
       "tags"     : "Akeia Benard, Crystal Eddins, Elon Cook Lee, Joey La Neve DeFrancesco, Marco McWilliams, Seth Rockman, Zachary Sell",
       "url"      : "//podcast/capitalism-and-slavery-part-2/",
-      "date"     : "2019-05-22 00:00:00 -0400"
+      "date"     : "2019-05-22 00:00:00 -0700"
     } ,
   
     {
@@ -2013,7 +2293,7 @@
       "category" : "",
       "tags"     : "Christy Clark-Pujara, Emily Owens, Joanne Melish, Linford Fisher",
       "url"      : "//podcast/capitalism-and-slavery-part-1/",
-      "date"     : "2019-05-15 00:00:00 -0400"
+      "date"     : "2019-05-15 00:00:00 -0700"
     } ,
   
     {
@@ -2021,7 +2301,7 @@
       "category" : "",
       "tags"     : "Alyssa Battistoni, Donna Haraway",
       "url"      : "//podcast/cyborg-revolution-with-donna-haraway/",
-      "date"     : "2019-05-08 00:00:00 -0400"
+      "date"     : "2019-05-08 00:00:00 -0700"
     } ,
   
     {
@@ -2029,7 +2309,7 @@
       "category" : "",
       "tags"     : "Samuel Stein, Transcripts",
       "url"      : "//transcripts/transcript-real-estate-capitalism-and-gentrification-with-samuel-stein/",
-      "date"     : "2019-05-02 00:00:00 -0400"
+      "date"     : "2019-05-02 00:00:00 -0700"
     } ,
   
     {
@@ -2037,7 +2317,7 @@
       "category" : "",
       "tags"     : "Samuel Stein",
       "url"      : "//podcast/real-estate-capitalism-and-gentrification-with-samuel-stein/",
-      "date"     : "2019-05-02 00:00:00 -0400"
+      "date"     : "2019-05-02 00:00:00 -0700"
     } ,
   
     {
@@ -2045,7 +2325,7 @@
       "category" : "",
       "tags"     : "Daniel Jadue",
       "url"      : "//podcast/un-laboratorio-del-socialismo-en-chile-entrevista-con-daniel-jadue/",
-      "date"     : "2019-04-26 00:00:00 -0400"
+      "date"     : "2019-04-26 00:00:00 -0700"
     } ,
   
     {
@@ -2053,7 +2333,7 @@
       "category" : "",
       "tags"     : "Daniel Jadue, Transcripts",
       "url"      : "//transcripts/transcript-un-laboratorio-del-socialismo-en-chile-entrevista-con-daniel-jadue/",
-      "date"     : "2019-04-26 00:00:00 -0400"
+      "date"     : "2019-04-26 00:00:00 -0700"
     } ,
   
     {
@@ -2061,7 +2341,7 @@
       "category" : "",
       "tags"     : "Adam Hanieh, Afrah Nasser, Stacey Philbrick Yadav",
       "url"      : "//podcast/empire-and-the-war-in-yemen/",
-      "date"     : "2019-04-17 00:00:00 -0400"
+      "date"     : "2019-04-17 00:00:00 -0700"
     } ,
   
     {
@@ -2069,7 +2349,7 @@
       "category" : "",
       "tags"     : "Jenny Chan",
       "url"      : "//podcast/chinese-class-conflict-with-jenny-chan/",
-      "date"     : "2019-04-10 00:00:00 -0400"
+      "date"     : "2019-04-10 00:00:00 -0700"
     } ,
   
     {
@@ -2077,7 +2357,7 @@
       "category" : "",
       "tags"     : "Kafui Attoh",
       "url"      : "//podcast/against-idiocy-with-kafui-attoh/",
-      "date"     : "2019-04-05 00:00:00 -0400"
+      "date"     : "2019-04-05 00:00:00 -0700"
     } ,
   
     {
@@ -2085,7 +2365,7 @@
       "category" : "",
       "tags"     : "Jane McAlevey",
       "url"      : "//podcast/strike-with-jane-mcalevey/",
-      "date"     : "2019-03-27 00:00:00 -0400"
+      "date"     : "2019-03-27 00:00:00 -0700"
     } ,
   
     {
@@ -2093,7 +2373,7 @@
       "category" : "",
       "tags"     : "Emma Tai, Micah Uetricht, Miles Kampf-Lassin",
       "url"      : "//podcast/why-socialism-wins-in-chicago/",
-      "date"     : "2019-03-23 00:00:00 -0400"
+      "date"     : "2019-03-23 00:00:00 -0700"
     } ,
   
     {
@@ -2101,7 +2381,7 @@
       "category" : "",
       "tags"     : "Greg Grandin",
       "url"      : "//podcast/end-of-the-myth-with-greg-grandin/",
-      "date"     : "2019-03-20 00:00:00 -0400"
+      "date"     : "2019-03-20 00:00:00 -0700"
     } ,
   
     {
@@ -2109,7 +2389,7 @@
       "category" : "",
       "tags"     : "Mohammad-Mahmoud Ould Mohamedou",
       "url"      : "//podcast/a-theory-of-isis-with-mohammad-mahmoud-ould-mohamedou/",
-      "date"     : "2019-03-13 00:00:00 -0400"
+      "date"     : "2019-03-13 00:00:00 -0700"
     } ,
   
     {
@@ -2117,7 +2397,7 @@
       "category" : "",
       "tags"     : "Rhiana Gunn-Wright",
       "url"      : "//podcast/green-new-deal-architect-rhiana-gunn-wright/",
-      "date"     : "2019-03-09 00:00:00 -0500"
+      "date"     : "2019-03-09 00:00:00 -0800"
     } ,
   
     {
@@ -2125,7 +2405,7 @@
       "category" : "",
       "tags"     : "Transcripts",
       "url"      : "//transcripts/transcript-feminism-for-the-99-with-tithi-bhattacharya/",
-      "date"     : "2019-03-06 00:00:00 -0500"
+      "date"     : "2019-03-06 00:00:00 -0800"
     } ,
   
     {
@@ -2133,7 +2413,7 @@
       "category" : "",
       "tags"     : "Tithi Bhattacharya",
       "url"      : "//podcast/feminism-for-the-99-with-tithi-bhattacharya/",
-      "date"     : "2019-03-06 00:00:00 -0500"
+      "date"     : "2019-03-06 00:00:00 -0800"
     } ,
   
     {
@@ -2141,7 +2421,7 @@
       "category" : "",
       "tags"     : "Jonathan Matthew Smucker",
       "url"      : "//podcast/hegemony-how-to-with-jonathan-matthew-smucker/",
-      "date"     : "2019-02-27 00:00:00 -0500"
+      "date"     : "2019-02-27 00:00:00 -0800"
     } ,
   
     {
@@ -2149,7 +2429,7 @@
       "category" : "",
       "tags"     : "Dylan Riley",
       "url"      : "//podcast/marxs-eighteenth-brumaire-with-dylan-riley/",
-      "date"     : "2019-02-20 00:00:00 -0500"
+      "date"     : "2019-02-20 00:00:00 -0800"
     } ,
   
     {
@@ -2157,7 +2437,7 @@
       "category" : "",
       "tags"     : "Eric Levitz",
       "url"      : "//podcast/contradictions-with-eric-levitz/",
-      "date"     : "2019-02-16 00:00:00 -0500"
+      "date"     : "2019-02-16 00:00:00 -0800"
     } ,
   
     {
@@ -2165,7 +2445,7 @@
       "category" : "",
       "tags"     : "Briahna Gray, Dave Weigel, Waleed Shahid",
       "url"      : "//podcast/2020-with-briahna-gray-dave-weigel-and-waleed-shahid/",
-      "date"     : "2019-02-13 00:00:00 -0500"
+      "date"     : "2019-02-13 00:00:00 -0800"
     } ,
   
     {
@@ -2173,7 +2453,7 @@
       "category" : "",
       "tags"     : "Transcripts",
       "url"      : "//transcripts/transcript-palestine-politics-with-linda-sarsour/",
-      "date"     : "2019-02-06 00:00:00 -0500"
+      "date"     : "2019-02-06 00:00:00 -0800"
     } ,
   
     {
@@ -2181,7 +2461,7 @@
       "category" : "",
       "tags"     : "Linda Sarsour",
       "url"      : "//podcast/palestine-politics-with-linda-sarsour/",
-      "date"     : "2019-02-06 00:00:00 -0500"
+      "date"     : "2019-02-06 00:00:00 -0800"
     } ,
   
     {
@@ -2189,7 +2469,7 @@
       "category" : "",
       "tags"     : "Alejandro Velasco, Gabriel Hetland, Naomi Schiller",
       "url"      : "//podcast/venezuela/",
-      "date"     : "2019-02-01 00:00:00 -0500"
+      "date"     : "2019-02-01 00:00:00 -0800"
     } ,
   
     {
@@ -2197,7 +2477,7 @@
       "category" : "",
       "tags"     : "Anabel Hernández",
       "url"      : "//podcast/the-drug-war-in-mexico-with-anabel-hernandez/",
-      "date"     : "2019-01-30 00:00:00 -0500"
+      "date"     : "2019-01-30 00:00:00 -0800"
     } ,
   
     {
@@ -2205,7 +2485,7 @@
       "category" : "",
       "tags"     : "Laura Grattan, Thea Riofrancos",
       "url"      : "//podcast/populisms-power/",
-      "date"     : "2019-01-23 00:00:00 -0500"
+      "date"     : "2019-01-23 00:00:00 -0800"
     } ,
   
     {
@@ -2213,7 +2493,7 @@
       "category" : "",
       "tags"     : "Sarah Jaffe",
       "url"      : "//podcast/la-teachers-strike-with-sarah-jaffe/",
-      "date"     : "2019-01-18 00:00:00 -0500"
+      "date"     : "2019-01-18 00:00:00 -0800"
     } ,
   
     {
@@ -2221,7 +2501,7 @@
       "category" : "",
       "tags"     : "Transcripts",
       "url"      : "//transcripts/transcript-astra-taylor-on-democracy/",
-      "date"     : "2019-01-16 00:00:00 -0500"
+      "date"     : "2019-01-16 00:00:00 -0800"
     } ,
   
     {
@@ -2229,7 +2509,7 @@
       "category" : "",
       "tags"     : "Alyssa Battistoni, Astra Taylor",
       "url"      : "//podcast/astra-taylor-on-democracy/",
-      "date"     : "2019-01-16 00:00:00 -0500"
+      "date"     : "2019-01-16 00:00:00 -0800"
     } ,
   
     {
@@ -2237,7 +2517,7 @@
       "category" : "",
       "tags"     : "Transcripts",
       "url"      : "//transcripts/transcript-rethinking-migration-with-aziz-rana/",
-      "date"     : "2019-01-09 00:00:00 -0500"
+      "date"     : "2019-01-09 00:00:00 -0800"
     } ,
   
     {
@@ -2245,7 +2525,7 @@
       "category" : "",
       "tags"     : "Aziz Rana",
       "url"      : "//podcast/rethinking-migration-with-aziz-rana/",
-      "date"     : "2019-01-09 00:00:00 -0500"
+      "date"     : "2019-01-09 00:00:00 -0800"
     } ,
   
     {
@@ -2253,7 +2533,7 @@
       "category" : "",
       "tags"     : "Transcripts",
       "url"      : "//transcripts/transcript-family-values-with-melinda-cooper/",
-      "date"     : "2019-01-04 00:00:00 -0500"
+      "date"     : "2019-01-04 00:00:00 -0800"
     } ,
   
     {
@@ -2261,7 +2541,7 @@
       "category" : "",
       "tags"     : "Melinda Cooper",
       "url"      : "//podcast/family-values-with-melinda-cooper/",
-      "date"     : "2019-01-04 00:00:00 -0500"
+      "date"     : "2019-01-04 00:00:00 -0800"
     } ,
   
     {
@@ -2269,7 +2549,7 @@
       "category" : "",
       "tags"     : "Kate Aronoff",
       "url"      : "//podcast/the-green-new-deal-with-kate-aronoff/",
-      "date"     : "2018-12-27 00:00:00 -0500"
+      "date"     : "2018-12-27 00:00:00 -0800"
     } ,
   
     {
@@ -2277,7 +2557,7 @@
       "category" : "",
       "tags"     : "Adam Tooze",
       "url"      : "//podcast/crashed-with-adam-tooze/",
-      "date"     : "2018-12-18 00:00:00 -0500"
+      "date"     : "2018-12-18 00:00:00 -0800"
     } ,
   
     {
@@ -2285,7 +2565,7 @@
       "category" : "",
       "tags"     : "Danièle Obono, Jerome Roos",
       "url"      : "//podcast/yellow-vests-with-daniele-obono-and-jerome-roos/",
-      "date"     : "2018-12-15 00:00:00 -0500"
+      "date"     : "2018-12-15 00:00:00 -0800"
     } ,
   
     {
@@ -2293,7 +2573,7 @@
       "category" : "",
       "tags"     : "Andrea Long Chu, Marissa Brostoff",
       "url"      : "//podcast/bad-objects-with-andrea-long-chu-and-marissa-brostoff/",
-      "date"     : "2018-12-11 00:00:00 -0500"
+      "date"     : "2018-12-11 00:00:00 -0800"
     } ,
   
     {
@@ -2301,7 +2581,7 @@
       "category" : "",
       "tags"     : "Fernando Haddad, Yanis Varoufakis",
       "url"      : "//podcast/haddad-and-varoufakis-fighting-right-wing-populism/",
-      "date"     : "2018-12-04 00:00:00 -0500"
+      "date"     : "2018-12-04 00:00:00 -0800"
     } ,
   
     {
@@ -2309,7 +2589,7 @@
       "category" : "",
       "tags"     : "Richard Seymour",
       "url"      : "//podcast/the-left-knows-no-borders-with-richard-seymour/",
-      "date"     : "2018-11-28 00:00:00 -0500"
+      "date"     : "2018-11-28 00:00:00 -0800"
     } ,
   
     {
@@ -2317,7 +2597,7 @@
       "category" : "",
       "tags"     : "George Joseph",
       "url"      : "//podcast/jeff-sessions-brutal-legacy/",
-      "date"     : "2018-11-25 00:00:00 -0500"
+      "date"     : "2018-11-25 00:00:00 -0800"
     } ,
   
     {
@@ -2325,7 +2605,7 @@
       "category" : "",
       "tags"     : "Barbara Ransby",
       "url"      : "//podcast/barbara-ransby-on-black-lives-matter/",
-      "date"     : "2018-11-21 00:00:00 -0500"
+      "date"     : "2018-11-21 00:00:00 -0800"
     } ,
   
     {
@@ -2333,7 +2613,7 @@
       "category" : "",
       "tags"     : "Quinn Slobodian",
       "url"      : "//podcast/a-history-of-neoliberalism-with-quinn-slobodian/",
-      "date"     : "2018-11-14 00:00:00 -0500"
+      "date"     : "2018-11-14 00:00:00 -0800"
     } ,
   
     {
@@ -2341,7 +2621,7 @@
       "category" : "",
       "tags"     : "Kathleen Belew",
       "url"      : "//podcast/the-roots-of-white-power-violence-with-kathleen-belew/",
-      "date"     : "2018-11-07 00:00:00 -0500"
+      "date"     : "2018-11-07 00:00:00 -0800"
     } ,
   
     {
@@ -2349,7 +2629,7 @@
       "category" : "",
       "tags"     : "Transcripts",
       "url"      : "//transcripts/transcript-keeanga-yamahtta-taylor-on-the-life-of-howard-zinn/",
-      "date"     : "2018-11-03 00:00:00 -0400"
+      "date"     : "2018-11-03 00:00:00 -0700"
     } ,
   
     {
@@ -2357,7 +2637,7 @@
       "category" : "",
       "tags"     : "Keeanga-Yamahtta Taylor",
       "url"      : "//podcast/keeanga-yamahtta-taylor-on-the-life-of-howard-zinn/",
-      "date"     : "2018-11-03 00:00:00 -0400"
+      "date"     : "2018-11-03 00:00:00 -0700"
     } ,
   
     {
@@ -2365,7 +2645,7 @@
       "category" : "",
       "tags"     : "Madawi al-Rasheed",
       "url"      : "//podcast/madawi-al-rasheed-on-saudi-royal-brutality/",
-      "date"     : "2018-10-30 00:00:00 -0400"
+      "date"     : "2018-10-30 00:00:00 -0700"
     } ,
   
     {
@@ -2373,7 +2653,7 @@
       "category" : "",
       "tags"     : "Malaika Jabali",
       "url"      : "//podcast/the-color-of-economic-anxiety/",
-      "date"     : "2018-10-28 00:00:00 -0400"
+      "date"     : "2018-10-28 00:00:00 -0700"
     } ,
   
     {
@@ -2381,7 +2661,7 @@
       "category" : "",
       "tags"     : "Micah Uetricht, Rossana Rodríguez-Sanchez",
       "url"      : "//podcast/rossana-rodriguez-sanchez-a-socialist-for-chicago/",
-      "date"     : "2018-10-26 00:00:00 -0400"
+      "date"     : "2018-10-26 00:00:00 -0700"
     } ,
   
     {
@@ -2389,7 +2669,7 @@
       "category" : "",
       "tags"     : "Alyssa Battistoni",
       "url"      : "//podcast/economics-discounting-climate-catastrophe-reposted/",
-      "date"     : "2018-10-24 00:00:00 -0400"
+      "date"     : "2018-10-24 00:00:00 -0700"
     } ,
   
     {
@@ -2397,7 +2677,7 @@
       "category" : "",
       "tags"     : "Alfredo Saad-Filho",
       "url"      : "//podcast/explaining-brazils-crisis-with-alfredo-saad-filho/",
-      "date"     : "2018-10-19 00:00:00 -0400"
+      "date"     : "2018-10-19 00:00:00 -0700"
     } ,
   
     {
@@ -2405,7 +2685,7 @@
       "category" : "",
       "tags"     : "Kshama Sawant",
       "url"      : "//podcast/sawant-on-socialism-against-the-amazonification-of-seattle/",
-      "date"     : "2018-10-17 00:00:00 -0400"
+      "date"     : "2018-10-17 00:00:00 -0700"
     } ,
   
     {
@@ -2413,7 +2693,7 @@
       "category" : "",
       "tags"     : "Moira Weigel",
       "url"      : "//podcast/reasonable-men-calming-you-down-with-moira-weigel/",
-      "date"     : "2018-10-13 00:00:00 -0400"
+      "date"     : "2018-10-13 00:00:00 -0700"
     } ,
   
     {
@@ -2421,7 +2701,7 @@
       "category" : "",
       "tags"     : "Max Elbaum",
       "url"      : "//podcast/lessons-from-the-new-left-with-max-elbaum/",
-      "date"     : "2018-10-09 00:00:00 -0400"
+      "date"     : "2018-10-09 00:00:00 -0700"
     } ,
   
     {
@@ -2429,7 +2709,7 @@
       "category" : "",
       "tags"     : "Lisa Duggan",
       "url"      : "//podcast/lisa-duggan-on-the-open-secret-of-sexual-assault/",
-      "date"     : "2018-10-06 00:00:00 -0400"
+      "date"     : "2018-10-06 00:00:00 -0700"
     } ,
   
     {
@@ -2437,7 +2717,7 @@
       "category" : "",
       "tags"     : "Amanda Mcillmurray, Nikil Saval, Rick Krajewski",
       "url"      : "//podcast/reclaiming-philadelphia/",
-      "date"     : "2018-10-03 00:00:00 -0400"
+      "date"     : "2018-10-03 00:00:00 -0700"
     } ,
   
     {
@@ -2445,7 +2725,7 @@
       "category" : "",
       "tags"     : "Patrick Blanchfield",
       "url"      : "//podcast/patrick-blanchfield-on-serious-men/",
-      "date"     : "2018-09-25 00:00:00 -0400"
+      "date"     : "2018-09-25 00:00:00 -0700"
     } ,
   
     {
@@ -2453,7 +2733,7 @@
       "category" : "",
       "tags"     : "Leo Beletsky",
       "url"      : "//podcast/abolishdea/",
-      "date"     : "2018-09-23 00:00:00 -0400"
+      "date"     : "2018-09-23 00:00:00 -0700"
     } ,
   
     {
@@ -2461,7 +2741,7 @@
       "category" : "",
       "tags"     : "Elizabeth Catte",
       "url"      : "//podcast/the-problem-with-the-problem-with-appalachia/",
-      "date"     : "2018-09-19 00:00:00 -0400"
+      "date"     : "2018-09-19 00:00:00 -0700"
     } ,
   
     {
@@ -2469,7 +2749,7 @@
       "category" : "",
       "tags"     : "Transcripts",
       "url"      : "//transcripts/transcript-beyond-economism-with-nancy-fraser/",
-      "date"     : "2018-09-12 00:00:00 -0400"
+      "date"     : "2018-09-12 00:00:00 -0700"
     } ,
   
     {
@@ -2477,7 +2757,7 @@
       "category" : "",
       "tags"     : "Nancy Fraser",
       "url"      : "//podcast/beyond-economism-with-nancy-fraser/",
-      "date"     : "2018-09-12 00:00:00 -0400"
+      "date"     : "2018-09-12 00:00:00 -0700"
     } ,
   
     {
@@ -2485,7 +2765,7 @@
       "category" : "",
       "tags"     : "Matt Bruenig",
       "url"      : "//podcast/matt-bruenig-spreads-the-wealth-around/",
-      "date"     : "2018-09-09 00:00:00 -0400"
+      "date"     : "2018-09-09 00:00:00 -0700"
     } ,
   
     {
@@ -2493,7 +2773,7 @@
       "category" : "",
       "tags"     : "Nikhil Pal Singh",
       "url"      : "//podcast/race-or-class-bad-question-with-nikhil-pal-singh/",
-      "date"     : "2018-09-05 00:00:00 -0400"
+      "date"     : "2018-09-05 00:00:00 -0700"
     } ,
   
     {
@@ -2501,7 +2781,7 @@
       "category" : "",
       "tags"     : "Elizabeth Rush",
       "url"      : "//podcast/organizing-amid-rising-tides/",
-      "date"     : "2018-08-31 00:00:00 -0400"
+      "date"     : "2018-08-31 00:00:00 -0700"
     } ,
   
     {
@@ -2509,7 +2789,7 @@
       "category" : "",
       "tags"     : "Ashley Dawson, Audrea Lim, Daniel Aldana Cohen, Thea Riofrancos",
       "url"      : "//podcast/eco-socialism-and-the-climate-crisis/",
-      "date"     : "2018-08-29 00:00:00 -0400"
+      "date"     : "2018-08-29 00:00:00 -0700"
     } ,
   
     {
@@ -2517,7 +2797,7 @@
       "category" : "",
       "tags"     : "Josie Duffy Rice",
       "url"      : "//podcast/criminal-injustice-with-josie-duffy-rice/",
-      "date"     : "2018-08-25 00:00:00 -0400"
+      "date"     : "2018-08-25 00:00:00 -0700"
     } ,
   
     {
@@ -2525,7 +2805,7 @@
       "category" : "",
       "tags"     : "Sean Guillory",
       "url"      : "//podcast/russia-beyond-caricature/",
-      "date"     : "2018-08-22 00:00:00 -0400"
+      "date"     : "2018-08-22 00:00:00 -0700"
     } ,
   
     {
@@ -2533,7 +2813,7 @@
       "category" : "",
       "tags"     : "Aslı Bâli",
       "url"      : "//podcast/asli-bali-on-syria-part-ii/",
-      "date"     : "2018-08-17 00:00:00 -0400"
+      "date"     : "2018-08-17 00:00:00 -0700"
     } ,
   
     {
@@ -2541,7 +2821,7 @@
       "category" : "",
       "tags"     : "Aslı Bâli",
       "url"      : "//podcast/asli-bali-on-syria-part-i/",
-      "date"     : "2018-08-15 00:00:00 -0400"
+      "date"     : "2018-08-15 00:00:00 -0700"
     } ,
   
     {
@@ -2549,7 +2829,7 @@
       "category" : "",
       "tags"     : "Daniel Bessner",
       "url"      : "//podcast/making-sense-of-soros/",
-      "date"     : "2018-08-11 00:00:00 -0400"
+      "date"     : "2018-08-11 00:00:00 -0700"
     } ,
   
     {
@@ -2557,7 +2837,7 @@
       "category" : "",
       "tags"     : "Boots Riley",
       "url"      : "//podcast/boots-riley-on-sorry-to-bother-you-and-communism/",
-      "date"     : "2018-08-09 00:00:00 -0400"
+      "date"     : "2018-08-09 00:00:00 -0700"
     } ,
   
     {
@@ -2565,7 +2845,7 @@
       "category" : "",
       "tags"     : "Kerri Harris",
       "url"      : "//podcast/kerri-harris-runs-for-delaware-upset/",
-      "date"     : "2018-08-03 00:00:00 -0400"
+      "date"     : "2018-08-03 00:00:00 -0700"
     } ,
   
     {
@@ -2573,7 +2853,7 @@
       "category" : "",
       "tags"     : "Melissa Gira Grant",
       "url"      : "//podcast/stop-whore-stigma-with-melissa-gira-grant/",
-      "date"     : "2018-07-31 00:00:00 -0400"
+      "date"     : "2018-07-31 00:00:00 -0700"
     } ,
   
     {
@@ -2581,7 +2861,7 @@
       "category" : "",
       "tags"     : "Transcripts",
       "url"      : "//transcripts/transcript-kaniela-ing-is-fighting-for-aloha/",
-      "date"     : "2018-07-27 00:00:00 -0400"
+      "date"     : "2018-07-27 00:00:00 -0700"
     } ,
   
     {
@@ -2589,7 +2869,7 @@
       "category" : "",
       "tags"     : "Kaniela Ing",
       "url"      : "//podcast/kaniela-ing-is-fighting-for-aloha/",
-      "date"     : "2018-07-27 00:00:00 -0400"
+      "date"     : "2018-07-27 00:00:00 -0700"
     } ,
   
     {
@@ -2597,7 +2877,7 @@
       "category" : "",
       "tags"     : "Chris Maisano",
       "url"      : "//podcast/a-post-janus-plan-for-labor/",
-      "date"     : "2018-07-24 00:00:00 -0400"
+      "date"     : "2018-07-24 00:00:00 -0700"
     } ,
   
     {
@@ -2605,7 +2885,7 @@
       "category" : "",
       "tags"     : "Asad Haider",
       "url"      : "//podcast/mistaking-identity-politics/",
-      "date"     : "2018-07-18 00:00:00 -0400"
+      "date"     : "2018-07-18 00:00:00 -0700"
     } ,
   
     {
@@ -2613,7 +2893,7 @@
       "category" : "",
       "tags"     : "Transcripts",
       "url"      : "//transcripts/transcript-a-new-party-of-a-new-kind/",
-      "date"     : "2018-07-15 00:00:00 -0400"
+      "date"     : "2018-07-15 00:00:00 -0700"
     } ,
   
     {
@@ -2621,7 +2901,7 @@
       "category" : "",
       "tags"     : "Kate Aronoff, Seth Ackerman",
       "url"      : "//podcast/a-new-party-of-a-new-kind/",
-      "date"     : "2018-07-15 00:00:00 -0400"
+      "date"     : "2018-07-15 00:00:00 -0700"
     } ,
   
     {
@@ -2629,7 +2909,7 @@
       "category" : "",
       "tags"     : "Julia Salazar",
       "url"      : "//podcast/julia-salazar-brings-socialist-insurgency-to-brooklyn/",
-      "date"     : "2018-07-12 00:00:00 -0400"
+      "date"     : "2018-07-12 00:00:00 -0700"
     } ,
   
     {
@@ -2637,7 +2917,7 @@
       "category" : "",
       "tags"     : "Transcripts",
       "url"      : "//transcripts/transcript-bernie-sanders-on-ocasio-cortez-were-seeing-it-all-over-this-country/",
-      "date"     : "2018-07-11 00:00:00 -0400"
+      "date"     : "2018-07-11 00:00:00 -0700"
     } ,
   
     {
@@ -2645,7 +2925,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "//podcast/bernie-sanders-on-ocasio-cortez-were-seeing-it-all-over-this-country/",
-      "date"     : "2018-07-11 00:00:00 -0400"
+      "date"     : "2018-07-11 00:00:00 -0700"
     } ,
   
     {
@@ -2653,7 +2933,7 @@
       "category" : "",
       "tags"     : "Transcripts",
       "url"      : "//transcripts/transcript-cynthia-nixon-on-challenging-cuomo-in-wake-of-ocasio-cortez-win/",
-      "date"     : "2018-07-10 00:00:00 -0400"
+      "date"     : "2018-07-10 00:00:00 -0700"
     } ,
   
     {
@@ -2661,7 +2941,7 @@
       "category" : "",
       "tags"     : "Cynthia Nixon",
       "url"      : "//podcast/cynthia-nixon-on-challenging-cuomo-in-wake-of-ocasio-cortez-win/",
-      "date"     : "2018-07-10 00:00:00 -0400"
+      "date"     : "2018-07-10 00:00:00 -0700"
     } ,
   
     {
@@ -2669,7 +2949,7 @@
       "category" : "",
       "tags"     : "Transcripts",
       "url"      : "//transcripts/transcript-alexandria-ocasio-cortez-on-winning-power/",
-      "date"     : "2018-07-09 00:00:00 -0400"
+      "date"     : "2018-07-09 00:00:00 -0700"
     } ,
   
     {
@@ -2677,7 +2957,7 @@
       "category" : "",
       "tags"     : "Alexandria Ocasio-Cortez, Ryan Grim",
       "url"      : "//podcast/alexandria-ocasio-cortez-on-winning-power/",
-      "date"     : "2018-07-09 00:00:00 -0400"
+      "date"     : "2018-07-09 00:00:00 -0700"
     } ,
   
     {
@@ -2685,7 +2965,7 @@
       "category" : "",
       "tags"     : "Christy Thornton",
       "url"      : "//podcast/amlo-shatters-mexican-establishment/",
-      "date"     : "2018-07-07 00:00:00 -0400"
+      "date"     : "2018-07-07 00:00:00 -0700"
     } ,
   
     {
@@ -2693,7 +2973,7 @@
       "category" : "",
       "tags"     : "David Broder",
       "url"      : "//podcast/the-italian-lefts-collapse-with-david-broder/",
-      "date"     : "2018-07-03 00:00:00 -0400"
+      "date"     : "2018-07-03 00:00:00 -0700"
     } ,
   
     {
@@ -2701,7 +2981,7 @@
       "category" : "",
       "tags"     : "Bernie Sanders, Transcripts",
       "url"      : "//transcript/bernie-sanders-on-ocasio-cortez-were-seeing-it-all-over-this-country/",
-      "date"     : "2018-07-01 00:00:00 -0400"
+      "date"     : "2018-07-01 00:00:00 -0700"
     } ,
   
     {
@@ -2709,7 +2989,7 @@
       "category" : "",
       "tags"     : "Stephen Wertheim",
       "url"      : "//podcast/the-trump-doctrine-and-its-mandarin-detractors/",
-      "date"     : "2018-06-29 00:00:00 -0400"
+      "date"     : "2018-06-29 00:00:00 -0700"
     } ,
   
     {
@@ -2717,7 +2997,7 @@
       "category" : "",
       "tags"     : "Matthew Frye Jacobson",
       "url"      : "//podcast/whither-white-ethnics-with-matthew-frye-jacobson/",
-      "date"     : "2018-06-27 00:00:00 -0400"
+      "date"     : "2018-06-27 00:00:00 -0700"
     } ,
   
     {
@@ -2725,7 +3005,7 @@
       "category" : "",
       "tags"     : "Dara Lind",
       "url"      : "//podcast/child-casualties-of-the-border-war/",
-      "date"     : "2018-06-22 00:00:00 -0400"
+      "date"     : "2018-06-22 00:00:00 -0700"
     } ,
   
     {
@@ -2733,7 +3013,7 @@
       "category" : "",
       "tags"     : "Transcripts",
       "url"      : "//transcripts/transcript-david-harvey-on-capital/",
-      "date"     : "2018-06-20 00:00:00 -0400"
+      "date"     : "2018-06-20 00:00:00 -0700"
     } ,
   
     {
@@ -2741,7 +3021,7 @@
       "category" : "",
       "tags"     : "David Harvey",
       "url"      : "//podcast/david-harvey-on-capital/",
-      "date"     : "2018-06-20 00:00:00 -0400"
+      "date"     : "2018-06-20 00:00:00 -0700"
     } ,
   
     {
@@ -2749,7 +3029,7 @@
       "category" : "",
       "tags"     : "Transcripts",
       "url"      : "//transcripts/transcript-naomi-klein-and-mercedes-martinez-the-battle-for-puerto-rico/",
-      "date"     : "2018-06-12 00:00:00 -0400"
+      "date"     : "2018-06-12 00:00:00 -0700"
     } ,
   
     {
@@ -2757,7 +3037,7 @@
       "category" : "",
       "tags"     : "Mercedes Martínez, Naomi Klein",
       "url"      : "//podcast/naomi-klein-and-mercedes-martinez-the-battle-for-puerto-rico/",
-      "date"     : "2018-06-12 00:00:00 -0400"
+      "date"     : "2018-06-12 00:00:00 -0700"
     } ,
   
     {
@@ -2765,7 +3045,7 @@
       "category" : "",
       "tags"     : "Carlos Delclós",
       "url"      : "//podcast/spain-part-ii-rajoy-falls/",
-      "date"     : "2018-06-09 00:00:00 -0400"
+      "date"     : "2018-06-09 00:00:00 -0700"
     } ,
   
     {
@@ -2773,7 +3053,7 @@
       "category" : "",
       "tags"     : "Nancy MacLean",
       "url"      : "//podcast/democracy-in-chains-with-nancy-maclean/",
-      "date"     : "2018-06-05 00:00:00 -0400"
+      "date"     : "2018-06-05 00:00:00 -0700"
     } ,
   
     {
@@ -2781,7 +3061,7 @@
       "category" : "",
       "tags"     : "Vanessa Bee",
       "url"      : "//podcast/two-societies-one-black-one-white-separate-and-unequal/",
-      "date"     : "2018-06-02 00:00:00 -0400"
+      "date"     : "2018-06-02 00:00:00 -0700"
     } ,
   
     {
@@ -2789,7 +3069,7 @@
       "category" : "",
       "tags"     : "Bécquer Seguín, Carlos Delclós, Kate Shea Baird",
       "url"      : "//podcast/left-out-of-spains-national-question/",
-      "date"     : "2018-05-30 00:00:00 -0400"
+      "date"     : "2018-05-30 00:00:00 -0700"
     } ,
   
     {
@@ -2797,7 +3077,7 @@
       "category" : "",
       "tags"     : "Dakota Hall, Dmitri Holtzman",
       "url"      : "//podcast/resisting-the-school-to-prison-pipeline/",
-      "date"     : "2018-05-27 00:00:00 -0400"
+      "date"     : "2018-05-27 00:00:00 -0700"
     } ,
   
     {
@@ -2805,7 +3085,7 @@
       "category" : "",
       "tags"     : "George Monbiot",
       "url"      : "//podcast/telling-a-new-story-with-george-monbiot/",
-      "date"     : "2018-05-23 00:00:00 -0400"
+      "date"     : "2018-05-23 00:00:00 -0700"
     } ,
   
     {
@@ -2813,7 +3093,7 @@
       "category" : "",
       "tags"     : "Noura Erakat",
       "url"      : "//podcast/free-palestine-with-noura-erakat/",
-      "date"     : "2018-05-18 00:00:00 -0400"
+      "date"     : "2018-05-18 00:00:00 -0700"
     } ,
   
     {
@@ -2821,7 +3101,7 @@
       "category" : "",
       "tags"     : "Amy Kapczynski",
       "url"      : "//podcast/the-law-in-its-majestic-equality/",
-      "date"     : "2018-05-15 00:00:00 -0400"
+      "date"     : "2018-05-15 00:00:00 -0700"
     } ,
   
     {
@@ -2829,7 +3109,7 @@
       "category" : "",
       "tags"     : "Dorothy Roberts",
       "url"      : "//podcast/dorothy-roberts-policing-poor-black-families/",
-      "date"     : "2018-05-12 00:00:00 -0400"
+      "date"     : "2018-05-12 00:00:00 -0700"
     } ,
   
     {
@@ -2837,7 +3117,7 @@
       "category" : "",
       "tags"     : "Eric Blanc, Xiomara Caro Diaz",
       "url"      : "//podcast/struggle-and-the-state/",
-      "date"     : "2018-05-09 00:00:00 -0400"
+      "date"     : "2018-05-09 00:00:00 -0700"
     } ,
   
     {
@@ -2845,7 +3125,7 @@
       "category" : "",
       "tags"     : "Keeanga-Yamahtta Taylor, Larry Krasner, Premal Dharia",
       "url"      : "//podcast/bernie-krasner-keeanga-and-premal/",
-      "date"     : "2018-05-05 00:00:00 -0400"
+      "date"     : "2018-05-05 00:00:00 -0700"
     } ,
   
     {
@@ -2853,7 +3133,7 @@
       "category" : "",
       "tags"     : "Astra Taylor, Stephanie DeGooyer",
       "url"      : "//podcast/the-right-to-have-rights-part-ii/",
-      "date"     : "2018-05-04 00:00:00 -0400"
+      "date"     : "2018-05-04 00:00:00 -0700"
     } ,
   
     {
@@ -2861,7 +3141,7 @@
       "category" : "",
       "tags"     : "Astra Taylor, Stephanie DeGooyer",
       "url"      : "//podcast/the-right-to-have-rights-part-i/",
-      "date"     : "2018-05-01 00:00:00 -0400"
+      "date"     : "2018-05-01 00:00:00 -0700"
     } ,
   
     {
@@ -2869,7 +3149,7 @@
       "category" : "",
       "tags"     : "Patrick Blanchfield",
       "url"      : "//podcast/comey-liberal-cop-fetish/",
-      "date"     : "2018-04-27 00:00:00 -0400"
+      "date"     : "2018-04-27 00:00:00 -0700"
     } ,
   
     {
@@ -2877,7 +3157,7 @@
       "category" : "",
       "tags"     : "Chokwe Antar Lumumba",
       "url"      : "//podcast/radicalizing-jackson-with-chokwe-antar-lumumba/",
-      "date"     : "2018-04-24 00:00:00 -0400"
+      "date"     : "2018-04-24 00:00:00 -0700"
     } ,
   
     {
@@ -2885,7 +3165,7 @@
       "category" : "",
       "tags"     : "Dave Weigel",
       "url"      : "//podcast/dave-weigel-these-primary-colors-dont-run/",
-      "date"     : "2018-04-21 00:00:00 -0400"
+      "date"     : "2018-04-21 00:00:00 -0700"
     } ,
   
     {
@@ -2893,7 +3173,7 @@
       "category" : "",
       "tags"     : "Michael Kinnucan, Renée Paradis",
       "url"      : "//podcast/dsa-at-the-ballot-box/",
-      "date"     : "2018-04-17 00:00:00 -0400"
+      "date"     : "2018-04-17 00:00:00 -0700"
     } ,
   
     {
@@ -2901,7 +3181,7 @@
       "category" : "",
       "tags"     : "Timothy Mitchell",
       "url"      : "//podcast/petro-imperialism-with-timothy-mitchell-part-ii/",
-      "date"     : "2018-04-13 00:00:00 -0400"
+      "date"     : "2018-04-13 00:00:00 -0700"
     } ,
   
     {
@@ -2909,7 +3189,7 @@
       "category" : "",
       "tags"     : "Timothy Mitchell",
       "url"      : "//podcast/petro-capitalism-with-timothy-mitchell-part-i/",
-      "date"     : "2018-04-10 00:00:00 -0400"
+      "date"     : "2018-04-10 00:00:00 -0700"
     } ,
   
     {
@@ -2917,7 +3197,7 @@
       "category" : "",
       "tags"     : "Aziz Rana",
       "url"      : "//podcast/aziz-rana-reviving-resistance-to-empire/",
-      "date"     : "2018-04-07 00:00:00 -0400"
+      "date"     : "2018-04-07 00:00:00 -0700"
     } ,
   
     {
@@ -2925,7 +3205,7 @@
       "category" : "",
       "tags"     : "Caitlin Zaloom",
       "url"      : "//podcast/student-debt-capitalism/",
-      "date"     : "2018-04-03 00:00:00 -0400"
+      "date"     : "2018-04-03 00:00:00 -0700"
     } ,
   
     {
@@ -2933,7 +3213,7 @@
       "category" : "",
       "tags"     : "Mae Ngai",
       "url"      : "//podcast/no-human-being-is-illegal-with-mae-ngai/",
-      "date"     : "2018-03-27 00:00:00 -0400"
+      "date"     : "2018-03-27 00:00:00 -0700"
     } ,
   
     {
@@ -2941,7 +3221,7 @@
       "category" : "",
       "tags"     : "Kade Crockford",
       "url"      : "//podcast/real-sanctuary-means-ending-mass-policing-with-kade-crockford/",
-      "date"     : "2018-03-25 00:00:00 -0400"
+      "date"     : "2018-03-25 00:00:00 -0700"
     } ,
   
     {
@@ -2949,7 +3229,7 @@
       "category" : "",
       "tags"     : "Transcripts",
       "url"      : "//transcripts/transcript-mlk-political-philosopher-with-tommie-shelby-and-brandon-terry/",
-      "date"     : "2018-03-21 00:00:00 -0400"
+      "date"     : "2018-03-21 00:00:00 -0700"
     } ,
   
     {
@@ -2957,7 +3237,7 @@
       "category" : "",
       "tags"     : "Brandon Terry, Tommie Shelby",
       "url"      : "//podcast/mlk-political-philosopher-with-tommie-shelby-and-brandon-terry/",
-      "date"     : "2018-03-21 00:00:00 -0400"
+      "date"     : "2018-03-21 00:00:00 -0700"
     } ,
   
     {
@@ -2965,7 +3245,7 @@
       "category" : "",
       "tags"     : "Elizabeth Fiedler, Sara Inammorato, Summer Lee",
       "url"      : "//podcast/lamb-is-not-enough-three-leftist-women-run-in-pennsylvania/",
-      "date"     : "2018-03-17 00:00:00 -0400"
+      "date"     : "2018-03-17 00:00:00 -0700"
     } ,
   
     {
@@ -2973,7 +3253,7 @@
       "category" : "",
       "tags"     : "Gabriel Winant, Sarah Jaffe",
       "url"      : "//podcast/west-virginia-and-labor-after-janus-with-sarah-jaffe-and-gabriel-winant/",
-      "date"     : "2018-03-13 00:00:00 -0400"
+      "date"     : "2018-03-13 00:00:00 -0700"
     } ,
   
     {
@@ -2981,7 +3261,7 @@
       "category" : "",
       "tags"     : "Patrick Blanchfield",
       "url"      : "//podcast/gun-culture-is-neoliberalism-with-patrick-blanchfield/",
-      "date"     : "2018-03-09 00:00:00 -0500"
+      "date"     : "2018-03-09 00:00:00 -0800"
     } ,
   
     {
@@ -2989,7 +3269,7 @@
       "category" : "",
       "tags"     : "Jennifer Carlson",
       "url"      : "//podcast/gun-culture-and-masculinity-in-an-age-of-decline-with-jennifer-carlson/",
-      "date"     : "2018-03-06 00:00:00 -0500"
+      "date"     : "2018-03-06 00:00:00 -0800"
     } ,
   
     {
@@ -2997,7 +3277,7 @@
       "category" : "",
       "tags"     : "Nomiki Konst",
       "url"      : "//podcast/nomiki-konst-on-the-fight-inside-the-democratic-party/",
-      "date"     : "2018-03-02 00:00:00 -0500"
+      "date"     : "2018-03-02 00:00:00 -0800"
     } ,
   
     {
@@ -3005,7 +3285,7 @@
       "category" : "",
       "tags"     : "Transcripts",
       "url"      : "//transcripts/transcript-glenn-greenwald-surveillance-hypocrisy-amid-russiagate-mania/",
-      "date"     : "2018-02-27 00:00:00 -0500"
+      "date"     : "2018-02-27 00:00:00 -0800"
     } ,
   
     {
@@ -3013,7 +3293,7 @@
       "category" : "",
       "tags"     : "Glenn Greenwald",
       "url"      : "//podcast/glenn-greenwald-surveillance-hypocrisy-amid-russiagate-mania/",
-      "date"     : "2018-02-27 00:00:00 -0500"
+      "date"     : "2018-02-27 00:00:00 -0800"
     } ,
   
     {
@@ -3021,7 +3301,7 @@
       "category" : "",
       "tags"     : "Randy Bryce",
       "url"      : "//podcast/its-iron-stache/",
-      "date"     : "2018-02-20 00:00:00 -0500"
+      "date"     : "2018-02-20 00:00:00 -0800"
     } ,
   
     {
@@ -3029,7 +3309,7 @@
       "category" : "",
       "tags"     : "Aziz Rana",
       "url"      : "//podcast/aziz-rana-the-cold-wars-late-demise/",
-      "date"     : "2018-02-14 00:00:00 -0500"
+      "date"     : "2018-02-14 00:00:00 -0800"
     } ,
   
     {
@@ -3037,7 +3317,7 @@
       "category" : "",
       "tags"     : "Frances Fox Piven",
       "url"      : "//podcast/frances-fox-piven-movements-still-matter/",
-      "date"     : "2018-02-07 00:00:00 -0500"
+      "date"     : "2018-02-07 00:00:00 -0800"
     } ,
   
     {
@@ -3045,7 +3325,7 @@
       "category" : "",
       "tags"     : "Lester Spence",
       "url"      : "//podcast/baltimores-crisis-continues-with-lester-spence/",
-      "date"     : "2018-02-03 00:00:00 -0500"
+      "date"     : "2018-02-03 00:00:00 -0800"
     } ,
   
     {
@@ -3053,7 +3333,7 @@
       "category" : "",
       "tags"     : "Paul Frymer",
       "url"      : "//podcast/building-an-american-empire-with-paul-frymer/",
-      "date"     : "2018-01-30 00:00:00 -0500"
+      "date"     : "2018-01-30 00:00:00 -0800"
     } ,
   
     {
@@ -3061,7 +3341,7 @@
       "category" : "",
       "tags"     : "Jeff Stein",
       "url"      : "//podcast/why-democrats-fought-then-folded-on-daca-with-jeff-stein/",
-      "date"     : "2018-01-25 00:00:00 -0500"
+      "date"     : "2018-01-25 00:00:00 -0800"
     } ,
   
     {
@@ -3069,7 +3349,7 @@
       "category" : "",
       "tags"     : "Lane Windham",
       "url"      : "//podcast/the-militant-70s-labor-movement-you-never-heard-of-with-lane-windham/",
-      "date"     : "2018-01-24 00:00:00 -0500"
+      "date"     : "2018-01-24 00:00:00 -0800"
     } ,
   
     {
@@ -3077,7 +3357,7 @@
       "category" : "",
       "tags"     : "Danny Taylor",
       "url"      : "//podcast/workers-rights-are-students-rights/",
-      "date"     : "2018-01-19 00:00:00 -0500"
+      "date"     : "2018-01-19 00:00:00 -0800"
     } ,
   
     {
@@ -3085,7 +3365,7 @@
       "category" : "",
       "tags"     : "Nijmie Dzurinko",
       "url"      : "//podcast/a-new-poor-peoples-campaign-with-nijmie-dzurinko/",
-      "date"     : "2018-01-16 00:00:00 -0500"
+      "date"     : "2018-01-16 00:00:00 -0800"
     } ,
   
     {
@@ -3093,7 +3373,7 @@
       "category" : "",
       "tags"     : "Patrick Blanchfield",
       "url"      : "//podcast/that-trump-book-tho-with-patrick-blanchfield/",
-      "date"     : "2018-01-13 00:00:00 -0500"
+      "date"     : "2018-01-13 00:00:00 -0800"
     } ,
   
     {
@@ -3101,7 +3381,7 @@
       "category" : "",
       "tags"     : "Dorothy Roberts",
       "url"      : "//podcast/killing-the-black-body-with-dorothy-roberts/",
-      "date"     : "2018-01-09 00:00:00 -0500"
+      "date"     : "2018-01-09 00:00:00 -0800"
     } ,
   
     {
@@ -3109,7 +3389,7 @@
       "category" : "",
       "tags"     : "Catherine Lutz",
       "url"      : "//podcast/troop-veneration-and-us-empire-with-catherine-lutz/",
-      "date"     : "2018-01-03 00:00:00 -0500"
+      "date"     : "2018-01-03 00:00:00 -0800"
     } ,
   
     {
@@ -3117,7 +3397,7 @@
       "category" : "",
       "tags"     : "Bhaskar Sunkara",
       "url"      : "//podcast/bhaskar-on-the-bolsheviks/",
-      "date"     : "2017-12-27 00:00:00 -0500"
+      "date"     : "2017-12-27 00:00:00 -0800"
     } ,
   
     {
@@ -3125,7 +3405,7 @@
       "category" : "",
       "tags"     : "Keeanga-Yamahtta Taylor",
       "url"      : "//podcast/keeanga-yamahtta-taylor-recovering-identity-politics-from-neoliberalism/",
-      "date"     : "2017-12-19 00:00:00 -0500"
+      "date"     : "2017-12-19 00:00:00 -0800"
     } ,
   
     {
@@ -3133,7 +3413,7 @@
       "category" : "",
       "tags"     : "Transcripts",
       "url"      : "//transcripts/transcript-revisiting-racecraft-with-barbara-and-karen-fields/",
-      "date"     : "2017-12-13 00:00:00 -0500"
+      "date"     : "2017-12-13 00:00:00 -0800"
     } ,
   
     {
@@ -3141,7 +3421,7 @@
       "category" : "",
       "tags"     : "Barbara Fields, Karen Fields",
       "url"      : "//podcast/revisiting-racecraft-with-barbara-and-karen-fields/",
-      "date"     : "2017-12-13 00:00:00 -0500"
+      "date"     : "2017-12-13 00:00:00 -0800"
     } ,
   
     {
@@ -3149,7 +3429,7 @@
       "category" : "",
       "tags"     : "Ryan Cooper",
       "url"      : "//podcast/the-destruction-of-black-wealth-with-ryan-cooper/",
-      "date"     : "2017-12-08 00:00:00 -0500"
+      "date"     : "2017-12-08 00:00:00 -0800"
     } ,
   
     {
@@ -3157,7 +3437,7 @@
       "category" : "",
       "tags"     : "Transcripts",
       "url"      : "//transcripts/transcript-peace-can-happen-in-korea-with-tim-shorrock/",
-      "date"     : "2017-12-05 00:00:00 -0500"
+      "date"     : "2017-12-05 00:00:00 -0800"
     } ,
   
     {
@@ -3165,7 +3445,7 @@
       "category" : "",
       "tags"     : "Tim Shorrock",
       "url"      : "//podcast/peace-can-happen-in-korea-with-tim-shorrock/",
-      "date"     : "2017-12-05 00:00:00 -0500"
+      "date"     : "2017-12-05 00:00:00 -0800"
     } ,
   
     {
@@ -3173,7 +3453,7 @@
       "category" : "",
       "tags"     : "Robert Reich",
       "url"      : "//podcast/clintonisms-dreadful-legacy-with-robert-reich/",
-      "date"     : "2017-12-01 00:00:00 -0500"
+      "date"     : "2017-12-01 00:00:00 -0800"
     } ,
   
     {
@@ -3181,7 +3461,7 @@
       "category" : "",
       "tags"     : "Leo Beletsky",
       "url"      : "//podcast/the-origins-of-the-opioid-crisis-with-leo-beletsky/",
-      "date"     : "2017-11-28 00:00:00 -0500"
+      "date"     : "2017-11-28 00:00:00 -0800"
     } ,
   
     {
@@ -3189,7 +3469,7 @@
       "category" : "",
       "tags"     : "Alex Vitale, Heather MacDonald",
       "url"      : "//podcast/bonus-alex-vitale-v-heather-macdonald/",
-      "date"     : "2017-11-27 00:00:00 -0500"
+      "date"     : "2017-11-27 00:00:00 -0800"
     } ,
   
     {
@@ -3197,7 +3477,7 @@
       "category" : "",
       "tags"     : "Arthur Delaney",
       "url"      : "//podcast/a-monstrous-tax-plan-that-might-fail-with-arthur-delaney/",
-      "date"     : "2017-11-24 00:00:00 -0500"
+      "date"     : "2017-11-24 00:00:00 -0800"
     } ,
   
     {
@@ -3205,7 +3485,7 @@
       "category" : "",
       "tags"     : "Noelle Brigden",
       "url"      : "//podcast/the-reality-of-central-american-migration-with-noelle-brigden/",
-      "date"     : "2017-11-21 00:00:00 -0500"
+      "date"     : "2017-11-21 00:00:00 -0800"
     } ,
   
     {
@@ -3213,7 +3493,7 @@
       "category" : "",
       "tags"     : "David Duhalde, Lee Carter",
       "url"      : "//podcast/dsa-kicking-ass-with-lee-carter-and-david-duhalde/",
-      "date"     : "2017-11-17 00:00:00 -0500"
+      "date"     : "2017-11-17 00:00:00 -0800"
     } ,
   
     {
@@ -3221,7 +3501,7 @@
       "category" : "",
       "tags"     : "Kelly Lytle Hernández",
       "url"      : "//podcast/a-history-of-human-caging-with-kelly-lytle-hernandez/",
-      "date"     : "2017-11-14 00:00:00 -0500"
+      "date"     : "2017-11-14 00:00:00 -0800"
     } ,
   
     {
@@ -3229,7 +3509,7 @@
       "category" : "",
       "tags"     : "Melissa Gira Grant",
       "url"      : "//podcast/dont-criminalize-sex-work-with-melissa-gira-grant/",
-      "date"     : "2017-11-10 00:00:00 -0500"
+      "date"     : "2017-11-10 00:00:00 -0800"
     } ,
   
     {
@@ -3237,7 +3517,7 @@
       "category" : "",
       "tags"     : "Eric Levitz, Molly Ball",
       "url"      : "//podcast/the-hollow-center-with-molly-ball-and-eric-levitz/",
-      "date"     : "2017-11-07 00:00:00 -0500"
+      "date"     : "2017-11-07 00:00:00 -0800"
     } ,
   
     {
@@ -3245,7 +3525,7 @@
       "category" : "",
       "tags"     : "Brenden Beck",
       "url"      : "//podcast/policing-for-the-market-with-brenden-beck/",
-      "date"     : "2017-11-03 00:00:00 -0400"
+      "date"     : "2017-11-03 00:00:00 -0700"
     } ,
   
     {
@@ -3253,7 +3533,7 @@
       "category" : "",
       "tags"     : "Aziz Rana",
       "url"      : "//podcast/universalizing-american-liberty-with-aziz-rana/",
-      "date"     : "2017-10-31 00:00:00 -0400"
+      "date"     : "2017-10-31 00:00:00 -0700"
     } ,
   
     {
@@ -3261,7 +3541,7 @@
       "category" : "",
       "tags"     : "Alex Press",
       "url"      : "//podcast/alex-press-on-collective-action-to-fight-sexual-harassment/",
-      "date"     : "2017-10-27 00:00:00 -0400"
+      "date"     : "2017-10-27 00:00:00 -0700"
     } ,
   
     {
@@ -3269,7 +3549,7 @@
       "category" : "",
       "tags"     : "Corey Robin, Transcripts",
       "url"      : "//transcripts/corey-robin-trumps-reactionary-mind/",
-      "date"     : "2017-10-24 00:00:00 -0400"
+      "date"     : "2017-10-24 00:00:00 -0700"
     } ,
   
     {
@@ -3277,7 +3557,7 @@
       "category" : "",
       "tags"     : "Corey Robin",
       "url"      : "//podcast/corey-robin-trumps-reactionary-mind/",
-      "date"     : "2017-10-24 00:00:00 -0400"
+      "date"     : "2017-10-24 00:00:00 -0700"
     } ,
   
     {
@@ -3285,7 +3565,7 @@
       "category" : "",
       "tags"     : "Asha Bandele, Constanza Sánchez Avilé, Daryl Atkinson, Kemba Smith, Lyn Ulbrich",
       "url"      : "//podcast/bonus-ending-the-war-on-drug-dealers/",
-      "date"     : "2017-10-23 00:00:00 -0400"
+      "date"     : "2017-10-23 00:00:00 -0700"
     } ,
   
     {
@@ -3293,7 +3573,7 @@
       "category" : "",
       "tags"     : "Joe Dinkin",
       "url"      : "//podcast/lets-elect-left-candidates-with-joe-dinkin/",
-      "date"     : "2017-10-20 00:00:00 -0400"
+      "date"     : "2017-10-20 00:00:00 -0700"
     } ,
   
     {
@@ -3301,7 +3581,7 @@
       "category" : "",
       "tags"     : "Alex Vitale",
       "url"      : "//podcast/we-must-end-policing-as-we-know-it-with-alex-vitale/",
-      "date"     : "2017-10-17 00:00:00 -0400"
+      "date"     : "2017-10-17 00:00:00 -0700"
     } ,
   
     {
@@ -3309,7 +3589,7 @@
       "category" : "",
       "tags"     : "Matt Christman",
       "url"      : "//podcast/matt-christman-rants-raves-and-ruminates/",
-      "date"     : "2017-10-11 00:00:00 -0400"
+      "date"     : "2017-10-11 00:00:00 -0700"
     } ,
   
     {
@@ -3317,7 +3597,7 @@
       "category" : "",
       "tags"     : "Nina Turner",
       "url"      : "//podcast/nina-turner-lets-keep-the-political-revolution-in-motion/",
-      "date"     : "2017-10-06 00:00:00 -0400"
+      "date"     : "2017-10-06 00:00:00 -0700"
     } ,
   
     {
@@ -3325,7 +3605,7 @@
       "category" : "",
       "tags"     : "Ben Levin",
       "url"      : "//podcast/beware-carceral-gun-control/",
-      "date"     : "2017-10-06 00:00:00 -0400"
+      "date"     : "2017-10-06 00:00:00 -0700"
     } ,
   
     {
@@ -3333,7 +3613,7 @@
       "category" : "",
       "tags"     : "Larry Krasner",
       "url"      : "//podcast/bonus-episode-larry-krasners-full-interview/",
-      "date"     : "2017-10-04 00:00:00 -0400"
+      "date"     : "2017-10-04 00:00:00 -0700"
     } ,
   
     {
@@ -3341,7 +3621,7 @@
       "category" : "",
       "tags"     : "Dwayne Betts, Katherine Beckett, Larry Krasner, Sam Fenn, Todd Clear",
       "url"      : "//podcast/part-one-the-story-behind-americas-mass-incarceration-experiment/",
-      "date"     : "2017-10-03 00:00:00 -0400"
+      "date"     : "2017-10-03 00:00:00 -0700"
     } ,
   
     {
@@ -3349,7 +3629,7 @@
       "category" : "",
       "tags"     : "Brandy Jensen, Marisol LeBrón",
       "url"      : "//podcast/marisol-lebron-roy-moore-perfect-republican/",
-      "date"     : "2017-09-29 00:00:00 -0400"
+      "date"     : "2017-09-29 00:00:00 -0700"
     } ,
   
     {
@@ -3357,7 +3637,7 @@
       "category" : "",
       "tags"     : "Khaled Beydoun",
       "url"      : "//podcast/khaled-beydoun-the-war-on-terror-made-trumps-islamophobia-a-reality/",
-      "date"     : "2017-09-26 00:00:00 -0400"
+      "date"     : "2017-09-26 00:00:00 -0700"
     } ,
   
     {
@@ -3365,7 +3645,7 @@
       "category" : "",
       "tags"     : "Eve Peyser",
       "url"      : "//podcast/eve-peyser-what-happened-is-not-about-what-actually-happened/",
-      "date"     : "2017-09-22 00:00:00 -0400"
+      "date"     : "2017-09-22 00:00:00 -0700"
     } ,
   
     {
@@ -3373,7 +3653,7 @@
       "category" : "",
       "tags"     : "Stephen Wertheim",
       "url"      : "//podcast/stephen-wertheim-america-was-never-exceptional-but-we-used-to-think-it-was/",
-      "date"     : "2017-09-19 00:00:00 -0400"
+      "date"     : "2017-09-19 00:00:00 -0700"
     } ,
   
     {
@@ -3381,7 +3661,7 @@
       "category" : "",
       "tags"     : "Jules Boykoff, Molly Lambert",
       "url"      : "//podcast/an-olympic-size-swindle-in-la-with-molly-lambert-and-jules-boykoff/",
-      "date"     : "2017-09-15 00:00:00 -0400"
+      "date"     : "2017-09-15 00:00:00 -0700"
     } ,
   
     {
@@ -3389,7 +3669,7 @@
       "category" : "",
       "tags"     : "John Henneberger, Robert Bullard, Tyina Steptoe",
       "url"      : "//podcast/houston-a-segregated-disaster-in-a-segregated-city/",
-      "date"     : "2017-09-12 00:00:00 -0400"
+      "date"     : "2017-09-12 00:00:00 -0700"
     } ,
   
     {
@@ -3397,7 +3677,7 @@
       "category" : "",
       "tags"     : "César Cuauhtémoc García Hernández, Transcripts",
       "url"      : "//transcripts/cesar-cuauhtemoc-garcia-hernandez-on-daca/",
-      "date"     : "2017-09-08 00:00:00 -0400"
+      "date"     : "2017-09-08 00:00:00 -0700"
     } ,
   
     {
@@ -3405,7 +3685,7 @@
       "category" : "",
       "tags"     : "César Cuauhtémoc García Hernández",
       "url"      : "//podcast/cesar-cuauhtemoc-garcia-hernandez-on-daca/",
-      "date"     : "2017-09-08 00:00:00 -0400"
+      "date"     : "2017-09-08 00:00:00 -0700"
     } ,
   
     {
@@ -3413,7 +3693,7 @@
       "category" : "",
       "tags"     : "Kate Aronoff, Transcripts",
       "url"      : "//transcripts/kate-aronoff-populist-revolt-against-the-climate-crisis/",
-      "date"     : "2017-09-06 00:00:00 -0400"
+      "date"     : "2017-09-06 00:00:00 -0700"
     } ,
   
     {
@@ -3421,7 +3701,7 @@
       "category" : "",
       "tags"     : "Kate Aronoff",
       "url"      : "//podcast/kate-aronoff-populist-revolt-against-the-climate-crisis/",
-      "date"     : "2017-09-06 00:00:00 -0400"
+      "date"     : "2017-09-06 00:00:00 -0700"
     } ,
   
     {
@@ -3429,7 +3709,7 @@
       "category" : "",
       "tags"     : "Emily Atkin",
       "url"      : "//podcast/emily-atkin-harvey-is-political/",
-      "date"     : "2017-09-01 00:00:00 -0400"
+      "date"     : "2017-09-01 00:00:00 -0700"
     } ,
   
     {
@@ -3437,7 +3717,7 @@
       "category" : "",
       "tags"     : "Adrian Chen",
       "url"      : "//podcast/adrian-chen-factcheck-org-wont-save-america/",
-      "date"     : "2017-08-29 00:00:00 -0400"
+      "date"     : "2017-08-29 00:00:00 -0700"
     } ,
   
     {
@@ -3445,7 +3725,7 @@
       "category" : "",
       "tags"     : "Alex Pareene",
       "url"      : "//podcast/alex-pareene-trumps-happy-place-is-racism/",
-      "date"     : "2017-08-25 00:00:00 -0400"
+      "date"     : "2017-08-25 00:00:00 -0700"
     } ,
   
     {
@@ -3453,7 +3733,7 @@
       "category" : "",
       "tags"     : "Andrew Bacevich",
       "url"      : "//podcast/andrew-bacevich-this-is-the-war-that-never-ends/",
-      "date"     : "2017-08-22 00:00:00 -0400"
+      "date"     : "2017-08-22 00:00:00 -0700"
     } ,
   
     {
@@ -3461,7 +3741,7 @@
       "category" : "",
       "tags"     : "Sarah Jones",
       "url"      : "//podcast/sarah-jones-why-establishment-dems-punch-alt-left/",
-      "date"     : "2017-08-18 00:00:00 -0400"
+      "date"     : "2017-08-18 00:00:00 -0700"
     } ,
   
     {
@@ -3469,7 +3749,7 @@
       "category" : "",
       "tags"     : "Forrest Hylton",
       "url"      : "//podcast/forrest-hylton-whats-next-for-the-colombian-left/",
-      "date"     : "2017-08-15 00:00:00 -0400"
+      "date"     : "2017-08-15 00:00:00 -0700"
     } ,
   
     {
@@ -3477,7 +3757,7 @@
       "category" : "",
       "tags"     : "Christy Thornton, Transcripts",
       "url"      : "//transcripts/christy-thornton-confronting-the-neoliberal-narco-state-in-mexico/",
-      "date"     : "2017-08-08 00:00:00 -0400"
+      "date"     : "2017-08-08 00:00:00 -0700"
     } ,
   
     {
@@ -3485,7 +3765,7 @@
       "category" : "",
       "tags"     : "Christy Thornton",
       "url"      : "//podcast/christy-thornton-confronting-the-neoliberal-narco-state-in-mexico/",
-      "date"     : "2017-08-08 00:00:00 -0400"
+      "date"     : "2017-08-08 00:00:00 -0700"
     } ,
   
     {
@@ -3493,7 +3773,7 @@
       "category" : "",
       "tags"     : "Ella Mahoney, R.L. Stephens",
       "url"      : "//podcast/r-l-ella-here-comes-the-dsa-convention/",
-      "date"     : "2017-08-01 00:00:00 -0400"
+      "date"     : "2017-08-01 00:00:00 -0700"
     } ,
   
     {
@@ -3501,7 +3781,7 @@
       "category" : "",
       "tags"     : "Alejandro Velasco",
       "url"      : "//podcast/alejandro-velasco-explaining-venezuelas-crisis/",
-      "date"     : "2017-07-25 00:00:00 -0400"
+      "date"     : "2017-07-25 00:00:00 -0700"
     } ,
   
     {
@@ -3509,7 +3789,7 @@
       "category" : "",
       "tags"     : "Thea Riofrancos",
       "url"      : "//podcast/thea-riofrancos-left-power-and-environmentalism-in-ecuador/",
-      "date"     : "2017-07-18 00:00:00 -0400"
+      "date"     : "2017-07-18 00:00:00 -0700"
     } ,
   
     {
@@ -3517,7 +3797,7 @@
       "category" : "",
       "tags"     : "Dara Lind",
       "url"      : "//podcast/dara-lind-trumps-uncomfortable-resemblance-to-obama-on-immigration/",
-      "date"     : "2017-07-11 00:00:00 -0400"
+      "date"     : "2017-07-11 00:00:00 -0700"
     } ,
   
     {
@@ -3525,7 +3805,7 @@
       "category" : "",
       "tags"     : "Sarah Jaffe",
       "url"      : "//podcast/sarah-jaffe-we-didnt-start-the-class-war/",
-      "date"     : "2017-07-05 00:00:00 -0400"
+      "date"     : "2017-07-05 00:00:00 -0700"
     } ,
   
     {
@@ -3533,7 +3813,7 @@
       "category" : "",
       "tags"     : "Naomi Klein",
       "url"      : "//podcast/naomi-klein-no-is-not-enough/",
-      "date"     : "2017-06-27 00:00:00 -0400"
+      "date"     : "2017-06-27 00:00:00 -0700"
     } ,
   
     {
@@ -3541,7 +3821,7 @@
       "category" : "",
       "tags"     : "James Forman Jr.",
       "url"      : "//podcast/james-forman-jr-locking-up-our-own/",
-      "date"     : "2017-06-20 00:00:00 -0400"
+      "date"     : "2017-06-20 00:00:00 -0700"
     } ,
   
     {
@@ -3549,7 +3829,7 @@
       "category" : "",
       "tags"     : "Richard Seymour",
       "url"      : "//podcast/richard-seymour-labours-got-momentum/",
-      "date"     : "2017-06-13 00:00:00 -0400"
+      "date"     : "2017-06-13 00:00:00 -0700"
     } ,
   
     {
@@ -3557,7 +3837,7 @@
       "category" : "",
       "tags"     : "David Dayen",
       "url"      : "//podcast/david-dayen-consider-the-vampire-squid/",
-      "date"     : "2017-06-06 00:00:00 -0400"
+      "date"     : "2017-06-06 00:00:00 -0700"
     } ,
   
     {
@@ -3565,7 +3845,7 @@
       "category" : "",
       "tags"     : "Peter Andreas",
       "url"      : "//podcast/peter-andreas-trumps-wall-is-already-built/",
-      "date"     : "2017-05-31 00:00:00 -0400"
+      "date"     : "2017-05-31 00:00:00 -0700"
     } ,
   
     {
@@ -3573,7 +3853,7 @@
       "category" : "",
       "tags"     : "Rick Lines",
       "url"      : "//podcast/rick-lines-the-drug-war-is-winding-down-and-heating-up/",
-      "date"     : "2017-05-23 00:00:00 -0400"
+      "date"     : "2017-05-23 00:00:00 -0700"
     } ,
   
     {
@@ -3581,7 +3861,7 @@
       "category" : "",
       "tags"     : "Sarah Jones, Transcripts",
       "url"      : "//transcripts/sarah-jones-whats-the-matter-with-appalachia-capitalism/",
-      "date"     : "2017-05-16 00:00:00 -0400"
+      "date"     : "2017-05-16 00:00:00 -0700"
     } ,
   
     {
@@ -3589,7 +3869,7 @@
       "category" : "",
       "tags"     : "Sarah Jones",
       "url"      : "//podcast/sarah-jones-whats-the-matter-with-appalachia-capitalism/",
-      "date"     : "2017-05-16 00:00:00 -0400"
+      "date"     : "2017-05-16 00:00:00 -0700"
     } ,
   
     {
@@ -3597,7 +3877,7 @@
       "category" : "",
       "tags"     : "Liza Featherstone",
       "url"      : "//podcast/liza-featherstone-on-the-fight-against-lean-in-feminism/",
-      "date"     : "2017-05-09 00:00:00 -0400"
+      "date"     : "2017-05-09 00:00:00 -0700"
     } ,
   
     {
@@ -3605,7 +3885,7 @@
       "category" : "",
       "tags"     : "Dean Baker",
       "url"      : "//podcast/dean-baker-on-trumps-tax-plan-for-the-rich/",
-      "date"     : "2017-05-04 00:00:00 -0400"
+      "date"     : "2017-05-04 00:00:00 -0700"
     } ,
   
     {
@@ -3613,7 +3893,7 @@
       "category" : "",
       "tags"     : "Adam Johnson",
       "url"      : "//podcast/adam-johnson-all-the-fake-news-thats-fit-to-print/",
-      "date"     : "2017-05-02 00:00:00 -0400"
+      "date"     : "2017-05-02 00:00:00 -0700"
     } ,
   
     {
@@ -3621,7 +3901,7 @@
       "category" : "",
       "tags"     : "Sebastian Budgen",
       "url"      : "//podcast/neoliberal-vs-neofascist-in-france/",
-      "date"     : "2017-04-27 00:00:00 -0400"
+      "date"     : "2017-04-27 00:00:00 -0700"
     } ,
   
     {
@@ -3629,7 +3909,7 @@
       "category" : "",
       "tags"     : "Keeanga-Yamahtta Taylor, Transcripts",
       "url"      : "//transcript/keeanga-yamahtta-taylor-on-black-liberation-and-socialism/",
-      "date"     : "2017-04-25 00:00:00 -0400"
+      "date"     : "2017-04-25 00:00:00 -0700"
     } ,
   
     {
@@ -3637,7 +3917,7 @@
       "category" : "",
       "tags"     : "Keeanga-Yamahtta Taylor",
       "url"      : "//podcast/keeanga-yamahtta-taylor-on-black-liberation-and-socialism/",
-      "date"     : "2017-04-25 00:00:00 -0400"
+      "date"     : "2017-04-25 00:00:00 -0700"
     } ,
   
     {
@@ -3645,7 +3925,7 @@
       "category" : "",
       "tags"     : "Brett Story, Jordan Camp",
       "url"      : "//podcast/mass-incarceration-is-everywhere/",
-      "date"     : "2017-04-18 00:00:00 -0400"
+      "date"     : "2017-04-18 00:00:00 -0700"
     } ,
   
     {
@@ -3653,7 +3933,7 @@
       "category" : "",
       "tags"     : "Nicole Aschoff",
       "url"      : "//podcast/is-neoliberalism-over-with-nicole-aschoff/",
-      "date"     : "2017-04-11 00:00:00 -0400"
+      "date"     : "2017-04-11 00:00:00 -0700"
     } ,
   
     {
@@ -3661,7 +3941,7 @@
       "category" : "",
       "tags"     : "Matt Bruenig, Transcripts",
       "url"      : "//transcripts/matt-bruenig-on-why-welfare-is-great-and-why-we-need-more/",
-      "date"     : "2017-04-04 00:00:00 -0400"
+      "date"     : "2017-04-04 00:00:00 -0700"
     } ,
   
     {
@@ -3669,7 +3949,7 @@
       "category" : "",
       "tags"     : "Matt Bruenig",
       "url"      : "//podcast/matt-bruenig-on-why-welfare-is-great-and-why-we-need-more/",
-      "date"     : "2017-04-04 00:00:00 -0400"
+      "date"     : "2017-04-04 00:00:00 -0700"
     } ,
   
     {
@@ -3677,7 +3957,7 @@
       "category" : "",
       "tags"     : "Corey Robin",
       "url"      : "//podcast/corey-robin-on-the-reactionaries-minds-under-trump/",
-      "date"     : "2017-03-28 00:00:00 -0400"
+      "date"     : "2017-03-28 00:00:00 -0700"
     } ,
   
     {
@@ -3685,7 +3965,7 @@
       "category" : "",
       "tags"     : "Maria Svart, Sean Monahan",
       "url"      : "//podcast/the-democratic-socialists-of-america-and-the-fight-against-trump/",
-      "date"     : "2017-03-21 00:00:00 -0400"
+      "date"     : "2017-03-21 00:00:00 -0700"
     } ,
   
     {
@@ -3693,7 +3973,7 @@
       "category" : "",
       "tags"     : "Dave Weigel",
       "url"      : "//podcast/dave-weigel-what-the-media-doesnt-get-about-the-left/",
-      "date"     : "2017-03-14 00:00:00 -0400"
+      "date"     : "2017-03-14 00:00:00 -0700"
     } ,
   
     {
@@ -3701,7 +3981,7 @@
       "category" : "",
       "tags"     : "Charlene Carruthers",
       "url"      : "//podcast/charlene-carruthers-fighting-for-black-lives-under-trump/",
-      "date"     : "2017-03-07 00:00:00 -0500"
+      "date"     : "2017-03-07 00:00:00 -0800"
     } ,
   
     {
@@ -3709,7 +3989,7 @@
       "category" : "",
       "tags"     : "Marie Gottschalk",
       "url"      : "//podcast/marie-gottschalk-mass-incarceration-and-trumps-carceral-state/",
-      "date"     : "2017-02-28 00:00:00 -0500"
+      "date"     : "2017-02-28 00:00:00 -0800"
     } ,
   
     {
@@ -3717,7 +3997,7 @@
       "category" : "",
       "tags"     : "Jedediah Purdy",
       "url"      : "//podcast/jed-purdy-the-courts-trump-and-politics-in-the-context-of-ecological-crisis/",
-      "date"     : "2017-02-21 00:00:00 -0500"
+      "date"     : "2017-02-21 00:00:00 -0800"
     } ,
   
     {
@@ -3725,7 +4005,7 @@
       "category" : "",
       "tags"     : "Mark Blyth",
       "url"      : "//podcast/mark-blyth-how-austerity-brought-us-donald-trump/​/",
-      "date"     : "2017-02-14 00:00:00 -0500"
+      "date"     : "2017-02-14 00:00:00 -0800"
     } ,
   
     {
@@ -3733,7 +4013,7 @@
       "category" : "",
       "tags"     : "George Cicariello-Maher",
       "url"      : "//podcast/white-genocide-with-george-ciccariello-maher/",
-      "date"     : "2017-02-07 00:00:00 -0500"
+      "date"     : "2017-02-07 00:00:00 -0800"
     } ,
   
     {
@@ -3741,7 +4021,7 @@
       "category" : "",
       "tags"     : "Linda Sarsour, Nicholas Espíritu",
       "url"      : "//podcast/fighting-the-trump-bans-linda-sarsour-and-nicholas-espiritu/",
-      "date"     : "2017-01-31 00:00:00 -0500"
+      "date"     : "2017-01-31 00:00:00 -0800"
     } ,
   
     {
@@ -3749,7 +4029,7 @@
       "category" : "",
       "tags"     : "Diane Ravitch",
       "url"      : "//podcast/diane-ravitch-on-trump-devos-and-the-corporate-ed-reform-agenda/",
-      "date"     : "2017-01-29 00:00:00 -0500"
+      "date"     : "2017-01-29 00:00:00 -0800"
     } ,
   
     {
@@ -3757,7 +4037,7 @@
       "category" : "",
       "tags"     : "Anand Gopal, Jeremy Scahill, Keeanga-Yamahtta Taylor, Naomi Klein, Owen Jones",
       "url"      : "//podcast/jacobins-all-star-socialist-anti-inauguration-extravaganza/",
-      "date"     : "2017-01-21 00:00:00 -0500"
+      "date"     : "2017-01-21 00:00:00 -0800"
     } ,
   
     {
@@ -3765,7 +4045,7 @@
       "category" : "",
       "tags"     : "Nijmie Dzurinko",
       "url"      : "//podcast/building-a-diverse-working-class-movement-to-transform-america/",
-      "date"     : "2017-01-17 00:00:00 -0500"
+      "date"     : "2017-01-17 00:00:00 -0800"
     } ,
   
     {
@@ -3773,7 +4053,7 @@
       "category" : "",
       "tags"     : "Glenn Greenwald",
       "url"      : "//podcast/glenn-greenwald-on-trump-and-the-national-security-state/",
-      "date"     : "2017-01-10 00:00:00 -0500"
+      "date"     : "2017-01-10 00:00:00 -0800"
     } ,
   
     {
@@ -3781,7 +4061,7 @@
       "category" : "",
       "tags"     : "César Cuauhtémoc García Hernández, Chris Newman",
       "url"      : "//podcast/trump-didnt-invent-being-terrible-on-immigration-cesar-cuauhtemoc-garcia-hernandez-chris-newman/",
-      "date"     : "2016-12-21 00:00:00 -0500"
+      "date"     : "2016-12-21 00:00:00 -0800"
     } ,
   
     {
@@ -3789,7 +4069,7 @@
       "category" : "",
       "tags"     : "Sarah Jaffe",
       "url"      : "//podcast/americans-in-revolt-sarah-jaffe-on-social-movements/",
-      "date"     : "2016-12-13 00:00:00 -0500"
+      "date"     : "2016-12-13 00:00:00 -0800"
     } ,
   
     {
@@ -3797,7 +4077,7 @@
       "category" : "",
       "tags"     : "Khalil Gibran Muhammad, Matt Karp, Stephanie Coontz",
       "url"      : "//podcast/why-trump-won-stephanie-coontz-khalil-gibran-muhammad-and-matt-karp/",
-      "date"     : "2016-12-06 00:00:00 -0500"
+      "date"     : "2016-12-06 00:00:00 -0800"
     } ,
   
     {
@@ -3805,7 +4085,7 @@
       "category" : "",
       "tags"     : "Jacob Sullum, Sharda Sekaran",
       "url"      : "//podcast/pilot-ending-the-drug-war-means-legalizing-drugs/",
-      "date"     : "2015-09-24 00:00:00 -0400"
+      "date"     : "2015-09-24 00:00:00 -0700"
     } 
   
 ]

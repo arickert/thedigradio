@@ -50,6 +50,7 @@ pages:
   Archive: '/archive/'
   Topics: '/topics/'
   Guests: '/guests/'
+  ...Presents: '/presents/'
 
 
 # Archives
