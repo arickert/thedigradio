@@ -2,7 +2,7 @@
 layout: post
 title: "The Dig Presents: A Garden in Cairo"
 permalink: podcast/the-dig-presents-a-garden-in-cairo/
-audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_398-SexualHegemony.mp3
+audiolink: https://content.blubrry.com/thedig/Cairo_Garden_0331_FINAL_final.mp3
 categories:
 - Cairo
 tags:
