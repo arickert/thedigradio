@@ -4,7 +4,7 @@
     <div class="card h-100">
         <div class="card-body">
             <h6 class="card-title" style="margin-bottom:0 color: #white">
-                <a class="text-dark" style="color: #78C0A0" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                <a class="text-dark" style="color:white" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             </h6>
         </div>
     </div>
