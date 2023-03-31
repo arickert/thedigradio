@@ -9,7 +9,7 @@ title: ...Presents
 
 <section class="recent-posts">
 <div class="section-title mt-2">
-    <h6 style="color: #white; font-weight:normal" >
+    <h6 style="color: white; font-weight:normal" >
 
 <p>
 The Dig Presents is a monthly series that features original documentary reporting, personal narrative, and other sonic experiments from a wide range of contributors. 
