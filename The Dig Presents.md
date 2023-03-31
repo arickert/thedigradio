@@ -25,7 +25,7 @@ If you’re interested in pitching a story to The Dig Presents, email thedigpres
 {% if post.title contains "The Dig Presents" %}
     {% if post.title contains "Newsletter" %}
     {% else %}
-    {% include postbox.md %}
+    {% include postbox2.md %}
     {% endif %}
 {% endif %}    
 
