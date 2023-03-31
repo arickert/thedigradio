@@ -20,6 +20,16 @@ Produced and edited by Liza Yeager and Mitchell Johnson.
 <p>
 If you’re interested in pitching a story to The Dig Presents, email thedigpresents@gmail.com. </p> </h6>
 </div>
+<div class="row listrecent">
+{% for post in site.posts %}
+{% if post.title contains "The Dig Presents" %}
+    {% if post.title contains "Newsletter" %}
+    {% else %}
+    {% include postbox.md %}
+    {% endif %}
+{% endif %}    
 
+{% endfor %}
+</div>
 </section>
 </div>
