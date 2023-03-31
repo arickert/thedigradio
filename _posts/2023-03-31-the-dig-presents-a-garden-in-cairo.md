@@ -7,8 +7,6 @@ categories:
 - Cairo
 tags:
 - Omar Etman
-- Liza Yeager
-- Mitchell Johnson
 ---
 
 It started with a few cones and a cryptic sign.
