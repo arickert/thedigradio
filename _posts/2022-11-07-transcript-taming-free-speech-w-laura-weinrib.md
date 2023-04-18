@@ -16,6 +16,6 @@ tags:
 
 Read the transcript [here](https://jacobin.com/2022/11/laura-weinrib-interview-taming-of-free-speech-aclu-liberalism-labor-iww).
 
-Dan’s [interview with Laura Weinrib](https://thedigradio.com/podcast/taming-free-speech-w-laura-weinrib) on *The Taming of Free Speech: America’s Civil Liberties*.
+Here's Dan’s [interview with Laura Weinrib](https://thedigradio.com/podcast/taming-free-speech-w-laura-weinrib) on *The Taming of Free Speech: America’s Civil Liberties*.
 
 Read our newsletter on this episode [here](https://thedigradio.com/newsletter42).
