@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "Transcript: The ACLU’s Drift From Radical to Neutral Tells the Story of Modern American Liberalism"
-permalink: transcripts/the-new-democrats-w-lily-geismer/
+title: "Transcript: The ACLU’s Drift From Radical to Neutral Tells the Story of Modern American Liberalism (w/ Laura Weinrib)"
+permalink: transcripts/taming-free-speech-w-laura-weinrib/
 audiolink: 
 post_id:
 categories:
 - Free Speech 
 - Judiciary 
 - Labor Movement 
-- Laura Weinrib 
 - US History
 tags: 
 - Laura Weinrib
