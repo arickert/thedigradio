@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "For Workers, Hospitals Have Become the New Steel Mills — Minus the Strong Unions (with Gabriel Winant)"
+title: "Transcript: For Workers, Hospitals Have Become the New Steel Mills — Minus the Strong Unions (with Gabriel Winant)"
 permalink: transcripts/next-shift-with-gabriel-winant/
 audiolink: 
 post_id:
