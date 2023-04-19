@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Deal–Era Leftists Tried to Win Beautiful Social Housing for the Masses (w/ Gail Radford)"
+title: "Transcript: New Deal–Era Leftists Tried to Win Beautiful Social Housing for the Masses (w/ Gail Radford)"
 permalink: transcripts/modern-housing-w-gail-radford/
 audiolink: 
 post_id:
