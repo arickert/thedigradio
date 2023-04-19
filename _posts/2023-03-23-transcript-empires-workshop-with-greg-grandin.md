@@ -9,7 +9,7 @@ categories:
 - Latin America
 - US History
 tags: 
-- Spencer Ackerman 
+- Greg Grandin 
 ---
 
 Read Jacobin's edited transcript here: [https://jacobin.com/2023/03/greg-grandin-interview-us-policy-latin-america](https://jacobin.com/2023/03/greg-grandin-interview-us-policy-latin-america)
