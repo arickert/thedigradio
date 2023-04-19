@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The United States Has Used Latin America as Its Imperial Laboratory (with Greg Grandin)"
+title: "Transcript: The United States Has Used Latin America as Its Imperial Laboratory (with Greg Grandin)"
 permalink: transcripts/empires-workshop-with-greg-grandin/
 audiolink: 
 post_id:
