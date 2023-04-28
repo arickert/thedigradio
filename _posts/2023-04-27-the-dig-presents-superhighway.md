@@ -8,13 +8,8 @@ categories:
 - Infrastructure
 - Ecology
 tags:
-- Chris Helzer
-- Lou Cornum
-- Chris Wells
-- Robert Moor
-- Emilie Snell-Rood
-- Ben Goldfarb
-- Leanne Betasamosake Simpson
+- Caroline Kanner
+- Jackson Roach
 ---
 
 The Dig Presents: Superhighway!
