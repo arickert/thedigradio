@@ -4,7 +4,9 @@ title: "The Dig Presents: Superhighway!"
 permalink: podcast/the-dig-presents-superhighway
 audiolink: https://content.blubrry.com/thedig/TheDigPresents_SuperHighway_042723.mp3
 categories:
-- Highways, Infrastructure, Ecology
+- Highways
+- Infrastructure
+- Ecology
 tags:
 - Chris Helzer
 - Lou Cornum
