@@ -9,7 +9,7 @@ categories:
 - Monetary Policy
 - Tim Barker
 tags:
-- historian Tim Barker
+- Tim Barker
 ---
 
 Featuring historian Tim Barker on the state of monetary politics amid the current fight over inflation. 
