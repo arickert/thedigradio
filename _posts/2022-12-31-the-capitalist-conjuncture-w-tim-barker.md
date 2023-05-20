@@ -9,7 +9,7 @@ categories:
 - Monetary Policy
 - Tim Barker
 tags:
-- historian Tim Barker
+- Tim Barker
 ---
 
 Featuring historian Tim Barker on monetary politics, inflation, and the general capitalist conjuncture. The second of a two-part interview.
