@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Transmissions from Jonestown"
-permalink: podcast/transmissions-from-jonestown
+title: "The Dig Presents: Transmissions from Jonestown"
+permalink: podcast/the-dig-presents-transmissions-from-jonestown
 audiolink: https://content.blubrry.com/thedig/TheDigPresents_Jonestown_0527.mp3
 categories:
 - Jonestown
