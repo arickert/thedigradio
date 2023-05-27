@@ -9,7 +9,7 @@ tags:
 - Babette Thomas
 ---
 
-A sonic memorial to the Black women of the People's Temple.
+A sonic memorial to the Black women of the Peoples Temple.
 
 Produced and reported by [Babette Thomas](https://www.babettethomas.com/). 
 
