@@ -2,7 +2,7 @@
 layout: post
 title: "Colonial Lives of Property w/ Brenna Bhandar"
 permalink: podcast/colonial-lives-of-property-w-brenna-bhandar/
-audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_405-Slobodian.mp3
+audiolink: https://content.blubrry.com/thedig/The_Dig-EP_406-Bhandar.mp3
 categories:
 - Colonialism
 tags:
