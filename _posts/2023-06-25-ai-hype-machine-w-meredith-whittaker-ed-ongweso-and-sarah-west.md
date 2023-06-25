@@ -6,13 +6,11 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-E
 categories:
 - AI
 - Capitalism
-- Edward Ongweso Jr
-- Meredith Whittaker
 - Sarah Myers West
 - Technology
 tags:
-- Meredith Whittaker,
-- Edward Ongweso Jr.,
+- Meredith Whittaker
+- Edward Ongweso Jr
 - 
 ---
 
