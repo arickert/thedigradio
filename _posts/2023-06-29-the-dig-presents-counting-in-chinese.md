@@ -4,7 +4,7 @@ title: "The Dig Presents: Counting in Chinese"
 permalink: podcast/the-dig-presents-counting-in-chinese
 audiolink: https://content.blubrry.com/thedig/The_Dig_Presents_0629_Counting_in_Chinese_.mp3
 categories:
-- Politics
+- Family
 tags:
 - Andrea Long Chu
 ---
