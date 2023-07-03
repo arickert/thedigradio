@@ -14,7 +14,7 @@ tags:
 - Michael Denning
 ---
 
-Read the transcript here: [https://jacobin.com/2023/06/michael-denning-antonio-gramsci-strategy-intellectuals-coalitions-theory](https://jacobin.com/2023/06/michael-denning-antonio-gramsci-strategy-intellectuals-coalitions-theory).
+Read the transcript of part 2 of our interview with Michael Denning on Antonio Gramsci here: [https://jacobin.com/2023/06/michael-denning-antonio-gramsci-strategy-intellectuals-coalitions-theory](https://jacobin.com/2023/06/michael-denning-antonio-gramsci-strategy-intellectuals-coalitions-theory).
 
 Listen to the original interviews: 
 - [https://thedigradio.com/podcast/gramsci-hegemony-w-michael-denning](https://thedigradio.com/podcast/gramsci-hegemony-w-michael-denning)
