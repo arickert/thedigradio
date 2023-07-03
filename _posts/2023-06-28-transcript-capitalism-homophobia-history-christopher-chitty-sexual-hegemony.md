@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Making Sense of Antonio Gramsci"
-permalink: transcripts/michael-denning-antonio-gramsci-strategy-intellectuals-coalitions-theory/
+title: "How Capitalism Remade Homophobia"
+permalink: transcripts/capitalism-homophobia-history-christopher-chitty-sexual-hegemony/
 audiolink: 
 post_id:
 categories:
