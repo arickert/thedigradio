@@ -34,8 +34,7 @@ time=time_soup["datetime"].split("T")[0]
 date="./_posts/"+time+"-"+permalink[slice(8,-1)]+".md"
 # iframe
 
-audiolink_soup=newsoup.find_all("iframe")[0]["src"].split("EP_")[1].split(".mp3")[0]
-audiolink="https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_"+audiolink_soup+".mp3"
+audiolink= soup.find('meta', attrs={'itemprop': 'contentUrl'})['content']
 
 
 cat_soup=newsoup.find(class_="tags-links")
