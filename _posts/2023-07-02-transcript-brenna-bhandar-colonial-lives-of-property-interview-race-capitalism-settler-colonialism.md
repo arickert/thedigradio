@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Property, Race, Colonialism, and Capitalism"
+title: "Property, Race, Colonialism, and Capitalism w/ Brenna Bhandar"
 permalink: transcripts/brenna-bhandar-colonial-lives-of-property-interview-race-capitalism-settler-colonialism/
 audiolink: 
 post_id:
