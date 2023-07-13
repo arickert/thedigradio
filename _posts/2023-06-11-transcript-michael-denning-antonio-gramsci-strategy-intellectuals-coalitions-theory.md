@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Making Sense of Antonio Gramsci"
+title: "Transcript: Making Sense of Antonio Gramsci"
 permalink: transcripts/michael-denning-antonio-gramsci-strategy-intellectuals-coalitions-theory/
 audiolink: 
 post_id:
