@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Capitalism Remade Homophobia"
+title: "Transcript: How Capitalism Remade Homophobia"
 permalink: transcripts/capitalism-homophobia-history-christopher-chitty-sexual-hegemony/
 audiolink: 
 post_id:
