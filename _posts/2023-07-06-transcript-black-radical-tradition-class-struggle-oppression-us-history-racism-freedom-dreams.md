@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Black Radical Tradition Can Guide Our Struggles Against Oppression w/ Robin D.G. Kelley"
+title: "Transcript: The Black Radical Tradition Can Guide Our Struggles Against Oppression w/ Robin D.G. Kelley"
 permalink: transcripts/black-radical-tradition-class-struggle-oppression-us-history-racism-freedom-dreams/
 audiolink: 
 post_id:
