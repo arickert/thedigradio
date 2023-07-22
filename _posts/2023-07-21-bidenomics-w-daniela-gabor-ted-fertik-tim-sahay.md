@@ -15,7 +15,7 @@ categories:
 tags:
 - Daniela Gabor,
 - Ted Fertik,
-- 
+- Tim Sahay
 ---
 
 Featuring Daniela Gabor, Ted Fertik, and Tim Sahay on Bidenomics. We define and debate the new American industrial policy, the energy transition, the New Cold War with China—and more.
