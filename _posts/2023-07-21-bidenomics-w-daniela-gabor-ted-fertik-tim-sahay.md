@@ -13,8 +13,8 @@ categories:
 - Tim Sahay
 - US Politics
 tags:
-- Daniela Gabor,
-- Ted Fertik,
+- Daniela Gabor
+- Ted Fertik
 - Tim Sahay
 ---
 
