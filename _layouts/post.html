@@ -10,7 +10,16 @@ layout: default
   <audio style="width:60%" controls><source src="{{page.audiolink}}" type="audio/mpeg">Your browser does not support the audio tag.</audio>
   {% endif %}
   {% if page.applelink != null %}
-  <a href="{{page.applelink}}">Apple</a>
+  <a href="{{page.applelink}}"><i class="fa-brands fa-apple" style="color:#515151;"></i></a>
+  {% endif %}
+  {% if page.spotifylink != null %}
+  <a href="{{page.spotifylink}}">
+    <a href="{{page.applelink}}"> <i class="fa-brands fa-spotify" style="color:#515151;"></i></a>
+
+  </a>
+  {% endif %}
+  {% if page.googlelink != null %}
+  <a href="{{page.googlelink}}"><i class="fa fa-google" style="color:#515151;" ></i></a>
   {% endif %}
   {% endunless %}
     {{ content }}
