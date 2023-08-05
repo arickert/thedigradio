@@ -6,21 +6,20 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   {% unless page.title contains "Newsletter" %}
   <span style="color:#B2B2B2" class="post-date">{{ page.date | date_to_string }}</span>
-  {% if page.audiolink != null %}
-  <audio style="width:60%" controls><source src="{{page.audiolink}}" type="audio/mpeg">Your browser does not support the audio tag.</audio>
-  {% endif %}
   {% if page.applelink != null %}
   <a href="{{page.applelink}}"><i class="fa-brands fa-apple" style="color:#515151;"></i></a>
   {% endif %}
   {% if page.spotifylink != null %}
-  <a href="{{page.spotifylink}}">
-    <a href="{{page.applelink}}"> <i class="fa-brands fa-spotify" style="color:#515151;"></i></a>
-
-  </a>
+  <a href="{{page.spotifylink}}"><i class="fa-brands fa-spotify" style="color:#515151;"></i></a>
   {% endif %}
   {% if page.googlelink != null %}
   <a href="{{page.googlelink}}"><i class="fa fa-google" style="color:#515151;" ></i></a>
   {% endif %}
+  <br>
+  {% if page.audiolink != null %}
+  <audio style="width:60%" controls><source src="{{page.audiolink}}" type="audio/mpeg">Your browser does not support the audio tag.</audio>
+  {% endif %}
+
   {% endunless %}
     {{ content }}
 </div>
