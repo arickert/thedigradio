@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/the-sahel-w-rahmane-idrissa/id1043245989?i=1000578195701
+spotifylink: https://open.spotify.com/episode/2vsWBXt7S4WC6CqUSOI6j1
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjI1Nw?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "The Sahel w/ Rahmane Idrissa"
 permalink: podcast/the-sahel-w-rahmane-idrissa/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_370-Idrissa.mp3

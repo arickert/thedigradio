@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/the-chicago-model-w-stacy-davis-gates-carlos-ramirez/id1043245989?i=1000612189299
+spotifylink: https://open.spotify.com/episode/1X71cFvOJwLc2GBhcapgDZ
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjQwNQ?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "The Chicago Model w/ Stacy Davis Gates, Carlos Ramirez-Rosa, and Alex Han"
 permalink: podcast/the-chicago-model-w-stacy-davis-gates-carlos-ramirez-rosa-and-alex-han/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_403-Chicago.mp3

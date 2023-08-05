@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/the-return-of-labor-militancy/id1043245989?i=1000561197691
+spotifylink: https://open.spotify.com/episode/0nok3P2N5KZDp868l9gfjS
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTIxOTc?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "The Return of Labor Militancy"
 permalink: podcast/the-return-of-labor-militancy/
 audiolink: https://content.blubrry.com/thedig/The_Dig-EP_356-LaborMilitancy.mp3

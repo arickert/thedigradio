@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/the-new-democrats-w-lily-geismer/id1043245989?i=1000565304170
+spotifylink: https://open.spotify.com/episode/1n7Vjz1rJpRI6gNAvm5ur2
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjIxMg?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "The New Democrats w/ Lily Geismer"
 permalink: podcast/the-new-democrats-w-lily-geismer/
 audiolink: https://content.blubrry.com/thedig/The_Dig-EP_359-Geismer.mp3

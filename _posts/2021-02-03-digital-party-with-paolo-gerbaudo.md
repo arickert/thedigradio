@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/digital-party-with-paolo-gerbaudo/id1043245989?i=1000507626540
+spotifylink: https://open.spotify.com/episode/1hon9f52XFBiESZebwrRZg
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE4ODI?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Digital Party with Paolo Gerbaudo"
 permalink: podcast/digital-party-with-paolo-gerbaudo/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_291-Gerbaudo.mp3

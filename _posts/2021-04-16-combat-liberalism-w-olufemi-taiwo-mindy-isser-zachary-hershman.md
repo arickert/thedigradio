@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/combat-liberalism-w-ol%C3%BAf%E1%BA%B9-mi-t%C3%A1%C3%ADw%C3%B2-mindy-isser-zachary/id1043245989?i=1000517456131
+spotifylink: https://open.spotify.com/episode/1DKi0Dw0h81Gf0hzdq4WIl
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE5NDQ?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Combat Liberalism w/ Olúfẹ́mi Táíwò, Mindy Isser, & Zachary Hershman"
 permalink: podcast/combat-liberalism-w-olufemi-taiwo-mindy-isser-zachary-hershman/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_302-CombatLibs.mp3

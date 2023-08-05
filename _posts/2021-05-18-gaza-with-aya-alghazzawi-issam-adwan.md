@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/gaza-with-aya-alghazzawi-issam-adwan/id1043245989?i=1000522259633
+spotifylink: https://open.spotify.com/episode/60kLRMJh6MnuProNyH1Ir1
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE5NjM?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Gaza with Aya Alghazzawi & Issam Adwan"
 permalink: podcast/gaza-with-aya-alghazzawi-issam-adwan/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_307-Gaza.mp3

@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/how-to-build-a-fighting-labor-movement-w-jane-mcalevey/id1043245989?i=1000609096958
+spotifylink: https://open.spotify.com/episode/3QNQ3FX15ciGztUsjBoPfl
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjM4NQ?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "How to Build a Fighting Labor Movement w/ Jane McAlevey"
 permalink: podcast/how-to-build-a-fighting-labor-movement-w-jane-mcalevey/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_400-McAlevey.mp3

@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/zionisms-civil-war-w-edo-konrad-joshua-leifer/id1043245989?i=1000607997821
+spotifylink: https://open.spotify.com/episode/330UhzgDSgglZ33FNrn0H9
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjM4Mg?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Zionism’s Civil War w/ Edo Konrad & Joshua Leifer"
 permalink: podcast/zionisms-civil-war-w-edo-konrad-joshua-leifer/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_399-Israel.mp3

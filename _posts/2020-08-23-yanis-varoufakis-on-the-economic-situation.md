@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/yanis-varoufakis-on-the-economic-situation/id1043245989?i=1000488920078
+spotifylink: https://open.spotify.com/episode/3dCNrajhOKg4TAzVFDi1WN
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE3NDQ?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Yanis Varoufakis on the Economic Situation"
 permalink: podcast/yanis-varoufakis-on-the-economic-situation/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_269-Varoufakis.mp3

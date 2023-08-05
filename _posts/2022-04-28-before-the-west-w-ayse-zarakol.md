@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/before-the-west-w-ay%C5%9Fe-zarakol/id1043245989?i=1000559031471
+spotifylink: https://open.spotify.com/episode/54rGXeg1W3b9HYS6sznuWY
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTIxOTE?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Before the West w/ Ayşe Zarakol"
 permalink: podcast/before-the-west-w-ayse-zarakol/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_354-Zarakol.mp3

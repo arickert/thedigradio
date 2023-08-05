@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/higher-ed-crisis-w-dennis-hogan/id1043245989?i=1000599084418
+spotifylink: https://open.spotify.com/episode/0qW8bAe1vp3VcKKVpgHpmI
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjM0NA?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Higher Ed Crisis w/ Dennis Hogan"
 permalink: podcast/higher-ed-crisis-w-dennis-hogan/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_392-Hogan.mp3

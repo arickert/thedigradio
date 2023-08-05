@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/gramsci-hegemony-w-michael-denning/id1043245989?i=1000594446065
+spotifylink: https://open.spotify.com/episode/7IzwTuTApSAtukOTeM2iKb
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjMyNw?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Gramsci & Hegemony w/ Michael Denning"
 permalink: podcast/gramsci-hegemony-w-michael-denning/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_388-Denning.mp3

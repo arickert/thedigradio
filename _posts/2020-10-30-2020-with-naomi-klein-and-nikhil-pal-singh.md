@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/2020-with-naomi-klein-and-nikhil-pal-singh/id1043245989?i=1000496612995
+spotifylink: https://open.spotify.com/episode/0lMWbeKnfBDKnH7tDRnoY1
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE3ODI?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "2020 with Naomi Klein and Nikhil Pal Singh"
 permalink: podcast/2020-with-naomi-klein-and-nikhil-pal-singh/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_278-NK-NPS.mp3

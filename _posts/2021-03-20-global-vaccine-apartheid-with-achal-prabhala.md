@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/global-vaccine-apartheid-with-achal-prabhala/id1043245989?i=1000513774962
+spotifylink: https://open.spotify.com/episode/4ATNMBEPMb4BDJcD3vfn9T
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE5MjI?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Global Vaccine Apartheid with Achal Prabhala"
 permalink: podcast/global-vaccine-apartheid-with-achal-prabhala/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_298-Prabhala.mp3

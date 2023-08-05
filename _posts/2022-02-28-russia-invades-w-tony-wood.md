@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/russia-invades-w-tony-wood/id1043245989?i=1000552525046
+spotifylink: https://open.spotify.com/episode/2Tc1qMZcYoYgDLaCzOLA07
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTIxMjg?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Russia Invades w/ Tony Wood"
 permalink: podcast/russia-invades-w-tony-wood/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_346-Wood.mp3

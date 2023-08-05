@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/private-money-with-stefan-eich/id1043245989?i=1000545840842
+spotifylink: https://open.spotify.com/episode/3PfNYUSVcKhNHipqVkijfw
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTIwODk?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Private Money with Stefan Eich"
 permalink: podcast/private-money-with-stefan-eich/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_337-Eich.mp3

@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/we-need-the-pro-act-with-jimmy-williams/id1043245989?i=1000512828834
+spotifylink: https://open.spotify.com/episode/2Vm6tCxavZ1Jz7uwlr6wGk
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE5MTc?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "We Need the PRO Act with Jimmy Williams"
 permalink: podcast/we-need-the-pro-act-with-jimmy-williams/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_297-Williams.mp3

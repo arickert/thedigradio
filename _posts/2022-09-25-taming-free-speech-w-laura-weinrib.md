@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/taming-free-speech-w-laura-weinrib/id1043245989?i=1000580563960
+spotifylink: https://open.spotify.com/episode/6DvkCgqg2MiFSZDxCL4VLI
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjI3MQ?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Taming Free Speech w/ Laura Weinrib"
 permalink: podcast/taming-free-speech-w-laura-weinrib/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_373-Weinrib.mp3

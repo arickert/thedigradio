@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/labor-histories-w-nelson-lichtenstein/id1043245989?i=1000603942488
+spotifylink: https://open.spotify.com/episode/48ROIqSBeMLSdb6I2WdHCH
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjM2NA?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Labor Histories w/ Nelson Lichtenstein"
 permalink: podcast/labor-histories-w-nelson-lichtenstein-2/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_396-Lichtenstein-2.mp3

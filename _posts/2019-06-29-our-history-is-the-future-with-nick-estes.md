@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/our-history-is-the-future-with-nick-estes/id1043245989?i=1000525522643
+spotifylink: https://open.spotify.com/episode/4Me4ftHziedyuOKD6x5gkS
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE5NzU?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Our History Is the Future with Nick Estes"
 permalink: podcast/our-history-is-the-future-with-nick-estes/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_207-Estes.mp3

@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/sexual-hegemony-w-max-fox-and-chris-nealon/id1043245989?i=1000605887210
+spotifylink: https://open.spotify.com/episode/3GOqs8u4uRy8UBE7I3OHAL
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjM3NA?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Sexual Hegemony w/ Max Fox and Chris Nealon"
 permalink: podcast/sexual-hegemony-w-max-fox-and-chris-nealon/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_398-SexualHegemony.mp3

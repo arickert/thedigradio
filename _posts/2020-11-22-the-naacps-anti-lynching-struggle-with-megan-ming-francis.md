@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/the-naacps-anti-lynching-struggle-with-megan-ming-francis/id1043245989?i=1000499810287
+spotifylink: https://open.spotify.com/episode/2wO86wL6JGkyCWU9S5LJll
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE3OTY?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "The NAACP's Anti-Lynching Struggle with Megan Ming Francis"
 permalink: podcast/the-naacps-anti-lynching-struggle-with-megan-ming-francis/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_281-MMF.mp3

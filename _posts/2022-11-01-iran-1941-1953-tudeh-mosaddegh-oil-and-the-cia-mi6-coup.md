@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/iran-1941-1953-tudeh-mosaddegh-oil-and-the-cia-mi6-coup/id1043245989?i=1000584701797
+spotifylink: https://open.spotify.com/episode/4rqta4nYLpl9QRPi4vspfZ
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjI5Mg?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Iran, 1941-1953: Tudeh, Mosaddegh, Oil, and the CIA-MI6 Coup"
 permalink: podcast/iran-1941-1953-tudeh-mosaddegh-oil-and-the-cia-mi6-coup/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_378-Iran-2.mp3

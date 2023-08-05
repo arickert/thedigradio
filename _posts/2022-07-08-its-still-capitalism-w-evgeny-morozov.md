@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/its-still-capitalism-w-evgeny-morozov/id1043245989?i=1000569294171
+spotifylink: https://open.spotify.com/episode/70Z205yBmldsrmgwzmxDQL
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjIzNQ?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "It’s Still Capitalism w/ Evgeny Morozov"
 permalink: podcast/its-still-capitalism-w-evgeny-morozov/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_364-Morozov.mp3

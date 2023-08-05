@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/trans-children-w-jules-gill-peterson/id1043245989?i=1000612895722
+spotifylink: https://open.spotify.com/episode/5nTkwLd5d2knCeV9vrwIsp
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjQwOQ?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Trans Children w/ Jules Gill-Peterson"
 permalink: podcast/trans-children-w-jules-gill-peterson/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_404-Gill-Peterson.mp3

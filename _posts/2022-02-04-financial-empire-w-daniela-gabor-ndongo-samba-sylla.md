@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/financial-empire-w-daniela-gabor-ndongo-samba-sylla/id1043245989?i=1000550118226
+spotifylink: https://open.spotify.com/episode/32POKzIsK7zvK8AlHa2Q7N
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTIxMTA?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Financial Empire w/ Daniela Gabor & Ndongo Samba Sylla"
 permalink: podcast/financial-empire-w-daniela-gabor-ndongo-samba-sylla/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_342-Sylla-Gabor.mp3

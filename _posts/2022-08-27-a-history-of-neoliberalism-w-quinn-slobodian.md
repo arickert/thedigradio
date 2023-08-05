@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/a-history-of-neoliberalism-w-quinn-slobodian/id1043245989?i=1000577521667
+spotifylink: https://open.spotify.com/episode/0lOZGs2nHCf9m6cXoxWlbS
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjI1NA?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "A History of Neoliberalism w/ Quinn Slobodian"
 permalink: podcast/a-history-of-neoliberalism-w-quinn-slobodian/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_369-Slobodian.mp3

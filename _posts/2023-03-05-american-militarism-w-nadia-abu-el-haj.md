@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/american-militarism-w-nadia-abu-el-haj/id1043245989?i=1000602831487
+spotifylink: https://open.spotify.com/episode/3nHkHUr2LtqnauG6Ik08Sz
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjM1NA?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "American Militarism w/ Nadia Abu El-Haj"
 permalink: podcast/american-militarism-w-nadia-abu-el-haj/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_395-El-Haj.mp3

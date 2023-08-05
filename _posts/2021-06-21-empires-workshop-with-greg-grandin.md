@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/empires-workshop-with-greg-grandin/id1043245989?i=1000526348649
+spotifylink: https://open.spotify.com/episode/4fvEm60chwfP1bV1Ys7qy9
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE5Nzc?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Empire's Workshop with Greg Grandin"
 permalink: podcast/empires-workshop-with-greg-grandin/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_312-Grandin.mp3

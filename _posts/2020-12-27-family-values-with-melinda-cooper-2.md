@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/family-values-with-melinda-cooper/id1043245989?i=1000503628549
+spotifylink: https://open.spotify.com/episode/5IsLN3Ho3VT8AVGw30XD2k
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE4MTk?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Family Values with Melinda Cooper"
 permalink: podcast/family-values-with-melinda-cooper-2/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_286-Cooper.mp3

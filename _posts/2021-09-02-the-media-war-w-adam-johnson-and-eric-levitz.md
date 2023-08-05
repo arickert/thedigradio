@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/the-media-war-w-adam-johnson-and-eric-levitz/id1043245989?i=1000534163785
+spotifylink: https://open.spotify.com/episode/4dTiTp9X67lsavz6nLfB60
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTIwMTY?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "The Media War w/ Adam Johnson and Eric Levitz"
 permalink: podcast/the-media-war-w-adam-johnson-and-eric-levitz/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_319-MediaWar.mp3

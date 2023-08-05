@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/next-shift-with-gabriel-winant/id1043245989?i=1000547931531
+spotifylink: https://open.spotify.com/episode/6h1RdXpZoXqHCupg7zRcmI
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTIxMDE?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Next Shift with Gabriel Winant"
 permalink: podcast/next-shift-with-gabriel-winant/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_339-Winant.mp3

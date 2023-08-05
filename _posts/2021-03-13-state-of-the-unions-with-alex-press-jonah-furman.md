@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/state-of-the-unions-with-alex-press-jonah-furman/id1043245989?i=1000512828833
+spotifylink: https://open.spotify.com/episode/5Ukuhpc2yzsNVEZDaS6NnL
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE5MTU?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "State of the Unions with Alex Press & Jonah Furman"
 permalink: podcast/state-of-the-unions-with-alex-press-jonah-furman/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_296-Press-Furman.mp3

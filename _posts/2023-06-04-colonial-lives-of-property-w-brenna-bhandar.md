@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/colonial-lives-of-property-w-brenna-bhandar/id1043245989?i=1000615638890
+spotifylink: https://open.spotify.com/episode/4SXLsDpQqoTBR8cPvDeJnH
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjQxOQ?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Colonial Lives of Property w/ Brenna Bhandar"
 permalink: podcast/colonial-lives-of-property-w-brenna-bhandar/
 audiolink: https://content.blubrry.com/thedig/The_Dig-EP_406-Bhandar.mp3

@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/arctic-energy-frontiers-with-bathsheba-demuth/id1043245989?i=1000493394979
+spotifylink: https://open.spotify.com/episode/0MK4wkTsNY3eQgdnNSjfqK
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE3Njc?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Arctic Energy Frontiers with Bathsheba Demuth"
 permalink: podcast/arctic-energy-frontiers-with-bathsheba-demuth/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_274-Demuth.mp3

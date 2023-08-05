@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/price-wars-w-rupert-russell-isabella-weber/id1043245989?i=1000556699770
+spotifylink: https://open.spotify.com/episode/5RUeePCTgX4wWfkK7b84Ar
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTIxNzc?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Price Wars w/ Rupert Russell & Isabella Weber"
 permalink: podcast/price-wars-w-rupert-russell-isabella-weber/
 audiolink: https://media.blubrry.com/thedig/b/content.blubrry.com/thedig/The_Dig-EP_351-PriceWars.mp3

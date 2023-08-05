@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/black-left-with-charisse-burden-stelly/id1043245989?i=1000516681952
+spotifylink: https://open.spotify.com/episode/0xGHnPzbQtVogEblIXhRpf
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE5NDI?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Black Left with Charisse Burden-Stelly"
 permalink: podcast/black-left-with-charisse-burden-stelly/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_301-Burden-Stelly.mp3

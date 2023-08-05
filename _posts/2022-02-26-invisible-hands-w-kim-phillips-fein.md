@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/invisible-hands-w-kim-phillips-fein/id1043245989?i=1000552313499
+spotifylink: https://open.spotify.com/episode/4Ci8lUQ13Ht8fklKGlWNYE
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTIxMjQ?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Invisible Hands w/ Kim Phillips-Fein"
 permalink: podcast/invisible-hands-w-kim-phillips-fein/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_345-Phillips-Fein.mp3

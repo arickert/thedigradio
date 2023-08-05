@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/bidenomics-w-daniela-gabor-ted-fertik-tim-sahay/id1043245989?i=1000621928996
+spotifylink: https://open.spotify.com/episode/60eejqEL0uvNZEYFWQr7vd
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjQ0Mw?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Bidenomics w/ Daniela Gabor, Ted Fertik, & Tim Sahay"
 permalink: podcast/bidenomics-w-daniela-gabor-ted-fertik-tim-sahay/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_411-Bidenomics.mp3

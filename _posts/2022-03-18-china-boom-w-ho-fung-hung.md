@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/china-boom-w-ho-fung-hung/id1043245989?i=1000554480648
+spotifylink: https://open.spotify.com/episode/7cdMYIChalT1Tw1qi1RYtb
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTIxNjE?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "China Boom w/ Ho-fung Hung"
 permalink: podcast/china-boom-w-ho-fung-hung/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_348-Hung.mp3

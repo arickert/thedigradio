@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/iran-1906-1941-w-eskandar-sadeghi-golnar-nikpour/id1043245989?i=1000584160930
+spotifylink: https://open.spotify.com/episode/0G27dDGO4U2i3a0fvfizu1
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjI4Ng?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Iran: 1906-1941 w/ Eskandar Sadeghi & Golnar Nikpour"
 permalink: podcast/iran-1906-1941-w-eskandar-sadeghi-golnar-nikpour/
 audiolink: https://content.blubrry.com/thedig/The_Dig-EP_377-Iran-1.mp3

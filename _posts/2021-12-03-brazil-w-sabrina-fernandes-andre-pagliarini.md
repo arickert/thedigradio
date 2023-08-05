@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/brazil-w-sabrina-fernandes-andre-pagliarini/id1043245989?i=1000543894264
+spotifylink: https://open.spotify.com/episode/5D8fl4B2bnAqxykp8S6F1V
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTIwNzc?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Brazil w/ Sabrina Fernandes & Andre Pagliarini"
 permalink: podcast/brazil-w-sabrina-fernandes-andre-pagliarini/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_334-Brazil.mp3

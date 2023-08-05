@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/identity-power-and-speech-with-ol%C3%BAf%E1%BA%B9-mi-t%C3%A1%C3%ADw%C3%B2/id1043245989?i=1000501453442
+spotifylink: https://open.spotify.com/episode/2SodHTZdbrwTVn6cIdfTeS
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE4MDc?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Identity, Power, and Speech with Olúfẹ́mi Táíwò"
 permalink: podcast/identity-power-and-speech-with-olufemi-taiwo-2/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_363-Taiwo.mp3

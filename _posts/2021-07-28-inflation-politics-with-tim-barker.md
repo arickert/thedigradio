@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/inflation-politics-with-tim-barker/id1043245989?i=1000530286586
+spotifylink: https://open.spotify.com/episode/37xoPR6yYBvwyF1kFvpugX
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE5OTM?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Inflation Politics with Tim Barker"
 permalink: podcast/inflation-politics-with-tim-barker/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_316-Barker.mp3

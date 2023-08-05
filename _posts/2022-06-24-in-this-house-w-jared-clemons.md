@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/in-this-house-w-jared-clemons/id1043245989?i=1000567627296
+spotifylink: https://open.spotify.com/episode/7p7iyWTzp9U4jiwdl1pWRL
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjIyNQ?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "In This House w/ Jared Clemons"
 permalink: podcast/in-this-house-w-jared-clemons/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_362-Clemons.mp3

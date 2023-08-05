@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/the-ruling-class-with-doug-henwood/id1043245989?i=1000527296813
+spotifylink: https://open.spotify.com/episode/1m83CVbP8eu0kLNpvSpA5Y
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE5ODA?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "The Ruling Class with Doug Henwood"
 permalink: podcast/the-ruling-class-with-doug-henwood/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_313-Henwood.mp3

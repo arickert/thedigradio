@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/big-ship-capitalism-with-laleh-khalili/id1043245989?i=1000519512417
+spotifylink: https://open.spotify.com/episode/0OkbwWGyLAO5gyfrltWkAg
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE5NDk?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Big Ship Capitalism with Laleh Khalili"
 permalink: podcast/big-ship-capitalism-with-laleh-khalili/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_304-Khalili.mp3

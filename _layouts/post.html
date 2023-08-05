@@ -9,6 +9,9 @@ layout: default
   {% if page.audiolink != null %}
   <audio style="width:60%" controls><source src="{{page.audiolink}}" type="audio/mpeg">Your browser does not support the audio tag.</audio>
   {% endif %}
+  {% if page.applelink != null %}
+  <a href="{{page.applelink}}">Apple</a>
+  {% endif %}
   {% endunless %}
     {{ content }}
 </div>

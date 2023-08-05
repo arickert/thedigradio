@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/new-deal-ruins-w-edward-goetz/id1043245989?i=1000590487012
+spotifylink: https://open.spotify.com/episode/57dFsIatI7UWjhkUKRtUf6
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjMxNw?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "New Deal Ruins w/ Edward Goetz"
 permalink: podcast/new-deal-ruins-w-edward-goetz/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_385-Goetz.mp3

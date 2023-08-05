@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/from-the-river-to-the-sea-w-noura-erakat-and-tareq-baconi/id1043245989?i=1000522762736
+spotifylink: https://open.spotify.com/episode/6iVAlutDGKChW1UMuSMNfl
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE5NjU?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "From the River to the Sea w/ Noura Erakat and Tareq Baconi"
 permalink: podcast/from-the-river-to-the-sea-w-noura-erakat-and-tareq-baconi/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_308-Palestine.mp3

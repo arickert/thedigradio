@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/bonds-of-inequality-w-destin-jenkins/id1043245989?i=1000558316985
+spotifylink: https://open.spotify.com/episode/2Ajc5XWH9LDYLdPjmTAYPo
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTIxODY?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Bonds of Inequality w/ Destin Jenkins"
 permalink: podcast/bonds-of-inequality-w-destin-jenkins/
 audiolink: https://media.blubrry.com/thedig/b/content.blubrry.com/thedig/The_Dig-EP_353-Jenkins.mp3 

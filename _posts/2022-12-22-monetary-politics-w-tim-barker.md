@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/monetary-politics-w-tim-barker/id1043245989?i=1000591033190
+spotifylink: https://open.spotify.com/episode/706m6utewplR3DeOGzD60U
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjMyMQ?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Monetary Politics w/ Tim Barker"
 permalink: podcast/monetary-politics-w-tim-barker/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_386-Barker.mp3

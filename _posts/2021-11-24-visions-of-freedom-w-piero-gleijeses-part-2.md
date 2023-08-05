@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/visions-of-freedom-w-piero-gleijeses-part-2/id1043245989?i=1000542960418
+spotifylink: https://open.spotify.com/episode/1Y3a5iWAZ75qPA2OXtWQKw
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTIwNzQ?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Visions of Freedom w/ Piero Gleijeses Part 2"
 permalink: podcast/visions-of-freedom-w-piero-gleijeses-part-2/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_333-Piero.mp3

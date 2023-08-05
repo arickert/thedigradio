@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/on-the-line-w-daisy-pitkin/id1043245989?i=1000581295472
+spotifylink: https://open.spotify.com/episode/6Rj74RWQqTA6TBsYlxWdQ7
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjI3Mw?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "On the Line w/ Daisy Pitkin"
 permalink: podcast/on-the-line-w-daisy-pitkin/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_374-Pitkin.mp3

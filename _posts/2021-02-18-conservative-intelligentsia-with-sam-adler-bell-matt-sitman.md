@@ -1,5 +1,8 @@
 ---
 layout: post
+applelink: https://podcasts.apple.com/us/podcast/conservative-intelligentsia-with-sam-adler-bell-matt/id1043245989?i=1000509755157
+spotifylink: https://open.spotify.com/episode/5Cso9XtEnuMZRxCeIpHA0F
+googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE4OTk?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "Conservative Intelligentsia with Sam Adler-Bell & Matt Sitman"
 permalink: podcast/conservative-intelligentsia-with-sam-adler-bell-matt-sitman/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_293-AdlerBell-Sitman.mp3
