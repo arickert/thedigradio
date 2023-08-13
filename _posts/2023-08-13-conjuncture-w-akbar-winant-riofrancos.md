@@ -12,9 +12,8 @@ categories:
 - US History
 - US Politics
 tags:
-- Amna Akbar,
-- Gabriel Winant,
-- 
+- Amna Akbar
+- Gabriel Winant
 ---
 
 Featuring Amna Akbar, Gabriel Winant, and Thea Riofrancos on the American conjuncture. Did an era that began with Occupy and Ferguson—marked by teachers strikes, two Bernie campaigns, the explosive growth of DSA, Standing Rock, and summer 2020 rebellions—just end? What social, political, and economic terrain is emerging in the wake of the pandemic, and how should the left navigate it? The first of a two-part and wide-ranging interview. 
