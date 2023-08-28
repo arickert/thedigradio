@@ -9,7 +9,7 @@ categories:
 - US History
 - US Politics
 tags:
-- Amna Akbar,
+- Amna Akbar
 - Gabriel Winant
 - Thea Riofrancos
 ---
