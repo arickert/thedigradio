@@ -6,6 +6,9 @@ audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/TheDigPre
 categories:
 - Extraterrestrials
 tags:
+- Mark Pilkington
+- Valerie Kuletz
+- Trevor Paglen
 ---
 
 *If you look, you’ll see. Most people don’t look.* 
