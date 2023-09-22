@@ -9,9 +9,8 @@ categories:
 - Organizing
 - Rachel Gilmer
 tags:
-- Alex Han,
-- Astra Taylor,
-- 
+- Alex Han
+- Astra Taylor
 ---
 
 Featuring Alex Han, Astra Taylor, and Rachel Gilmer on how we build powerful organizations that win both short-term fights and the long-term struggle for socialism. A live Dig recorded at the Socialism 2023 conference in Chicago. 
