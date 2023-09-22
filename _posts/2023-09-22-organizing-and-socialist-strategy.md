@@ -4,8 +4,6 @@ title: "Organizing and Socialist Strategy"
 permalink: podcast/organizing-and-socialist-strategy/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_416-Organizing.mp3
 categories:
-- Alex Han
-- Astra Taylor
 - Organizing
 - Rachel Gilmer
 tags:
