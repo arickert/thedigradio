@@ -1,11 +1,435 @@
 [
   
     {
+      "title"    : "Long Land War w/ Jo Guldi",
+      "category" : "",
+      "tags"     : "Jo Guldi",
+      "url"      : "//podcast/long-land-war-w-jo-guldi/",
+      "date"     : "2023-09-29 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #82: The Union Forever, Part 2 | Listeners&#39; Maibag with Alex Press",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter82",
+      "date"     : "2023-09-27 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #81: The Union Forever, Part 1 | Listeners&#39; Maibag with Eric Blanc",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter81",
+      "date"     : "2023-09-25 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Organizing and Socialist Strategy",
+      "category" : "",
+      "tags"     : "Alex Han, Astra Taylor",
+      "url"      : "//podcast/organizing-and-socialist-strategy/",
+      "date"     : "2023-09-22 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "The Dig Presents: Alien Jerky Sold Here",
+      "category" : "",
+      "tags"     : "Mark Pilkington, Valerie Kuletz, Trevor Paglen",
+      "url"      : "//podcast/the-dig-presents-alien-jerky-sold-here/",
+      "date"     : "2023-09-14 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Seizing Labor’s Moment w/ Alex Press &amp; Eric Blanc",
+      "category" : "",
+      "tags"     : "Alex Press and Eric Blanc",
+      "url"      : "//podcast/seizing-labors-moment-w-alex-press-eric-blanc/",
+      "date"     : "2023-09-09 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #80: Cracks in the Class Structure w/ Amna Akbar, Gabriel Winant, Thea Riofrancos, Part Two",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter80",
+      "date"     : "2023-09-04 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "AOC on US Hegemony and Latin American Sovereignty",
+      "category" : "",
+      "tags"     : "Alexandria Ocasio-Cortez",
+      "url"      : "//podcast/aoc-on-us-hegemony-and-latin-american-sovereignty/",
+      "date"     : "2023-08-31 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Emergent Terrain w/ Akbar, Winant, &amp; Riofrancos",
+      "category" : "",
+      "tags"     : "Amna Akbar, Gabriel Winant, Thea Riofrancos",
+      "url"      : "//podcast/emergent-terrain-w-akbar-winant-riofrancos/",
+      "date"     : "2023-08-24 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #79: What Next for the Left?, with Amna Akbar, Gabriel Winant, and Thea Riofrancos, Part One",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter79",
+      "date"     : "2023-08-19 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Conjuncture w/ Akbar, Winant, &amp; Riofrancos",
+      "category" : "",
+      "tags"     : "Amna Akbar, Gabriel Winant, Thea Riofrancos",
+      "url"      : "//podcast/conjuncture-w-akbar-winant-riofrancos/",
+      "date"     : "2023-08-13 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #78: The Relevance of The Communist Manifesto Today w/ China Mieville",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter78",
+      "date"     : "2023-08-09 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "The Dig Presents: Power Struggle",
+      "category" : "",
+      "tags"     : "Dharna Noor",
+      "url"      : "//podcast/the-dig-presents-power-struggle/",
+      "date"     : "2023-08-01 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Bidenomics w/ Daniela Gabor, Ted Fertik, &amp; Tim Sahay",
+      "category" : "",
+      "tags"     : "Daniela Gabor, Ted Fertik, Tim Sahay",
+      "url"      : "//podcast/bidenomics-w-daniela-gabor-ted-fertik-tim-sahay/",
+      "date"     : "2023-07-21 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #77: Human versus Machine, w/ Meredith Whittaker, Ed Ongweso, and Sarah West",
+      "category" : "",
+      "tags"     : "Meredith Whittaker, Edward Ongweso Jr",
+      "url"      : "//newsletter77",
+      "date"     : "2023-07-12 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "The Manifesto w/ China Miéville",
+      "category" : "",
+      "tags"     : "China Miéville",
+      "url"      : "//podcast/the-manifesto-w-china-mieville/",
+      "date"     : "2023-07-09 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Transcript: The Black Radical Tradition Can Guide Our Struggles Against Oppression w/ Robin D.G. Kelley",
+      "category" : "",
+      "tags"     : "Robin D.G. Kelley",
+      "url"      : "//transcripts/black-radical-tradition-class-struggle-oppression-us-history-racism-freedom-dreams/",
+      "date"     : "2023-07-06 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Transcript: Property, Race, Colonialism, and Capitalism w/ Brenna Bhandar",
+      "category" : "",
+      "tags"     : "Brenna Bhandar",
+      "url"      : "//transcripts/brenna-bhandar-colonial-lives-of-property-interview-race-capitalism-settler-colonialism/",
+      "date"     : "2023-07-02 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "The Dig Presents: Counting in Chinese",
+      "category" : "",
+      "tags"     : "Andrea Long Chu",
+      "url"      : "//podcast/the-dig-presents-counting-in-chinese",
+      "date"     : "2023-06-29 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Transcript: How Capitalism Remade Homophobia",
+      "category" : "",
+      "tags"     : "Max Fox and Chris Nealon",
+      "url"      : "//transcripts/capitalism-homophobia-history-christopher-chitty-sexual-hegemony/",
+      "date"     : "2023-06-28 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #76: OPEC and the Century of Oil, w/ Giuliano Garavini",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter76",
+      "date"     : "2023-06-26 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "AI Hype Machine w/ Meredith Whittaker, Ed Ongweso, and Sarah West",
+      "category" : "",
+      "tags"     : "Meredith Whittaker, Edward Ongweso Jr",
+      "url"      : "//podcast/ai-hype-machine-w-meredith-whittaker-ed-ongweso-and-sarah-west/",
+      "date"     : "2023-06-25 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "The Fall of OPEC w/ Giuliano Garavini",
+      "category" : "",
+      "tags"     : "Giuliano Garavini",
+      "url"      : "//podcast/the-fall-of-opec-w-giuliano-garavini/",
+      "date"     : "2023-06-18 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #75: Settler-Colonialism Never Ended, with Brenna Bhandar",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter75",
+      "date"     : "2023-06-15 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Transcript: Making Sense of Antonio Gramsci",
+      "category" : "",
+      "tags"     : "Michael Denning",
+      "url"      : "//transcripts/michael-denning-antonio-gramsci-strategy-intellectuals-coalitions-theory/",
+      "date"     : "2023-06-11 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "The Rise of OPEC w/ Giuliano Garavini",
+      "category" : "",
+      "tags"     : "Giuliano Garavini",
+      "url"      : "//podcast/the-rise-of-opec-w-giuliano-garavini/",
+      "date"     : "2023-06-11 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #74: Listeners&#39; Mailbag w/ Quinn Slobodian",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter74",
+      "date"     : "2023-06-09 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Colonial Lives of Property w/ Brenna Bhandar",
+      "category" : "",
+      "tags"     : "Brenna Bhandar",
+      "url"      : "//podcast/colonial-lives-of-property-w-brenna-bhandar/",
+      "date"     : "2023-06-04 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #73: Exiting Neoliberalism&#39;s Zones of Exception, with Quinn Slobodian",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter73",
+      "date"     : "2023-06-03 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "The Dig Presents: Transmissions from Jonestown",
+      "category" : "",
+      "tags"     : "Babette Thomas",
+      "url"      : "//podcast/the-dig-presents-transmissions-from-jonestown",
+      "date"     : "2023-05-27 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Crack-Up Capitalism w/ Quinn Slobodian",
+      "category" : "",
+      "tags"     : "Quinn Slobodian",
+      "url"      : "//podcast/crack-up-capitalism-w-quinn-slobodian/",
+      "date"     : "2023-05-20 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #72: Historicizing the Anti-Trans Panic, with Jules Gill-Peterson",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter72",
+      "date"     : "2023-05-18 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Trans Children w/ Jules Gill-Peterson",
+      "category" : "",
+      "tags"     : "Jules Gill-Peterson",
+      "url"      : "//podcast/trans-children-w-jules-gill-peterson/",
+      "date"     : "2023-05-13 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #71: Chicago&#39;s Working-Class Movement Turns to Governing, with Stacy Davis Gates, Carlos Ramirez-Rosa, and Alex Han",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter71",
+      "date"     : "2023-05-13 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #70: Doing the Work in Philadelphia, with Helen Gym and Nikil Saval",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter70",
+      "date"     : "2023-05-11 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "The Chicago Model w/ Stacy Davis Gates, Carlos Ramirez-Rosa, and Alex Han",
+      "category" : "",
+      "tags"     : "Stacy Davis Gates, Carlos Ramirez-Rosa, Alex Han",
+      "url"      : "//podcast/the-chicago-model-w-stacy-davis-gates-carlos-ramirez-rosa-and-alex-han/",
+      "date"     : "2023-05-08 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Philly’s Left Turn w/ Helen Gym &amp; Nikil Saval",
+      "category" : "",
+      "tags"     : "Nikil Saval and Helen Gym",
+      "url"      : "//podcast/phillys-left-turn-w-helen-gym-nikil-saval/",
+      "date"     : "2023-05-05 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #69: Cars and Colonialism, on Caroline Kanner and Jackson Roach’s “Superhighway!",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter69",
+      "date"     : "2023-05-05 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "The Dig Presents: Superhighway!",
+      "category" : "",
+      "tags"     : "Caroline Kanner, Jackson Roach",
+      "url"      : "//podcast/the-dig-presents-superhighway",
+      "date"     : "2023-04-27 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #68: The Path to Social Democracy Runs Through Public Education, with Jennifer Berkshire and Jack Schneider",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter68",
+      "date"     : "2023-04-25 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "No, It’s Not Techno-Feudalism. It’s Still Capitalism.",
+      "category" : "",
+      "tags"     : "Evgeny Morozov",
+      "url"      : "//transcripts/evgeny-morozov-critique-of-techno-feudalism-modes-of-production-capitalism/",
+      "date"     : "2023-04-23 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Teach the Children Well w/ Jennifer Berkshire &amp; Jack Schneider",
+      "category" : "",
+      "tags"     : "Jennifer Berkshire and Jack Schneider",
+      "url"      : "//podcast/teach-the-children-well-w-jennifer-berkshire-jack-schneider/",
+      "date"     : "2023-04-23 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Transcript: For Workers, Hospitals Have Become the New Steel Mills — Minus the Strong Unions (with Gabriel Winant)",
+      "category" : "",
+      "tags"     : "Gabriel Winant",
+      "url"      : "//transcripts/next-shift-with-gabriel-winant/",
+      "date"     : "2023-04-19 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #67: Worker Organizing Beyond the Bargaining Table, w/ Jane McAlevey",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter67",
+      "date"     : "2023-04-19 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "How to Build a Fighting Labor Movement w/ Jane McAlevey",
+      "category" : "",
+      "tags"     : "Jane McAlevey",
+      "url"      : "//podcast/how-to-build-a-fighting-labor-movement-w-jane-mcalevey/",
+      "date"     : "2023-04-15 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #66: No State of Exception w/ Edo Konrad and Joshua Leifer",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter66",
+      "date"     : "2023-04-13 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Zionism’s Civil War w/ Edo Konrad &amp; Joshua Leifer",
+      "category" : "",
+      "tags"     : "Edo Konrad and Joshua Leifer",
+      "url"      : "//podcast/zionisms-civil-war-w-edo-konrad-joshua-leifer/",
+      "date"     : "2023-04-08 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Transcript: New Deal–Era Leftists Tried to Win Beautiful Social Housing for the Masses (w/ Gail Radford)",
+      "category" : "",
+      "tags"     : "Gail Radford",
+      "url"      : "//transcripts/modern-housing-w-gail-radford/",
+      "date"     : "2023-04-03 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #65: Left Culture and Public Space, on Omar Etman’s “A Garden in Cairo",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter65",
+      "date"     : "2023-04-02 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #64: Sexuality and Class Conflict w/ Max Fox and Chris Nealon",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter64",
+      "date"     : "2023-04-01 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "The Dig Presents: A Garden in Cairo",
+      "category" : "",
+      "tags"     : "Omar Etman, Omnia Khalil, Karim Ghaleb",
+      "url"      : "//podcast/the-dig-presents-a-garden-in-cairo/",
+      "date"     : "2023-03-31 00:00:00 -0700"
+    } ,
+  
+    {
       "title"    : "Sexual Hegemony w/ Max Fox and Chris Nealon",
       "category" : "",
       "tags"     : "Max Fox and Chris Nealon",
       "url"      : "//podcast/sexual-hegemony-w-max-fox-and-chris-nealon/",
       "date"     : "2023-03-25 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Transcript: The United States Has Used Latin America as Its Imperial Laboratory (with Greg Grandin)",
+      "category" : "",
+      "tags"     : "Greg Grandin",
+      "url"      : "//transcripts/empires-workshop-with-greg-grandin/",
+      "date"     : "2023-03-23 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Newsletter #63: Race, Medicine, and Indifference to Suffering, with Helena Hansen, Jules Netherland, and David Herzberg",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "//newsletter63",
+      "date"     : "2023-03-22 00:00:00 -0700"
     } ,
   
     {
@@ -113,6 +537,14 @@
     } ,
   
     {
+      "title"    : "You Can Thank George W. Bush’s War on Terror for Donald Trump (with Spencer Ackerman)",
+      "category" : "",
+      "tags"     : "Spencer Ackerman",
+      "url"      : "//transcripts/war-on-terror-w-spencer-ackerman/",
+      "date"     : "2023-02-01 00:00:00 -0800"
+    } ,
+  
+    {
       "title"    : "Newsletter #56: Freedom Dreams and Counter-Histories, with Robin D.G. Kelley",
       "category" : "",
       "tags"     : "",
@@ -134,6 +566,14 @@
       "tags"     : "Robin D.G. Kelley",
       "url"      : "//podcast/freedom-dreams-w-robin-d-g-kelley/",
       "date"     : "2023-01-27 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Transcript: Michael Denning on Antonio Gramsci and Hegemony",
+      "category" : "",
+      "tags"     : "Michael Denning",
+      "url"      : "//transcripts/michael-denning-gramsci-hegemony/",
+      "date"     : "2023-01-23 00:00:00 -0800"
     } ,
   
     {
@@ -161,6 +601,14 @@
     } ,
   
     {
+      "title"    : "Transcript: Inflation Is About Class Struggle (with Tim Barker)",
+      "category" : "",
+      "tags"     : "Tim Barker",
+      "url"      : "//transcripts/inflation-class-struggle-w-tim-barker/",
+      "date"     : "2023-01-11 00:00:00 -0800"
+    } ,
+  
+    {
       "title"    : "Selections from the Prison Notebooks excerpts",
       "category" : "",
       "tags"     : "",
@@ -179,7 +627,7 @@
     {
       "title"    : "The Capitalist Conjuncture w/ Tim Barker",
       "category" : "",
-      "tags"     : "historian Tim Barker",
+      "tags"     : "Tim Barker",
       "url"      : "//podcast/the-capitalist-conjuncture-w-tim-barker/",
       "date"     : "2022-12-31 00:00:00 -0800"
     } ,
@@ -195,7 +643,7 @@
     {
       "title"    : "Monetary Politics w/ Tim Barker",
       "category" : "",
-      "tags"     : "historian Tim Barker",
+      "tags"     : "Tim Barker",
       "url"      : "//podcast/monetary-politics-w-tim-barker/",
       "date"     : "2022-12-22 00:00:00 -0800"
     } ,
@@ -206,6 +654,22 @@
       "tags"     : "Edward Goetz",
       "url"      : "//podcast/new-deal-ruins-w-edward-goetz/",
       "date"     : "2022-12-17 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Transcript: Today’s Conservative Movement Has Roots in the Capitalist Backlash Against the New Deal (with Kim Phillips-Fein)",
+      "category" : "",
+      "tags"     : "Kim Phillips-Fein",
+      "url"      : "//transcripts/invisible-hands-w-kim-phillips-fein/",
+      "date"     : "2022-12-16 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Transcript: The Impossible Escape From the European Union (with Anton Jäger and Dominik Leusder)",
+      "category" : "",
+      "tags"     : "Anton Jager, Dominik Leusder",
+      "url"      : "//transcripts/impossible-escape-eu-w-anton-jager-dominik-leusder/",
+      "date"     : "2022-12-14 00:00:00 -0800"
     } ,
   
     {
@@ -257,6 +721,14 @@
     } ,
   
     {
+      "title"    : "Transcript: Neoliberalism Was a Counterrevolution Against Democracy (with Quinn Slobodian)",
+      "category" : "",
+      "tags"     : "Quinn Slobodian, Transcripts",
+      "url"      : "//transcripts/neoliberalism-counterrevolution-w-quinn-slobodian/",
+      "date"     : "2022-11-18 00:00:00 -0800"
+    } ,
+  
+    {
       "title"    : "Iran, 1997-2022: Reform, Reaction, and Crisis",
       "category" : "",
       "tags"     : "Eskandar Sadeghi-Boroujerdi and Golnar Nikpour",
@@ -286,6 +758,14 @@
       "tags"     : "",
       "url"      : "//newsletter47",
       "date"     : "2022-11-09 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Transcript: The ACLU’s Drift From Radical to Neutral Tells the Story of Modern American Liberalism (w/ Laura Weinrib)",
+      "category" : "",
+      "tags"     : "Laura Weinrib, Transcripts",
+      "url"      : "//transcripts/taming-free-speech-w-laura-weinrib/",
+      "date"     : "2022-11-07 00:00:00 -0800"
     } ,
   
     {
@@ -1030,6 +1510,14 @@
       "tags"     : "Gabriel Winant",
       "url"      : "//podcast/next-shift-with-gabriel-winant/",
       "date"     : "2022-01-14 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Transcript: The History of American Public Housing Shows It Didn’t Have to Decline (with Edward Goetz)",
+      "category" : "",
+      "tags"     : "Edward Goetz",
+      "url"      : "//transcripts/new-deal-ruins-w-edward-goetz/",
+      "date"     : "2022-01-06 00:00:00 -0800"
     } ,
   
     {

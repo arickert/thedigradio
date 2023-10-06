@@ -1,0 +1,24 @@
+{
+  "name": "arickert.github.io",
+  "version": "1.0.0",
+  "description": "*Hello Dan! Or future assistant of Dan. The following is a brief tutorial of how to upload episodes to The Dig's new website.*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arickert/arickert.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arickert/arickert.github.io/issues"
+  },
+  "homepage": "https://github.com/arickert/arickert.github.io#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.30",
+    "tinacms": "^1.5.21"
+  }
+}

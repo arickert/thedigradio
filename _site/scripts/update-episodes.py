@@ -3,6 +3,30 @@ from bs4 import BeautifulSoup
 import markdownify
 import re
 
+def get_names(names):
+    # split by comma
+    name_list = names.split(',')
+
+    # split by 'and'
+    for i in range(len(name_list)-1, -1, -1): # We iterate backwards due to removal of elements
+        if ' and ' in name_list[i]:
+            temp = name_list[i].split(' and ')
+            name_list[i] = temp[0]
+            name_list.append(temp[1])
+        if not name_list[i].strip(): # If the element is empty after removing white spaces, remove it
+            name_list.pop(i)
+
+    # strip leading and trailing spaces
+    name_list = [name.strip() for name in name_list]
+
+    return name_list
+
+def remove_duplicates(categories, tags):
+    # Use list comprehension to create a new list that consists of only 
+    # the elements in categories that are not in themes
+    categories = [category for category in categories if category not in tags]
+
+    return categories
 
 page=urlopen("https://thedig.blubrry.net/")
 html = page.read().decode("utf-8")
@@ -34,13 +58,11 @@ time=time_soup["datetime"].split("T")[0]
 date="./_posts/"+time+"-"+permalink[slice(8,-1)]+".md"
 # iframe
 
-audiolink_soup=newsoup.find_all("iframe")[0]["src"].split("EP_")[1].split(".mp3")[0]
-audiolink="https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_"+audiolink_soup+".mp3"
+audiolink= soup.find('meta', attrs={'itemprop': 'contentUrl'})['content']
 
 
 cat_soup=newsoup.find(class_="tags-links")
 cont=cat_soup.contents
-catflag=False
 for a in cont:
     st = a.string
     if "Tagged" not in st:
@@ -64,33 +86,12 @@ for p in bod_soup:
 final=body[0][slice(0,10)]
 if final == "Featuring ":
     b1=body[0][10:-1]
-    pflag=False
     onindex=b1.find(" on")
     print(onindex)
     b2=b1[slice(0,onindex)]
     print(b2)
-    if b2.find(",")==-1:
-        tags.append(b2)
-    else:
-        while pflag==False:
-            com=b2.find(",")
-            name = b2[0:com+1]
-            print(name)
-            if b2.find(",")== -1:     
-                pflag=True
+    tags = get_names(b2)
 
-                if b2.find(" and ")>3:
-                    andloc=b2.find(" and ")
-                    tags.append(b2[:andloc])
-                    andloc+=5
-                    tags.append(b2[andloc:])
-                    break
-
-            com+=2
-            b2=b2[com:]
-            tags.append(name)
-
-print(tags)
 episode="---\nlayout: post\ntitle: "
 episode+= '"'+title+'"\npermalink: '+permalink+"\naudiolink: "+audiolink+"\ncategories:\n"
 for c in categories:
@@ -101,6 +102,9 @@ for t in tags:
 episode +="---\n\n"
 for p in body:
     episode+=p
-
+categories=remove_duplicates(categories, tags)
 with open(date, 'x') as f:
     f.write(episode)
+
+
+
