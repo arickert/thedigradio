@@ -8,3 +8,4 @@ gem 'jekyll-admin', group: :jekyll_plugins
 gem 'jekyll-server-redirects'
 gem 'jekyll-seo-tag'
 gem 'listen', '~> 3.8'
+gem 'rexml'
