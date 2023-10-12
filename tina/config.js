@@ -38,6 +38,33 @@ export default defineConfig({
             label: "Body",
             isBody: true,
           },
+          {
+            type: "string",
+            name: "permalink",
+            label: "Permalink",
+          },
+                    {
+            type: "string",
+            name: "audiolink",
+            label: "Audiolink",
+          },
+          {
+            type: "string",
+            name: "categories",
+            list:'true',
+            label: "Categories",
+          },
+          {
+            type: "string",
+            name: "tags",
+            list:'true',
+            label: "Tags",
+          },
+          {
+            type: "number",
+            name: "post_id",
+            label: "PostID",
+          },
         ],
       },
     ],
