@@ -4,13 +4,29 @@
  <title>The Dig</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-10-08T20:25:56-07:00</updated>
+ <updated>2023-10-11T23:45:04-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>If We Burn w/ Vincent Bevins</title>
+   <link href="http://localhost:4000/podcast/if-we-burn-w-vincent-bevins/"/>
+   <updated>2023-10-09T00:00:00-07:00</updated>
+   <id>http://localhost:4000/podcast/if-we-burn-w-vincent-bevins</id>
+   <content type="html">&lt;p&gt;Featuring Vincent Bevins on &lt;em&gt;If We Burn: The Mass Protest Decade and the Missing Revolution&lt;/em&gt;. The first of a two-part interview on this important new book.&lt;/p&gt;
+
+&lt;p&gt;Support The Dig at Patreon.com/TheDig and ask Vincent a follow-up question.&lt;/p&gt;
+
+&lt;p&gt;Buy &lt;em&gt;Reform, Revolution, and Opportunism: Debates in the Second International, 1900-1910&lt;/em&gt; &lt;a href=&quot;http://haymarketbooks.org/books/2109-reform-revolution-and-opportunism&quot;&gt;haymarketbooks.org/books/2109-reform-revolution-and-opportunism&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Buy &lt;em&gt;War Made Invisible&lt;/em&gt; &lt;a href=&quot;http://thenewpress.com/books/war-made-invisible&quot;&gt;thenewpress.com/books/war-made-invisible&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Long Land War w/ Jo Guldi</title>
