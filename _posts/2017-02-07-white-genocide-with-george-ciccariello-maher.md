@@ -1,8 +1,7 @@
 ---
 title: '''White genocide'' with George Ciccariello-Maher'
 permalink: podcast/white-genocide-with-george-ciccariello-maher/
-audiolink: >-
-  https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP10-_DRAFT2.mp3
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP10-_DRAFT2.mp3
 categories:
   - Education
   - Racism
@@ -10,7 +9,6 @@ categories:
 tags:
   - George Cicariello-Maher
 post_id: 691
-googlelink: test.url
 ---
 
 George Cicariello-Maher is professor of political science at Drexel University and author of several books, including Building the Commune: Radical Democracy in Venezuela, published by Verso as part of the Jacobin Series. He recently drew the ire of white supremacist, "alt-right" trolls after a mocking tweet about "white genocide," including death threats to his family.
