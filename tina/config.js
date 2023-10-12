@@ -65,6 +65,22 @@ export default defineConfig({
             name: "post_id",
             label: "PostID",
           },
+          {
+            type: "string",
+            name: "googlelink",
+            label: "Google Link",
+          },
+          {
+            type: "string",
+            name: "spotifylink",
+            label: "Spotify Link",
+          },
+          {
+            type: "string",
+            name: "applelink",
+            label: "Apple Link",
+          },
+          
         ],
       },
     ],

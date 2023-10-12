@@ -14,7 +14,6 @@ categories:
 tags:
 - Meredith Whittaker
 - Edward Ongweso Jr
-- 
 ---
 
 Featuring Meredith Whittaker, Edward Ongweso Jr., and Sarah Myers West on the mundane dystopia concealed beneath the AI hype machine.
