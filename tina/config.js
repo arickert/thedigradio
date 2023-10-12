@@ -51,13 +51,13 @@ export default defineConfig({
           {
             type: "string",
             name: "categories",
-            list:'true',
+            list:true,
             label: "Categories",
           },
           {
             type: "string",
             name: "tags",
-            list:'true',
+            list:true,
             label: "Tags",
           },
           {
