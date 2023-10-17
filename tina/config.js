@@ -2,7 +2,9 @@ import { defineConfig } from "tinacms";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "master";
-
+console.log('TINA_PUBLIC_CLIENT_ID:', process.env.TINA_PUBLIC_CLIENT_ID);
+console.log('TINA_TOKEN:', process.env.TINA_TOKEN);
+console.log('JEKYLL_ENV:', process.env.JEKYLL_ENV);
 export default defineConfig({
   branch,
   clientId: process.env.TINA_PUBLIC_CLIENT_ID, 
