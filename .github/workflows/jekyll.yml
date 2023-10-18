@@ -28,6 +28,12 @@ concurrency:
 
 jobs:
   # Build job
+  printEnv:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print environment
+        run: echo "NON SENSITIVE SECRET ${{ secrets.TINA_PUBLIC_CLIENT_ID }}"
+        
   build:
     runs-on: ubuntu-latest
     steps:
