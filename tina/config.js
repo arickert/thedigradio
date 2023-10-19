@@ -82,6 +82,11 @@ export default defineConfig({
             name: "applelink",
             label: "Apple Link",
           },
+          {
+            type: "string",
+            name: "layout",
+            label: "Layout",
+          },
           
         ],
       },
