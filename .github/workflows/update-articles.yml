@@ -28,10 +28,11 @@ jobs:
         run: python ./scripts/update-episodes.py
       - name: setup git config
         run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "<>"
+          git config --global user.name 'arickert'
+          git config --global user.email 'andysrickert@gmail.com'
       - name: commit
         run: |
           git add --all
           git commit -m "Created and updated archive files." || echo "No changes to commit."
-          git push origin master || echo "No changes to push."
+          git push https://${{ secrets.DEPLOY }}@github.com/arickert/thedigradio.git
+
