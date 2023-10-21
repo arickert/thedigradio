@@ -7,8 +7,8 @@ console.log('TINA_TOKEN:', process.env.TINA_TOKEN);
 console.log('JEKYLL_ENV:', process.env.JEKYLL_ENV);
 export default defineConfig({
   branch,
-  clientId: process.env.TINA_PUBLIC_CLIENT_ID, 
-  token: process.env.TINA_TOKEN, 
+  clientId: process.env.TINA_PUBLIC_CLIENT_ID,
+  token: process.env.TINA_TOKEN,
 
   build: {
     outputFolder: "admin",
@@ -87,7 +87,7 @@ export default defineConfig({
             name: "layout",
             label: "Layout",
           },
-          
+
         ],
       },
     ],

@@ -4,13 +4,103 @@
  <title>The Dig</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-10-12T00:12:06-07:00</updated>
+ <updated>2023-10-20T17:12:50-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Palestine Teach-In</title>
+   <link href="http://localhost:4000/podcast/palestine-teach-in/"/>
+   <updated>2023-10-20T00:00:00-07:00</updated>
+   <id>http://localhost:4000/podcast/palestine-teach-in</id>
+   <content type="html">&lt;p&gt;This episode is The Dig’s Palestine Teach-In. The most informative clips from our archives on Palestine and Israel.&lt;/p&gt;
+
+&lt;p&gt;Support The Dig at &lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Check out our excellent newsletters—sent to you by email if you support us on Patreon thedigradio.com/newsletter&lt;/p&gt;
+
+&lt;p&gt;Donate now to support Gaza relief &lt;a href=&quot;http://pcrf1.app.neoncrm.com/forms/gaza-relief&quot;&gt;pcrf1.app.neoncrm.com/forms/gaza-relief&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Buy &lt;em&gt;Ten Myths About Israel&lt;/em&gt; at &lt;a href=&quot;http://versobooks.com/products/370-ten-myths-about-israel&quot;&gt;versobooks.com/products/370-ten-myths-about-israel&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Buy &lt;em&gt;An Enemy Such As This&lt;/em&gt; at &lt;a href=&quot;http://haymarketbooks.org/books/2106-an-enemy-such-as-this&quot;&gt;haymarketbooks.org/books/2106-an-enemy-such-as-this&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Newsletter #83: Techno-Fixes and Land Redistribution: Listeners’ Mailbag w/ Jo Guldi</title>
+   <link href="http://localhost:4000/newsletter83"/>
+   <updated>2023-10-19T00:00:00-07:00</updated>
+   <id>http://localhost:4000/newsletter83</id>
+   <content type="html">&lt;p&gt;Earlier this month, the historian Jo Guldi joined &lt;em&gt;the Dig&lt;/em&gt; to discuss her sweeping history of the struggle over land in the modern world. Subscribers to our patreon account had a chance to ask Guldi some questions, and dive further into her worldwide chronicle of The Long Land War.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hilary G.:Guldi’s work is excellent and I really enjoyed this thoughtful &amp;amp; informative discussion! I was left a little dissatisfied at the episode’s close, however. Guldi seemed to suggest that the principal barrier to global land redistribution or governance would be technological/informational, and that we should take comfort in (or perhaps, be inspired by) the history of the FAO &amp;amp; its capabilities in that regard. But it seems to me that the principal barrier is not technological, but rather fundamentally political. I’d be interested in Guldi’s reflections on that question.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s a useful provocation, because it’s one of the questions that our culture circles around again and again–can some techno-fix save everything? Or, conversely, will one or two evil technologies doom us all?  The utopian experiment of One Laptop per Child and the specter of the gamified internet and nuclear war come to mind as cultural touchstones.&lt;br /&gt;
+In &lt;em&gt;The Long Land War,&lt;/em&gt; I wanted to weigh with the reader how we should think about the promise of technology. I give a lot of time to the aspirations at the FAO to create a perfect world governance system – and how those reflected perceived needs from the developing world. I also show that the FAO could only provide those needs to the extent that the FAO was allowed to do so by American influence and the World Bank.  So we learn that large systems of information – even benevolent ones – are only as powerful as they are allowed to be by a surrounding political ecosystem.&lt;/p&gt;
+
+&lt;p&gt;I also spend time dismantling the idea of the techno-fix; I tell some of the well-known stories about the ambivalence of big technology with ambivalent consequences, for instance the tale of how the Green Revolution, while eliminating many kinds of famine, also leads to mass displacement from the countryside and the rise of slum cities. Some authors like to dwell on the irony, but for me the point is that the technology is ambivalent. Modern pesticides and improved, more productive varieties of rice could be used responsibly within a land-use scheme that aimed to improve the lot of small farmers. There are economists and scientists today who are working on developing agricultural methods and technologies that work to intensify small farms.  It’s the “fit” between technology and politics that matters.&lt;/p&gt;
+
+&lt;p&gt;“Fit” is a concept that I explore in my work on text-mining [&lt;em&gt;The Dangerous Art of Text Mining&lt;/em&gt;]; it implies tailoring the technology to the body that exists, not “aligning” the technology to some imaginary or ideal body. I regard “fit” as a feminist attitude towards technology, which takes for granted that the modern body–or the modern body politic–deserves respect for however it turns up, with its size, shape, needs, advantages, and disadvantages fully expressed. If there are poor farmers who are struggling, they need employment and a home; many forms of Agrarian Reform constituted plans to give them just this – extension services to learn to be a better farmer, education to adjust to the modern market economy, and protections for their right to dwell in a place. The improved rice, pesticide, and tractor cocktail is a technofix that offers them cheap rice but no home, no job, and no route to education. It is hardly a solution at all, because it doesn’t fit who they are, as they manifest at this point in time and this place. They’re a community that can thrive if it has resources and isn’t displaced. Some ideal humans may survive displacement, but the community as a whole won’t without enormous insult. If we want to design technology and policy that can actually help in an era of expected mass displacement, we should start here – with the land laws and tools that shield communities from displacement, and systems that support a right to land, housing, clean water, clean food, clean air, and a livable climate together. Maximizing any one of those variables at the expense of the rest is like solving your daughter’s wellness or nutrition problem with a corset.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jim L.: The starting point in the 1881 Land Acts left me curious about how earlier struggles for land reform in the nineteenth century shaped the 20th century land reform. What was the relationship between American settler colonialism to land reform movements? Did the attempts at land reform during emancipation and post emancipation struggles in the Americas provide any context or precedent?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s some excellent work on the English settlers who got to the new world and decided that the kind of land use they wanted was a commons, not individual proprietorship. In the eighteenth century, there were American land banks which represent an attempt to democratize land use, at least among white citizens. In the nineteenth century there were Chartists coming from England who believed that overcoming land monopoly was the best way to ensure democracy and level the economic playing field. The Homestead Act is typically thought of as a marker of the success of this movement, but Henry George – and his ideas about civic infrastructure, urban land use, and their implications for public utilities and transport are another place where this line of thinking goes. There are also the stories of women and children who wound up living with native peoples and decided that their ways were better than ours; there’s writing about Croatoan and escaping from settler culture by joining forces with another way of using land.&lt;/p&gt;
+
+&lt;p&gt;I wish I had more to say about the connections to liberation struggles in the Americas, but this is an enormous topic, and I’ve barely dipped into it. It would be so useful for some Latin American scholars to help connect the nineteenth-century stories to the twentieth-century and global ones. We have an enormous amount to learn.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Madi M.: The redistributive land reforms you write about come in many different forms and guises–as an insurgent, grassroots politics as well as a policy of counter-insurgency. In some cases it seems to mean ‘breaking up large landholdings’ into smaller private holders; in other case, it’s the state control of collective land ownership; and then lastly, other times, it seems that socialization involves not just a redistribution of land but the transformations of the productive and property relations on the land: new collective and democratic practices, like those that exist on land occupations maintained by the landless workers’ movement, or MST, in contemporary Brazil. Can you speak a bit about this spectrum of land reforms and what have been some of the most emancipatory experiments of the last century?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The trouble with the phrase “land reform” is that it has been used in contexts ranging from Maoist to Neoliberal. To track what any individual writer or historian means by the phrase requires extreme care. That’s why I don’t use the phrase except once or twice in the entire book. I talk about “land redistribution,” which is a tiny sliver of practices used on behalf of ensuring a right to occupancy – the right not to be displaced. The Long Land War covers a range of experiments – some of which succeed in fighting displacement, others of which fail dramatically. In terms of success, we know that the major Indian land redistribution experiments in Kerala and Bengal result in higher rates of literacy, education, and food security. We know that the ejido system in Mexico provided a lot of security and social equity in its heyday. Some of the most important models are also the most pedestrian. The rent and infrastructure system in Singapore uses the concept of “redisbursing the benefit” of rising land prices to ensure an ever-increasing standard of housing, transportation, and education for all parts of the city, regardless of class.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>War on Gaza w/ Noura Erakat & Arielle Angel</title>
+   <link href="http://localhost:4000/podcast/war-on-gaza-w-noura-erakat-arielle-angel/"/>
+   <updated>2023-10-18T00:00:00-07:00</updated>
+   <id>http://localhost:4000/podcast/war-on-gaza-w-noura-erakat-arielle-angel</id>
+   <content type="html">&lt;p&gt;Featuring Noura Erakat and Arielle Angel on the apartheid system and the violence it drives in Palestine.&lt;/p&gt;
+
+&lt;p&gt;Support The Dig at &lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Check out our excellent newsletters—sent to you by email if you support us on Patreon &lt;a href=&quot;http://thedigradio.com/newsletter&quot;&gt;thedigradio.com/newsletter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Donate now to support Gaza relief &lt;a href=&quot;http://pcrf1.app.neoncrm.com/forms/gaza-relief&quot;&gt;pcrf1.app.neoncrm.com/forms/gaza-relief&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Buy &lt;em&gt;On Edward Said&lt;/em&gt; &lt;a href=&quot;http://haymarketbooks.org/books/1556-on-edward-said&quot;&gt;haymarketbooks.org/books/1556-on-edward-said&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Buy &lt;em&gt;Palestine: A Socialist Introduction&lt;/em&gt; &lt;a href=&quot;http://haymarketbooks.org/books/1558-palestine-a-socialist-introduction&quot;&gt;haymarketbooks.org/books/1558-palestine-a-socialist-introduction&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Missing Revolution w/ Vincent Bevins</title>
+   <link href="http://localhost:4000/podcast/the-missing-revolution-w-vincent-bevins/"/>
+   <updated>2023-10-16T00:00:00-07:00</updated>
+   <id>http://localhost:4000/podcast/the-missing-revolution-w-vincent-bevins</id>
+   <content type="html">&lt;p&gt;Featuring Vincent Bevins on &lt;em&gt;If We Burn: The Mass Protest Decade and the Missing Revolution&lt;/em&gt;. The second of a two-part interview on this important new book.&lt;/p&gt;
+
+&lt;p&gt;Support The Dig at &lt;a href=&quot;http://Patreon.com/TheDig&quot;&gt;Patreon.com/TheDig&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Check out our excellent newsletters—sent to you by email if you support us on Patreon thedigradio.com/newsletter&lt;/p&gt;
+
+&lt;p&gt;Check out The Dig’s vast archives on Palestine &lt;a href=&quot;http://thedigradio.com/category/palestine&quot;&gt;thedigradio.com/category/palestine&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Donate now to support Gaza relief &lt;a href=&quot;http://pcrf1.app.neoncrm.com/forms/gaza-relief&quot;&gt;pcrf1.app.neoncrm.com/forms/gaza-relief&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Subscribe to &lt;em&gt;Jacobin&lt;/em&gt; &lt;a href=&quot;http://bit.ly/digjacobin&quot;&gt;bit.ly/digjacobin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Learn more about Haymarket’s Book Clubs at &lt;a href=&quot;http://haymarketbooks.org&quot;&gt;haymarketbooks.org&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>If We Burn w/ Vincent Bevins</title>
@@ -12248,7 +12338,7 @@ The panel was moderated by asha bandele and included   Daryl Atkinson,  Constanz
  </entry>
  
  <entry>
-   <title>'White genocide' with George Ciccariello-Maher</title>
+   <title>"White genocide" with George Ciccariello-Maher</title>
    <link href="http://localhost:4000/podcast/white-genocide-with-george-ciccariello-maher/"/>
    <updated>2017-02-07T00:00:00-08:00</updated>
    <id>http://localhost:4000/podcast/white-genocide-with-george-ciccariello-maher</id>
