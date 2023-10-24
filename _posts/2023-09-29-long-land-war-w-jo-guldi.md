@@ -4,7 +4,6 @@ permalink: podcast/long-land-war-w-jo-guldi/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_417-Guldi.mp3
 categories:
-  - Agriculture
   - Housing
   - India
   - Ireland
