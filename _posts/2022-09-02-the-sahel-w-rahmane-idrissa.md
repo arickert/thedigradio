@@ -7,7 +7,7 @@ categories:
   - Colonialism
   - France
   - War on Terror
-  - West Africa
+  - Africa
 tags:
   - Rahmane Idrissa
 googlelink: >-
