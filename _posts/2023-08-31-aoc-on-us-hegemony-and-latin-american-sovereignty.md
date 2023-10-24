@@ -4,6 +4,7 @@ permalink: podcast/aoc-on-us-hegemony-and-latin-american-sovereignty/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_414-AOC.mp3
 categories:
+  - Brazil
   - AOC
   - Imperialism and Foreign Policy
   - Latin America
