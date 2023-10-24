@@ -4,9 +4,8 @@ permalink: podcast/the-french-situation-with-sebastian-budgen-and-daniele-obono/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_203-France.mp3
 categories:
+  - Europe
   - France
-  - La France insoumise
-  - Yellow Vests
 tags:
   - Danièle Obono
   - Sebastian Budgen
