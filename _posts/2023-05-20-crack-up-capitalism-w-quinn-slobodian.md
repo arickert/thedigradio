@@ -4,7 +4,6 @@ permalink: podcast/crack-up-capitalism-w-quinn-slobodian/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_405-Slobodian.mp3
 categories:
-  - Anarcho-Capitalism
   - Neoliberalism
   - Right-Wing Politics
 tags:
