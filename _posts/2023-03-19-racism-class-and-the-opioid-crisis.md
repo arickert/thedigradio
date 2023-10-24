@@ -4,8 +4,8 @@ permalink: podcast/racism-class-and-the-opioid-crisis/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_397-Whiteout.mp3
 categories:
+  - Drugs
   - Criminal Justice
-  - Drug War
   - Medicine
 tags:
   - Helena Hansen
