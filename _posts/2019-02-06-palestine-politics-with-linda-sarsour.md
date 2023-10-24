@@ -1,14 +1,16 @@
 ---
-layout: post
-title: "Palestine Politics with Linda Sarsour"
+title: Palestine Politics with Linda Sarsour
 permalink: podcast/palestine-politics-with-linda-sarsour/
-audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_179_-_Sarsour.mp3
+audiolink: >-
+  https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_179_-_Sarsour.mp3
+categories:
+  - Palestine
+  - Imperialism and Foreign Policy
+  - Middle East
+tags:
+  - Linda Sarsour
 post_id: 521
-categories: 
-- Imperialism and Foreign Policy
-- Middle East
-tags: 
-- Linda Sarsour
+layout: post
 ---
 
 [View Transcript](https://www.thedigradio.com/transcripts/transcript-palestine-politics-with-linda-sarsour/)
@@ -21,4 +23,4 @@ Thanks to Verso. Check out their huge selection of left-wing titles at [www.vers
 
  
 
-Please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 
+Please support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig)
