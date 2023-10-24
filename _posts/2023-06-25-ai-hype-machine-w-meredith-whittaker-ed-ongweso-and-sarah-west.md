@@ -4,7 +4,6 @@ permalink: podcast/ai-hype-machine-w-meredith-whittaker-ed-ongweso-and-sarah-wes
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_409-AI.mp3
 categories:
-  - Artificial Intelligence
   - Capitalism
   - Technology
 tags:
