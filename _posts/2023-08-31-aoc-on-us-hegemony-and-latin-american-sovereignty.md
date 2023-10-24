@@ -5,9 +5,6 @@ audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_414-AOC.mp3
 categories:
   - AOC
-  - Brazil
-  - Chile
-  - Colombia
   - Imperialism and Foreign Policy
   - Latin America
 tags:
