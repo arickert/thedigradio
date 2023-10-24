@@ -6,8 +6,6 @@ audiolink: >-
 categories:
   - Colonialism
   - France
-  - Mali
-  - Niger
   - War on Terror
   - West Africa
 tags:
