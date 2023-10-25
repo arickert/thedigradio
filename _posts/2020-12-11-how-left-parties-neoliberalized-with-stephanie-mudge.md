@@ -4,6 +4,7 @@ permalink: podcast/how-left-parties-neoliberalized-with-stephanie-mudge/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_284-Mudge.mp3
 categories:
+  - Political Theory
   - Neoliberalism
   - Socialism
 tags:
