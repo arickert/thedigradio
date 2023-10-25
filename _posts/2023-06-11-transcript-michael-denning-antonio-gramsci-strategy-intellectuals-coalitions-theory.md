@@ -4,7 +4,6 @@ permalink: >-
   transcripts/michael-denning-antonio-gramsci-strategy-intellectuals-coalitions-theory/
 audiolink: null
 categories:
-  - Ideology
   - Organizing
   - Socialism
 tags:
