@@ -6,7 +6,6 @@ audiolink: >-
 categories:
   - Immigration
   - Political Theory
-  - Human Rights
   - World History
 tags:
   - Astra Taylor
