@@ -4,7 +4,6 @@ permalink: podcast/the-dig-presents-power-struggle/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/DigPresents05-TVA_FINAL.mp3
 categories:
-  - Energy
   - Environment
 tags:
   - Dharna Noor
