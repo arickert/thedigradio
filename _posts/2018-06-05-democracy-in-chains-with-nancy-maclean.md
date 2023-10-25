@@ -1,19 +1,20 @@
 ---
-layout: post
-title: "Democracy in Chains with Nancy MacLean"
+title: Democracy in Chains with Nancy MacLean
 permalink: podcast/democracy-in-chains-with-nancy-maclean/
-audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_118_-_MacLean.mp3
+audiolink: >-
+  https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_118_-_MacLean.mp3
+categories:
+  - Land
+  - Economics
+  - Political Theory
+  - Slavery
+  - Right Wing Politics
+  - US Politics
+  - US History
+tags:
+  - Nancy MacLean
 post_id: 582
-categories: 
-- Economics
-- Political Theory
-- Libertarianism
-- Property
-- Right Wing Politics
-- US Politics
-- US History
-tags: 
-- Nancy MacLean
+layout: post
 ---
 
 For libertarians, liberty means something different. It’s about liberty for property owners. And in their quest to preserve that absolute freedom for the ownership class—whether their assets be human slaves, factories or extractive industries—democracy must be curtailed and the power of the people must be checked and repressed.
@@ -24,4 +25,4 @@ Thank you to Verso Books. Check out [Deport, Deprive, Extradite: 21st Century St
 
 Thank you to the Socialism 2018 conference. Register now at [socialismconference.org](https://www.socialismconference.org)
 
-Want to get access to our stellar weekly newsletter? You can do so by making a contribution to the long-run viability of this show at [patreon.com/thedig](http://www.patreon.com/TheDig) 
+Want to get access to our stellar weekly newsletter? You can do so by making a contribution to the long-run viability of this show at [patreon.com/thedig](http://www.patreon.com/TheDig)
