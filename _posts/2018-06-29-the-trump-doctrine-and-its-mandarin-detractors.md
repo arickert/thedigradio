@@ -1,17 +1,17 @@
 ---
-layout: post
-title: "The Trump Doctrine and Its Mandarin Detractors"
+title: The Trump Doctrine and Its Mandarin Detractors
 permalink: podcast/the-trump-doctrine-and-its-mandarin-detractors/
-audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_124_-_Wertheim.mp3
+audiolink: >-
+  https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_124_-_Wertheim.mp3
+categories:
+  - Asia
+  - Imperialism and Foreign Policy
+  - US Politics
+  - Trump
+tags:
+  - Stephen Wertheim
 post_id: 576
-categories: 
-- Imperialism and Foreign Policy
-- US Politics
-- Global Politics
-- Trump
-- Korea
-tags: 
-- Stephen Wertheim
+layout: post
 ---
 
 Stephen Wertheim, a Lecturer in American and international history at Birkbeck, University of London, breaks cuts through the suffocating foreign policy debate that shapes American Empire under Trump.
