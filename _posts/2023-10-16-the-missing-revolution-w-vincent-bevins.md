@@ -4,6 +4,7 @@ permalink: podcast/the-missing-revolution-w-vincent-bevins/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_419-Bevins.mp3
 categories:
+  - Organizing
   - Asia
   - Latin America
   - China
