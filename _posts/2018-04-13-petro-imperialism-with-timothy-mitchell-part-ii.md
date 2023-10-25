@@ -1,20 +1,19 @@
 ---
-layout: post
-title: "Petro-Imperialism with Timothy Mitchell Part II"
+title: Petro-Imperialism with Timothy Mitchell Part II
 permalink: podcast/petro-imperialism-with-timothy-mitchell-part-ii/
-audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_102_-_Mitchell2.mp3
+audiolink: >-
+  https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_102_-_Mitchell2.mp3
+categories:
+  - Economics
+  - Environment
+  - Imperialism and Foreign Policy
+  - Oil
+  - Middle East
+  - US Politics
+tags:
+  - Timothy Mitchell
 post_id: 598
-categories: 
-- Economics
-- Environment
-- Imperialism and Foreign Policy
-- Energy
-- Oil
-- Global Politics
-- Middle East
-- US Politics
-tags: 
-- Timothy Mitchell
+layout: post
 ---
 
 Historian and political theorist Timothy Mitchell joins Dan for the second of a two-part interview on his book *Carbon Democracy: Political Power in the Age of Oil*, published in 2011 by Verso. In part 1, we talked about a lot of things, including how the rise of coal made both industrial capitalism and newly powerful worker resistance possible; and how the shift to oil then facilitated the persistence of imperialism in a decolonizing world while thwarting worker organizing. In this installment, we discuss imperialist assaults on worker struggles in Iraq and Iran, the cooptation of those struggles by nationalist elites, and how those imperialist attacks facilitated the rise of the Baathist security state.
