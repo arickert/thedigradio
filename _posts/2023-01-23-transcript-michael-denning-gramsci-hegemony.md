@@ -1,15 +1,14 @@
 ---
-layout: post
-title: "Transcript: Michael Denning on Antonio Gramsci and Hegemony"
+title: 'Transcript: Michael Denning on Antonio Gramsci and Hegemony'
 permalink: transcripts/michael-denning-gramsci-hegemony/
-audiolink: 
-post_id:
+audiolink: null
 categories:
-- Organizing 
-- Socialism
-- Ideology
-tags: 
-- Michael Denning 
+  - Organizing
+  - Socialism
+tags:
+  - Michael Denning
+post_id: null
+layout: post
 ---
 
 Jacobin's transcript of the interview: [https://jacobin.com/2023/01/michael-denning-antonio-gramsci-prison-notebooks-theory-hegemony-class-organizing](https://jacobin.com/2023/01/michael-denning-antonio-gramsci-prison-notebooks-theory-hegemony-class-organizing)
