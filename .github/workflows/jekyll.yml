@@ -33,7 +33,7 @@ jobs:
     steps:
       - name: Print environment
         run: echo "NON SENSITIVE SECRET ${{ secrets.TINA_PUBLIC_CLIENT_ID }}"
-        
+
   build:
     runs-on: ubuntu-latest
     steps:
@@ -53,6 +53,7 @@ jobs:
         env:
             TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
             TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
+            TINA_SEARCH: ${{ secrets.TINA_SEARCH }}
             JEKYLL_ENV: production
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
