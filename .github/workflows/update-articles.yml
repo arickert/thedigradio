@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Check repo
         uses: actions/checkout@v2
@@ -35,4 +35,33 @@ jobs:
           git add --all
           git commit -m "Created and updated archive files." || echo "No changes to commit."
           git push https://${{ secrets.DEPLOY }}@github.com/arickert/thedigradio.git
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@55283cc23133118229fd3f97f9336ee23a179fcf # v1.146.0
+        with:
+          ruby-version: '3.1' # Not needed with a .ruby-version file
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          cache-version: 0 # Increment this number if you need to re-download cached gems
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v3
+      - name: Build Tina
+        run: yarn install --frozen-lock && yarn tinacms build && bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+            TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
+            TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
+            TINA_SEARCH: ${{ secrets.TINA_SEARCH }}
+            JEKYLL_ENV: production
+      - name: Upload artifact
+        # Automatically uploads an artifact from the './_site' directory by default
+        uses: actions/upload-pages-artifact@v2
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
 
