@@ -3,71 +3,33 @@ title: >-
   Newsletter #84: Dissecting the Failures of the “Mass Protest Decade” w/
   Vincent Bevins
 permalink: newsletter84
+layout: post
 ---
 
 By Ben Mabie
 
-
 A whole crop of small magazines in the United States and the United Kingdom sprung up around the early years in the sequence described in Vincent Bevins’s new book If We Burn: The Mass Protest Decade and the Missing Revolution: small journals, in print and online, that tried to draw out distinct left political content to Occupy and the “movements of the squares” in the Mediterranean basin. Although written mainly from the North Atlantic world, they saw themselves as part of a global movement of struggles, the bleeding edge of which was in countries like Egypt, Tunisia, Greece, Turkey, and Brazil. The mass protest movements we participated in challenged the prevailing, enfeebled institutional UK and US left; they clawed open a space for people to think together. Each journal had its own style as well as a fairly distinct genealogy, each publication ordering its own heuristic “[from a menu of European traditions](https://viewpointmag.com/2016/05/15/bernstein-in-seattle-representative-democracy-and-the-revolutionary-subject-part-1/).” 
-
-
-
 
 My friend and collaborator Asad Haider described the scene from Viewpoint magazine, which was one of these small journals, a perch he and I have shared for a decade: there was “Italian ‘autonomism,’ or for those with older hearts, a purportedly direct revolutionary lineage descending from Antonio Gramsci to the postwar Italian Communist Party; a hodge-podge of heterogeneous French tendencies such as the Situationist International complemented by the left communism of Amadeo Bordiga; an equally discordant truce between Leon Trotsky and Karl Kautsky; or, for those who like their value-form served neat, some strain of German Marx philology that will bestow any contingent political position with the ultimate virtue and purity.” 
 
-
-
-
 Endnotes was among the more ambitious of these magazines. [Past Dig guest Tim Barker](https://thedigradio.com/tag/tim-barker), in a [superb n+1 essay](https://www.nplusonemag.com/issue-28/reviews/the-bleak-left/) on the first four issues of Endnotes, describes their imprimatur like this: 
-
-
-
 
 BLOCK QUOTE In 2008, a slim journal published by an anonymous collective began to circulate within the thinning ranks of the revolutionary left. Its cover was solid green except for the journal’s name, Endnotes, in white, and a subtitle, “Preliminary Materials for a Balance Sheet of the Twentieth Century,” in black. The text was produced by a discussion group formed in Brighton, UK, in 2005 with origins in long-running debates in the German and French ultraleft. (Over time the group broadened to include participants in California.) Authorship wasn’t really secret; you could find bylined references scattered across CVs and footnotes. But collective authorship was key to the distinctive voice, something like the crossfire of an unusually well-prepared reading group recollected in tranquility. /BLOCK QUOTE
 
-
-
-
 Endnotes drew its editors, authors, and readers from the ranks of student and campus movements, in London and the University of California. For many of us who were activists and organizers in the post-Occupy scene, a Left that was more anarchist-adjacent than electorally minded, Endnotes was a touchstone both positive and negative — a reference point that shaped how a generation of us thought about and practiced our politics. In a recent [Dig episode](https://thedigradio.com/podcast/conjuncture-w-akbar-winant-riofrancos/), Gabe Winant described the period preceding COVID as “the Endnotes decade” of slow or no growth, movements not anchored by the industrial working class, and a general organizational vacuum. 
-
-
-
 
 Though Endnotes’ first issue discussed a rarefied Marxist debate about working-class identity and the limits of Bolshevik-oriented revolutionary action in the twentieth century, their later issues were filled with long essays on contemporary movements and the shifting political economy that undergirded them, highlighting the tendencies that threw industrial workers and peasants into the ranks of the precariously unemployed and indebted at the margins of the economy. 
 
-
-
-
 Of all the magazines, Endnotes had the most coherent theoretical account of the mass protest decade, or at least the first half of it. They argued that the mass protest movements of the last decade were determined by the decomposition of the working class into countless diverse fractions mediated by identity, migration and citizenship status, type of employment, union and non-union, and more. So many divisions, in fact, that the movements often seemed composed not of class fractions but free-floating individuals. Even when the participants reflected the widening sociological divides that coursed through the 99 percent, they frequently thought of themselves as the “whatever singularities” that philosopher Georgio Agamban said typified the protests of Tiananmen Square and the post-Soviet world. 
-
-
-
 
 Whereas for Endnotes the industrial worker of the nineteenth and twentieth centuries stood in for the common interest of the class as a whole, in the context of austerity and stagnant growth, these differences of status and stature became the subject of intense intra-class antagonism and conflict. It was these divisions, they argued, that wrecked countless movements of the mass protest decade. They proposed that these divisions could not be overcome with expansions of the welfare state, because a stagnating capitalism could not afford such reforms. Only a revolutionary leap out of capitalist social relations might provide an answer to the perennial riddle of proletarian dis-unity. 
 
-
-
-
 They shared the insights that Bevins provides in this episode: that the movements lacked a program of action and robust organization — that the movements were motivated more by negativity, what they were against, than a positive sense of what might come next. They indexed the absence of strategic retreats and tightly focused demands. But if, for Bevins and many of the revolutionaries he interviews, the mandate of the last decade would be a return to the classical patterns of organization and strategy adopted by the survivals of the “Old Left,” such a return would be impossible for Endnotes, given the shifts in capital and class formation. Whereas Bevins and his subjects see a problem of strategic decisions and of undue mass media and American influence, Endnotes sees the necessary shape of struggles in a post-crash capitalism. 
-
-
-
 
 Near the conclusion of his Dig interview, Bevins discusses the Landless Workers Movement in Brazil (MST in its Portuguese acronym), which he calls up as a foil to the horizontalist currents of Hamburg and Hong Kong. The MST, which fuses together a centrally coordinated strategy with highly participatory extra-legal and anti–private property direct actions and land occupations, is exemplary of a twenty-first-century mass organization, one capable of challenging capitalist property relations that can sometimes challenge state agents and sometimes ally with them. 
 
-
-
-
 Elsewhere in If We Burn, Bevins underscores the key role played by trade unions in the most successful instances of mass protest. He profiles the cadre groupings that often exercised leadership too, heralding sometimes from seemingly anachronistic precincts of an international left. Empirically, cadre groups and unions, and especially the MST, are a sterling example of the everyday organizational practice that can build anti-property power in the twenty-first-century beyond the periodic explosions of street protest. 
-
-
-
 
 Still, theoretically, the Endnotes account also needs an answer. This newsletter is too compact a space to spell one out. But we could turn again to MST and earlier instances of the workers’ movement to posit an alternative theory of organization. Class politics did not work from a grouping already organized by capitalism; rather than a reflection of capitalist social relations, MST, like the workers’ movement of old, brought together rather disparate and diffuse kinds of people — not on the basis of a shared identity, but on the basis of a shared set of organized practices which endowed them with more power over how they lived and worked. Their movement required an active intervention on the part of organizers; the political coherence of the working class was never an automatic process. 
 
-
-
-
 Against the fatalism of assuming what has been is what will be, an alternative account of mass organization might help us develop a strategy for more lasting beachheads of popular working-class power. If Endnotes raised the right questions, like “where is the working class of old?,” then Bevins demonstrates in his new book what happens if practicable answers are not forthcoming. 
-
-
