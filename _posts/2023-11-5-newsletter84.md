@@ -1,9 +1,8 @@
 ---
-title: >-
-  Newsletter #84: Dissecting the Failures of the “Mass Protest Decade” w/
-  Vincent Bevins
-permalink: newsletter84
 layout: post
+title: "Newsletter #84: Dissecting the Failures of the “Mass Protest Decade” w/ Vincent Bevins"
+permalink: newsletter84
+
 ---
 
 By Ben Mabie
