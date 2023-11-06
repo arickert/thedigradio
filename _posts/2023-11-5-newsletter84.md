@@ -1,8 +1,9 @@
 ---
-layout: post
-title: "Newsletter #84: Dissecting the Failures of the “Mass Protest Decade” w/ Vincent Bevins"
+title: >-
+  Newsletter #84: Dissecting the Failures of the “Mass Protest Decade” w/
+  Vincent Bevins
 permalink: newsletter84
-
+layout: post
 ---
 
 By Ben Mabie
@@ -13,7 +14,7 @@ My friend and collaborator Asad Haider described the scene from Viewpoint magazi
 
 Endnotes was among the more ambitious of these magazines. [Past Dig guest Tim Barker](https://thedigradio.com/tag/tim-barker), in a [superb n+1 essay](https://www.nplusonemag.com/issue-28/reviews/the-bleak-left/) on the first four issues of Endnotes, describes their imprimatur like this: 
 
-BLOCK QUOTE In 2008, a slim journal published by an anonymous collective began to circulate within the thinning ranks of the revolutionary left. Its cover was solid green except for the journal’s name, Endnotes, in white, and a subtitle, “Preliminary Materials for a Balance Sheet of the Twentieth Century,” in black. The text was produced by a discussion group formed in Brighton, UK, in 2005 with origins in long-running debates in the German and French ultraleft. (Over time the group broadened to include participants in California.) Authorship wasn’t really secret; you could find bylined references scattered across CVs and footnotes. But collective authorship was key to the distinctive voice, something like the crossfire of an unusually well-prepared reading group recollected in tranquility. /BLOCK QUOTE
+> In 2008, a slim journal published by an anonymous collective began to circulate within the thinning ranks of the revolutionary left. Its cover was solid green except for the journal’s name, Endnotes, in white, and a subtitle, “Preliminary Materials for a Balance Sheet of the Twentieth Century,” in black. The text was produced by a discussion group formed in Brighton, UK, in 2005 with origins in long-running debates in the German and French ultraleft. (Over time the group broadened to include participants in California.) Authorship wasn’t really secret; you could find bylined references scattered across CVs and footnotes. But collective authorship was key to the distinctive voice, something like the crossfire of an unusually well-prepared reading group recollected in tranquility. 
 
 Endnotes drew its editors, authors, and readers from the ranks of student and campus movements, in London and the University of California. For many of us who were activists and organizers in the post-Occupy scene, a Left that was more anarchist-adjacent than electorally minded, Endnotes was a touchstone both positive and negative — a reference point that shaped how a generation of us thought about and practiced our politics. In a recent [Dig episode](https://thedigradio.com/podcast/conjuncture-w-akbar-winant-riofrancos/), Gabe Winant described the period preceding COVID as “the Endnotes decade” of slow or no growth, movements not anchored by the industrial working class, and a general organizational vacuum. 
 
@@ -27,7 +28,7 @@ They shared the insights that Bevins provides in this episode: that the movement
 
 Near the conclusion of his Dig interview, Bevins discusses the Landless Workers Movement in Brazil (MST in its Portuguese acronym), which he calls up as a foil to the horizontalist currents of Hamburg and Hong Kong. The MST, which fuses together a centrally coordinated strategy with highly participatory extra-legal and anti–private property direct actions and land occupations, is exemplary of a twenty-first-century mass organization, one capable of challenging capitalist property relations that can sometimes challenge state agents and sometimes ally with them. 
 
-Elsewhere in If We Burn, Bevins underscores the key role played by trade unions in the most successful instances of mass protest. He profiles the cadre groupings that often exercised leadership too, heralding sometimes from seemingly anachronistic precincts of an international left. Empirically, cadre groups and unions, and especially the MST, are a sterling example of the everyday organizational practice that can build anti-property power in the twenty-first-century beyond the periodic explosions of street protest. 
+Elsewhere in If We Burn, Bevins underscores the key role played by trade unions in the most successful instances of mass protest. He profiles the cadre groupings that often exercised leadership too, heralding sometimes from seemingly anachronistic precincts of an international left. Empirically, cadre groups and unions, and especially the MST, are a sterling example of the everyday organizational practice that can build anti-property power in the twenty-first century beyond the periodic explosions of street protest. 
 
 Still, theoretically, the Endnotes account also needs an answer. This newsletter is too compact a space to spell one out. But we could turn again to MST and earlier instances of the workers’ movement to posit an alternative theory of organization. Class politics did not work from a grouping already organized by capitalism; rather than a reflection of capitalist social relations, MST, like the workers’ movement of old, brought together rather disparate and diffuse kinds of people — not on the basis of a shared identity, but on the basis of a shared set of organized practices which endowed them with more power over how they lived and worked. Their movement required an active intervention on the part of organizers; the political coherence of the working class was never an automatic process. 
 
