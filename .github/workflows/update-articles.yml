@@ -32,6 +32,7 @@ jobs:
           git config --global user.email 'andysrickert@gmail.com'
       - name: commit
         run: |
+          git add -all
           git commit -am "Created and updated archive files." || echo "No changes to commit."
           git push
       - name: Setup Ruby
