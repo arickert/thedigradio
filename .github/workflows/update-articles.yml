@@ -32,9 +32,8 @@ jobs:
           git config --global user.email 'andysrickert@gmail.com'
       - name: commit
         run: |
-          git add --all
-          git commit -m "Created and updated archive files." || echo "No changes to commit."
-          git push https://${{ secrets.GITHUB_TOKEN  }}@github.com/arickert/thedigradio.git
+          git commit -am "Created and updated archive files." || echo "No changes to commit."
+          git push
       - name: Setup Ruby
         uses: ruby/setup-ruby@55283cc23133118229fd3f97f9336ee23a179fcf # v1.146.0
         with:
