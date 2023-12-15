@@ -54,6 +54,8 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v2
+    permissions:
+      id-token: write
   deploy:
     environment:
       name: github-pages
@@ -66,4 +68,6 @@ jobs:
         uses: actions/deploy-pages@v2
         with:
           github_token: ${{ secrets.MY_GITHUB_TOKEN }}
+    permissions:
+      id-token: write
 
