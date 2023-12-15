@@ -34,7 +34,7 @@ jobs:
         run: |
           git add --all
           git commit -m "Created and updated archive files." || echo "No changes to commit."
-          git push https://${{ secrets.DEPLOY }}@github.com/arickert/thedigradio.git
+          git push https://${{ secrets.GITHUB_TOKEN  }}@github.com/arickert/thedigradio.git
       - name: Setup Ruby
         uses: ruby/setup-ruby@55283cc23133118229fd3f97f9336ee23a179fcf # v1.146.0
         with:
@@ -67,7 +67,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v2
         with:
-          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
     permissions:
       id-token: write
 
