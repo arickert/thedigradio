@@ -8,11 +8,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Check repo
         uses: actions/checkout@v2
-
+        with:
+          token: ${{ secrets.YOUR_SECRET_NAME }}
       - name: Setup Python Version
         uses: actions/setup-python@v2
         with:
@@ -56,6 +56,8 @@ jobs:
         uses: actions/upload-pages-artifact@v2
     permissions:
       id-token: write
+      contents: write
+
   deploy:
     environment:
       name: github-pages
