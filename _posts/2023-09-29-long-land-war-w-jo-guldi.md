@@ -6,9 +6,7 @@ audiolink: >-
 categories:
   - Housing
   - India
-  - Ireland
   - Land
-  - Tenant Organizing
   - United Kingdom
 tags:
   - Jo Guldi
