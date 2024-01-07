@@ -6,7 +6,6 @@ audiolink: >-
 categories:
   - United Kingdom
   - Europe
-  - Labor Movement
   - Capitalism
   - Socialism
 tags:
