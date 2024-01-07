@@ -4,7 +4,6 @@ permalink: podcast/no-human-being-is-illegal-with-mae-ngai/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_98_-_Ngai.mp3
 categories:
-  - Legal Theory
   - Immigration
   - Legal Theory
   - US Politics
