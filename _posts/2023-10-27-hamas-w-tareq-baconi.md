@@ -4,7 +4,7 @@ permalink: podcast/hamas-w-tareq-baconi/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_422-Baconi.mp3
 categories:
-  - Middle East History
+  - Middle East
   - Palestine
 tags:
   - Tareq Baconi
