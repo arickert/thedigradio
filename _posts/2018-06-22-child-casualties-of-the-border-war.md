@@ -1,17 +1,17 @@
 ---
-layout: post
-title: "Child Casualties of the Border War"
+title: Child Casualties of the Border War
 permalink: podcast/child-casualties-of-the-border-war/
-audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_122_-_3.mp3
+audiolink: >-
+  https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_122_-_3.mp3
+categories:
+  - Immigration
+  - US Politics
+  - Trump
+  - Youth
+tags:
+  - Dara Lind
 post_id: 578
-categories: 
-- Immigration
-- Border Patrol
-- US Politics
-- Trump
-- Youth
-tags: 
-- Dara Lind
+layout: post
 ---
 
 Vox immigration reporter Dara Lind, one very bright spot in an often disappointing landscape of mainstream immigration journalism, discusses the historical, political and legal context of Trump’s family separation policy. Dan also just wrote a lengthy piece on this for Jacobin, which you can read at jacobinmag.com/2018/06/trump-immigration-child-family-separation-policy
