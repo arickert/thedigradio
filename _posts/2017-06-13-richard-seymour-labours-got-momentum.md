@@ -4,7 +4,6 @@ permalink: podcast/richard-seymour-labours-got-momentum/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_30_-Seymour.mp3
 categories:
-  - Labor Movement
   - Electoral Politics
   - Europe
   - United Kingdom
