@@ -4,8 +4,8 @@ permalink: podcast/founding-finance-with-william-hogeland/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_383-Hogeland.mp3
 categories:
+  - Finance
   - Economics
-  - US Constitution
   - US History
 tags:
   - William Hogeland
