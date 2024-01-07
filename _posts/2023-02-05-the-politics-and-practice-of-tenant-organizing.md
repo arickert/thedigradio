@@ -6,7 +6,6 @@ audiolink: >-
 categories:
   - Housing
   - Organizing
-  - Tenant Organizing
 tags:
   - Shanti Singh
   - Tracy Rosenthal
