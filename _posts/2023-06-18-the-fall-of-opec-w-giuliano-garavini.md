@@ -4,7 +4,6 @@ permalink: podcast/the-fall-of-opec-w-giuliano-garavini/
 audiolink: 'https://content.blubrry.com/thedig/The_Dig-Ep_408-Garavini.mp3'
 categories:
   - Oil
-  - OPEC
   - Third Worldism
   - World History
 tags:
