@@ -5,7 +5,6 @@ audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_407-Garavini.mp3
 categories:
   - Oil
-  - OPEC
   - Third Worldism
   - World History
 tags:
