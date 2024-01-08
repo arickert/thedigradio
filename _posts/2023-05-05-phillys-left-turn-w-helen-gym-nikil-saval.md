@@ -5,8 +5,7 @@ audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_402-Philly-Mayor.mp3
 categories:
   - Electoral Politics
-  - Municipal Politics
-  - Philadelphia
+  - Urban Politics
 tags:
   - Nikil Saval and Helen Gym
 googlelink: >-
