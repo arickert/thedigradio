@@ -6,7 +6,6 @@ audiolink: >-
 categories:
   - Drugs
   - Criminal Justice
-  - Medicine
 tags:
   - Helena Hansen
   - Jules Netherland
