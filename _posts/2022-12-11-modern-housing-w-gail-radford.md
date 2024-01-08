@@ -4,9 +4,9 @@ permalink: podcast/modern-housing-w-gail-radford/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_384-Radford.mp3
 categories:
+  - US Politics
+  - Urban Politics
   - Housing
-  - Modernism
-  - New Deal
 tags:
   - Gail Radford
 googlelink: >-
