@@ -4,8 +4,8 @@ permalink: podcast/the-spanish-situation-with-carlos-delclos-and-magda-bandera/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_204-Spain.mp3
 categories:
+  - Socialism
   - Europe
-  - Spain
 tags:
   - Ada Colau
   - Carlos Delclós
