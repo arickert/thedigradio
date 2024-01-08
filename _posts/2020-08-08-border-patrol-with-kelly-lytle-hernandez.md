@@ -4,8 +4,9 @@ permalink: podcast/border-patrol-with-kelly-lytle-hernandez/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_267-KLH.mp3
 categories:
+  - Racism
   - Immigration
-  - Police
+  - Mexico
 tags:
   - Kelly Lytle Hernández
 post_id: 1733
