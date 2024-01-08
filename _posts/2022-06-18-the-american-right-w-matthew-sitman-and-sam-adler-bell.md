@@ -4,7 +4,7 @@ permalink: podcast/the-american-right-w-matthew-sitman-and-sam-adler-bell/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_361-KYE.mp3
 categories:
-  - Right Wing
+  - Right Wing Politics
   - US History
   - US Politics
 tags:
