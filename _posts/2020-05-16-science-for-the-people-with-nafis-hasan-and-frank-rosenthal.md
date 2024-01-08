@@ -4,7 +4,7 @@ permalink: podcast/science-for-the-people-with-nafis-hasan-and-frank-rosenthal/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_258-SFTP.mp3
 categories:
-  - Medicine
+  - Drugs
   - Pandemic
 tags:
   - Frank Rosenthal
