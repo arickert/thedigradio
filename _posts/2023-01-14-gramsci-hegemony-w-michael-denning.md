@@ -4,7 +4,6 @@ permalink: podcast/gramsci-hegemony-w-michael-denning/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_388-Denning.mp3
 categories:
-  - Ideology
   - Organizing
   - Socialism
 tags:
