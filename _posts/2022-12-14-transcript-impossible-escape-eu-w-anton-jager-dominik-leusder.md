@@ -5,9 +5,9 @@ title: >-
 permalink: transcripts/impossible-escape-eu-w-anton-jager-dominik-leusder/
 audiolink: null
 categories:
+  - Economics
   - Brexit
   - Europe
-  - Monetary Policy
 tags:
   - Anton Jager
   - Dominik Leusder
