@@ -4,6 +4,7 @@ permalink: podcast/j-edgar-hoovers-america-w-beverly-gage/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_423-Gage.mp3
 categories:
+  - Surveillance
   - Anti-communism
   - FBI
   - Criminal Justice
