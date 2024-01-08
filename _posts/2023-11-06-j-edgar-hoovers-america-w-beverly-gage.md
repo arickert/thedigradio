@@ -5,9 +5,8 @@ audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_423-Gage.mp3
 categories:
   - Anti-communism
-  - Beverly Gage
   - FBI
-  - Police
+  - Criminal Justice
   - US History
 tags:
   - Beverly Gage
