@@ -1,15 +1,17 @@
 ---
-layout: post
-title: "Transcript: New Deal–Era Leftists Tried to Win Beautiful Social Housing for the Masses (w/ Gail Radford)"
+title: >-
+  Transcript: New Deal–Era Leftists Tried to Win Beautiful Social Housing for
+  the Masses (w/ Gail Radford)
 permalink: transcripts/modern-housing-w-gail-radford/
-audiolink: 
-post_id:
+audiolink: null
 categories:
-- Housing
-- Modernism
-- New Deal
-tags: 
-- Gail Radford 
+  - Urban Politics
+  - US Politics
+  - Housing
+tags:
+  - Gail Radford
+post_id: null
+layout: post
 ---
 
 Read the condensed transcript of our interview with Gail Radford here:
