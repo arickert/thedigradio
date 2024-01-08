@@ -4,9 +4,9 @@ permalink: podcast/the-capitalist-conjuncture-w-tim-barker/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_387-Barker.mp3
 categories:
+  - Economics
   - Capitalism
   - Marxism
-  - Monetary Policy
 tags:
   - Tim Barker
 googlelink: >-
