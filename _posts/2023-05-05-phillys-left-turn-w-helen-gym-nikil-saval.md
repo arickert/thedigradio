@@ -4,6 +4,8 @@ permalink: podcast/phillys-left-turn-w-helen-gym-nikil-saval/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_402-Philly-Mayor.mp3
 categories:
+  - Organizing
+  - Social Movements
   - Electoral Politics
   - Urban Politics
 tags:
