@@ -4,9 +4,9 @@ permalink: podcast/monetary-politics-w-tim-barker/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_386-Barker.mp3
 categories:
+  - US Politics
   - Economics
   - Labor Movement
-  - Monetary Policy
 tags:
   - Tim Barker
 googlelink: >-
