@@ -5,7 +5,7 @@ audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_288-Lowndes-Singh.mp3
 categories:
   - Donald Trump
-  - Right Wing
+  - Right-Wing Politics
 tags:
   - Joe Lowndes
   - Nikhil Pal Singh
