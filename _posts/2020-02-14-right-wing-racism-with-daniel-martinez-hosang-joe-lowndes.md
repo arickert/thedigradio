@@ -5,7 +5,7 @@ audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_239-HoSangLowndes.mp3
 categories:
   - Racism
-  - Right Wing
+  - Right-Wing Politics
 tags:
   - Daniel Martinez HoSang
   - Joe Lowndes
