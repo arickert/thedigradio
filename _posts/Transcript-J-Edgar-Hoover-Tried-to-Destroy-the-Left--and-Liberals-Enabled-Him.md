@@ -8,6 +8,7 @@ categories:
   - US History
   - Criminal Justice
   - Surveillance
+layout: post
 ---
 
 Read the transcript here: [https://jacobin.com/2022/11/j-edgar-hoover-g-man-beverly-gage-liberalism-interview](https://jacobin.com/2022/11/j-edgar-hoover-g-man-beverly-gage-liberalism-interview)
