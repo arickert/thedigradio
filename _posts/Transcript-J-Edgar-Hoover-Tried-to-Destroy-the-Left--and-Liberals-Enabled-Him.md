@@ -2,7 +2,7 @@
 title: >-
   Transcript: J. Edgar Hoover Tried to Destroy the Left — and Liberals Enabled
   Him
-permalink: transcropts/j-edgar-hoover-g-man-beverly-gage-liberalism-interview
+permalink: transcripts/j-edgar-hoover-g-man-beverly-gage-liberalism-interview
 categories:
   - US Politics
   - US History
