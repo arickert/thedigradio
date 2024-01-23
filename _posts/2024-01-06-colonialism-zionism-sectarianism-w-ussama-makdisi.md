@@ -14,6 +14,10 @@ categories:
   - Zionism
 tags:
   - Ussama Makdisi
+googlelink: >-
+  https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjUyOQ?sa=X&ved=0CAUQkfYCahgKEwjY1cCc-vODAxUAAAAAHQAAAAAQ3AE
+spotifylink: 'https://open.spotify.com/episode/07tftV75xaNIOzAcTWW6Af?si=91546ffda23f4f03'
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000640753989'
 layout: post
 ---
 
