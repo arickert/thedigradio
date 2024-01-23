@@ -9,6 +9,10 @@ categories:
   - Zionism
 tags:
   - Shaul Magid
+googlelink: >-
+  https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjUxOQ?sa=X&ved=0CAUQkfYCahgKEwjY1cCc-vODAxUAAAAAHQAAAAAQ3AE
+spotifylink: 'https://open.spotify.com/episode/1fWrE7S2Nu0DnSf7U46JHf?si=23b43ed4d208482c'
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000638705286'
 layout: post
 ---
 
