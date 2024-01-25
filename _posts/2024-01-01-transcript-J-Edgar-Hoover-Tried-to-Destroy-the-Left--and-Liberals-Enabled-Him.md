@@ -7,7 +7,6 @@ categories:
   - US History
   - Criminal Justice
   - Surveillance
-layout: post
 ---
 
 
