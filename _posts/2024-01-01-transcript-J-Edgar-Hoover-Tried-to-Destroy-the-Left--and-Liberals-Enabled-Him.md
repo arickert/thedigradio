@@ -1,5 +1,5 @@
 ---
----
+layout: post
 title: "Transcript: J. Edgar Hoover Tried to Destroy the Left — and Liberals Enabled Him"
 permalink: transcripts/j-edgar-hoover-g-man-beverly-gage-liberalism-interview/
 categories:
