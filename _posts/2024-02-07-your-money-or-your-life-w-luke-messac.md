@@ -15,6 +15,6 @@ Featuring Luke Messac on *Your Money or Your Life: Debt Collection in American M
 
 Support The Dig at [Patreon.com/TheDig](http://patreon.com/TheDig)
 
-Subscribe to a year of Jewish Currents at 50% off with special code DIG2024[ jewishcurrents.org/forms/subscribe](www.jewishcurrents.org/forms/subscribe "jewishcurrents.org/forms/subscribe")
+Subscribe to a year of Jewish Currents at 50% off with special code DIG2024[ jewishcurrents.org/forms/subscribe](https://secure.jewishcurrents.org/forms/subscribe "jewishcurrents.org/forms/subscribe")
 
 Buy What Was Neoliberalism at [haymarketbooks.org/books/2056-what-was-neoliberalism](http://haymarketbooks.org/books/2056-what-was-neoliberalism)
