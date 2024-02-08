@@ -7,6 +7,6 @@ layout: post
 
 Read the transcript here: [https://jacobin.com/2024/01/china-mieville-communist-manifesto-the-dig](https://jacobin.com/2024/01/china-mieville-communist-manifesto-the-dig)
 
-Listen to the interview here: [https://thedigradio.com/podcast/zionism-vs-anti-zionism-ep-1-w-shaul-magid/](https://thedigradio.com/podcast/zionism-vs-anti-zionism-ep-1-w-shaul-magid/) and here: [https://thedigradio.com/podcast/zionism-vs-anti-zionism-ep-1-w-shaul-magid/](https://thedigradio.com/podcast/zionism-vs-anti-zionism-ep-1-w-shaul-magid/)
+Listen to the interview here: [https://thedigradio.com/podcast/the-manifesto-w-china-mieville/](https://thedigradio.com/podcast/the-manifesto-w-china-mieville/)
 
 Read the corresponding newsletter here: [https://thedigradio.com/newsletter78](https://thedigradio.com/newsletter78)
