@@ -7,7 +7,7 @@ audiolink: >-
 categories:
   - Europe
   - Populism
-  - Right Wing
+  - Right Wing Politics
 tags:
   - David Broder
   - Lorenzo Zamponi
