@@ -4,6 +4,7 @@ permalink: podcast/defund-police-organizers-forum/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_261-DefundPolice.mp3
 categories:
+  - Police
   - Criminal Justice
   - Organizing
 tags: []
