@@ -4,7 +4,7 @@ permalink: podcast/surviving-this-plague-with-amy-kapczynski-and-gregg-gonsalves
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_250-KapGon.mp3
 categories:
-  - Coronavirus
+  - Pandemic
   - Healthcare
 tags:
   - Amy Kapczynski
