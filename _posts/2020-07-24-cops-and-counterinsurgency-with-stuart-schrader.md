@@ -4,6 +4,7 @@ permalink: podcast/cops-and-counterinsurgency-with-stuart-schrader/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_265-Schrader.mp3
 categories:
+  - Police
   - Cold War
   - Criminal Justice
   - Imperialism and Foreign Policy
