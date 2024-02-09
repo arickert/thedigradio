@@ -1,23 +1,27 @@
 ---
-layout: post
-applelink: https://podcasts.apple.com/us/podcast/black-left-with-charisse-burden-stelly/id1043245989?i=1000516681952
-spotifylink: https://open.spotify.com/episode/0xGHnPzbQtVogEblIXhRpf
-googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE5NDI?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
-title: "Black Left with Charisse Burden-Stelly"
+title: Black Left with Charisse Burden-Stelly
 permalink: podcast/black-left-with-charisse-burden-stelly/
-audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_301-Burden-Stelly.mp3
+audiolink: >-
+  https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_301-Burden-Stelly.mp3
+categories:
+  - ''
+  - Black Politics
+  - Capitalism
+  - Socialism
+tags:
+  - Charisse Burden-Stelly
 post_id: 1942
-categories: 
-- Black Politics
-- Capitalism
-- Socialism
-tags: 
-- Charisse Burden-Stelly
+googlelink: >-
+  https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE5NDI?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
+spotifylink: 'https://open.spotify.com/episode/0xGHnPzbQtVogEblIXhRpf'
+applelink: >-
+  https://podcasts.apple.com/us/podcast/black-left-with-charisse-burden-stelly/id1043245989?i=1000516681952
+layout: post
 ---
 
 Dan interviews Charisse Burden-Stelly on racial capitalism, the history of the US Black left, and the US government's Red Scare attacks on Black radicals.
 
-Read Burden-Stelly's work 
+Read Burden-Stelly's work
 
 [Modern U.S. Racial Capitalism: Some Theoretical Insights](https://monthlyreview.org/2020/07/01/modern-u-s-racial-capitalism/)
 
@@ -31,4 +35,4 @@ Read Burden-Stelly's work
 
 Meet with Charisse Burden-Stelly at the Dig's last Book Club event thedigradio.com/dig-book-club
 
-Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig) 
+Support this podcast at [patreon.com/thedig](http://www.patreon.com/TheDig)
