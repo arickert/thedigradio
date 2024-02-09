@@ -4,7 +4,7 @@ permalink: podcast/peace-can-happen-in-korea-with-tim-shorrock/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_73_-_Shorrock.mp3
 categories:
-  - Donald Trump
+  - Trump
   - Asia
   - Imperialism and Foreign Policy
   - World History
