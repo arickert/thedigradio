@@ -6,7 +6,7 @@ audiolink: >-
 categories:
   - Technology
   - Capitalism
-  - Coronavirus
+  - Pandemic
 tags:
   - Aaron Benanav
 post_id: 1526
