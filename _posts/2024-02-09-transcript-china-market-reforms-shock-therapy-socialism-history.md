@@ -1,6 +1,6 @@
 ---
 title: >-
-  Transcript: China’s Economy Dodged Neoliberal Shock Therapy — and Boomed
+  Transcript: China’s Economy Dodged Neoliberal Shock Therapy — and Boomed w/ Isabella Weber
 permalink: transcripts/china-market-reforms-shock-therapy-socialism-history/
 layout: post
 ---
