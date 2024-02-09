@@ -4,8 +4,9 @@ permalink: podcast/bonds-of-inequality-w-destin-jenkins/
 audiolink: >-
   https://media.blubrry.com/thedig/b/content.blubrry.com/thedig/The_Dig-EP_353-Jenkins.mp3
 categories:
+  - Economics
   - Finance
-  - Municipal Politics
+  - Urban Politics
 tags:
   - Destin Jenkins
 post_id: 2166
