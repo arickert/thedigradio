@@ -4,7 +4,7 @@ permalink: podcast/antibody-ep-1-existing-conditions/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/Antibody_Episode_1.mp3
 categories:
-  - Coronavirus
+  - Pandemic
 tags: []
 post_id: 1665
 layout: post
