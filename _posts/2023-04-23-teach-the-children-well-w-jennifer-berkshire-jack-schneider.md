@@ -6,7 +6,7 @@ audiolink: >-
 categories:
   - Education
   - Labor Movement
-  - Right-Wing Politics
+  - Right Wing Politics
 tags:
   - Jennifer Berkshire and Jack Schneider
 googlelink: >-
