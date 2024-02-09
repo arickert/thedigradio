@@ -6,7 +6,7 @@ audiolink: >-
 categories:
   - Africa
   - Colonialism
-  - Coronavirus
+  - Pandemic
 tags:
   - Adia Benton
 post_id: 1538
