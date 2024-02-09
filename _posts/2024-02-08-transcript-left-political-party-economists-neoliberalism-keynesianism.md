@@ -1,6 +1,6 @@
 ---
 title: >-
-  Transcript: Neoliberalism From the Left
+  Transcript: Neoliberalism From the Left w/ Stephanie Mudge
 permalink: transcripts/left-political-party-economists-neoliberalims-keynesianism/
 layout: post
 ---
