@@ -4,7 +4,6 @@ permalink: podcast/very-important-people-w-ashley-mears/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_431-Mears.mp3
 categories:
-  - Ashley Mears
   - Capitalism
   - Gender
   - Sex
