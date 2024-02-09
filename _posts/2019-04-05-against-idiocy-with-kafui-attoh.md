@@ -1,13 +1,15 @@
 ---
-layout: post
-title: "Against Idiocy with Kafui Attoh"
+title: Against Idiocy with Kafui Attoh
 permalink: podcast/against-idiocy-with-kafui-attoh/
-audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_190_-_Kafui.mp3
+audiolink: >-
+  https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_190_-_Kafui.mp3
+categories:
+  - Urban Politics
+  - Infrastructure
+tags:
+  - Kafui Attoh
 post_id: 510
-categories: 
-- Transportation and Cities
-tags: 
-- Kafui Attoh
+layout: post
 ---
 
 Car dominance, public transit austerity, and the neoliberal political-economy within which both are embedded have fomented what Marx called idiocy, in its classical sense of privatized social isolation. Dan talks to geographer Kafui Attoh, the author of Rights in Transit: Public Transportation and the Right to the City in California’s East Bay, about the political-economy of public transit and why the fight for transportation justice must be part of a broader struggle for the right to the city.
