@@ -4,7 +4,7 @@ permalink: podcast/freedom-dreams-w-robin-d-g-kelley/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_390-Kelley.mp3
 categories:
-  - Black Political Thought
+  - Black Politics
   - Third Worldism
   - US History
 tags:
