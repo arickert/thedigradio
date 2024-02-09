@@ -4,7 +4,7 @@ permalink: podcast/europe-w-anton-jager-dominik-leusder/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_375-Europe.mp3
 categories:
-  - Right-Wing Politics
+  - Right Wing Politics
   - Ukraine
   - Economics
   - Brexit
