@@ -5,7 +5,7 @@ audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_405-Slobodian.mp3
 categories:
   - Neoliberalism
-  - Right-Wing Politics
+  - Right Wing Politics
 tags:
   - Quinn Slobodian
 googlelink: >-
