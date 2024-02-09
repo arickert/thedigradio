@@ -4,8 +4,8 @@ permalink: podcast/glenn-greenwald-surveillance-hypocrisy-amid-russiagate-mania/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_90_-_Greenwald.mp3
 categories:
-  - Mass Surveillance
-  - Media Bias
+  - Surveillance
+  - Media
   - US Politics
   - Electoral Politics
 tags:
