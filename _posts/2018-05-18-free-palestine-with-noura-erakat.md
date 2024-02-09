@@ -1,16 +1,17 @@
 ---
-layout: post
-title: "Free Palestine with Noura Erakat"
+title: Free Palestine with Noura Erakat
 permalink: podcast/free-palestine-with-noura-erakat/
-audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_113_-_Erakat.mp3
+audiolink: >-
+  https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_113_-_Erakat.mp3
+categories:
+  - Imperialism and Foreign Policy
+  - Media
+  - Middle East
+  - Palestine
+tags:
+  - Noura Erakat
 post_id: 587
-categories: 
-- Imperialism and Foreign Policy
-- Media Bias
-- Middle East
-- Palestine
-tags: 
-- Noura Erakat
+layout: post
 ---
 
 Israel is massacring Palestinians daring to approach a fence that occupation forces have built to shore up an ethno-state founded on the principle of apartheid. Nothing could be more clear. But you wouldn't no that from the at best muddied coverage that prevails in mainstream media accounts. Dan’s guest  is Noura Erakat, a human rights attorney, professor at George Mason University and a powerful and eloquent voice challenging the anti-Palestine narrative—including, straight into the lion's den of TV news.
@@ -19,4 +20,4 @@ Thanks to Verso Books. Check out [*Street Fighting Years: An Autobiography of th
 
 Check out the [Socialism 2018 conference](https://www.socialismconference.org)
 
-And support this podcast with $ at [patreon.com/thedig](http://www.patreon.com/TheDig) 
+And support this podcast with $ at [patreon.com/thedig](http://www.patreon.com/TheDig)
