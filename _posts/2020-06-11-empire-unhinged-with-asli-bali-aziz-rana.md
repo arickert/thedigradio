@@ -1,15 +1,16 @@
 ---
-layout: post
-title: "Empire Unhinged with Aslı Bâli & Aziz Rana"
+title: Empire Unhinged with Aslı Bâli & Aziz Rana
 permalink: podcast/empire-unhinged-with-asli-bali-aziz-rana/
-audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_260-Ba_li-Rana.mp3
+audiolink: >-
+  https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_260-Ba_li-Rana.mp3
+categories:
+  - Pandemic
+  - Imperialism and Foreign Policy
+tags:
+  - Aslı Bâli
+  - Aziz Rana
 post_id: 1683
-categories: 
-- Coronavirus
-- Imperialism and Foreign Policy
-tags: 
-- Aslı Bâli
-- Aziz Rana
+layout: post
 ---
 
 Dan interviews returning guests Aslı Bâli and Aziz Rana on the long history behind the crisis of American imperial legitimation that has become so manifest amid the pandemic.
@@ -20,5 +21,5 @@ Some works by Bâli and Rana cited in this interview:
 
 [lawreview.uchicago.edu/publication/constitutionalism-and-american-imperial-imagination](https://lawreview.uchicago.edu/publication/constitutionalism-and-american-imperial-imagination)
 
-Please support this podcast at 
-[Patreon.com/TheDig](https://Patreon.com/TheDig)
+Please support this podcast at
+[Patreon.com/TheDig](https://patreon.com/TheDig)
