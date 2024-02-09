@@ -1,6 +1,6 @@
 ---
 title: >-
-  Transcript: What Yemen’s Houthis Want
+  Transcript: What Yemen’s Houthis Want w/ Helen Lackner
 permalink: transcripts/yemen-houthis-gaza-civil-war/
 layout: post
 ---
