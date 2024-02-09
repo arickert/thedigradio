@@ -1,6 +1,6 @@
 ---
 title: >-
-  Transcript: The US Labor Movement Had a Banner Year in 2023
+  Transcript: The US Labor Movement Had a Banner Year in 2023 w/ Alex Press and Eric Blanc
 permalink: transcripts/us-labor-movement-worker-organizing-uaw-starbucks-amazon-ups-2023/
 layout: post
 ---
