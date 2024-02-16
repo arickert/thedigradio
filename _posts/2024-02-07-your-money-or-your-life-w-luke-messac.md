@@ -8,6 +8,11 @@ categories:
   - US History
 tags:
   - Luke Messac
+googlelink: >-
+  https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjU0Ng?sa=X&ved=0CAUQkfYCahcKEwjY7qH-ubCEAxUAAAAAHQAAAAAQQQ
+spotifylink: 'https://open.spotify.com/episode/6wMovnEVJ9yW5MxCJGAZks?si=f7091c9e6e194361'
+applelink: >-
+  https://podcasts.apple.com/us/podcast/your-money-or-your-life-w-luke-messac/id1043245989?i=1000644567939
 layout: post
 ---
 
