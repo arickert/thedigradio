@@ -11,6 +11,10 @@ categories:
   - Yemen
 tags:
   - Helen Lackner
+googlelink: >-
+  https://podcasts.apple.com/us/podcast/yemen-and-the-houthis-w-helen-lackner/id1043245989?i=1000642697640
+spotifylink: 'https://open.spotify.com/episode/0JouhFvvv7L2xEnlGR71SK?si=c25716ba26f7492d'
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000642697640'
 layout: post
 ---
 
