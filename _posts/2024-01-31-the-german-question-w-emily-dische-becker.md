@@ -11,6 +11,11 @@ categories:
   - Zionism
 tags:
   - Emily Dische-Becker
+googlelink: >-
+  https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjU0MQ?sa=X&ved=0CAgQuIEEahcKEwjY7qH-ubCEAxUAAAAAHQAAAAAQLw
+spotifylink: 'https://open.spotify.com/episode/4f4oOU8cdt5nqdBR9CmvUl?si=c26f0b9fb2154ba9'
+applelink: >-
+  https://podcasts.apple.com/us/podcast/the-german-question-w-emily-dische-becker/id1043245989?i=1000643740090
 layout: post
 ---
 
