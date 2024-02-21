@@ -10,8 +10,6 @@ categories:
 - World History
 tags:
 - Abdel Razzaq Takriti
-- this is the first episode of *Thawra* (Revolution)
-- our rolling mini-series
 ---
 
 Featuring Abdel Razzaq Takriti, this is the first episode of *Thawra* (Revolution), our rolling mini-series on Arab radicalism in the 20th century. Today’s installment sets the stage: European imperialism in the Arab Mashriq from the late 18th century through the early 20th.
