@@ -1,6 +1,6 @@
 ---
 title: >-
-  Transcript: Populism Belongs to the Left with Thomas Frank
+  Transcript: Populism Belongs to the Left w/ Thomas Frank
 permalink: transcripts/populism-history-working-class-dig/
 layout: post
 ---
