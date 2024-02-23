@@ -1,6 +1,6 @@
 ---
 title: >-
-  Transcript: How the Ruling Class Became Vulgar with Doug Henwood
+  Transcript: How the Ruling Class Became Vulgar w/ Doug Henwood
 permalink: transcripts/ruling-class-vulgar-doug-henwood/
 layout: post
 ---
