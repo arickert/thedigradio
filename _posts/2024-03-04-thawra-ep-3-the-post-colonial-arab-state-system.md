@@ -10,7 +10,6 @@ categories:
 - World History
 tags:
 - Abdel Razzaq Takriti
-- this is the THIRD episode of *Thawra* (Revolution)
 - our rolling mini-series
 ---
 
