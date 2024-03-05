@@ -4,72 +4,35 @@ title: Home
 ---
 
 <section style="margin-left:0; margin-right:0" class="recent-posts">
-  <ul>
-  <div class="section-title mt-2">
-    <li style="font-size:2rem">
-      <span style="color: #78C0A0;font-family: 'RoslynGothic';font-size: 5rem;">The <span>Dig</span></span>
-      <span style="color:#B2B2B2"> is <a alt="Daniel Denvir" href="https://dan.thedigradio.com" style="color:#78C0A0">Daniel Denvir's</a> <a alt="Jacobin" href="https://jacobinmag.com/" style="color:#78C0A0">Jacobin</a> podcast on politics, history, and economics everywhere.</span>
-      </li>
-  </div>
-  <div class="row listrecent">
+<ul>
+<div class="section-title mt-2">
+<li style="font-size:2rem">
+  <span style="color: #78C0A0;font-family: 'RoslynGothic';font-size: 5rem;">The <span>Dig</span></span>
+  <span style="color:#B2B2B2"> is <a alt="Daniel Denvir" href="https://dan.thedigradio.com" style="color:#78C0A0">Daniel Denvir's</a> <a alt="Jacobin" href="https://jacobinmag.com/" style="color:#78C0A0">Jacobin</a> podcast on politics, history, and economics everywhere.</span>
+  </li>
+</div>
+<div class="row listrecent">
   
-  {% for post in site.posts limit:1 %}
-    {% if post.audiolink != null %}
-      <li style="font-size:2rem">
-        <span style="color:#B2B2B2">Click </span>
-        <a alt="latest post" href="{{post.permalink}}" style="color:#78C0A0">here</a>
-        <span style="color:#B2B2B2">to listen to the latest episode, featuring 
-        {% for tag in post.tags %}
-            
-          {% if forloop.last %}
-          {{tag}}.
-          {% else %}
-          {{tag}},
-          {% endif %}
-        {% endfor %}
-      </span>
-      </li>
-
-    {% else %}
-      {% for post2 in site.posts offset:1 limit:1 %}
-        {% if post2.audiolink != null %}
-        <li style="font-size:2rem">
-          <span style="color:#B2B2B2">Click </span>
-          <a alt="latest post" href="{{post2.permalink}}" style="color:#78C0A0">here</a>
-          <span style="color:#B2B2B2">to listen to the latest episode, featuring 
-          {% for tag in post2.tags %}
-          {% if forloop.last %}
-          {{tag}}.
-          {% else %}
-          {{tag}},
-          {% endif %}
-          {% endfor %}
-        </span>
-        </li>
+{% for post in site.posts %}
+  {% if post.audiolink != null %}
+    <li style="font-size:2rem">
+      <span style="color:#B2B2B2">Click </span>
+      <a alt="latest post" href="{{post.permalink}}" style="color:#78C0A0">here</a>
+      <span style="color:#B2B2B2">to listen to the latest episode, featuring 
+      {% for tag in post.tags %}
+        {% if forloop.last %}
+        {{tag}}.
         {% else %}
-            {% for post3 in site.posts offset:2 limit:1 %}
-              {% if post3.audiolink!= null %}
-              <li style="font-size:2rem">
-                <span style="color:#B2B2B2">Click </span>
-                <a alt="latest post" href="{{post3.permalink}}" style="color:#78C0A0">here</a>
-                <span style="color:#B2B2B2">to listen to the latest episode, featuring 
-                {% for tag in post3.tags %}
-                {% if forloop.last %}
-                {{tag}}.
-                {% else %}
-                {{tag}},
-                {% endif %}
-                {% endfor %}
-              </span>
-              </li>
-              {% endif %}
-            {% endfor %}
+        {{tag}},
         {% endif %}
       {% endfor %}
-    {% endif %} 
-  {% endfor %}
+    </span>
+    </li>
+    {% break %}
+  {% endif %}
+{% endfor %}
   
-  </div>
-  </li>
-  </section>
+</div>
+</li>
+</section>
   
