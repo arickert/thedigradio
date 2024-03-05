@@ -10,7 +10,6 @@ categories:
 - World History
 tags:
 - Abdel Razzaq Takriti
-- our rolling mini-series
 ---
 
 Featuring Abdel Razzaq Takriti, this is the THIRD episode of *Thawra* (Revolution), our rolling mini-series on Arab radicalism in the 20th century. Today’s installment is a comprehensive overview of the Middle Eastern Arab state system that crystalizes with the end of British and French colonial rule.
