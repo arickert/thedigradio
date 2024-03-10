@@ -1,5 +1,5 @@
 ---
-title: Thawra Ep. 3 – The Post-Colonial Arab State System
+title "Thawra Ep. 3 – The Post-Colonial Arab State System"
 permalink: podcast/thawra-ep-3-the-post-colonial-arab-state-system/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_437-Takriti.mp3
