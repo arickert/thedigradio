@@ -10,6 +10,23 @@ layout: default
   {% if page.audiolink != null %}
   <audio style="width:60%" controls><source src="{{page.audiolink}}" type="audio/mpeg">Your browser does not support the audio tag.</audio>
   {% endif %}
+  
+  <br>
+  {% if page.applelink != null or page.spotifylink != null or page.googlelink != null %}
+  <div style="color:#B2B2B2">
+  Listen here:
+  </div>
+  {% if page.applelink != null %}
+  <a href="{{page.applelink}}"><i class="fa-brands fa-apple" style="color:#B2B2B2; fontSize:30; paddingLeft:5;"></i></a>
+  {% endif %}
+  {% if page.spotifylink != null %}
+  <a href="{{page.spotifylink}}"><i class="fa-brands fa-spotify" style="color:#B2B2B2; fontSize:30; paddingLeft:5;"></i></a>
+  {% endif %}
+  {% if page.googlelink != null %}
+  <a href="{{page.googlelink}}"><i class="fa fa-google" style="color:#B2B2B2; fontSize:30;" ></i></a>
+  {% endif %}
+  {% endif %}
+
 
   {% endunless %}
     {{ content }}
@@ -33,16 +50,6 @@ layout: default
     {% endfor %}
 </div>
 
-<br>
-{% if page.applelink != null %}
-<a href="{{page.applelink}}"><i class="fa-brands fa-apple" style="color:#B2B2B2;"></i></a>
-{% endif %}
-{% if page.spotifylink != null %}
-<a href="{{page.spotifylink}}"><i class="fa-brands fa-spotify" style="color:#B2B2B2;"></i></a>
-{% endif %}
-{% if page.googlelink != null %}
-<a href="{{page.googlelink}}"><i class="fa fa-google" style="color:#B2B2B2;" ></i></a>
-{% endif %}
 </div>
 
 
