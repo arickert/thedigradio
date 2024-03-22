@@ -10,8 +10,6 @@ categories:
   - World History
 tags:
   - Abdel Razzaq Takriti
-  - this is the FOURTH episode of *Thawra* (Revolution)
-  - our rolling mini-series
 spotifylink: 'https://open.spotify.com/episode/1qRRAaIoabGZWPgK2ygR4O?si=c2e890b331fb46a5'
 applelink: >-
   https://podcasts.apple.com/us/podcast/thawra-ep-4-from-the-nakba-to-nasser/id1043245989?i=1000648819288
