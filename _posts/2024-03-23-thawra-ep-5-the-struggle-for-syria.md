@@ -10,8 +10,6 @@ categories:
   - World History
 tags:
   - Abdel Razzaq Takriti
-  - ''
-  - ''
 layout: post
 ---
 
