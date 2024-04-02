@@ -10,6 +10,8 @@ categories:
   - World History
 tags:
   - Abdel Razzaq Takriti
+spotifylink: 'https://open.spotify.com/episode/6j2CiCrSeudKxll6ocP5mp?si=53515850dc66403b'
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000651191484'
 layout: post
 ---
 
