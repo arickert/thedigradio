@@ -8,13 +8,11 @@ layout: default
   <span style="color:#B2B2B2" class="post-date">{{ page.date | date_to_string }}</span>
 
   {% if page.audiolink != null %}
-  <audio style="width:60%" controls><source src="{{page.audiolink}}" type="audio/mpeg">Your browser does not support the audio tag.</audio>
+  <a href="{{page.audiolink}}">Click here to download</a>
   {% endif %}
-  
-  <br>
   {% if page.applelink != null or page.spotifylink != null or page.googlelink != null %}
   <div style="color:#B2B2B2">
-  Listen here:
+  or listen here:
   {% if page.applelink != null %}
   <a href="{{page.applelink}}"><i class="fa-brands fa-apple" style="color:#B2B2B2; font-size:30px; padding-left:5px;"></i></a>
   {% endif %}
@@ -46,7 +44,7 @@ layout: default
     {% if page.tags.size > 0 %}
     Guests:
     {% endif %}
-    {% for tag in page.tags %}  
+    {% for tag in page.tags %}
       <a style="color:#78C0A0" href='{{site.baseurl}}/tag/{{tag|slugify: "ascii"}}'>{{tag}} </a>
     {% endfor %}
 </div>
