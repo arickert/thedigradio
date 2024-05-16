@@ -10,8 +10,6 @@ categories:
   - World History
 tags:
   - Abdel Razzaq Takriti
-  - this is the NINTH episode of *Thawra* (Revolution)
-  - our rolling mini-series
 spotifylink: 'https://open.spotify.com/episode/3ozj16ZZIOJsa7VuTwM8Px?si=482f289654e745cc'
 applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000654445051'
 layout: post
