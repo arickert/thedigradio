@@ -70,30 +70,18 @@ Free the land, Free Palestine!
 
 ***
 
-Notes
-
- 
+Notes 
 
 \[1] “Resolution for UAWD to Educate & Organize for BDS & Palestinian Liberation as an Official Position of the UAW,”[ https://uawd.org/project/resolution-for-uawd-to-educate-organize-for-bds-palestinian-liberation-as-an-official-position-of-the-uaw/](https://uawd.org/project/resolution-for-uawd-to-educate-organize-for-bds-palestinian-liberation-as-an-official-position-of-the-uaw/).
 
 \[2] “Israel, Unionists Honor Phil Hart,” Detroit Free Press, May 25, 1964.
 
- 
-
-\[3] “Arab Students Picket Iban \[sic] Speech,” ICV, November 16, 1967.
-
- 
+\[3] “Arab Students Picket Iban \[sic] Speech,” ICV, November 16, 1967. 
 
 \[4] Dan Georgakas and Marvin Surkin, Detroit: I Do Mind Dying: A Study in Urban Revolution (Chicago: Haymarket Books, 2012), 82–84.
 
- 
-
 \[5] Jeff Schuhrke, “US Labor Has Long Been a Stalwart Backer of Israel. That’s Starting to Change,” Jacobin (November 11, 2023),  [https://jacobin.com/2023/11/us-labor-israel-palestine-solidarity-history](https://jacobin.com/2023/11/us-labor-israel-palestine-solidarity-history).
 
- 
-
 \[6] Nina Sovich, “Palestinian Trade Unions,” Journal of Palestine Studies 29, no. 4 (Autumn 2000), 66–79; Graham Usher, “Palestinian Trade Unions and the Struggle for Independence,” Middle East Report no. 194/195, (May – Aug. 1995), 20–24.
-
- 
 
 \[7] Schuhrke, “US Labor Has Long Been a Stalwart Backer of Israel.”
