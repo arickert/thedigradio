@@ -1,6 +1,6 @@
 ---
 layout: page2
-title: ...Presents
+title: The Dig Presents
 ---
 
 <div style="background-image: url(/assets/Blacklinework.png);         background-size: cover">
@@ -12,11 +12,11 @@ title: ...Presents
     <h6 style="color: white; font-weight:normal" >
 
 <p>
-The Dig Presents is a monthly series that features original documentary reporting, personal narrative, and other sonic experiments from a wide range of contributors. 
+The Dig Presents is a monthly series that features original documentary reporting, personal narrative, and other sonic experiments from a wide range of contributors.
 </p>
 <p>
 Produced and edited by Liza Yeager and Mitchell Johnson.
-</p> 
+</p>
 <p>
 If you’re interested in pitching a story to The Dig Presents, email thedigpresents@gmail.com. </p> </h6>
 </div>
@@ -27,7 +27,7 @@ If you’re interested in pitching a story to The Dig Presents, email thedigpres
     {% else %}
     {% include postbox2.md %}
     {% endif %}
-{% endif %}    
+{% endif %}
 
 {% endfor %}
 </div>

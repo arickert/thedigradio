@@ -19,15 +19,11 @@ title: Series
 <section class="recent-posts">
 <div class="row listrecent">
 <ul style="color: #515151; padding-left:25px">
-{% assign series = "Thawra,Iran,Antibody,...Presents," | split: ',' %}
+{% assign series = "Thawra,Iran,Antibody,The Dig Presents," | split: ',' %}
 {% for newpage in site.pages %}
 {% if series contains newpage.title %}
     <h2 style="color:#78C0A0" >
-    {% if newpage.title contains "War on Terror" %}
-        <a href="{{newpage.url}}">War on Terror</a>
-    {% else %}
-        <a href="{{newpage.url}}">{{ newpage.title }}</a>
-    {% endif %}
+      <a href="{{newpage.url}}">{{ newpage.title }}</a>
     </h2>
     <ul style="color:#515151; padding-left:25px" >
     {% for post in site.posts %}
