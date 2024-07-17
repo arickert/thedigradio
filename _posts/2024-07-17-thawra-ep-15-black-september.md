@@ -13,9 +13,9 @@ categories:
   - Syria
   - World History
 tags:
-  - our series on Arab radicalism in the 20th century
-  - this is the FIFTEENTH episode of Thawra (Revolution)
   - Abdel Razzaq Takriti
+  - this is the FIFTEENTH episode of Thawra (Revolution)
+  - our series on Arab radicalism in the 20th century
 spotifylink: ''
 applelink: ''
 layout: post
