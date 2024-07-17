@@ -12,8 +12,6 @@ categories:
   - Yemen
 tags:
   - Abdel Razzaq Takriti
-  - this is the THIRTEENTH episode of *Thawra* (Revolution)
-  - our mini-series
 spotifylink: 'https://open.spotify.com/episode/4eEZJo2SmmiK4cLL8LYErP?si=66a08e3551294669'
 applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000659558593'
 layout: post
