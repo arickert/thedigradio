@@ -15,7 +15,7 @@ applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000656
 layout: post
 ---
 
-Featuring Abdel Razzaq Takriti, this is the ELEVENTH episode of *Thawra* (Revolution), our rolling mini-series on Arab radicalism in the 20th century. Today’s installment tells the story of the destruction of the two giant revolutionary projects of 1958: the union of Egypt and Syria under Nasser’s United Arab Republic and Iraq’s July Revolution that brought Qasim alongside communist allies to power. The rival radical projects of pan-Arabism and communism suffered huge blows. So did Nasser and Qasim, the era’s most significant Arab anti-imperialist leaders. Meanwhile, the Ba’ath, once ideological and idealistic, became increasingly dominated by military men who made the party into an instrument for raw domination.
+Today’s installment tells the story of the destruction of the two giant revolutionary projects of 1958: the union of Egypt and Syria under Nasser’s United Arab Republic and Iraq’s July Revolution that brought Qasim alongside communist allies to power. The rival radical projects of pan-Arabism and communism suffered huge blows. So did Nasser and Qasim, the era’s most significant Arab anti-imperialist leaders. Meanwhile, the Ba’ath, once ideological and idealistic, became increasingly dominated by military men who made the party into an instrument for raw domination.
 
 Support The Dig at [Patreon.com/TheDig](http://patreon.com/TheDig)
 
