@@ -3,21 +3,15 @@ title: 'Thawra Epilogue: Islamic Revolution and Gulf Wars'
 permalink: podcast/thawra-epilogue-islamic-revolution-and-gulf-wars/
 audiolink: 'https://content.blubrry.com/thedig/The_Dig-EP_456-Takriti.mp3'
 categories:
-  - Egypt
   - Imperialism and Foreign Policy
   - Iran
   - Iraq
   - Israel
-  - Jordan
-  - Lebanon
   - Middle East
   - Palestine
-  - Saudi Arabia
   - World History
 tags:
   - Abdel Razzaq Takriti
-  - this is the first of a two-part epilogue to *Thawra* (Revolution)
-  - our series
 spotifylink: 'https://open.spotify.com/episode/1VG6tPFmsljQz8JFwTw7lP?si=d8e116baf09e46b8'
 applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000667536368'
 layout: post
