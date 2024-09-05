@@ -16,7 +16,7 @@ applelink: >-
 layout: post
 ---
 
-Featuring Abdel Razzaq Takriti, this is the second episode of *Thawra* (Revolution), our rolling mini-series on Arab radicalism in the 20th century. Today’s installment lays out 20th century anti-colonialism, including Iraqi, Syrian, and Palestinian Great Revolts, the birth of Arab nationalism, Islamic resistance, Ba’athism, and communism.
+Today’s installment lays out 20th century anti-colonialism, including Iraqi, Syrian, and Palestinian Great Revolts, the birth of Arab nationalism, Islamic resistance, Ba’athism, and communism.
 
 Support The Dig at [Patreon.com/TheDig](http://patreon.com/TheDig)
 
