@@ -7,7 +7,6 @@ categories:
   - Arab Politics
   - Imperialism and Foreign Policy
   - Middle East
-  - Oman
   - World History
   - Yemen
 tags:
@@ -17,7 +16,7 @@ applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000659
 layout: post
 ---
 
-Featuring Abdel Razzaq Takriti, this is the THIRTEENTH episode of *Thawra* (Revolution), our mini-series on Arab radicalism in the 20th century. Today’s installment covers the armed left-wing revolutionary movements that challenged British imperial power across Southern Arabia, with the National Liberation Front taking over South Yemen and Dhufari rebels in Oman waging a liberation war against the Sultan. Today’s alliance of reactionary Gulf monarchies was not inevitable; they were made by colonial power, and Arab revolutionaries in the 1960s and 70s mounted a major effort to overthrow them.
+Today’s installment covers the armed left-wing revolutionary movements that challenged British imperial power across Southern Arabia, with the National Liberation Front taking over South Yemen and Dhufari rebels in Oman waging a liberation war against the Sultan. Today’s alliance of reactionary Gulf monarchies was not inevitable; they were made by colonial power, and Arab revolutionaries in the 1960s and 70s mounted a major effort to overthrow them.
 
 Support The Dig at [Patreon.com/TheDig](http://patreon.com/TheDig)
 
