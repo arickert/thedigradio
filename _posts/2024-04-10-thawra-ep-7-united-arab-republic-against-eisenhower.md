@@ -17,7 +17,7 @@ applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000652
 layout: post
 ---
 
-Featuring Abdel Razzaq Takriti, this is the SEVENTH episode of *Thawra* (Revolution), our rolling mini-series on Arab radicalism in the 20th century. Today’s installment lays out the the US’s Eisenhower Doctrine, which in 1957 inaugurated a new era of imperialism in the Middle East; the Ba’ath Party driving Syria and Egypt into the United Arab Republic, a superstate under Nasser’s rule, in 1958; and, later that year, Eisenhower landing US Marines in Lebanon, the first American combat operation in the region.
+Today’s installment lays out the the US’s Eisenhower Doctrine, which in 1957 inaugurated a new era of imperialism in the Middle East; the Ba’ath Party driving Syria and Egypt into the United Arab Republic, a superstate under Nasser’s rule, in 1958; and, later that year, Eisenhower landing US Marines in Lebanon, the first American combat operation in the region.
 
 Support The Dig at [Patreon.com/TheDig](http://patreon.com/TheDig)
 
