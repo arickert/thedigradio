@@ -15,7 +15,7 @@ applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000650
 layout: post
 ---
 
-Featuring Abdel Razzaq Takriti, this is the FIFTH episode of *Thawra* (Revolution), our rolling mini-series on Arab radicalism in the 20th century. Today’s installment lays out the early years of a struggle for Syria that would decisively shape the Arab world: the fight for independence from France, the first (CIA-backed) coup of 1949, and the rise of the Ba’ath and Communist movements.
+Today’s installment lays out the early years of a struggle for Syria that would decisively shape the Arab world: the fight for independence from France, the first (CIA-backed) coup of 1949, and the rise of the Ba’ath and Communist movements.
 
 Support The Dig at [Patreon.com/TheDig](http://patreon.com/TheDig)
 
