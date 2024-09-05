@@ -15,7 +15,7 @@ applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000655
 layout: post
 ---
 
-Featuring Abdel Razzaq Takriti, this is the TENTH episode of *Thawra* (Revolution), our rolling mini-series on Arab radicalism in the 20th century. Today’s installment tells the story of Iraq’s 1958 July Revolution: a Free Officers’ coup overthrew the imperialist-aligned Hashemite monarchy and brought nationalist Abdul-Karim Qasim to power alongside a surging Communist Party. Revolutionary currents soon turned against one another, however, as did Qasim and Nasser. Conflict stemmed from serious political and strategic differences, but also petty rivalries and bitter feuds. And in Iraq, class conflict often appeared dressed up in the sectarian and ethnic modalities through which class was lived.
+Today’s installment tells the story of Iraq’s 1958 July Revolution: a Free Officers’ coup overthrew the imperialist-aligned Hashemite monarchy and brought nationalist Abdul-Karim Qasim to power alongside a surging Communist Party. Revolutionary currents soon turned against one another, however, as did Qasim and Nasser. Conflict stemmed from serious political and strategic differences, but also petty rivalries and bitter feuds. And in Iraq, class conflict often appeared dressed up in the sectarian and ethnic modalities through which class was lived.
 
 Support The Dig at Patreon.com/TheDig
 
