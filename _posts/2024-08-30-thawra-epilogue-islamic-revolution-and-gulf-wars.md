@@ -3,6 +3,7 @@ title: 'Thawra Epilogue: Islamic Revolution and Gulf Wars'
 permalink: podcast/thawra-epilogue-islamic-revolution-and-gulf-wars/
 audiolink: 'https://content.blubrry.com/thedig/The_Dig-EP_456-Takriti.mp3'
 categories:
+  - Arab Politics
   - Imperialism and Foreign Policy
   - Iran
   - Iraq
