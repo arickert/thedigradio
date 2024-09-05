@@ -7,21 +7,17 @@ categories:
   - Arab Politics
   - Imperialism and Foreign Policy
   - Israel
-  - Lebanon
   - Middle East
   - Palestine
   - World History
 tags:
   - Abdel Razzaq Takriti
-  - this is the SIXTEENTH
-  - our series
-  - final episode of *Thawra* (Revolution)
 spotifylink: 'https://open.spotify.com/episode/3ALjd6Mz5RGUzeCbtcSzZO?si=153f975604c44110'
 applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000663857433'
 layout: post
 ---
 
-Featuring Abdel Razzaq Takriti, this is the SIXTEENTH and final episode of *Thawra* (Revolution), our series on Arab radicalism in the 20th century. Today’s installment traces a massive defeat for the Palestinian Revolution: Israel’s 1982 invasion of Lebanon and brutal siege of Beirut. Under severe pressure and isolated in the wake of Egypt’s normalization with Israel, the PLO evacuated its headquarters. What followed was a giant massacre of Palestinian civilians and the end of the decades-long era of Arab revolutionary politics to which this series has been dedicated. A substantial epilogue is coming soon.
+Today’s installment traces a massive defeat for the Palestinian Revolution: Israel’s 1982 invasion of Lebanon and brutal siege of Beirut. Under severe pressure and isolated in the wake of Egypt’s normalization with Israel, the PLO evacuated its headquarters. What followed was a giant massacre of Palestinian civilians and the end of the decades-long era of Arab revolutionary politics to which this series has been dedicated. A substantial epilogue is coming soon.
 
 Support The Dig at [Patreon.com/TheDig](http://patreon.com/TheDig)
 
