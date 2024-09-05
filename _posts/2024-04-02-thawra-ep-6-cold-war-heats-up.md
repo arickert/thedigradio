@@ -15,7 +15,7 @@ applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000651
 layout: post
 ---
 
-Featuring Abdel Razzaq Takriti, this is the SIXTH episode of *Thawra* (Revolution), our rolling mini-series on Arab radicalism in the 20th century. Today’s installment lays out the intensification of the Cold War across the Middle East. Western imperialist powers attempted to recruit Arab countries to the Baghdad Pact, a Middle Eastern NATO. Nasser rallied the Arab masses in opposition, becoming an anti-imperialist icon. In 1956, Nasser nationalized the Suez Canal. In response, the British, French, and Israelis attacked Egypt. But Nasser and Arab anti-imperialism won the day.
+Today’s installment lays out the intensification of the Cold War across the Middle East. Western imperialist powers attempted to recruit Arab countries to the Baghdad Pact, a Middle Eastern NATO. Nasser rallied the Arab masses in opposition, becoming an anti-imperialist icon. In 1956, Nasser nationalized the Suez Canal. In response, the British, French, and Israelis attacked Egypt. But Nasser and Arab anti-imperialism won the day.
 
 Support The Dig at [Patreon.com/TheDig](http://patreon.com/TheDig)
 
