@@ -6,11 +6,8 @@ audiolink: >-
 categories:
   - Arab Politics
   - Imperialism and Foreign Policy
-  - Jordan
-  - Lebanon
   - Middle East
   - Palestine
-  - Syria
   - World History
 tags:
   - Abdel Razzaq Takriti
@@ -19,7 +16,7 @@ applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000662
 layout: post
 ---
 
-Featuring Abdel Razzaq Takriti, this is the FIFTEENTH episode of *Thawra* (Revolution), our series on Arab radicalism in the 20th century. Today’s installment addresses the Palestinian Revolution’s project in Lebanon, Syria, and Jordan—leading up to the 1970 conflict with the Jordanian state and the violent expulsion of PLO guerrillas during Black September. Then, Egypt and Syria checked Israel’s power in the October War of 1973—only for Anwar Sadat to lead Egypt into Kissinger’s plan to pacify Arab revolution.
+Today’s installment addresses the Palestinian Revolution’s project in Lebanon, Syria, and Jordan—leading up to the 1970 conflict with the Jordanian state and the violent expulsion of PLO guerrillas during Black September. Then, Egypt and Syria checked Israel’s power in the October War of 1973—only for Anwar Sadat to lead Egypt into Kissinger’s plan to pacify Arab revolution.
 
 Support The Dig at [Patreon.com/TheDig](http://patreon.com/TheDig)
 
