@@ -16,7 +16,7 @@ applelink: >-
 layout: post
 ---
 
-Featuring Abdel Razzaq Takriti, this is the FOURTH episode of *Thawra* (Revolution), our rolling mini-series on Arab radicalism in the 20th century. Today’s installment lays out the politics surrounding the Zionist settler colonial destruction of Palestine, the Nakba of 1948, and the ground-shifting event that followed in its wake: the Nasser-led 1952 Egyptian Free Officers Movement coup that would set the tone for two decades of revolutionary nationalism across the region. Also: the Soviet camp’s support for the colonial partition of Palestine and its calamitous impact on powerful Arab communist parties.
+Today’s installment lays out the politics surrounding the Zionist settler colonial destruction of Palestine, the Nakba of 1948, and the ground-shifting event that followed in its wake: the Nasser-led 1952 Egyptian Free Officers Movement coup that would set the tone for two decades of revolutionary nationalism across the region. Also: the Soviet camp’s support for the colonial partition of Palestine and its calamitous impact on powerful Arab communist parties.
 
 Support The Dig at [Patreon.com/TheDig](http://patreon.com/TheDig)
 
