@@ -6,7 +6,6 @@ audiolink: >-
 categories:
   - Arab Politics
   - Imperialism and Foreign Policy
-  - Jordan
   - Middle East
   - Palestine
   - World History
@@ -19,7 +18,7 @@ applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000661
 layout: post
 ---
 
-Featuring Abdel Razzaq Takriti, this is the FOURTEENTH episode of *Thawra* (Revolution), our series on Arab radicalism in the 20th century. Today’s installment covers the rise of the Palestinian Revolution and then its explosion after the Arab defeat in the June War of 1967 with Israel. Fatah, the Popular Front for the Liberation and Palestine, and other factions launched an armed guerrilla struggle against Israel, engaging the Palestinian people in a full-scale mobilization for their liberation. Also: Ba’athists Aḥmad Ḥasan al-Bakr and Saddam Hussein seized power in Iraq, as did Muammar Gaddafi’s Free Officers in Libya.
+Today’s installment covers the rise of the Palestinian Revolution and then its explosion after the Arab defeat in the June War of 1967 with Israel. Fatah, the Popular Front for the Liberation and Palestine, and other factions launched an armed guerrilla struggle against Israel, engaging the Palestinian people in a full-scale mobilization for their liberation. Also: Ba’athists Aḥmad Ḥasan al-Bakr and Saddam Hussein seized power in Iraq, as did Muammar Gaddafi’s Free Officers in Libya.
 
 Support The Dig at [Patreon.com/TheDig](http://patreon.com/TheDig)
 
