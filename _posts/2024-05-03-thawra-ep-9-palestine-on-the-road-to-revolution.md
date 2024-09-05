@@ -15,7 +15,7 @@ applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000654
 layout: post
 ---
 
-Featuring Abdel Razzaq Takriti, this is the NINTH episode of *Thawra* (Revolution), our rolling mini-series on Arab radicalism in the 20th century. Today’s installment covers the creation of a Palestinian national liberation movement throughout the 1950s by a people dispersed by the Nakba: organizations, alliances, and theories of change assembled in the universities, cities, and refugee camps surrounding Palestine. We end with the 1959 foundation of Fatah, the first organization for Palestinians led by Palestinians focused first and foremost on Palestinian liberation. This is the story of the beginning of the Palestinian national liberation movement as we have come to know it today.
+Today’s installment covers the creation of a Palestinian national liberation movement throughout the 1950s by a people dispersed by the Nakba: organizations, alliances, and theories of change assembled in the universities, cities, and refugee camps surrounding Palestine. We end with the 1959 foundation of Fatah, the first organization for Palestinians led by Palestinians focused first and foremost on Palestinian liberation. This is the story of the beginning of the Palestinian national liberation movement as we have come to know it today.
 
 Buy *How to Abolish Prisons: Lessons from the Movement against Imprisonment* at haymarketbooks.org
 
