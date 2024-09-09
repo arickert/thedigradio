@@ -2,7 +2,7 @@
 title: 'Morbid Symptoms w/ Amna Akbar, Gabe Winant, Thea Riofrancos'
 permalink: podcast/morbid-symptoms-w-amna-akbar-gabe-winant-thea-riofrancos/
 audiolink: >-
-  https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_228-Klein.mp3
+  https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_457-SocialismCon.mp3
 categories:
   - Environment
   - Labor Movement
