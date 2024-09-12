@@ -1,7 +1,7 @@
 ---
 title: Introducing Thawra
 permalink: podcast/introducing-thawra/
-audiolink: 'https://https://content.blubrry.com/3748324/T-2024-09-05-017.mp3'
+audiolink: 'https://content.blubrry.com/3748324/T-2024-09-05-017.mp3'
 categories:
   - Arab Politics
   - Imperialism and Foreign Policy
