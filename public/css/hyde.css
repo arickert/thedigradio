@@ -1,3 +1,4 @@
+
 /*
  *  __                  __
  * /\ \                /\ \
@@ -37,7 +38,7 @@ html {
 
   font-size:16px;font-style:normal;
   -webkit-font-smoothing: antialiased;
-  -webkit-text-stroke-width: 0.2px; 
+  -webkit-text-stroke-width: 0.2px;
   scrollbar-color: #27262E #27262E;
 }
 html::-webkit-scrollbar-track{
@@ -58,14 +59,14 @@ html::-webkit-scrollbar-track{
   }
   .icon-bar{
     gap:10px;
-    
+
   }
 }
 
 @font-face {font-family: "Scala";
   src: url("fonts/CourierPrimeSans.ttf");
   font-display: swap;
-} 
+}
 
 
 /*
@@ -75,12 +76,9 @@ html::-webkit-scrollbar-track{
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
- #searchicon{
-   visibility:visible; 
- }
 
  #searchicon2{
-  visibility:hidden; 
+  visibility:hidden;
 }
 
 
@@ -92,7 +90,7 @@ html::-webkit-scrollbar-track{
   border-bottom: dashed;
   border-right: none;
   position:fixed;
-  width:100%; 
+  width:100%;
   /* color: rgba(255,255,255,.5); */
   /* background-color: #202020; */
   /* height:27em; */
@@ -112,21 +110,17 @@ html::-webkit-scrollbar-track{
 @media (max-width: 48em) {
 
   .sidebar {
-    opacity: 1; /* Ensure the sidebar is visible */
-    transform: translateY(0%);
-    pointer-events: all; /* Allow interactions */
-    z-index: 1000; /* Ensure it is above other content */
-    position: relative;
+  opacity: 0;
+  transform:translateY(0%);
+  pointer-events: none;
+
   }
 
-  .mystyle {
+  .mystyle{
     opacity: 1;
-    transform: translateY(0%);
-    pointer-events: all;
-    z-index: 1000;
-  }
-  .content{
-    padding-top: 0;
+    transform:translateY(0%);
+    pointer-events:all;
+    z-index:1
   }
 }
 
@@ -142,7 +136,7 @@ a{
   .mobile-dropdown-toggle{
     display: none;
   }
-  
+
   .sidebar {
     border-bottom: none;
     border-right: dashed;
@@ -166,7 +160,9 @@ a{
   color: #B2B2B2;
 }
 
-
+.hideicon{
+  visibility:hidden;
+}
 /* About section */
 .sidebar-about h1 {
   color: #fff;
@@ -219,7 +215,7 @@ a.sidebar-nav-item:focus {
   gap:3px;
   bottom:0.4rem;
   left:0.01rem;
-  
+
 }
 
 
@@ -231,10 +227,10 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   #searchicon{
-    visibility:hidden; 
+    visibility:hidden;
   }
   #searchicon2{
-    visibility:visible; 
+    visibility:visible;
   }
   .sidebar-sticky {
     position: absolute;
@@ -268,7 +264,7 @@ a.sidebar-nav-item:focus {
     max-width: 38rem;
     margin-left: 15rem;
     margin-right: 2rem;
-    padding-bottom:0rem;  
+    padding-bottom:0rem;
   }
   .guestbox{
     height:85vh;
@@ -320,3 +316,4 @@ a.sidebar-nav-item:focus {
     background: rgb(100,100,100);
     border-radius: 10px;
 }
+

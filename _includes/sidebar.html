@@ -1,9 +1,7 @@
 <div>
   <div id="searchicon" style="cursor:pointer; font-size: 2.5em; position: fixed; right: 15px; z-index: 2; top: 15px;"
   onClick="myFunction()" >
-  <i class="fa-solid fa-bars"></i>
-  </div>
-  <!-- <button onClick="myFunction()"class="mobile-dropdown-toggle">
+<svg width="20px" height="20px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="#b2b2b2"><path d="M3 5H21" stroke="#b2b2b2" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M3 12H21" stroke="#b2b2b2" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M3 19H21" stroke="#b2b2b2" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>  </div><!-- <button onClick="myFunction()"class="mobile-dropdown-toggle">
   </button> -->
 <div id="sidebar2" class="sidebar">
   <div style="text-align:center" id="search-demo-container">
@@ -99,10 +97,36 @@
     </script>
 
     <script>
-      function myFunction() {
-      const navElement = document.getElementById("sidebar2");
-      navElement.classList.toggle("mystyle");
-      const navElementicon = document.getElementById("iconbar");
-      navElementicon.classList.toggle("mystyle");
-      }
+        function myFunction() {
+            const navElement = document.getElementById("sidebar2");
+            navElement.classList.toggle("mystyle");
+
+            const navElementicon = document.getElementById("iconbar");
+            navElementicon.classList.toggle("mystyle");
+
+            const navElementMenu = document.getElementById("searchicon");
+            navElementMenu.classList.toggle("hideicon");
+        }
+
+        // Function to close the dropdown if clicked outside
+        function closeDropdownIfClickedOutside(event) {
+            const dropdown = document.getElementById("sidebar2");
+            const iconbar = document.getElementById("iconbar");
+            const searchicon = document.getElementById("searchicon");
+
+            if (!dropdown.contains(event.target) &&
+                !iconbar.contains(event.target) &&
+                !searchicon.contains(event.target)
+                ) {
+
+                // Remove the classes if clicking outside the elements
+                dropdown.classList.remove("mystyle");
+                iconbar.classList.remove("mystyle");
+                searchicon.classList.remove("hideicon"); // Show the search icon again
+        }
+          }
+
+        // Attach the event listener to the document
+        document.addEventListener('click', closeDropdownIfClickedOutside);
     </script>
+
