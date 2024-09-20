@@ -11,7 +11,7 @@ categories:
 tags:
   - Abdel Razzaq Takriti
   - >-
-    this is the second of what has become a three\-part epilogue to *Thawra*
+    this is the second of what has become a three-part epilogue to *Thawra*
     (Revolution)
   - our series
 spotifylink: 'https://open.spotify.com/episode/17X7UPcLlxxG01MxToAn97?si=f70d85a8f4b0437f'
