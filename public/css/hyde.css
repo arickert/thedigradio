@@ -116,6 +116,7 @@ html::-webkit-scrollbar-track{
     transform: translateY(0%);
     pointer-events: all; /* Allow interactions */
     z-index: 1000; /* Ensure it is above other content */
+    position: relative;
   }
 
   .mystyle {
@@ -123,6 +124,9 @@ html::-webkit-scrollbar-track{
     transform: translateY(0%);
     pointer-events: all;
     z-index: 1000;
+  }
+  .content{
+    padding-top: 0;
   }
 }
 
