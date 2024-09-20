@@ -113,7 +113,7 @@ html::-webkit-scrollbar-track{
 @media (max-width: 48em) {
 
   .sidebar {
-  opacity: 0;
+  opacity: 1;
   transform:translateY(0%);
   pointer-events: none;
 
