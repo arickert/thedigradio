@@ -211,7 +211,7 @@ a.sidebar-nav-item:focus {
 .icon-bar{
   display:grid;
   margin-left:10px;
-  grid-template-columns: 25px 25px 25px 25px 25px 25px;
+  grid-template-columns: 25px 25px 25px;
   gap:3px;
   bottom:0.4rem;
   left:0.01rem;
