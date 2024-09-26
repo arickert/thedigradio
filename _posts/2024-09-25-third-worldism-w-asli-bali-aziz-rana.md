@@ -11,6 +11,8 @@ categories:
 tags:
   - Aslı Bâli
   - Aziz Rana
+spotifylink: 'https://open.spotify.com/episode/5JLJeMSp004QsWv5BgVThb?si=d4d0e51434dd48df'
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000670703011'
 layout: post
 ---
 
