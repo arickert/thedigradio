@@ -9,6 +9,8 @@ categories:
   - Imperialism and Foreign Policy
 tags:
   - Jake Werner
+spotifylink: 'https://open.spotify.com/episode/5jOP1c1VQcENErHkRtfj6W?si=fb487b41914748d1'
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000671808555'
 layout: post
 ---
 
