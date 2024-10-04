@@ -30,7 +30,7 @@ def remove_duplicates(categories, tags):
 
 page=urlopen("https://thedig.blubrry.net/")
 html = page.read().decode("utf-8")
-soup = BeautifulSoup(html, "html.parser")
+newsoup = BeautifulSoup(html, "html.parser")
 a=soup.find_all(class_="title")
 newep=a[0]["href"]
 
