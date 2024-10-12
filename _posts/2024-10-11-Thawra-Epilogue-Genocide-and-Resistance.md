@@ -13,7 +13,8 @@ categories:
   - Iran
 tags:
   - Abdel Razzaq Takriti
-  - this is the FINAL of our three-part epilogue to Thawra (Revolution)
+  - this is the third and final part of the epilogue to Thawra (Revolution)
+  - our epic series on the history of revolutionary Arab politics
 spotifylink: 'https://open.spotify.com/episode/5bxma3y4NBbPvqlh3NPUY4?si=7681b39224894448'
 applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000672763135'
 layout: post
