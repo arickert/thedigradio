@@ -30,7 +30,7 @@ def remove_duplicates(categories, tags):
 
 page=urlopen("https://thedig.blubrry.net/")
 html = page.read().decode("utf-8")
-newsoup = BeautifulSoup(html, "html.parser")
+soup = BeautifulSoup(html, "html.parser")
 a=soup.find_all(class_="title")
 newep=a[0]["href"]
 
@@ -58,7 +58,7 @@ time=time_soup["datetime"].split("T")[0]
 date="./_posts/"+time+"-"+permalink[slice(8,-1)]+".md"
 # iframe
 
-audiolink= soup.find('meta', attrs={'itemprop': 'contentUrl'})['content']
+audiolink= newsoup.find('meta', attrs={'itemprop': 'contentUrl'})['content']
 
 
 cat_soup=newsoup.find(class_="tags-links")
