@@ -4,10 +4,13 @@ permalink: podcast/down-the-rabbit-hole-with-naomi-klein/
 audiolink: 'https://content.blubrry.com/thedig/The_Dig-EP_462-Klein.mp3'
 tags:
   - Naomi Klein
+spotifylink: 'https://open.spotify.com/episode/4P5z15Yzqr6LcbiR9FugW7?si=56cbff4485a141e0'
+applelink: >-
+  https://podcasts.apple.com/us/podcast/jacobin-radio/id791564318?i=1000673623951
 layout: post
 ---
 
-Featuring Naomi Klein on how the pandemic turbocharged a far-right conspiracist politics that’s sweeping into power. This strange new world, however, is a product of an old contradiction: the need to disavow and deny a long history and awful present; the inability to make sense of the extreme violence and oppression that makes everyday Western capitalist society possible. 
+Featuring Naomi Klein on how the pandemic turbocharged a far-right conspiracist politics that’s sweeping into power. This strange new world, however, is a product of an old contradiction: the need to disavow and deny a long history and awful present; the inability to make sense of the extreme violence and oppression that makes everyday Western capitalist society possible.
 
 We discuss Klein’s book Doppelganger: A Trip into the Mirror World and her Guardian essay "How Israel has made trauma a weapon of war": theguardian.com/us-news/ng-interactive/2024/oct/05/israel-gaza-october-7-memorials
 
