@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Transcript
+order: 7
 ---
 
 <!-- <div id="archives">
