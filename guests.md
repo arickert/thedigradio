@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Guests
+order: 4
 ---
 <!-- <h1 class="page-title">{{ page.title }}</h1> -->
 
