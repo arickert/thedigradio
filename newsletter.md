@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Newsletter
+order: 5
 ---
 
 <!-- <div id="archives">
