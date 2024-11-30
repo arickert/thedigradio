@@ -34,7 +34,7 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
-      {% assign pages_list = site.pages %}
+      {% assign pages_list = site.pages | sort: 'order' %}
       {% assign series = "Iran,Antibody,China,War on Terror w,The Dig Presents" | split: ',' %}
 
       {% for node in pages_list %}
