@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Thawra
+order: 2
 ---
 
 
