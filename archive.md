@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Episodes
+order: 1
 ---
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
