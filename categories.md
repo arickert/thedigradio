@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Topics
+order: 3
 ---
 
 <h1 class="page-title">{{ page.title }}</h1>
