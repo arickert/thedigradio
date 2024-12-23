@@ -13,6 +13,8 @@ categories:
   - Turkey
 tags:
   - Bassam Haddad
+spotifylink: 'https://open.spotify.com/episode/2rmNzmInk0DVUEsJqBDSMD?si=af38eaeed5064fd8'
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000681346878'
 layout: post
 ---
 
