@@ -14,7 +14,7 @@ categories:
   - Panama
 tags:
   - Hilary Goodfriend
-  - Jorge Cuéllar in the final installment of a three-part series
+  - Jorge Cuéllar
 spotifylink: 'https://open.spotify.com/episode/1rokmTQJvhyK55Qi5c4Euk?si=8b5284cbc71448f3'
 applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000678016415'
 layout: post
