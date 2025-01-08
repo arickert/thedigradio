@@ -7,7 +7,8 @@ categories:
   - Education
   - Labor Movement
 tags:
-  - Donna Murch and Todd Wolfson
+  - Donna Murch
+  - Todd Wolfson
 googlelink: >-
   https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly90aGVkaWcuYmx1YnJyeS5uZXQvP3A9MjM0OA?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 spotifylink: 'https://open.spotify.com/episode/47b4Ff2gdpkDw62jyKHtMm'
