@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Solidarity Is the Only Thing That Can Save Us w/ Astra Taylor and Leah Hunt-Hendrix"
 permalink: transcripts/Solidarity-Is-the-Only-Thing-That-Can-Save-Us-w-Astra-Taylor-and-Leah-Hunt-Hendrix/
