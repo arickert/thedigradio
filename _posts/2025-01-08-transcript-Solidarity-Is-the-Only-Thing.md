@@ -4,7 +4,8 @@ title: >-
 permalink: transcripts/solidarity-is-the-only-thing/
 layout: post
 tags: 
-- Astra Taylor, Leah Hunt-Hendrix
+- Astra Taylor
+- Leah Hunt-Hendrix
 ---
 Read the transcript [here](https://jacobin.com/2024/11/solidarity-left-democratic-socialism-dig "here").
 
