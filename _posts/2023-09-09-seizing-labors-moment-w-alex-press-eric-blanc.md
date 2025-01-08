@@ -7,7 +7,8 @@ categories:
   - Labor Movement
   - Organizing
 tags:
-  - Alex Press and Eric Blanc
+  - Alex Press
+  - Eric Blanc
 layout: post
 ---
 
