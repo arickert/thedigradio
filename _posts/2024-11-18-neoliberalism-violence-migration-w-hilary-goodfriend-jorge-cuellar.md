@@ -15,9 +15,8 @@ categories:
   - Panama
   - Reagan Administration
 tags:
-  - >-
-    Hilary Goodfriend and Jorge Cuéllar in the second of a three (not two!) part
-    series
+  - Hilary Goodfriend
+  - Jorge Cuéllar
 spotifylink: 'https://open.spotify.com/episode/46s16VXZrhPRlFxJaGDk78?si=83ee038f9ef14477'
 applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000677332697'
 layout: post
