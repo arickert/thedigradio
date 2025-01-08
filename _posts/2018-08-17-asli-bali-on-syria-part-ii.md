@@ -1,14 +1,16 @@
 ---
-layout: post
-title: "Aslı Bâli on Syria, Part II"
+title: 'Aslı Bâli on Syria, Part II'
 permalink: podcast/asli-bali-on-syria-part-ii/
-audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_140_-_BaliPartII.mp3
+audiolink: >-
+  https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_140_-_BaliPartII.mp3
+categories:
+  - Syria
+  - Imperialism and Foreign Policy
+  - Middle East
+tags:
+  - Aslı Bâli
 post_id: 560
-categories: 
-- Imperialism and Foreign Policy
-- Middle East
-tags: 
-- Aslı Bâli
+layout: post
 ---
 
 Part two of a two-part interview with Aslı Bâli on the Syrian civil war and the larger geopolitical conflicts that shape the Middle East—with an emphasis on the role played the United States. During part one, which you should definitely listen to first, Bâli discussed the various powers sacrificing the lives of Syrian people in the pursuit of their perceived geopolitical and sectarian interests. In this installment, Bâli discusses the restrictive frames that dominates the American discussion over Syria, and then assesses the lack of a coherent heterodox left-wing foreign policy in the United States—something that we desperately need as the possibility of the left taking power becomes newly plausible.
@@ -19,4 +21,4 @@ Live recording of The Dig coming up in New York City. Friday, August 17, 7 PM at
 
 Thanks to Verso Books. Check out [For a Left Populism by Chantal Mouffe](versobooks.com/books/2748-for-a-left-populism)
 
-Support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig) 
+Support this podcast with your money at [patreon.com/thedig](http://www.patreon.com/TheDig)
