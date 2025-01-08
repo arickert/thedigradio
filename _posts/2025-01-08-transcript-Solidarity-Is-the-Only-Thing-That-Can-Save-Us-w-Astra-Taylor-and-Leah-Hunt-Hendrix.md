@@ -4,8 +4,6 @@ title: "Solidarity Is the Only Thing That Can Save Us w/ Astra Taylor and Leah H
 permalink: transcripts/Solidarity-Is-the-Only-Thing-That-Can-Save-Us-w-Astra-Taylor-and-Leah-Hunt-Hendrix/
 audiolink: 
 post_id:
-categories:
-- Colonialism
 tags: 
 - Astra Taylor, Leah Hunt-Hendrix
 ---
