@@ -10,8 +10,6 @@ categories:
   - World History
 tags:
   - Abdel Razzaq Takriti
-  - this is the SEVENTH episode of *Thawra* (Revolution)
-  - our rolling mini-series
 spotifylink: 'https://open.spotify.com/episode/4McIf7T5cNwix6s8II0ErH?si=082c7069a86a4a67'
 applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000652068752'
 layout: post
