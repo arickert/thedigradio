@@ -9,6 +9,7 @@ categories:
   - Global Politics
   - Neoliberalism
   - US Politics
+  - Joe Biden
 tags:
   - Daniela Gabor
   - Ted Fertik
