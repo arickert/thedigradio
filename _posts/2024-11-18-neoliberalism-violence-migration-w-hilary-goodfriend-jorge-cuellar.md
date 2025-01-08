@@ -5,14 +5,8 @@ audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_466-CentralAmerica.mp3
 categories:
   - Central America
-  - Costa Rica
-  - El Salvador
-  - Guatemala
-  - Honduras
   - Immigration
   - Imperialism and Foreign Policy
-  - Nicaragua
-  - Panama
   - Reagan Administration
 tags:
   - Hilary Goodfriend
