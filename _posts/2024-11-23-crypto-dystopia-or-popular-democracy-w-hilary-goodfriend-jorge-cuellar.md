@@ -6,12 +6,8 @@ audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_DIg-EP_467-CentralAmerica.mp3
 categories:
   - Central America
-  - El Salvador
-  - Guatemala
-  - Honduras
   - Immigration
   - Imperialism and Foreign Policy
-  - Panama
 tags:
   - Hilary Goodfriend
   - Jorge Cuéllar
