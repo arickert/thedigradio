@@ -9,7 +9,6 @@ categories:
   - Middle East
   - Palestine
   - Syria
-  - Syrian Civil War
   - Turkey
 tags:
   - Bassam Haddad
