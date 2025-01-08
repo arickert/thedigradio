@@ -11,8 +11,6 @@ categories:
   - World History
 tags:
   - Abdel Razzaq Takriti
-  - this is the FOURTEENTH episode of *Thawra* (Revolution)
-  - our series
 spotifylink: 'https://open.spotify.com/episode/3F1a0pkwDpDcJoyTs71etM?si=41ecf0591f7b4b74'
 applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000661437446'
 layout: post
