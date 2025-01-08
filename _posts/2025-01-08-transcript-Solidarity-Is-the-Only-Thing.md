@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "Solidarity Is the Only Thing That Can Save Us w/ Astra Taylor and Leah Hunt-Hendrix"
-permalink: transcripts/Solidarity-Is-the-Only-Thing-That-Can-Save-Us-w-Astra-Taylor-and-Leah-Hunt-Hendrix/
-audiolink: 
-post_id:
+title: Transcript: Solidarity Is the Only Thing That Can Save Us w/ Astra Taylor and Leah Hunt-Hendrix
+permalink: transcripts/solidarity-is-the-only-thing/
 tags: 
 - Astra Taylor, Leah Hunt-Hendrix
 ---
