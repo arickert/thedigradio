@@ -14,8 +14,8 @@ order: 7
 <!-- Begin List Posts
 ================================================== -->
 
-{% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" | unless no post in yearMonth %}
-{% for yearMonth in postsByYearMonth %}
+{% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'"}
+{% for yearMonth in postsByYearMonth % | unless no post in yearMonth %}
   <h2 style="color:#78C0A0" >{{ yearMonth.name }}</h2>
   <ul style="color:#515151; padding-left:25px" >
     {% for post in yearMonth.items %}
