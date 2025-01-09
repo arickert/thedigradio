@@ -3,8 +3,18 @@ layout: page
 title: Transcripts
 order: 7
 ---
+<!-- <div id="archives">
+{% for tag in site.tags %}
+    {% capture tag_name %}{{ tag | first }}{% endcapture %}
+    <p></p>
+    <a href="{{ site.baseurl }}/tag/{{tag_name| slugify}}"  class="tag-head">{{ tag_name }}
+{% endfor %}
 
-{% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
+
+<!-- Begin List Posts
+================================================== -->
+
+{% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" | unless no post in yearMonth %}
 {% for yearMonth in postsByYearMonth %}
   <h2 style="color:#78C0A0" >{{ yearMonth.name }}</h2>
   <ul style="color:#515151; padding-left:25px" >
