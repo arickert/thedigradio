@@ -17,13 +17,12 @@ order: 7
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}
-  {% assign valid_posts = yearMonth.items | reject: "title", "Newsletter" | reject: "title", "Introducing Thawra" | reject: "permalink", "podcast" | reject: "title", "Selections" %}
-  {% if valid_posts.size > 0 %}
-    <h2 style="color:#78C0A0">{{ yearMonth.name }}</h2>
-    <ul style="color:#515151; padding-left:25px">
-      {% for post in valid_posts %}
-        <li><a href="{{ post.url }}" style="color: #B2B2B2">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
-  {% endif %}
+  <h2 style="color:#78C0A0" >{{ yearMonth.name }}</h2>
+  <ul style="color:#515151; padding-left:25px" >
+    {% for post in yearMonth.items %}
+      {% unless post.title contains "Newsletter" or post.title contains "Introducing Thawra" or post.permalink contains "podcast" or post.title contains "Selections" %}
+        <li><a href="{{ post.url }}" style="color: #B2B2B2" >{{ post.title }}</a></li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
 {% endfor %}
