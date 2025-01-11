@@ -9,6 +9,7 @@ categories:
 - Marxism
 - Stuart Hall
 tags:
+- Michael Denning
 ---
 
 
