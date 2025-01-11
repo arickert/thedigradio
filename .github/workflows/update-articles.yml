@@ -9,6 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: GitHub Actions Version Updater
+        uses: saadmk11/github-actions-version-updater@v0.8.1    
       - name: Check repo
         uses: actions/checkout@v2
         with:
