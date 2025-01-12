@@ -18,7 +18,7 @@ applelink: >-
 layout: post
 ---
 
-Featuring Jules Gill-Peterson on *Histories of the Transgender Child*. Amid this right-wing reaction, a discussion of the history of trans medicine and trans children—and also trans politics more generally.
+Featuring Jules Gill-Peterson on *Histories of the Transgender Child*. Amid this right-wing-politics reaction, a discussion of the history of trans medicine and trans children—and also trans politics more generally.
 
 Support The Dig at [Patreon.com/TheDig](http://patreon.com/TheDig)
 

@@ -290,7 +290,7 @@ AB:
 
 
 AT:
- Yes. I mean, Yanis Varoufakis and Bernie Sanders have announced their new international front to combat the strangely contradictory, international nationalist, right-wing front that seems to be forming. It seems to be very well organized. And I think they probably have a great analysis. But the question is okay, but how do people do it? What structures connects this concept of a leftist International to where we actually live on the ground? And that's always been what––
+ Yes. I mean, Yanis Varoufakis and Bernie Sanders have announced their new international front to combat the strangely contradictory, international nationalist, right-wing-politics front that seems to be forming. It seems to be very well organized. And I think they probably have a great analysis. But the question is okay, but how do people do it? What structures connects this concept of a leftist International to where we actually live on the ground? And that's always been what––
 
 
 AB:

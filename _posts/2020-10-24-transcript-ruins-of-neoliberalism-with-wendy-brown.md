@@ -15,7 +15,7 @@ layout: post
 
 [Listen to Episode](https://www.thedigradio.com/podcast/ruins-of-neoliberalism-with-wendy-brown/)
 
-Political theorist Wendy Brown on how neoliberalism attacked society and democracy and in doing so laid the foundation for right-wing authoritarianism and nihilism.
+Political theorist Wendy Brown on how neoliberalism attacked society and democracy and in doing so laid the foundation for right-wing-politics authoritarianism and nihilism.
 
 Read the full transcript from Jacobin
 [here](https://jacobinmag.com/2020/12/neoliberalism-wendy-brown-interview-nihilism-political-theory). 

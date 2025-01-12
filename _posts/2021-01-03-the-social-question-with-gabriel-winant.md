@@ -1,10 +1,10 @@
 ---
 layout: post
-applelink: https://podcasts.apple.com/us/podcast/the-social-question-with-gabriel-winant/id1043245989?i=1000504202075
+applelink: https://podcasts.apple.com/us/podcast/the-social-question-with-Gabriel-Winant/id1043245989?i=1000504202075
 spotifylink: https://open.spotify.com/episode/4JRphlI3QWFvuxqi8W3wvK
 googlelink: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmx1YnJyeS5jb20vZmVlZHMvdGhlZGlnLnhtbA/episode/aHR0cHM6Ly93d3cudGhlZGlncmFkaW8uY29tLz9wPTE4MjQ?sa=X&ved=0CAUQkfYCahcKEwi44f7r1b-AAxUAAAAAHQAAAAAQNg
 title: "The Social Question with Gabriel Winant"
-permalink: podcast/the-social-question-with-gabriel-winant/
+permalink: podcast/the-social-question-with-Gabriel-Winant/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_287-Winant.mp3
 post_id: 1824
 categories: 

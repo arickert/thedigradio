@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "James Forman Jr.: Locking Up Our Own"
-permalink: podcast/james-forman-jr-locking-up-our-own/
+permalink: podcast/james-forman-jrlocking-up-our-own/
 audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig_-_EP_31_-_Forman.mp3
 post_id: 670
 categories: 

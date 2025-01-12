@@ -13,7 +13,7 @@ tags:
 - Stephanie Coontz
 ---
 
-Donald Trump's election was shocking, if actually not so surprising, and has prompted widespread protests against a cresting right-wing reaction taking shape as a strange and potent combination of white nationalism, make-believe economic populism, libertarian orthodoxy, America-first isolationism and War on Terror extremism. It has also prompted us to relaunch this podcast. Today, we'll be discussing why Trump won and what that says about the political moment in the United States.
+Donald Trump's election was shocking, if actually not so surprising, and has prompted widespread protests against a cresting right-wing-politics reaction taking shape as a strange and potent combination of white nationalism, make-believe economic populism, libertarian orthodoxy, America-first isolationism and War on Terror extremism. It has also prompted us to relaunch this podcast. Today, we'll be discussing why Trump won and what that says about the political moment in the United States.
 
 Many apologies for the crappy quality of some of the audio. We had some technical difficulties that have been figured out for future episodes.
 

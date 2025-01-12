@@ -13,7 +13,7 @@ tags:
 - Naomi Schiller
 ---
 
-Alejandro Velasco, Gabriel Hetland and Naomi Schiller on the profound economic, social, and political crisis in Venezuela. More than three million refugees and migrants have fled the country. Opposition figure Juan Guaidó has declared himself president. Trump and other right-wing leaders throughout the Americas quickly recognized him as just that. The US imposed new sanctions on Venezuela's oil and has hinted at the possibility of a military invasion. It's unclear what comes next, but foreign intervention would make an extremely bad situation catastrophic.
+Alejandro Velasco, Gabriel Hetland and Naomi Schiller on the profound economic, social, and political crisis in Venezuela. More than three million refugees and migrants have fled the country. Opposition figure Juan Guaidó has declared himself president. Trump and other right-wing-politics leaders throughout the Americas quickly recognized him as just that. The US imposed new sanctions on Venezuela's oil and has hinted at the possibility of a military invasion. It's unclear what comes next, but foreign intervention would make an extremely bad situation catastrophic.
 
 Meanwhile, many reactionaries throughout the Americas are pointing to Venezuela as proof that socialism cannot work. What is the correct analysis? What does solidarity with the Venezuelan people mean for today's left? These are all extremely complicated and urgent questions. Today, Dan interviews three experts on Venezuela to help answer them.
 
