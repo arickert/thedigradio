@@ -11,7 +11,7 @@ tags:
 - Daniel Bessner
 ---
 
-That right-wing people in the US and Europe have made George Soros the answer to so many troubling questions is not very surprising: he's a billionaire, he's Jewish and, unlike most of his cohort, he is an actual intellectual who spends much of his money on substantively progressive causes. Daniel Bessner's 
+That right-wing-politics people in the US and Europe have made George Soros the answer to so many troubling questions is not very surprising: he's a billionaire, he's Jewish and, unlike most of his cohort, he is an actual intellectual who spends much of his money on substantively progressive causes. Daniel Bessner's 
 [essay on him in n+1](https://nplusonemag.com/online-only/online-only/the-globalist/), however, not only sketches out the right's obsessions but also offers a detailed analysis of Soros as a thinker and philanthropist—coming to the conclusion that Soros' hope for an open and pluralistic society will be forever doomed if we continue to live under the very capitalist system that made him so spectacularly rich. 
 [Here's Soros's response](https://www.theguardian.com/business/2018/jul/13/george-soros-im-a-passionate-critic-of-market-fundamentalism) in The Guardian.
 

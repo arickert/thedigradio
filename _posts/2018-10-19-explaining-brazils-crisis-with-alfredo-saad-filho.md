@@ -10,7 +10,7 @@ tags:
 - Alfredo Saad-Filho
 ---
 
-StartFragmentBrazil is headed toward fascism by way of Jair Bolsonaro, a sexist, homophobic, and violent militarist clown nostalgic for a murderous dictatorship. How did this happen? Alfredo Saad-Filho, a Professor of Political Economy at SOAS University of London, explains the roots of right-wing reaction and left-wing collapse—and the ultimately disastrous results of a PT governance strategy centered on an accommodation with a capitalist order that could only last as long as the global commodity boom did.
+StartFragmentBrazil is headed toward fascism by way of Jair Bolsonaro, a sexist, homophobic, and violent militarist clown nostalgic for a murderous dictatorship. How did this happen? Alfredo Saad-Filho, a Professor of Political Economy at SOAS University of London, explains the roots of right-wing-politics reaction and left-wing collapse—and the ultimately disastrous results of a PT governance strategy centered on an accommodation with a capitalist order that could only last as long as the global commodity boom did.
 
 Read ["Bolsonaro’s Conservative Revolution" by Matthew Aaron Richmond](https://jacobinmag.com/2018/10/brazil-election-bolsonaro-evangelicals-security)
 

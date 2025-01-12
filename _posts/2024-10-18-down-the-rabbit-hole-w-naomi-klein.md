@@ -8,7 +8,7 @@ categories:
   - Conspiracy Theories
   - Israel
   - Palestine
-  - Right-Wing Politics
+  - right-wing-politics Politics
 tags:
   - Naomi Klein
 spotifylink: 'https://open.spotify.com/episode/6rCiGV3Om1qXVXoqNtSkIn?si=def74ad3b5684aba'

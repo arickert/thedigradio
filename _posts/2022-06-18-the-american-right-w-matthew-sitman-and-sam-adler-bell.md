@@ -18,7 +18,7 @@ applelink: >-
 layout: post
 ---
 
-Know Your Enemy hosts Matthew Sitman and Sam Adler-Bell on terrifyingly protean right-wing American politics.
+Know Your Enemy hosts Matthew Sitman and Sam Adler-Bell on terrifyingly protean right-wing-politics American politics.
 
 Check out our [newsletter](https://thedigradio.com/newsletter)
 

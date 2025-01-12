@@ -18,6 +18,6 @@ applelink: >-
 layout: post
 ---
 
-Featuring Jennifer Berkshire and Jack Schneider on the politics of public education. The authors of *A Wolf at the Schoolhouse Door: The Dismantling of Education and the Future of School* and co-hosts of the education policy podcast *Have You Heard* discuss everything from charters and vouchers to teacher social movement unionism and the right-wing cultural wars against “woke” educators.
+Featuring Jennifer Berkshire and Jack Schneider on the politics of public education. The authors of *A Wolf at the Schoolhouse Door: The Dismantling of Education and the Future of School* and co-hosts of the education policy podcast *Have You Heard* discuss everything from charters and vouchers to teacher social movement unionism and the right-wing-politics cultural wars against “woke” educators.
 
 Support The Dig at [Patreon.com/TheDig](http://patreon.com/TheDig)

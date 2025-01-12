@@ -18,7 +18,7 @@ applelink: >-
 layout: post
 ---
 
-Political theorist Wendy Brown on how neoliberalism attacked society and democracy and in doing so laid the foundation for right-wing authoritarianism and nihilism.
+Political theorist Wendy Brown on how neoliberalism attacked society and democracy and in doing so laid the foundation for right-wing-politics authoritarianism and nihilism.
 
 Episodes from the archives on neoliberalism:
 

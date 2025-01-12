@@ -58,7 +58,7 @@ time=time_soup["datetime"].split("T")[0]
 date="./_posts/"+time+"-"+permalink[slice(8,-1)]+".md"
 # iframe
 
-audiolink= soup.find('meta', attrs={'itemprop': 'contentUrl'})['content']
+audiolink= newsoup.find('meta', attrs={'itemprop': 'contentUrl'})['content']
 
 
 cat_soup=newsoup.find(class_="tags-links")

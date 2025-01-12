@@ -12,7 +12,7 @@ post_id: 575
 layout: post
 ---
 
-Today, we're talking about Italy, where a so-called "populist" alliance of the Five Star Movement and right-wing League just took over the government with anti-migrant and Euro-skeptic agenda. Dan's guest is David Broder, a historian of French and Italian communism and frequent contributor to Jacobin. The Five Star Movement was for a time welcomed by some on the left. But it’s not of the left; rather, it is a product of the Italian left’s collapse.
+Today, we're talking about Italy, where a so-called "populist" alliance of the Five Star Movement and right-wing-politics League just took over the government with anti-migrant and Euro-skeptic agenda. Dan's guest is David Broder, a historian of French and Italian communism and frequent contributor to Jacobin. The Five Star Movement was for a time welcomed by some on the left. But it’s not of the left; rather, it is a product of the Italian left’s collapse.
 
 Thanks to Verso. Check out [*Radical Technologies: The Design of Everyday Life* by Adam Greenfield](versobooks.com/books/2742-radical-technologies)
 

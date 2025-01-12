@@ -5,7 +5,7 @@ permalink: >-
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_468-MAGA-PLUS.mp3
 categories:
-  - Right-Wing Politics
+  - right-wing-politics Politics
   - US Politics
 tags:
   - Quinn Slobodian
