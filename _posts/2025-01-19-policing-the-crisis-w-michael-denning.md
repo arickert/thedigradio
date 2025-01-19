@@ -12,6 +12,8 @@ categories:
 - Stuart Hall
 - United Kingdom
 tags:
+spotifylink: 'https://open.spotify.com/episode/3FqJDZW313DhC4SZ2JpQBt?si=c9f69536ddbf45b2'
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000684603703'
 ---
 
 
