@@ -8,6 +8,8 @@ categories:
 - Organizing
 - Tenant Organizing
 tags:
+- Leonardo Vilchis
+- Tracy Rosenthal
 ---
 
 
