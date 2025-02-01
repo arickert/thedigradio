@@ -10,8 +10,10 @@ categories:
   - Labor Movement
 tags:
   - Hannah Srajer
-spotifylink: ''
-applelink: ''
+googlelink: ''
+spotifylink: 'https://open.spotify.com/episode/3RgTQ7FjDYbd4koIx4zOxh?si=1848a1a4cd03489a'
+applelink: >-
+  https://podcasts.apple.com/us/podcast/building-the-union-w-hannah-srajer/id1043245989?i=1000687926384
 layout: post
 ---
 
@@ -20,10 +22,8 @@ Featuring Hannah Srajer on building tenant unions by applying labor organizing m
 Support The Dig at [Patreon.com/TheDig](Patreon.com/TheDig)
 Peruse The Dig’s vast archives at [thedigradio.com](thedigradio.com)
 
-Support Reclaim RI [https://secure.actblue.com/donate/reclaimri]([Patreon.com/TheDig](https://secure.actblue.com/donate/reclaimri))
+Support Reclaim RI [https://secure.actblue.com/donate/reclaimri](\[Patreon.com/TheDig]\(https://secure.actblue.com/donate/reclaimri\))
 
 Buy Not Your Rescue Project at [Haymarketbooks.com](Haymarketbooks.com)
 
 Buy My Country, Africa at [Versobooks.com](Versobooks.com)
-
-
