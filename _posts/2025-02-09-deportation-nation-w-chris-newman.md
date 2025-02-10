@@ -8,6 +8,7 @@ categories:
 - Immigration
 - US Politics
 tags:
+- Chris Newman
 ---
 
 
