@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Psychiatric Struggle w/ Danielle Carr"
+permalink: podcast/psychiatric-struggle-w-danielle-carr/
+audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_476-Carr.mp3
+categories:
+- Mental Health
+- Psychiatry
+tags:
+---
+
+
+
+Featuring Danielle Carr on the history and present state of American unwellness and how that’s been shaped by psychiatry, prescription drugs, neuroscience, popular culture, smartphones and social media. We trace the rise of psychiatry as a Gilded Age human science, the disastrous contradictions of asylum deinstitutionalization, the invention of neuroscience and deep brain stimulation, Elon Musk’s Neuralink fraudulence, how Adderall made the Internet run, the liberal gospel of traumatic literalism recounted in The Body Keeps the Score, and the scientific Bonapartism of RFK Jr.’s medical freedom movement.
+
+
+
+Buy *Empire of Normality* at [Plutobooks.com](http://Plutobooks.com)
+
+
+
+Buy *Perfect Victims and the Politics of Appeal* at [Haymarketbooks.com](http://Haymarketbooks.com)
+
+
+
+Support The Dig at [Patreon.com/TheDig](http://Patreon.com/TheDig)
+
+
+
+Check out our vast archives and newsletters at [thedigradio.com](http://thedigradio.com)
+
