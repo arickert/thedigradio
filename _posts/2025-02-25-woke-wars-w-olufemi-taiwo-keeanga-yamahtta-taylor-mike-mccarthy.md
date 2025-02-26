@@ -20,4 +20,12 @@ applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000696
 layout: post
 ---
 
-Featuring Olúfẹ́mi O. Táíwò, Keeanga-Yamahtta Taylor and Mike McCarthy on the MAGA and DOGE war on woke; the complicity of bankrupt liberal identity politics; and the centrality of various oppressions to the class domination of capital and struggles against it.Support this podcast at [Patreon.com/TheDig](http://patreon.com/TheDig)Read Mike’s article “The Problem of Class Abstractionism” [epublications.marquette.edu/socs\_fac/356](http://epublications.marquette.edu/socs_fac/356)Buy *Enemy Feminisms* at [Haymarketbooks.com](http://haymarketbooks.com)Buy *Solidarity Betrayed* at [Plutobooks.com](http://plutobooks.com)
+Featuring Olúfẹ́mi O. Táíwò, Keeanga-Yamahtta Taylor and Mike McCarthy on the MAGA and DOGE war on woke; the complicity of bankrupt liberal identity politics; and the centrality of various oppressions to the class domination of capital and struggles against it.
+
+Support this podcast at [Patreon.com/TheDig](http://patreon.com/TheDig)
+
+Read Mike’s article “The Problem of Class Abstractionism” [epublications.marquette.edu/socs\_fac/356](http://epublications.marquette.edu/socs_fac/356)
+
+Buy *Enemy Feminisms* at [Haymarketbooks.com](http://haymarketbooks.com)
+
+Buy *Solidarity Betrayed* at [Plutobooks.com](http://plutobooks.com)
