@@ -12,7 +12,7 @@ categories:
   - Socialism
   - US Politics
 tags:
-  - Olúfẹ́mi O. Táíwò
+  - Olufemi Taiwo
   - Keeanga-Yamahtta Taylor
   - Mike McCarthy
 spotifylink: 'https://open.spotify.com/episode/3UOReNuh7sYZmozLLD7gkN?si=959871e48d57406e'
