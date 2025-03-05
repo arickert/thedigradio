@@ -13,5 +13,10 @@ tags:
 ---
 
 Featuring TrueAnon hosts Brace Belden and Liz Franczak on our freakish and reactionary tech oligarchy. Musk and friends built a technological infrastructure that has warped everyone’s minds, including their own. Now they’re seizing the state.The hideous AI “art” we discuss:  
+
 <https://bit.ly/4ksG1aM>  
-<http://bit.ly/3DmDfTD>Support The Dig at [Patreon.com/TheDig](http://Patreon.com/TheDig)Register for the Socialism Conference at [Socialismconference.org](http://Socialismconference.org) before April 25th for an early bird discount!Use code “DIG” for 30% off a subscription to [The-Syllabus.com](http://The-Syllabus.com)
+<http://bit.ly/3DmDfTD>
+
+Support The Dig at [Patreon.com/TheDig](http://Patreon.com/TheDig)
+Register for the Socialism Conference at [Socialismconference.org](http://Socialismconference.org) before April 25th for an early bird discount!
+Use code “DIG” for 30% off a subscription to [The-Syllabus.com](http://The-Syllabus.com)
