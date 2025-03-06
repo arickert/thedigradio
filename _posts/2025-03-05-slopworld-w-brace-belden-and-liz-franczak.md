@@ -15,7 +15,9 @@ applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000697
 layout: post
 ---
 
-Featuring TrueAnon hosts Brace Belden and Liz Franczak on our freakish and reactionary tech oligarchy. Musk and friends built a technological infrastructure that has warped everyone’s minds, including their own. Now they’re seizing the state.The hideous AI “art” we discuss:
+Featuring TrueAnon hosts Brace Belden and Liz Franczak on our freakish and reactionary tech oligarchy. Musk and friends built a technological infrastructure that has warped everyone’s minds, including their own. Now they’re seizing the state.
+
+The hideous AI “art” we discuss:
 
 [https://bit.ly/4ksG1aM](https://bit.ly/4ksG1aM)\
 [http://bit.ly/3DmDfTD](http://bit.ly/3DmDfTD)
