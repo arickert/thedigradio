@@ -1,6 +1,6 @@
 ---
 title: Workers Organizing Workers w/ Eric Blanc
-permalink: podcast/workers-organizing-workers-w-eric-blanc2/
+permalink: podcast/workers-organizing-workers-w-eric-blanc/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_479-Blanc.mp3
 categories:
