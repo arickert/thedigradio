@@ -74,6 +74,7 @@ bod_soup.pop(0)
 bod_soup.pop(-1)
 
 for p in bod_soup:
+    print(p)
     body.append(markdownify.markdownify(str(p)))
     # print(markdownify.markdownify(p.html))
     # paragraph=""
@@ -101,10 +102,7 @@ for t in tags:
     episode+= "- "+t+"\n"
 episode +="---\n\n"
 for p in body:
-    episode+=p
+    episode+=p+"\n\n"
 categories=remove_duplicates(categories, tags)
 with open(date, 'x') as f:
     f.write(episode)
-
-
-
