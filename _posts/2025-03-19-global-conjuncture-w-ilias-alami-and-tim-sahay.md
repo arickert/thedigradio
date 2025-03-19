@@ -25,3 +25,7 @@ Download a free copy of The Spectre of State Capitalism by Ilias Alami and Adam 
 Transnational Institute reports:\
 The New Frontline: The US-China Battle for Control of Global Networks [tni.org/en/article/the-new-frontline](http://tni.org/en/article/the-new-frontline)
 Geopolitics of Capitalism: State of Power 2025 [tni.org/en/publication/geopolitics-of-capitalism](http://tni.org/en/publication/geopolitics-of-capitalism)
+
+Buy Perfect Victims and the Politics of Appeal at [Haymarketbooks.com](http://haymarketbooks.com/)
+
+Buy Nuclear Is Not The Solution at [Versobooks.com](http://versobooks.com/)
