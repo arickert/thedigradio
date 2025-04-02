@@ -4,7 +4,10 @@ permalink: podcast/blue-collar-empire-w-jeff-schuhrke/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_482-Schuhrke.mp3
 categories:
+  - Imperialism
+  - Labor Movement
 tags:
+  - Jeff Schuhrke
 layout: post
 ---
 
