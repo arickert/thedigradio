@@ -1,5 +1,7 @@
 ---
-title: 'Neoliberalism, Violence, Migration w/ Hilary Goodfriend & Jorge Cuéllar'
+title: >-
+  Neoliberalism, Violence, Migration w/ Hilary Goodfriend & Jorge Cuéllar (Part
+  2)
 permalink: podcast/neoliberalism-violence-migration-w-hilary-goodfriend-jorge-cuellar/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_466-CentralAmerica.mp3
