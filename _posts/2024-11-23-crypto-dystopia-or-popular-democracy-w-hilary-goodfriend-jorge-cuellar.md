@@ -1,5 +1,7 @@
 ---
-title: Crypto Dystopia or Popular Democracy w/ Hilary Goodfriend & Jorge Cuéllar
+title: >-
+  Crypto Dystopia or Popular Democracy w/ Hilary Goodfriend & Jorge Cuéllar
+  (Part 3)
 permalink: >-
   podcast/crypto-dystopia-or-popular-democracy-w-hilary-goodfriend-jorge-cuellar/
 audiolink: >-
