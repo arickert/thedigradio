@@ -1,5 +1,5 @@
 ---
-title: 'Oligarchy, Empire, Revolution w/ Hilary Goodfriend & Jorge Cuéllar'
+title: 'Oligarchy, Empire, Revolution w/ Hilary Goodfriend & Jorge Cuéllar (Part 1)'
 permalink: podcast/oligarchy-empire-revolution-w-hilary-goodfriend-jorge-cuellar/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_464-CentralAmerica.mp3
