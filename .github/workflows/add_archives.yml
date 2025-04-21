@@ -2,27 +2,26 @@ name: Generate Jekyll Archives
 # description: Generate categories, tags and years archive files.
 on:
   workflow_dispatch:
+  schedule:
+    # Run daily at 2:00 AM UTC
+    - cron: '0 2 * * *'
   push:
     paths:
       - "_posts/"
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
       - name: Jekyll Blog Archive
         uses: kannansuresh/jekyll-blog-archive-workflow@v1.0.3
         with:
           archive_url: "https://www.thedigradio.com/archives/archivedata"
           archive_folder_path: "_archives"
-
       - name: setup git config
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
-
       - name: commit
         run: |
           git add --all
