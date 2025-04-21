@@ -17,6 +17,6 @@ Jeff Schuhrke on his book Blue Collar Empire: The Untold Story of US Labor’s G
 
 Support The Dig at [Patreon.com/TheDig](patreon.com/thedig "Patreon.com/TheDig") (don’t sign up using the Patreon app because the ghouls at Apple are now requiring a fee! use a web browser on your iphone or laptop)
 
-Register for the Socialism Conference at [Socialismconference.org](Socialismconference.org) before April 25th for an early bird discount!
+Register for the Socialism Conference at [Socialismconference.org](Socialismconference.org) before April 25th for an early bird discount
 
 Buy Hidden San Francisco at [Plutobooks.com](Plutobooks.com)
