@@ -1,0 +1,63 @@
+
+name: Cancel Stuck Deployments
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  # Optional: Allow manual triggering
+  workflow_dispatch:
+
+jobs:
+  cancel-stuck-workflows:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cancel stuck workflows
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const workflowIds = [
+              // Add your workflow IDs here (you can find them in the URL of your workflow)
+              // For example, if URL is: https://github.com/yourusername/yourrepo/actions/workflows/deploy.yml
+              // Then ID is: deploy.yml
+              'jekyll.yml',
+            ];
+            
+            const maxRunTimeMinutes = 30; // Set max allowed runtime
+            const currentTime = new Date();
+            
+            for (const workflowId of workflowIds) {
+              console.log(`Checking for stuck instances of workflow: ${workflowId}`);
+              
+              const workflows = await github.rest.actions.listWorkflowRuns({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                workflow_id: workflowId,
+                status: 'in_progress'
+              });
+              
+              console.log(`Found ${workflows.data.workflow_runs.length} in-progress runs`);
+              
+              for (const run of workflows.data.workflow_runs) {
+                const createdAt = new Date(run.created_at);
+                const runTimeMinutes = (currentTime - createdAt) / (1000 * 60);
+                
+                console.log(`Run #${run.id} has been running for ${runTimeMinutes.toFixed(2)} minutes`);
+                
+                if (runTimeMinutes > maxRunTimeMinutes) {
+                  console.log(`Cancelling workflow run #${run.id} - exceeded maximum runtime of ${maxRunTimeMinutes} minutes`);
+                  
+                  try {
+                    await github.rest.actions.cancelWorkflowRun({
+                      owner: context.repo.owner,
+                      repo: context.repo.repo,
+                      run_id: run.id
+                    });
+                    console.log(`Successfully cancelled workflow run #${run.id}`);
+                  } catch (error) {
+                    console.error(`Failed to cancel workflow run #${run.id}: ${error.message}`);
+                  }
+                }
+              }
+            }
