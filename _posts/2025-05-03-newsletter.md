@@ -1,5 +1,5 @@
 ---
-title: 'Newsletter #102: American Constitution Series Bibliography'
+title: 'Newsletter #102: Constitutional Bind Series Bibliography'
 permalink: newsletter102
 layout: post
 ---
