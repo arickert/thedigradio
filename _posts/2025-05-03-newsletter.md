@@ -6,7 +6,7 @@ layout: post
 
 By Aziz Rana
 
-During our conversations there were many books by scholars I wish I had mentioned. I engage with them in greater detail in *The Constitutional Bind.* Rather than giving a comprehensive list, I thought I’d mention some sources that were implicit in the exchanges about particular topic areas, such as the US in the Philippines, New Deal constitutionalism, or decolonization. 
+During our conversations, there were many books by scholars I wish I had mentioned. I engage with them in greater detail in *The Constitutional Bind.* Rather than giving a comprehensive list, I thought I’d mention some sources that were implicit in the exchanges about particular topic areas, such as the US in the Philippines, New Deal constitutionalism, or decolonization. 
 
 * Paul Kramer’s exceptional book on the US in the Philippines, *The Blood of Government.*
 * Maggie Blackhawk’s terrific “The Constitution of American Colonialism” in the *Harvard Law Review* on Native American nations and US constitutional politics.
