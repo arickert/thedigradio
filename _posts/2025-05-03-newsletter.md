@@ -15,10 +15,10 @@ During my [conversations](https://thedigradio.com/podcast/settler-empire-w-aziz-
 * Joel Modiri’s pathbreaking writing on constitutional veneration and South Africa, an interesting parallel example for the US, especially the essay “Conquest and Constitutionalism: First Thoughts on an Alternative Jurisprudence” in *South African Journal on Human Rights.*
 * Robert Vitalis’s eye-opening “The Midnight Ride of Kwame Nkrumah and Other Fables of Bandung” in *Humanity* on the invocations of the American Revolution at Bandung.
 * Mary Dudziak’s definitive account of Thurgood Marshall in Kenya, *Exporting American Dreams*.
-* Sandipto Dasputa’s great new book on the Indian constitutional project in the mid-20th century moment of decolonization, *Legalizing the Revolution.*
+* Sandipto Dasgupta’s great new book on the Indian constitutional project in the mid-20th century moment of decolonization, *Legalizing the Revolution.*
 * Sam Klug’s terrific new book on ideas of colonialism in US domestic and foreign affairs, *The Internal Colony.*
 * Charisse Burden-Stelly’s excellent *Black Scare/Red Scare* on state repression of Black and anti-capitalism organizing across the 20th century.
-* Brandon Terry seminal essay in the edited volume, *To Shape a New World*, on the relationship between MLK and Black Power, “Requiem for a Dream”.
+* Brandon Terry seminal essay in the edited volume, *To Shape a New World*, on the relationship between MLK and Black Power, “Requiem for a Dream."
 * Adom Getachew’s wonderful book on the global anti-colonial imagination, *Worldmaking After Empire.*
 * Felicia Kornbluh’s essential *The Battle for Welfare Rights,* on Black feminism, the Constitution, and the politics around constitutionalizing welfare rights.
 * Joshua Bloom and Waldo Martin’s definitive book on the Panthers, *Black Against Empire.*
