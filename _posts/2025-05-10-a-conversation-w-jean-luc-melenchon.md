@@ -10,10 +10,6 @@ categories:
 - Socialism
 tags:
 - Jean-Luc Mélenchon
-- leader of the left-wing French party La France Insoumise. How the radical left confronts
-- in France
-- everywhere. Recorded before an audience at *n+1*’s Brooklyn offic
-- then defeats the far-right
 ---
 
 Featuring Jean-Luc Mélenchon, leader of the left-wing French party La France Insoumise. How the radical left confronts and then defeats the far-right, in France and everywhere. Recorded before an audience at *n+1*’s Brooklyn office.
