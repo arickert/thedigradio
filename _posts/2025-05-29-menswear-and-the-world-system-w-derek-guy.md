@@ -22,4 +22,4 @@ Support The Dig at [Patreon.com/TheDig](http://patreon.com/TheDig)
 
 *In These Times* is offering 78% off print subscriptions for Dig listeners at [Inthesetimes.com/dig](http://inthesetimes.com/dig)
 
-Buy *I Didn’t Come Here to Lie* at [Haymarketbooks.com](http://haymarketbooks.com)
+Buy *Enemy Feminisms* at [Haymarketbooks.com](http://haymarketbooks.com)
