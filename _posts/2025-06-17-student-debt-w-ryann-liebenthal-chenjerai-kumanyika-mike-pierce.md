@@ -10,6 +10,8 @@ tags:
 - Ryann Liebenthal
 - Chenjerai Kumanyika
 - Mike Pierce
+spotifylink: 'https://open.spotify.com/episode/7swHOhJE02t64B5NrjUi4c?si=9379413ab7464e42'
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000713295633'
 ---
 
 Featuring Ryann Liebenthal, Chenjerai Kumanyika, and Mike Pierce on Ryann’s book *Burdened: Student Debt and the Making of an American Crisis*. Interview by guest host Astra Taylor.
