@@ -18,7 +18,7 @@ layout: post
 
 Featuring Mouin Rabbani on Israel’s war on Iran, possible direct US intervention, and the ongoing genocide in Gaza.
 
-Chicago: come see The Dig live! [secure.actblue.com/donate/thediglive](http://secure.actblue.com/donate/thediglive)
+Buy Understanding Hamas And Why That Matters from OR books [https://orbooks.com/catalog/understanding-hamas/](https://orbooks.com/catalog/understanding-hamas/)
 
 Listen to *Thawra* and our five-part Iran series: [thedigradio.com/series](http://thedigradio.com/series)
 
