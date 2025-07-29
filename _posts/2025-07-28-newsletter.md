@@ -1,5 +1,5 @@
 ---
-title: 'Newsletter #103: Slobodian Review'
+title: 'Newsletter #103: The Fascists and the Neoliberals'
 permalink: newsletter103
 layout: post
 ---
