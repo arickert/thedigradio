@@ -12,7 +12,7 @@ categories:
   - Imperialism and Foreign Policy
   - Neoliberalism
 tags:
-  - more analysis from Ilias Alami
+  - Ilias Alami
   - Tim Sahay
 spotifylink: 'https://open.spotify.com/episode/7oqtSejD9W4oUwjsLCayhP?si=d67d1d70e8ce421e'
 applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000700672780'
