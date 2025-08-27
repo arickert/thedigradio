@@ -7,10 +7,7 @@ categories:
 - Black Politics
 - Labor Movement
 tags:
-- Robin D.G. Kelley listening back
-- a new audio magazine made by friends of The Dig. Produced by Conor Gillies
-- edited by Liza Yeager
-- reflecting upon old tapes of the interviews with sharecroppers he conducted in the 1980s while researching *Hammer
+- Robin D.G. Kelley
 ---
 
 Featuring Robin D.G. Kelley listening back and reflecting upon old tapes of the interviews with sharecroppers he conducted in the 1980s while researching *Hammer and Hoe: Alabama Communists during the Great Depression*. This is an episode of Signal Hill, a new audio magazine made by friends of The Dig. Produced by Conor Gillies and edited by Liza Yeager and Omar Etman.
