@@ -17,6 +17,8 @@ Featuring Robin D.G. Kelley listening back and reflecting upon old tapes of the 
 
 Listen to Dan’s Dig interview with Robin Kelley on *Hammer and Hoe* [thedigradio.com/podcast/hammer-and-hoe-with-robin-d-g-kelley](http://thedigradio.com/podcast/hammer-and-hoe-with-robin-d-g-kelley)
 
+Buy No Cop City at [haymarketbooks.com](haymarketbooks.org)
+
 Support [signalhill.fm/support](http://signalhill.fm/support)
 
 Support The Dig at [Patreon.com/TheDig](http://patreon.com/TheDig)
