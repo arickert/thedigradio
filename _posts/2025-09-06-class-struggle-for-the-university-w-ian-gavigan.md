@@ -10,6 +10,8 @@ categories:
   - Right-Wing Politics
 tags:
   - Ian Gavigan
+spotifylink: 'https://open.spotify.com/episode/4bSpklZQqRfiu6bBFpIFiI?si=8ca7f104ffeb4d0f'
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000725281042'
 layout: post
 ---
 
