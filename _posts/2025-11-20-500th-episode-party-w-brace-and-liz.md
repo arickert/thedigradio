@@ -12,7 +12,7 @@ tags:
   - Aziz Rana
   - Sumaya Awad
   - Thea Riofrancos
-  - Alex Lewis. Toasts
+  - Alex Lewis
 googlelink: ''
 spotifylink: 'https://open.spotify.com/episode/0VLCICKfsZfu2bwHV7sdAZ?si=a8846da19b2d4420'
 applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000737598373'
