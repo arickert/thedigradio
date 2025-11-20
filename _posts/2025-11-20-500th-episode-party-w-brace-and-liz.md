@@ -11,7 +11,7 @@ tags:
   - Gabriel Winant
   - Aziz Rana
   - Sumaya Awad
-  - Thea Riofrancos
+  - Thea Riofrancos and
   - Alex Lewis
 googlelink: ''
 spotifylink: 'https://open.spotify.com/episode/0VLCICKfsZfu2bwHV7sdAZ?si=a8846da19b2d4420'
