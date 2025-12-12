@@ -12,6 +12,8 @@ categories:
 tags:
   - Asad Haider
 post_id: 568
+spotifylink: 'https://open.spotify.com/episode/1BXsvsIBIQTY7c2bigvwdD?si=34cec18cb1e74496'
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000416094171'
 layout: post
 ---
 
