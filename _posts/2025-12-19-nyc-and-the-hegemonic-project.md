@@ -13,6 +13,8 @@ tags:
   - Sumaya Awad
   - Sumathy Kumar
   - Nathan Gusdorf
+spotifylink: 'https://open.spotify.com/episode/7JqnHeBmhh2uq4VPhvSm59?si=a79a92632fef47e3'
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000742055366'
 layout: post
 ---
 
