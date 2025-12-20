@@ -1,5 +1,5 @@
 ---
-title: 'NYC and the Hegemonic Project [corrected!]'
+title: NYC and the Hegemonic Project
 permalink: podcast/nyc-and-the-hegemonic-project/
 audiolink: >-
   https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_510-NYCHegemonyFIXED.mp3
