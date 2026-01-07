@@ -1,24 +1,27 @@
 ---
-layout: post
-title: "Venezuela w/ Alejandro Velasco, Gabriel Hetland, Yoletty Bracho"
+title: 'Venezuela w/ Alejandro Velasco, Gabriel Hetland, Yoletty Bracho'
 permalink: podcast/venezuela-w-alejandro-velasco-gabriel-hetland-yoletty-bracho/
-audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_512-Venezuela.mp3
+audiolink: >-
+  https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_512-Venezuela.mp3
 categories:
-- Imperialism and Foreign Policy
-- Latin America
-- US Politics
-- Venezuela
+  - Imperialism and Foreign Policy
+  - Latin America
+  - US Politics
+  - Venezuela
 tags:
-- Alejandro Velasco
-- Gabriel Hetland
-- Yoletty Bracho
+  - Alejandro Velasco
+  - Gabriel Hetland
+  - Yoletty Bracho
+spotifylink: >-
+  https://open.spotify.com/episode/3xpvJ9SaASlVBIMRy8FlZP?si=InRbvvJRS_OPpkrTZmUFlw
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000744043098'
+layout: post
 ---
 
 Featuring Alejandro Velasco, Gabriel Hetland, and Yoletty Bracho on the US attack on Venezuela and kidnapping of President Nicolás Maduro. An expansive conversation analyzing Trump’s imperialist project and assessing *Chavismo* and its oppositions from Chávez through Maduro.
 
-Support The Dig at [Patreon.com/TheDig](http://Patreon.com/TheDig)
+Support The Dig at [Patreon.com/TheDig](http://patreon.com/TheDig)
 
 Check out [equator.org](http://equator.org) for longform articles, public events, and reading groups
 
-Buy *Middle Class New Deal* at [UCPress.com](http://UCPress.com)
-
+Buy *Middle Class New Deal* at [UCPress.com](http://ucpress.com)
