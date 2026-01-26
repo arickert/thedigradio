@@ -11,7 +11,8 @@ categories:
   - Imperialism and Foreign Policy
   - Technology
   - US Politics
-tags: null
+tags:
+  - Nick Srnicek
 spotifylink: 'https://open.spotify.com/episode/7dMG9aSw8UheQ6R7U8u4zo?si=b5c69f25ad5f4c31'
 applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000746768856'
 layout: post
