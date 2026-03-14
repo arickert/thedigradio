@@ -8,8 +8,10 @@ layout: post
 
 *In light of this news,* the Dig *is publishing a newsletter from Mathias Fuelling, a recently graduated student-worker at Philadelphia’s Temple University. Mathias probes the larger political-economic coordinates for the expansion of higher education and the politically motivated attacks on it. We also encourage you to listen to our earlier episodes covering the struggles in higher education, including our discussions with [Ian Gavigan from Higher Education Labor United](https://thedigradio.com/podcast/class-struggle-for-the-university-w-ian-gavigan/), and an earlier [talk with two leaders of the Rutgers University Strike, Donna Murch and Todd Wolfson](https://thedigradio.com/podcast/higher-ed-industrial-unionism-w-donna-murch-and-todd-wolfson/). If you want to take a further dive, you can see a wider sampling of what we’ve recorded on higher education [here](https://arc.net/l/quote/sjswktac).*
 
+<br>
+<br>
 
-The Political Economy of University Labor 
+The Political Economy of University Labor\
 By Mathias Fuelling
 
 *The Dig* has recently done extensive work in analyzing the modern American university, and interviewing union and labor organizers engaged in the higher education sector, such as the interview with Ian Gavigan in September 2025. For *The Dig's *newsletter, I wanted to expand on many of the points and arguments that Gavigan raises, with a focus on a university that I have extensive experience with, having finished my PhD there in the fall of 2025 and also taking part there in a graduate student strike in the spring of 2023. Temple University is a large regional state affiliated university in Philadelphia. Neither prestigious, nor looked down upon, Temple has a long pedigree, established in 1884 as a night school for workers by a Baptist Minister. Going by the size of the student body, Temple is the largest university in the state of Pennsylvania. Given the importance of Pennsylvania to the overall political balance in the United States, as well as Philadelphia’s regional economic and political importance as a bulwark for the Democratic Party, Temple University is of particular importance for understanding the broader dynamics of the crisis of higher education in the country today. Temple is also important as an institutional site for the fallout of deindustrialization in Philadelphia.
