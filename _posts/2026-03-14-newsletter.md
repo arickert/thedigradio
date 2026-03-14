@@ -1,6 +1,6 @@
 ---
 title: 'Newsletter #104: The Political Economy of University Labor '
-permalink: newsletter101
+permalink: newsletter104
 layout: post
 ---
 
