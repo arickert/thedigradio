@@ -9,7 +9,6 @@ layout: post
 *In light of this news,* the Dig *is publishing a newsletter from Mathias Fuelling, a recently graduated student-worker at Philadelphia’s Temple University. Mathias probes the larger political-economic coordinates for the expansion of higher education and the politically motivated attacks on it. We also encourage you to listen to our earlier episodes covering the struggles in higher education, including our discussions with [Ian Gavigan from Higher Education Labor United](https://thedigradio.com/podcast/class-struggle-for-the-university-w-ian-gavigan/), and an earlier [talk with two leaders of the Rutgers University Strike, Donna Murch and Todd Wolfson](https://thedigradio.com/podcast/higher-ed-industrial-unionism-w-donna-murch-and-todd-wolfson/). If you want to take a further dive, you can see a wider sampling of what we’ve recorded on higher education [here](https://arc.net/l/quote/sjswktac).*
 
 <br>
-<br>
 
 The Political Economy of University Labor\
 By Mathias Fuelling
