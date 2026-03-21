@@ -9,7 +9,7 @@ categories:
   - Indonesia
   - Netherlands
 tags:
-  - 'Rianne Subijanto '
+  - Rianne Subijanto
   - Made Supriatma
 spotifylink: 'https://open.spotify.com/episode/54y62cgdTP1x9UdBEyoOed?si=884e8fb62bab4491'
 applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000756412408'
