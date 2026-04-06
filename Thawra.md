@@ -7,6 +7,8 @@ order: 2
 
 <h1 class="page-title">Thawra</h1>
 
+<img src="/assets/images/thawra_image.png" alt="Thawra podcast cover" style="width:300px; margin-bottom:20px;">
+
 <section class="recent-posts">
 <div class="section-title mt-2">
     <h6 style="color: #B2B2B2; font-weight:normal;">Our mini-series on Arab radicalisms in the 20th century. Listen to Thawra through our website or wherever you get your podcasts, and don't forget to rate and review! RSS feed: RSS feed: <a href="https://feeds.blubrry.com/feeds/3748324.xml">https://feeds.blubrry.com/feeds/3748324.xml</a> </h6>
