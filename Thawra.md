@@ -7,7 +7,7 @@ order: 2
 
 <h1 class="page-title">Thawra</h1>
 
-<img src="/assets/images/thawra_image.png" alt="Thawra podcast cover" style="width:300px; margin-bottom:20px;">
+<img src="/assets/thawra_image.png" alt="Thawra podcast cover">
 
 <section class="recent-posts">
 <div class="section-title mt-2">
