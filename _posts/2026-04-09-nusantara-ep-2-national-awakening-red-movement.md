@@ -11,6 +11,11 @@ categories:
 - Third Worldism
 - World History
 tags:
+- Rianne Subijanto
+- Made Supriatma
+- Farabi Fakih
+spotifylink: 'https://open.spotify.com/episode/2FkhxSOi66SfbUVyeC0s3E?si=dff6c690fb404ba4'
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000760485830'
 ---
 
 The second episode in a series on the history of Indonesia: a hinge in the world system where colonialism and revolution have decisively shaped the trajectory of global history. This installment traces the first four decades of the 20th century and the Awakening Period that shaped the foundation of modern Indonesian politics, including its three main currents: communism, nationalism, and Islam. Featuring Rianne Subijanto, Made Supriatma, and Farabi Fakih.
