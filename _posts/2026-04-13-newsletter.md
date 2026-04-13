@@ -3,6 +3,7 @@ title: 'Newsletter #105: Announcing ThawraProject.com'
 permalink: newsletter105
 layout: post
 ---
+<img src="/assets/thawra_image.png" alt="Thawra podcast cover">
 
 In February 2024, just 4 months into Israel’s genocide in Gaza, the Dig launched what became Thawra, our 19-part, 40+ hours long series on Arab radicalism in the 20th century, narrated by Abdel Razzaq Takriti. It was more ambitious than anything we had done before, and involved months of study and planning, taking up most of a year’s worth of programming on the Dig.
 
