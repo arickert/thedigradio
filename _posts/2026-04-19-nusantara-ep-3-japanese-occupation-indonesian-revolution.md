@@ -1,15 +1,21 @@
 ---
-layout: post
-title: "Nusantara Ep. 3 – Japanese Occupation, Indonesian Revolution"
+title: 'Nusantara Ep. 3 – Japanese Occupation, Indonesian Revolution'
 permalink: podcast/nusantara-ep-3-japanese-occupation-indonesian-revolution/
-audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_523-Nusantara.mp3
+audiolink: 'https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_523-Nusantara.mp3'
 categories:
-- Imperialism and Foreign Policy
-- Indonesia
-- nationalism
-- Third Worldism
-- World History
+  - Imperialism and Foreign Policy
+  - Indonesia
+  - nationalism
+  - Third Worldism
+  - World History
 tags:
+  - 'Rianne Subijanto, '
+  - Made Supriatma
+  - Farabi Fakih
+googlelink: ''
+spotifylink: 'https://open.spotify.com/episode/5n0uP3iZv3RvVuuxhZa0X5?si=67cc08eeda9a41c4'
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000762280710'
+layout: post
 ---
 
 The third episode in a series on the history of Indonesia: a hinge in the world system where colonialism and revolution have decisively shaped the trajectory of global history. This installment picks up with the 1942 Japanese conquest of the Dutch East Indies and takes us through the Revolution, which Indonesian nationalist leaders launched against the Dutch in 1945 after Japan’s surrender to the Allies. Featuring Rianne Subijanto, Made Supriatma, and Farabi Fakih.
@@ -20,9 +26,8 @@ RSVP to the May 20 Dig party in Seattle! [eventbrite.com/e/the-dig-x-house-our-n
 
 RSVP to the May 26 Dig party in LA! [eventbrite.com/e/a-party-in-la-for-the-dig-friends-tickets-1987008568116?](http://eventbrite.com/e/a-party-in-la-for-the-dig-friends-tickets-1987008568116?)
 
-Support The Dig at [Patreon.com/TheDig](http://Patreon.com/TheDig)
+Support The Dig at [Patreon.com/TheDig](http://patreon.com/TheDig)
 
-Find *The Anti-Defamation League and the Racial State* at [UCPress.edu](http://UCPress.edu)
+Find *The Anti-Defamation League and the Racial State* at [UCPress.edu](http://ucpress.edu)
 
-Buy *From the Free Speech Movement to the Factory Floor* at [Haymarketbooks.org](http://Haymarketbooks.org)
-
+Buy *From the Free Speech Movement to the Factory Floor* at [Haymarketbooks.org](http://haymarketbooks.org)
