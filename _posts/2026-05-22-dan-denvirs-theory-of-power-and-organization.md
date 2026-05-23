@@ -1,12 +1,14 @@
 ---
-layout: post
 title: "Dan Denvir’s Theory of Power and Organization"
 permalink: podcast/dan-denvirs-theory-of-power-and-organization/
-audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_528-Fighting_Facism_Pod.mp3
+audiolink: 'https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_528-Fighting_Facism_Pod.mp3'
 categories:
 - Organizing
 - Socialism
-tags:
+tags: featuring Host Dan Denvir as a guest on the podcast Fighting Fascism
+layout: post
+spotifylink: https://open.spotify.com/episode/1N2yRkZ2CPKAaLzLky6DN7?si=2ae31399e8d84990
+applelink: https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000769139229
 ---
 
 This one is different: an episode cross-posted from the new podcast *Fighting Fascism*, where Dig host Daniel Denvir gets behind the guest mic to discuss his political work beyond the pod. Speaking at length for the first time about his own organizing project in Rhode Island, he elaborates his theory of class and political power building.
