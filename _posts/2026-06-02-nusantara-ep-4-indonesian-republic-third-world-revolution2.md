@@ -8,6 +8,9 @@ categories:
 - nationalism
 - Third Worldism
 tags:
+- Rianne Subijanto
+- Made Supriatma
+- Farabi Fakih
 spotifylink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000770829865'
 applelink: 'https://open.spotify.com/episode/7HeBQsJaPmyEyZo7PJD4n9?si=b19f256866af47cc'
 layout: post
