@@ -9,6 +9,9 @@ categories:
 - nationalism
 - Third Worldism
 tags:
+- Rianne Subijanto
+- Made Supriatma
+- Farabi Fakih
 ---
 
 The fourth episode in a series on the history of Indonesia: a hinge in the world system where colonialism and revolution have decisively shaped the trajectory of global history. This installment picks up with the Indonesian Revolution securing sovereignty from the Dutch in 1949. The Communist of Party of Indonesia, or PKI, revived after its repression to once again become a mass force in politics and society. All while Sukarno put Indonesia at the vanguard of global Third World revolution, hosting the legendary Bandung Afro–Asian Conference. Featuring Rianne Subijanto, Made Supriatma, and Farabi Fakih.
