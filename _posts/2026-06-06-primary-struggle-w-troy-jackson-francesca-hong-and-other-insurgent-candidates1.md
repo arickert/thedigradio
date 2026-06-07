@@ -10,7 +10,7 @@ tags:
 - Maine candidate for governor Troy Jackson
 - Wisconsin candidate for governor Francesca Hong
 - New York State Senate candidate Aber Kawas
-- Arizona City Council candidate Bobby Nichols. 
+- and Arizona City Council candidate Bobby Nichols
 spotifylink: 'https://open.spotify.com/episode/1sUACOXjgJtshH0WfbFyAr?si=35aed5c2897a4b3c'
 applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000771487443'
 layout: post
