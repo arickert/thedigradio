@@ -21,12 +21,6 @@ order: 6
 <div class="row listrecent">
 <ul style="color: #515151; padding-left:25px">
 {% assign series = "Thawra,Iran,Antibody,The Dig Presents," | split: ',' %}
-<h2 style="color:#78C0A0">Central America</h2>
-<ul style="color:#515151; padding-left:25px" >
-<li><a href="https://thedigradio.com/podcast/crypto-dystopia-or-popular-democracy-w-hilary-goodfriend-jorge-cuellar/" style="color: #B2B2B2">Crypto Dystopia or Popular Democracy? w/ Hilary Goodfriend & Jorge Cuéllar</a></li>
-<li><a href="https://thedigradio.com/podcast/neoliberalism-violence-migration-w-hilary-goodfriend-jorge-cuellar//" style="color: #B2B2B2">Neoliberalism, Violence, and Migration w/ Hilary Goodfriend & Jorge Cuéllar</a></li>
-<li><a href="https://thedigradio.com/podcast/oligarchy-empire-revolution-w-hilary-goodfriend-jorge-cuellar/" style="color: #B2B2B2">Oligarchy, Empire, Revolution w/ Hilary Goodfriend & Jorge Cuéllar</a></li>
-</ul>
 <h2 style="color:#78C0A0">Nusantara</h2>
 <ul style="color:#515151; padding-left:25px">
 <li><a href="https://thedigradio.com/podcast/nusantara-ep-1-the-long-arc-of-dutch-colonialism/" style="color: #B2B2B2">The Long Arc of Dutch Colonialism</a></li>
@@ -34,6 +28,12 @@ order: 6
 <li><a href="https://thedigradio.com/podcast/nusantara-ep-3-japanese-occupation-indonesian-revolution/" style="color: #B2B2B2">Japanese Occupation, Indonesian Revolution</a></li>
 <li><a href="https://thedigradio.com/podcast/nusantara-ep-4-indonesian-republic-third-world-revolution/" style="color: #B2B2B2">Indonesian Republic, Third World Revolution</a></li>
 <li><a href="https://thedigradio.com/podcast/nusantara-ep-5-armed-conflicts-guided-democracy/" style="color: #B2B2B2">Armed Conflicts, Guided Democracy</a></li>
+</ul>
+<h2 style="color:#78C0A0">Central America</h2>
+<ul style="color:#515151; padding-left:25px" >
+<li><a href="https://thedigradio.com/podcast/crypto-dystopia-or-popular-democracy-w-hilary-goodfriend-jorge-cuellar/" style="color: #B2B2B2">Crypto Dystopia or Popular Democracy? w/ Hilary Goodfriend & Jorge Cuéllar</a></li>
+<li><a href="https://thedigradio.com/podcast/neoliberalism-violence-migration-w-hilary-goodfriend-jorge-cuellar//" style="color: #B2B2B2">Neoliberalism, Violence, and Migration w/ Hilary Goodfriend & Jorge Cuéllar</a></li>
+<li><a href="https://thedigradio.com/podcast/oligarchy-empire-revolution-w-hilary-goodfriend-jorge-cuellar/" style="color: #B2B2B2">Oligarchy, Empire, Revolution w/ Hilary Goodfriend & Jorge Cuéllar</a></li>
 </ul>
 {% for newpage in site.pages %}
 {% if series contains newpage.title %}
