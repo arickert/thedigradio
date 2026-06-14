@@ -20,15 +20,10 @@ order: 6
 <section class="recent-posts">
 <div class="row listrecent">
 <ul style="color: #515151; padding-left:25px">
-{% assign series = "Nusantara,Thawra,Iran,Antibody,The Dig Presents," | split: ',' %}
-<h2 style="color:#78C0A0">Central America</h2>
-<ul style="color:#515151; padding-left:25px" >
-<li><a href="https://thedigradio.com/podcast/crypto-dystopia-or-popular-democracy-w-hilary-goodfriend-jorge-cuellar/" style="color: #B2B2B2">Crypto Dystopia or Popular Democracy? w/ Hilary Goodfriend & Jorge Cuéllar</a></li>
-<li><a href="https://thedigradio.com/podcast/neoliberalism-violence-migration-w-hilary-goodfriend-jorge-cuellar//" style="color: #B2B2B2">Neoliberalism, Violence, and Migration w/ Hilary Goodfriend & Jorge Cuéllar</a></li>
-<li><a href="https://thedigradio.com/podcast/oligarchy-empire-revolution-w-hilary-goodfriend-jorge-cuellar/" style="color: #B2B2B2">Oligarchy, Empire, Revolution w/ Hilary Goodfriend & Jorge Cuéllar</a></li>
-</ul>
-{% for newpage in site.pages %}
-{% if series contains newpage.title %}
+{% assign series = "Nusantara,Central America,Thawra,Iran,The Dig Presents,Antibody" | split: ',' %}
+{% for title in series %}
+  {% assign newpage = site.pages | where: "title", title | first %}
+  {% if newpage %}
     <h2 style="color:#78C0A0" >
       <a href="{{newpage.url}}">{{ newpage.title }}</a>
     </h2>
