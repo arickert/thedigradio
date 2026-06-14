@@ -13,7 +13,7 @@ title: Central America
 </div>
 <div class="row listrecent">
 {% for post in site.posts %}
-{% if post.title contains page.title %}
+{% if post.title contains "Hilary Goodfriend & Jorge Cuéllar" %}
     {% if post.title contains "Newsletter" %}
     {% else %}
     {% include postbox.md %}
