@@ -21,7 +21,9 @@ order: 6
 <div class="row listrecent">
 <ul style="color: #515151; padding-left:25px">
 {% assign series = "Thawra,Iran,Antibody,The Dig Presents," | split: ',' %}
-<h2 style="color:#78C0A0">Nusantara</h2>
+<h2 style="color:#78C0A0">
+  <a href="/nusantara/">Nusantara</a>
+</h2>
 <ul style="color:#515151; padding-left:25px">
 <li><a href="https://thedigradio.com/podcast/nusantara-ep-1-the-long-arc-of-dutch-colonialism/" style="color: #B2B2B2">The Long Arc of Dutch Colonialism</a></li>
 <li><a href="https://thedigradio.com/podcast/nusantara-ep-2-national-awakening-red-movement/" style="color: #B2B2B2">National Awakening, Red Movement</a></li>
