@@ -1,6 +1,7 @@
 ---
 title: 'Transcript: Primary Struggle w/ Aparna Raj'
 permalink: transcripts/aparna-raj
+layout: post
 ---
 
 Read the transcript [here](https://jacobin.com/2026/06/aparna-raj-washington-dc-city-council "here")
