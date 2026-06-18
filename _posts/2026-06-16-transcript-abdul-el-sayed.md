@@ -1,6 +1,6 @@
 ---
 title: 'Transcript: Primary Struggle w/ Abdul El-Sayed'
-permalink: newsletter107
+permalink: transcripts/abdul-el-sayed
 layout: post
 ---
 
