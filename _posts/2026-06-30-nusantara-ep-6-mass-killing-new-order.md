@@ -10,6 +10,11 @@ categories:
 - Right-Wing Politics
 - Third Worldism
 tags:
+- Rianne Subijanto
+- Made Supriatma
+- Farabi Fakih
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000774937272'
+spotifylink: 'https://open.spotify.com/episode/6X3j2bsvoAl6C6WuI9AOT9?si=11bbf8bc05434c5c'
 ---
 
 The sixth episode in a series on the history of Indonesia: a hinge in the world system where colonialism and revolution have decisively shaped the trajectory of global history. This installment details Suharto’s right-wing military coup and the horrific political crime that accompanied it: the US-backed mass murder of Indonesian communists. The military’s mass slaughter inaugurated Suharto’s oligarchic, authoritarian, and corrupt New Order regime—a regime that would endure for three decades and continues to shape Indonesia to this day. Featuring Rianne Subijanto, Made Supriatma, and Farabi Fakih.
