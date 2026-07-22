@@ -7,6 +7,12 @@ categories:
 - Environment
 - Indonesia
 tags:
+- Rianne Subijanto
+- Made Supriatma
+- Iqra Anugrah
+- Farabi Fakih
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000777881024'
+spotifylink: 'https://open.spotify.com/episode/0oWI6KfJtMfbf2XHzHc3db?si=107ab3cdfcda4912'
 ---
 
 The eighth and final episode in a series on the history of Indonesia: a hinge in the world system where colonialism and revolution have decisively shaped the trajectory of global history. This last installment picks up with the 2014 election of Joko Widodo, or Jokowi, to the presidency. That promise was soon betrayed, laying the groundwork for the rise of Prabowo Subianto, a scion of Suharto who represents nearly everything repugnant about the New Order regime. And yet Prabowo’s rule remains beset by contradiction and controversy—and the Indonesia’s political future remains uncertain. Featuring Rianne Subijanto, Made Supriatma, Iqra Anugrah, and Farabi Fakih.
