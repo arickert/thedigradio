@@ -12,6 +12,8 @@ categories:
 - US History
 tags:
 - Molly Crabapple
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000780125801'
+spotifylink: 'https://open.spotify.com/episode/1k4mugdpEBFLBMgTpY1qqO?si=376b967ce8304e65'
 ---
 
 Featuring Molly Crabapple on her book *Here Where We Live Is Our Country: The Story of the Jewish Bund*. The first episode of a two-part interview.
