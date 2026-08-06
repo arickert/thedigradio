@@ -18,9 +18,9 @@ spotifylink: 'https://open.spotify.com/episode/1k4mugdpEBFLBMgTpY1qqO?si=376b967
 
 Featuring Molly Crabapple on her book *Here Where We Live Is Our Country: The Story of the Jewish Bund*. The first episode of a two-part interview.
 
-Support The Dig at [Patreon.com/TheDig](http://Patreon.com/TheDig)
+Support The Dig at [Patreon.com/TheDig](http://Patreon.com/TheDig).
 
-Buy *Unions of Our Own* and *Femmephilia* at [Haymarketbooks.org](http://Haymarketbooks.org) 
+Buy *Unions of Our Own* and *Femmephilia* at [Haymarketbooks.org](http://Haymarketbooks.org). 
 
 
 
