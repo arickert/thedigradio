@@ -1,7 +1,9 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import markdownify
+import os
 import re
+import sys
 
 def get_names(names):
     # split by comma
@@ -56,6 +58,11 @@ title=title_soup.contents[0]
 time_soup=newsoup.find_all("time")[0]
 time=time_soup["datetime"].split("T")[0]
 date="./_posts/"+time+"-"+permalink[slice(8,-1)]+".md"
+
+if os.path.exists(date):
+    print("Latest episode already has a post: "+date)
+    sys.exit(0)
+
 # iframe
 
 audiolink= newsoup.find('meta', attrs={'itemprop': 'contentUrl'})['content']
@@ -104,5 +111,7 @@ episode +="---\n\n"
 for p in body:
     episode+=p+"\n\n"
 categories=remove_duplicates(categories, tags)
-with open(date, 'x') as f:
+with open(date, 'w') as f:
     f.write(episode)
+
+print("Created post: "+date)

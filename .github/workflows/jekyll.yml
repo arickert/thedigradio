@@ -59,6 +59,10 @@ jobs:
           TINA_SEARCH: ${{ secrets.TINA_SEARCH }}
           JEKYLL_ENV: production
 
+      # Lets update-articles.yml tell whether the live site is behind master.
+      - name: Record build SHA
+        run: git rev-parse HEAD > _site/build-sha.txt
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
@@ -72,3 +76,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          # Pages can sit queued for >10min. Aborting on the default timeout
+          # strands a live deployment that blocks every later run.
+          timeout: 1800000
