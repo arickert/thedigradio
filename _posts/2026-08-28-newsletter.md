@@ -10,7 +10,7 @@ For listeners interested in taking this inquiry further, we asked Crabapple to a
 
 1. [We, Traitors: Bundist Writing on Zionism, Palestine, and Socialism](https://www.haymarketbooks.org/books/2987-we-traitors), edited by Eyshe Beirich and Nathan Tankus and translated by Eyshe Beirich. Introduced by Kaleem Hawa. 
 
-From Crababble: “I am awed by the work of archival reclamation \[Tankus and Beirich] did. I can’t wait till you all get to read this book.”
+From Crabapple: “I am awed by the work of archival reclamation \[Tankus and Beirich] did. I can’t wait till you all get to read this book.”
 
 From the publisher:
 
@@ -24,7 +24,7 @@ At a time when people are more hungry than ever to learn about the long history 
 
 1. [Twenty Years with the Jewish Labor Bund: A Memoir of Interwar Poland by Bernard Goldstein](https://www.press.purdue.edu/9781557537492/), edited and translated by Marvin S. Zuckerman 
 
-From Crababble: “From the very start, the Bund needs to physically defend itself, and to this they turn to a scar-faced bruiser named Bernard Goldstein, my major crush of the book, by the way, which should be obvious to everyone.” 
+From Crabapple: “From the very start, the Bund needs to physically defend itself, and to this they turn to a scar-faced bruiser named Bernard Goldstein, my major crush of the book, by the way, which should be obvious to everyone.” 
 
 From the publisher: “Bernard Goldstein’s memoir describes a hard world of taverns, toughs, thieves, and prostitutes; of slaughterhouse workers, handcart porters, and wagon drivers; and of fist-and gunfights with everyone from anti-Semites and Communists to hostile police, which is to say that it depicts a totally different view of life in prewar Poland than the one usually portrayed. As such, the book offers a corrective view in the form of social history, one that commands attention and demands respect for the vitality and activism of the generation of Polish Jews so brutally annihilated by the barbarism of the Nazis. In Warsaw, a city with over 300,000 Jews (one third of the population), Bernstein was the Jewish Labor Bund’s “enforcer,” organizer, and head of their militia—the one who carried out daily, on-the-street organization of unions; the fighting off of Communists, Polish anti-Semitic hooligans, and antagonistic police; marshaling and protecting demonstrations; and even settling family disputes, some of them arising from the new secular, socialist culture being fostered by the Bund. Goldstein’s is a portrait of tough Jews willing to do battle—worldly, modern individuals dedicated to their folk culture and the survival of their people. It delivers an unparalleled street-level view of vibrant Jewish life in Poland between the wars: of Jewish masses entering modern life, of Jewish workers fighting for their rights, of optimism, of greater assertiveness and self-confidence, of armed combat, and even of scenes depicting the seamy, semi-criminal elements. It provides a representation of life in Poland before the great catastrophe of World War II, a life of flowering literary activity, secular political journalism, successful political struggle, immersion in modern politics, fights for worker rights and benefits, a strong social-democratic labor movement, creation of a secular school system in Yiddish, and a youth movement that later provided the heroic fighters for the courageous Warsaw Ghetto Uprising.”
 
