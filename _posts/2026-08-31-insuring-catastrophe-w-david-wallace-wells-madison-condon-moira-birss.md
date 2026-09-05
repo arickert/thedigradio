@@ -11,7 +11,7 @@ tags:
   - Madison Condon
   - Moira Birss
 spotifylink: 'https://open.spotify.com/episode/7igcWIV3pUk21lS3zPOIbx?si=360d55347afb41c1'
-applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000783313843'
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000787043057'
 layout: post
 ---
 
