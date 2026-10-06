@@ -1,14 +1,16 @@
 ---
-layout: post
-title: "Confronting Labor’s Crisis w/ Chris Brooks"
+title: Confronting Labor’s Crisis w/ Chris Brooks
 permalink: podcast/confronting-labors-crisis-w-chris-brooks/
-audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_541-Brooks.mp3
+audiolink: 'https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_541-Brooks.mp3'
 categories:
-- Labor Movement
-- Organizing
-- Palestine
+  - Labor Movement
+  - Organizing
+  - Palestine
 tags:
-- Chris Brooks
+  - Chris Brooks
+spotifylink: 'https://open.spotify.com/episode/2wpWIC6WFIMi480qu5VxP6?si=35e8bbbc0d9e4767'
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000793326407'
+layout: post
 ---
 
 Featuring Chris Brooks on labor’s crisis and the strategic, militant class struggle that can turn it all around. Brooks, former chief of staff to UAW President Shawn Fain, urges organizers to be flexible in their methodology, explains the federal monitor’s anti-left lawfare against the UAW over Gaza—and why labor must build for 2028.
@@ -26,4 +28,3 @@ Read more:
 “The War on the UAW” by Ella Fanger in *The Nation*  [thenation.com/article/economy/uaw-elections-monitor-gaza](http://thenation.com/article/economy/uaw-elections-monitor-gaza)
 
 Find *Bad Energy* and *Songs My Mother Taught Me* at [Haymarketbooks.org](http://haymarketbooks.org)
-
