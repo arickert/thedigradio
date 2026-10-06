@@ -21,8 +21,6 @@ Read more:
 
 “Is Labor at the Point of No Return?” by Chris Brooks in *New Labor Forum* [newlaborforum.cuny.edu/2026/01/15/is-labor-at-the-point-of-no-return](http://newlaborforum.cuny.edu/2026/01/15/is-labor-at-the-point-of-no-return)
 
-“Is Labor at the Point of No Return?” by Chris Brooks in *New Labor Forum* [newlaborforum.cuny.edu/2026/01/15/is-labor-at-the-point-of-no-return](http://newlaborforum.cuny.edu/2026/01/15/is-labor-at-the-point-of-no-return)
-
 “Shawn Fain’s UAW Is Facing Strong Headwinds” by Nelson Lichtenstein in *New Labor Forum* [newlaborforum.cuny.edu/2026/05/15/shawn-fains-uaw-is-facing-strong-headwinds](http://newlaborforum.cuny.edu/2026/05/15/shawn-fains-uaw-is-facing-strong-headwinds)
 
 “The War on the UAW” by Ella Fanger in *The Nation*  [thenation.com/article/economy/uaw-elections-monitor-gaza](http://thenation.com/article/economy/uaw-elections-monitor-gaza)
