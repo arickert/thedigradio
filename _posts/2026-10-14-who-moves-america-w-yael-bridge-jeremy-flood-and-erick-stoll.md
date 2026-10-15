@@ -1,15 +1,17 @@
 ---
-layout: post
-title: "Who Moves America w/ Yael Bridge, Jeremy Flood, and Erick Stoll"
+title: 'Who Moves America w/ Yael Bridge, Jeremy Flood, and Erick Stoll'
 permalink: podcast/who-moves-america-w-yael-bridge-jeremy-flood-and-erick-stoll/
-audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_542-WhoMovesAmerica.mp3
+audiolink: 'https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_542-WhoMovesAmerica.mp3'
 categories:
-- Documentary Film
-- Labor Movement
+  - Documentary Film
+  - Labor Movement
 tags:
-- Yael Bridge
-- Jeremy Flood
-- Erick Stoll
+  - Yael Bridge
+  - Jeremy Flood
+  - Erick Stoll
+spotifylink: 'https://open.spotify.com/episode/2iB9UO3o99cM7e6kbBbpxC?si=5c944ad00f66473a'
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000796358008'
+layout: post
 ---
 
 Featuring Yael Bridge, Jeremy Flood, and Erick Stoll on *Who Moves America*, a powerful documentary about the massive 2023 Teamsters strike against UPS that ultimately did not happen. 
@@ -20,5 +22,4 @@ Support The Dig at [Patreon.com/TheDig](http://patreon.com/TheDig)
 
 Check out *The Nation*‘s Books & the Arts section at [thenation.com/books-and-the-arts](http://thenation.com/books-and-the-arts)
 
-Find *How to Close a Camp* at [Haymarketbooks.org](http://Haymarketbooks.org)
-
+Find *How to Close a Camp* at [Haymarketbooks.org](http://haymarketbooks.org)
