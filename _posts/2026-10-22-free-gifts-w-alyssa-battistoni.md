@@ -1,14 +1,16 @@
 ---
-layout: post
-title: "Free Gifts w/ Alyssa Battistoni"
+title: Free Gifts w/ Alyssa Battistoni
 permalink: podcast/free-gifts-w-alyssa-battistoni/
-audiolink: https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_543-Battistoni.mp3
+audiolink: 'https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_543-Battistoni.mp3'
 categories:
-- Environment
-- Marxism
-- Political Theory
+  - Environment
+  - Marxism
+  - Political Theory
 tags:
-- Alyssa Battistoni
+  - Alyssa Battistoni
+spotifylink: 'https://open.spotify.com/episode/1w8gnwZ3ZR4cxtnpHzAWp6?si=9f9257d23cdf4c47'
+applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000797647854'
+layout: post
 ---
 
 Featuring Alyssa Battistoni on *Free Gifts: Capitalism and the Politics of Nature*. Fossil-fueled capitalism has pushed our planet into a profound set of crises. How Marxists should make sense of this all, however, is unclear. Battistoni offers a Marxist theory of nature that’s simultaneously a brilliant reworking of Marxist theory more generally. The first episode in a two-part interview.
@@ -16,4 +18,3 @@ Featuring Alyssa Battistoni on *Free Gifts: Capitalism and the Politics of Natur
 Support The Dig at [Patreon.com/TheDig](http://patreon.com/TheDig)
 
 Find recent releases *The Anti-Defamation League – A Critical Reader* and *Decolonizing Money* at [Plutobooks.com](http://plutobooks.com)
-
