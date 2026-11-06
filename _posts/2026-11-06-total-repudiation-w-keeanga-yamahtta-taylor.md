@@ -1,5 +1,5 @@
 ---
-title: 'Total Repudiation w/ Keeanga Yamahtta Talor'
+title: 'Total Repudiation w/ Keeanga Yamahtta Taylor'
 permalink: podcast/total-repudiation-w-keanga-yamahtta-talor/
 audiolink: 'https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_545-Taylor.mp3'
 categories:
