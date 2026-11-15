@@ -1,6 +1,7 @@
+---
 title: 'End Times Fascism w/ Astra Taylor & Naomi Klein'
 permalink: podcast/end-times-fascism-w-astra-taylor-and-naomi-klein/
-audiolink: 'https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_545-Taylor.mp3'
+audiolink: 'https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_546-EndTimes.mp3'
 categories:
   - Fascism
   - US Politics
