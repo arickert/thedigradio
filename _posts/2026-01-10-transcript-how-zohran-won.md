@@ -6,4 +6,4 @@ layout: post
 
 Read the transcript here: [https://jacobin.com/2026/01/zohran-mamdani-communications-strategy](https://jacobin.com/2026/01/zohran-mamdani-communications-strategy)
 
-Listen to the interview here: [https://thedigradio.com/podcast/zohrans-message-w-andrew-epstein/](https://thedigradio.com/podcast/zohrans-message-w-andrew-epstein/)
+Listen to the interview here: [https://thedigradio.com/podcast/zohrans-message-w-andrew-epstein/](https://thedigradio.com/podcast/zohrans-message-w-andrew-bard-epstein/)
