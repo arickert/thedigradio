@@ -1,12 +1,12 @@
 ---
-title: 'A Right to Housing w/ Sam Stein'
-permalink: podcast/a-right-to-housing-w-sam-stein/
+title: 'A Right to Housing? w/ Samuel Stein'
+permalink: podcast/a-right-to-housing-w-samuel-stein/
 audiolink: 'https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_547-Stein.mp3'
 categories:
   - Housing
   - Socialism
 tags:
-  - Sam Stein
+  - Samuel Stein
 spotifylink: 'https://open.spotify.com/episode/2H9grSlynTUpu5muCd6lY8?si=8385bad1e6dc42be'
 applelink: 'https://podcasts.apple.com/us/podcast/the-dig/id1043245989?i=1000803709592'
 layout: post
