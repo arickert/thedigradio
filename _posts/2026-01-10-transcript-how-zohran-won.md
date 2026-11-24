@@ -1,5 +1,5 @@
 ---
-title: 'Transcript: Zohran’s Message w/ Andrew Epstein'
+title: 'Transcript: Zohran’s Message w/ Andrew Bard Epstein'
 permalink: transcripts/how-zohran-won/
 layout: post
 ---
