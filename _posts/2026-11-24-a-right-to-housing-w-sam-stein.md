@@ -4,6 +4,7 @@ permalink: podcast/a-right-to-housing-w-sam-stein/
 audiolink: 'https://media.blubrry.com/thedig/content.blubrry.com/thedig/The_Dig-EP_547-Stein.mp3'
 categories:
   - Housing
+  - Socialism
 tags:
   - Sam Stein
 spotifylink: 'https://open.spotify.com/episode/2H9grSlynTUpu5muCd6lY8?si=8385bad1e6dc42be'
